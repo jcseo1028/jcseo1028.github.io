@@ -18,3 +18,5 @@ Command with Ruby 실행 후, Blog Root Folder로 이동 후,
 ```
 
 서버가 실행되었으면, http://localhost:4000 으로 블로그 접속 가능.
+
+{% include adsense.html %}
