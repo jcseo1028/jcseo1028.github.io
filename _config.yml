@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Á¦¸ñÀ» ¹»·Î ÇÏÁö?"
+title                    : "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½?"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jincheol, SEO"
 description              : "An amazing website."
 url                      : "https://jcseo1028.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "jcseo1028/jcseo1028.github.io"
+repository               : # "jcseo1028/jcseo1028.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
