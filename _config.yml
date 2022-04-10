@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daily Build"
+title                    : "아는 것의 힘이 아니라, 행동하는 것의 힘이다."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jincheol, SEO"
@@ -25,7 +25,7 @@ url                      : "https://jcseo1028.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # "jcseo1028/jcseo1028.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : # "/assets/images/Profile_Img_black.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Jincheol, SEO"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Profile_Img_black.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hello"
   location         : "Asan, Korea"
   email            :
