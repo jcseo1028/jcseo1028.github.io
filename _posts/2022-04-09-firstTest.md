@@ -5,9 +5,6 @@ title : First Post
 
 # 첫 번째 포스트 테스트
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7159086721305762"
-     crossorigin="anonymous"></script>
-
 ### GitHub Blog 를 Local 에서 확인하려면..
 
 1. Ruby 설치

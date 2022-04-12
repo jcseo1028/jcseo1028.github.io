@@ -13,8 +13,7 @@ Git 을 사용하기 전 주로 사용했던 Beyond Compare 로 변경해 보기
 
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7159086721305762"
-     crossorigin="anonymous"></script>
+
 
 ### Diff Tool 변경을 위한 설정 파일의 위치.
 
@@ -48,3 +47,9 @@ C:\Users\계정명\.gitconfig
     trustExitCode = true
 
 ```
+---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7159086721305762"
+     crossorigin="anonymous"></script>
+
+이렇게 넣으면 애드센스 작동되나?
