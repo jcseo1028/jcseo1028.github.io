@@ -1,5 +1,6 @@
 ---
-layout: posts
+layout: default
+comments: true
 title : "포켓몬 빵이 뭐길래..."
 ---
 

@@ -1,5 +1,6 @@
 ---
-layout: posts
+layout: default
+comments: true
 title : "Visual Studio 의 기본 Diff Tool 변경하기"
 ---
 
