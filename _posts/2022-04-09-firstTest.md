@@ -1,6 +1,6 @@
 ---
-layout: default
-title : First Post
+layout: posts
+title: "First Post"
 comments: true
 ---
 
