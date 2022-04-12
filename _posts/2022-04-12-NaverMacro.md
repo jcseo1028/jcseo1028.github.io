@@ -1,7 +1,7 @@
 ---
 layout: default
-comments: true
 title : "포켓몬 빵이 뭐길래..."
+comments: true
 ---
 
 ### 포켓몬 빵 구매를 위한 Naver 쇼핑 사이트 매x로 연습
