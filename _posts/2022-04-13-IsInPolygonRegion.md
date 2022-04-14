@@ -1,7 +1,7 @@
 ---
 layout: posts
 comments: true
-title : "Is in Polygon Region?"
+title : "Is a Point in Polygon Region?"
 categories: Development
 tags: [C#]
 ---
