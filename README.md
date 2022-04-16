@@ -10,6 +10,4 @@ Minimal Mistakes is a flexible two-column Jekyll theme, perfect for building per
 
 :sparkles: See what's new in the [CHANGELOG](CHANGELOG.md).
 
-# jcseo1028.github.io
-
-일단 이렇게 Blog 띄우기 성공
+# [View my Blog](https://jcseo1028.github.io)
