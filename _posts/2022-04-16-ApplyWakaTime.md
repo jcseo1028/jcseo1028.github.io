@@ -63,4 +63,4 @@ Office Tool 까지 추가 설정 완료.
 
 [지원하는 각종 플러그인들](https://wakatime.com/plugins)
 
-
+---
