@@ -4,6 +4,7 @@ comments: true
 title : "Visual Studio 의 기본 Diff Tool 변경하기"
 categories: Development
 tags: [Git]
+published: true
 ---
 
 ### Visual Studio 내 기본 Diff Tool 의 문제점. (Git 전용 설정)

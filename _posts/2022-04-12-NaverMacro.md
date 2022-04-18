@@ -4,6 +4,7 @@ comments: true
 title : "포켓몬 빵이 뭐길래..."
 categories: Life
 tags: python
+published: true
 ---
 
 ### 포켓몬 빵 구매를 위한 Naver 쇼핑 사이트 자동구매 매x로 연습

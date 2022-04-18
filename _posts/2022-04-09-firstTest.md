@@ -4,6 +4,7 @@ comments: true
 title: "First Post"
 categories: Life
 tags: [python, jekyll]
+published: true
 ---
 
 # 첫 번째 포스트 테스트

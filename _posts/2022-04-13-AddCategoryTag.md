@@ -4,6 +4,7 @@ comments: true
 title : "Jekyll Blog 에 Category 및 Tag 추가하는 방법"
 categories: Life
 tags: [jekyll, python]
+published: true
 ---
 
 ### _config.yml 설정

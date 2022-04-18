@@ -4,6 +4,7 @@ comments: true
 title : "Github Wakatime 적용하기"
 categories: Development
 tags: [Git, Wakatime, Visual Studio]
+published: true
 ---
 
 ### Github Profile Page 에 Waka time 보이게 하기.
@@ -38,6 +39,8 @@ VS 2017은 VS Code 에서 API 코드를 등록해서 따로 등록하라고 하�
 
 WakaTime 홈페이지에서는 계정당 하나의 API Key 를 관리하는 듯하다.
 
+VS 2013, 2015, 2019도 별도로 확장을 검색해서 추가해줘야 한다. (여러 버전이 설치되어 있으니, 좀 귀찮긴 함.)
+
 ---
 이렇게 두 개의 Tool 을 설정하고 Wakatime Dashboard 에 아래와 같이 표시가 된다.
 
@@ -53,8 +56,10 @@ username 수정 후 아래와 같이 정상 적용 확인.
 
 
 ---
+
 개발툴 외에도 각종 도구들의 확장을 제공하니, 필요한 도구의 확장을 설치하여 작업성 측정이 가능할 것으로 보인다.
 
+Office Tool 까지 추가 설정 완료.
 
 [지원하는 각종 플러그인들](https://wakatime.com/plugins)
 

@@ -4,6 +4,7 @@ comments: true
 title : "Jekyll Blog 에 Google Analytics 설정하는 방법"
 categories: Life
 tags: [jekyll, python, Google Analytics]
+published: true
 ---
 
 ### Google Analytics 에서 Tag-ID 받기
