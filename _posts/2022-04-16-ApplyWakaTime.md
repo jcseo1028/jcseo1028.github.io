@@ -41,7 +41,7 @@ WakaTime 홈페이지에서는 계정당 하나의 API Key 를 관리하는 듯�
 ---
 이렇게 두 개의 Tool 을 설정하고 Wakatime Dashboard 에 아래와 같이 표시가 된다.
 
-![WakaTime Dashboard](/assets/images/waka_dashboard.JPG)
+![WakaTime Dashboard](/assets/images/2022-04-16/waka_dashboard.JPG)
 
 마지막으로 GitHub Profile 에 적용이 안되어서 확인해보니...
 
