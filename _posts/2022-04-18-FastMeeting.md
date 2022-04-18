@@ -20,8 +20,8 @@ published: true
 
 ### 참고해야할 팁
 
-![미팅 잘하는 상사](/assets/images/2022-04-18/meeting_image1.JPG)
+![미팅 잘하는 상사](/assets/images/2022-04-18/meeting_image1.jpg)
 
-![회의 빛내는 사원](/assets/images/2022-04-18/meeting_image2.JPG)
+![회의 빛내는 사원](/assets/images/2022-04-18/meeting_image2.jpg)
 
 ---
