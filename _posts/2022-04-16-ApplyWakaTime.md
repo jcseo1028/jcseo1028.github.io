@@ -46,11 +46,13 @@ VS 2013, 2015, 2019도 별도로 확장을 검색해서 추가해줘야 한다. 
 
 ![WakaTime Dashboard](/assets/images/2022-04-16/waka_dashboard.JPG)
 
+
 마지막으로 GitHub Profile 에 적용이 안되어서 확인해보니...
 
 Username 이 지정되어 있지 않았다. 
 
 username 수정 후 아래와 같이 정상 적용 확인.
+
 
 [나의 Github Profile](https://github.com/jcseo1028) 
 
