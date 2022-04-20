@@ -7,11 +7,11 @@ tags: [jekyll, python]
 published: true
 ---
 
-가끔 이미지 링크가 잘 안되는 경우가 있다. (로컬 실행시에는 잘 안보임.)
+가끔 이미지 링크가 잘 안되는 경우가 있다. (로컬 실행시에는 잘 보임.)
 
-일단.. 아래 링크 참고해서 문제점 있는 지 확인.
+일단.. 아래 링크 참고해서 설정에 문제가 있는 지 확인했다.
 
-https://blog.jaeyoon.io/2017/12/jekyll-image.html
+[참고 사이트](https://blog.jaeyoon.io/2017/12/jekyll-image.html)
 
 ---
 
