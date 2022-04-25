@@ -7,7 +7,7 @@ tags: [Git, Wakatime, Visual Studio]
 published: true
 ---
 
-### Github Profile Page 에 Waka time 보이게 하기.
+### Github Profile Page 에 Wakatime Stats 표시하기.
 
 [WakaTime 공식 홈](https://wakatime.com/)
 
@@ -61,7 +61,7 @@ username 수정 후 아래와 같이 정상 적용 확인.
 
 개발툴 외에도 각종 도구들의 확장을 제공하니, 필요한 도구의 확장을 설치하여 작업성 측정이 가능할 것으로 보인다.
 
-Office Tool 까지 추가 설정 완료.
+Office Tool 까지 추가 설정 완료.(Powerpoint, Excel)
 
 [지원하는 각종 플러그인들](https://wakatime.com/plugins)
 
