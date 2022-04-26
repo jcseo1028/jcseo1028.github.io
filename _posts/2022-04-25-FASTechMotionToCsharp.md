@@ -3,8 +3,8 @@ layout: posts
 comments: true
 title : "FASTech Ezi-Servo plusR Motion Library(C++) 를 C# 에서 사용하기"
 categories: Development
-tags: [FASTech, DLLImport, C#]
-published: false
+tags: [FASTech, DLL, C#]
+published: true
 ---
 
 ### 기본적인 C# 에서 C++ Library 불러오기.
@@ -33,9 +33,35 @@ EZI_PLUSR_API BOOL WINAPI	FAS_IsSlaveExist(BYTE nPortNo, BYTE iSlaveNo);
 [DllImport("EziMOTIONPlusRx64.dll")] static extern Boolean  FAS_IsSlaveExist(Byte nPortNo, Byte iSlaveNo);
 ```
 
+### Read Status and Position 관련
+```cpp
+EZI_PLUSR_API int WINAPI	FAS_GetAxisStatus(BYTE nPortNo, BYTE iSlaveNo, DWORD* dwAxisStatus);
+EZI_PLUSR_API int WINAPI	FAS_GetIOAxisStatus(BYTE nPortNo, BYTE iSlaveNo, DWORD* dwInStatus, DWORD* dwOutStatus, DWORD* dwAxisStatus);
+EZI_PLUSR_API int WINAPI	FAS_GetMotionStatus(BYTE nPortNo, BYTE iSlaveNo, long* lCmdPos, long* lActPos, long* lPosErr, long* lActVel, WORD* wPosItemNo);
+EZI_PLUSR_API int WINAPI	FAS_GetAllStatus(BYTE nPortNo, BYTE iSlaveNo, DWORD* dwInStatus, DWORD* dwOutStatus, DWORD* dwAxisStatus, long* lCmdPos, long* lActPos, long* lPosErr, long* lActVel, WORD* wPosItemNo);
+EZI_PLUSR_API int WINAPI	FAS_GetAllStatusEx(BYTE nPortNo, BYTE iSlaveNo, BYTE* pTypes, long* pDatas);
+
+EZI_PLUSR_API int WINAPI	FAS_SetCommandPos(BYTE nPortNo, BYTE iSlaveNo, long lCmdPos);
+EZI_PLUSR_API int WINAPI	FAS_SetActualPos(BYTE nPortNo, BYTE iSlaveNo, long lActPos);
+EZI_PLUSR_API int WINAPI	FAS_ClearPosition(BYTE nPortNo, BYTE iSlaveNo);
+EZI_PLUSR_API int WINAPI	FAS_GetCommandPos(BYTE nPortNo, BYTE iSlaveNo, long* lCmdPos);
+EZI_PLUSR_API int WINAPI	FAS_GetActualPos(BYTE nPortNo, BYTE iSlaveNo, long* lActPos);
+EZI_PLUSR_API int WINAPI	FAS_GetPosError(BYTE nPortNo, BYTE iSlaveNo, long* lPosErr);
+EZI_PLUSR_API int WINAPI	FAS_GetActualVel(BYTE nPortNo, BYTE iSlaveNo, long* lActVel);
+
+EZI_PLUSR_API int WINAPI	FAS_GetAlarmType(BYTE nPortNo, BYTE iSlaveNo, BYTE* nAlarmType);
+```
+
+```csharp
+[DllImport("EziMOTIONPlusRx64.dll")] public static extern Int32 FAS_GetAxisStatus(Byte nPortNo, Byte iSlaveNo, ref Int32 dwAxisStatus);
+[DllImport("EziMOTIONPlusRx64.dll")] public static extern Int32 FAS_GetActualPos(Byte nPortNo, Byte iSlaveNo, ref long lActPos);
+```
+
+이와 같은 방법으로 필요한 API 들을 모두 Import 진행한다.
+
 ### 구조체(Union) 를 C# 으로 Wrapping 하기
 
-이건 좀 어렵다.. 고민 좀 해봐야할 듯.
+BitField, Union 으로 된 구조체는 비트연산을 응용하여 변환한다.
 
 ```cpp
 typedef union
@@ -79,9 +105,6 @@ typedef union
 } EZISERVO_AXISSTATUS;
 ```
 
-Unit BitField 를 받는 방법 ? 
-32bit 로 각자 데이터를 받아야 하는데??
-
 ```csharp
 [Flags]
 public enum EZSERVO_AXISSTATUS : int
@@ -120,12 +143,8 @@ public enum EZSERVO_AXISSTATUS : int
     FFLAG_MOTIONDECEL =     1 << 30,
     FFLAG_MOTIONCONST =     1 << 31
 }
-
-EZSERVO_AXISSTATUS status;            
-status = EZSERVO_AXISSTATUS.FFLAG_EMGSTOP;
-Console.WriteLine("{0:X}, size:{1}", status, Marshal.SizeOf(status));
-
-// 이거 왜 에러나는 지 확인 필요.
 ```
 
-이게 되는 지 테스트해봐야할 거 같다.
+이와 같이 변환할 때 고려해야 할 사항은, 여러 필드의 조합 시 어떤 필드의 값이 나와서는 안된다는 전제조건이 있음에 주의한다.
+
+---
