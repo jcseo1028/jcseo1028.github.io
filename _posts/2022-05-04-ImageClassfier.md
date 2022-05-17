@@ -3,7 +3,7 @@ layout: posts
 comments: true
 title : "Image Classfier 예제 "
 categories: Development
-tags: [ Classfier, python ]
+tags: [ ImageProcessing, python ]
 published: false
 ---
 
