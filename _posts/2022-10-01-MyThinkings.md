@@ -114,7 +114,7 @@ Medium
    가족과 해외 여행
    좋은 전기차
 
-CEC
+Copy Writing을 위한 CEC
  : Concentration
    Emphasis
    Copywriting
