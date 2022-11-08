@@ -25,6 +25,32 @@ Here's what it takes
 
 #### Being Indistractable
 
+Distraction stops us from achiving our goals.
+ : It is any action that moves you away from what you really want.
+
+Traction leads you closer to your goals.
+ : It is any action that moves you towards what you really want.
+
+Trigger prompt both traction and distraction.
+ : External triggers prompt you to action with cues in your environment.
+   Internal triggers prompt you to action with cues with in you
+
+#### What Motivates Us, Really?
+
+Understand the root cause of distraction.
+ : Distraction is about more than your devices.
+   Seperate proximate causes from the root cause.
+
+All motivation is a desire to escape discomfort.
+ : If a behaviour was previously effective at providing relief, we're likely to continue using it as a tool to escape discomfort.
+
+Anything that stops discomport os potentially addictive, but doesn't make it irresistible.
+ : If you know the driver of your behaviour, you can take steps to manage them.
+
+#### Time Management is Pain Management
+
+
+
 ---
 #### Introduction: From Hooked to Indistractable, vii,
 1. What's Your Superpower?, 1,
