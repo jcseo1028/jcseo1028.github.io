@@ -49,6 +49,20 @@ Anything that stops discomport os potentially addictive, but doesn't make it irr
 
 #### Time Management is Pain Management
 
+Time management is pain management.
+ : Distractions cost us time, and, like all actions, they are spurred by the desire to escape discomfort.
+
+Evolution favours dissatisfaction over contentment.
+ : Our tendencies towards boredom, negative bias, rumination and hedonic adaptation conspire to make sure we're never satisfied for long.
+
+Dissatisfaction is responsible for our species' advancement as much as its faults.
+ : It is an innate power that can be channelled to help us make things better.
+
+If we want to master distraction, we must learn to deal with discomfort.
+ : i
+
+#### Deal with Distraction from Within
+
 
 
 ---
