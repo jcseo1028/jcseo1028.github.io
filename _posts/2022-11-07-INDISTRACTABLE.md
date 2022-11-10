@@ -59,9 +59,17 @@ Dissatisfaction is responsible for our species' advancement as much as its fault
  : It is an innate power that can be channelled to help us make things better.
 
 If we want to master distraction, we must learn to deal with discomfort.
- : i
+ : How?
 
 #### Deal with Distraction from Within
+
+Without techniques for disarming temptation, mental abstinence can backfire.
+ : Resisting an urge can trigger rumination and make the desire grow stronger.
+
+We can manage distractions that originate from within by changing how we think about them.
+ : We can reimagine the trigger, the task and our temperament.
+
+#### Reimagine the Internal Trigger
 
 
 
