@@ -71,6 +71,14 @@ We can manage distractions that originate from within by changing how we think a
 
 #### Reimagine the Internal Trigger
 
+By reimagining an uncomfortable internal trigger, we can disarm it.
+ : Step1 - Look for the emotion preceding distraction.
+   Step2 - Write down the internal trigger.
+   Step3 - Explore the negative sensation with curiosity instead of contempt.
+   Step4 - Be extra cautious during liminal moments.
+
+#### Reimagine the Task
+
 
 
 ---
