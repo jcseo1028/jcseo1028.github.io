@@ -79,6 +79,31 @@ By reimagining an uncomfortable internal trigger, we can disarm it.
 
 #### Reimagine the Task
 
+We can master internal triggers by reimagining an otherwise dreary task.
+ : Fun and play can be used as tools to keep us focused.
+
+Play doesn't have to be pleasurable.
+ : It just has to hold our attention.
+
+Deliberateness and novelty can be added to any task to make it fun.
+ : ?
+
+#### Reimagine Your Temperament
+
+Reimagining our temperament can help us manage our internal triggers.
+ : ?
+
+We don't run out of willpower.
+ : Believing we do makes us less likely to accomplish our goals, by providing a rationale to quit when we could otherwise persist.
+
+What we say to ourselves matters.
+ : Labelling yourself as having poor self-control is self-defeating.
+
+Practice self-compassion.
+ : Talk to yourself the way you'd talk to a friend.
+   People who are more self-compassionate are more resilient.
+
+#### Turn Your Values into Time
 
 
 ---
