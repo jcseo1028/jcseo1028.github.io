@@ -105,6 +105,32 @@ Practice self-compassion.
 
 #### Turn Your Values into Time
 
+You can't call something a distraction unless you know what it is distracting you from.
+ : Planning ahead is the only way to know the difference between traction and distraction.
+
+Does your calendar reflect your values?
+ : To be the person you want to be, you have to make time to live your values.
+
+Timebox your day.
+ : The three life domains of you, relationships and work provide a framework for planning how to spend your time.
+
+Reflect and refine
+ : Revise your schedule regularly, but you must commit to it once it's set.
+
+#### Control the Inputs, Not the Outcomes
+
+Schedule time for yourself first.
+ : You are at the centre of the three life domains.
+   By not allocating time for yourself, the other two domains suffer.
+
+Show up when you say you will.
+ : You can't always control what you get out of time you spend, but you can control how much time you put into a task.
+
+Input is much more certain than outcome.
+ : When it comes to living the life you want, making sure you allocate time to living your values is the only thing you should focus on.
+
+#### Schedule Important Relationships
+
 
 ---
 #### Introduction: From Hooked to Indistractable, vii,
