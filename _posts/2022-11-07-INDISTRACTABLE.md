@@ -131,6 +131,38 @@ Input is much more certain than outcome.
 
 #### Schedule Important Relationships
 
+The people you love deserve more than getting whatever time is left over.
+ : If someone is important to you, make regular time for them on your calendar.
+
+Go beyond scheduling date days with your significant other.
+ : Put domestic chores on your calendar to ensure an equitable split.
+
+A lack of close friendships may be hazardous to your health.
+ : Ensure you maintain important relationships by scheduling time for regular get-togethers.
+
+#### Sync with Stakeholders at Work
+
+Syncing your schedule with stakeholders at work is critical for making time for traction in your day.
+ : Without visibility of how you spend your time, colleagues and managers are more likely to distract you with superfluous tasks.
+
+Sync as frequently as your changes.
+ : If your schedule template changes from day to day, have a daily check-in.
+   However, most people find a weekly alignment is sufficient.
+
+#### Ask the Critical Question
+
+External triggers often lead to distraction.
+ : Cues in our environment like the pings, dings, rings from devices, as well as interruptions from other people, frequently take us off-track.
+
+External triggers aren't always harmful.
+ : If an external trigger leads us to traction, it serves us.
+
+We must ask: is this trigger serving me, or am I serving it?
+ : Then, we can hack back the external triggers that don't serve us.
+
+#### Hack Back Work Interruptions
+
+
 
 ---
 #### Introduction: From Hooked to Indistractable, vii,
