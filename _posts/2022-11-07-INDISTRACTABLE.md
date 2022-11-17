@@ -59,7 +59,7 @@ Dissatisfaction is responsible for our species' advancement as much as its fault
  : It is an innate power that can be channelled to help us make things better.
 
 If we want to master distraction, we must learn to deal with discomfort.
- : How?
+ : -
 
 #### Deal with Distraction from Within
 
@@ -86,12 +86,12 @@ Play doesn't have to be pleasurable.
  : It just has to hold our attention.
 
 Deliberateness and novelty can be added to any task to make it fun.
- : ?
+ : -
 
 #### Reimagine Your Temperament
 
 Reimagining our temperament can help us manage our internal triggers.
- : ?
+ : -
 
 We don't run out of willpower.
  : Believing we do makes us less likely to accomplish our goals, by providing a rationale to quit when we could otherwise persist.
@@ -162,7 +162,104 @@ We must ask: is this trigger serving me, or am I serving it?
 
 #### Hack Back Work Interruptions
 
+Interruptions lead to mistakes.
+ : You can't do your best work if you're frequently distracted.
 
+Open-office floor plans increase distraction.
+ : -
+
+Defend your focus.
+ : Signal when you do not want to be interrupted.
+   Use a screen sign or some other clear cue to let people know you are indistractable.
+
+#### Hack Back Email
+
+Break down the problem.
+ : Time spent on email (T) is a function of the number of messages received (n) multiplied by the average time (t) spent per message.
+   T = n x t
+
+Reduce the number of messages received.
+ : Schedule office hours, delay when each messages are send, and reduce the number of time-wasting messages reching your inbox.
+
+Spend less time on each message.
+ : Label emails according to when each message needs a reponse.
+   Reply to emails during a scheduled time in your calendar.
+
+#### Hack Back Group Chat
+
+Real=time communication channels should be used sparingly.
+ : Time spent communicating should not come at the cost of time spent concentrating.
+
+Company culture matters.
+ : Changing group chat practices may involve questioning company norms.
+
+Different communication channles have different uses.
+ : Rather than use every technology as an always-on channel, use the best tool for the job.
+
+Get in and get out.
+ : Group chat is great for replacing in-person meetings but terrible if it becomes an all-day affair.
+
+Schedule time for group chat on your calendar.
+ : Let colleagues know when you'll be in group chat and use the 'Do Not Disturb' function to let people know when you're out.
+
+Be selective.
+ : Group chat is good for some topics, people and conversations and bad for  others.
+
+Slow down conversations.
+ : Ask participants who like to 'think out loud' in group chat to write down their ideas to share later.
+
+#### Hack Back Meetings
+
+Make it harder to call a meeting.
+ : To call a meeting, the organiser must circulate an agenda and briefing document.
+
+Meeting are for consensus-building.
+ : With few exceptions, creative problem-solving should occur before the meeting, individually or in very small groups.
+
+Be fully present.
+ : People use devices during meetings to escape monotony and boredom, which subsequently makes meetings even worse.
+
+Have one laptop per meeting.
+ : Devices in everyone's hands makes it more difficult to achieve the purpose of the meeting.
+   With the exception of one laptop in the room for presenting information and taking notes, leave devices outside.
+
+#### Hack Back Your Smartphone
+
+You can hack back the external triggers on your phone in four steps in less than one hour.
+ : 1. Remove - Uninstall the apps you no longer need.
+   2. Replace - Shift where and when you use potentially distracting apps, like social media and YouTube, to your desk instead of on your phone. Get a wristwatch so you don't have to look at your phone for the time.
+   3. Rearrange - Move any apps that may trigger mindless checking from your phone's home screen.
+   4. Reclaim - Change the notification settings for each app. Be very selective regarding which apps can send you sound and sight cues. Learn to use your phone's 'Do Not Disturb' settings.
+   
+#### Hack Back Your Desktop
+
+Desktop clutter takes a heavy psychological toll on your attention.
+ : Clearing away external triggers in your digital workspace can help you stay focussed.
+
+Turn off desktop notifications.
+ : Disabling notifications on your computer ensures you won't get distracted by external triggers while doing focused work.
+
+#### Hack Back Online Articles
+
+Online articles are full of potentially distracting external triggers.
+ : Open tabs can pull us off course and tend to suck us down a time-wasting content vortex.
+
+Make a rule
+ : Promise yourself you'll save interesting content for later by using an app like Pocket.
+
+Surprise! You can multitask.
+ : Use multichannel multitasking like listening to articles while working out or taking walking meeting.
+
+#### Hack Back Feeds
+
+Feeds like the ones we scroll through on social media are designed to keep you engaged.
+ : Feeds are full of external triggers that can drive us to distraction.
+
+Take control of feeds by hacking back.
+ : Use free browser extensions like News Feed Eradicator for Facebook, Newsfeed Burner, Open Multiple Websites, and DF Tube to remove distracting external triggers.
+
+
+#### The Power of Precommitments
 
 ---
 #### Introduction: From Hooked to Indistractable, vii,
