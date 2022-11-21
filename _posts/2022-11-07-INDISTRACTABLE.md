@@ -258,8 +258,68 @@ Feeds like the ones we scroll through on social media are designed to keep you e
 Take control of feeds by hacking back.
  : Use free browser extensions like News Feed Eradicator for Facebook, Newsfeed Burner, Open Multiple Websites, and DF Tube to remove distracting external triggers.
 
-
 #### The Power of Precommitments
+
+Being indistractable not only requires keeping distraction out.
+ : It also necessitates reining ourselves in.
+
+Precommitments can reduce the likelihood of distraction.
+ : They help us stick to decisions we've made in advance.
+
+Precommitments should only be used after the other three indistractable strategies have already been applied.
+ : Don't skip the first three steps.
+
+#### Prevent Distraction with Effort Pacts
+
+An effort pact prevents distraction by making unwanted behaviours more difficult to be.
+ : -
+
+In the age of the personal computer, social pressure to stay on task has largely disappeared.
+ : No one can see what you're working on, so it's easier to slack off.
+   Working next to a colleague of friend for a set period of time can be a highly effective effort pact.
+
+You can use tech to stay off tech.
+ : Apps like SelfControl and Forest can help you make effort pacts with yourself.
+
+#### Prevent Distraction with Price Pacts
+
+A price pact adds a cost to getting distracted.
+ : It has been shown to be a highly effective motivator.
+
+Price pacts are most effective when you can remove the external triggers that lead to distraction.
+ : -
+
+Price pacts work best when the distraction is temporary.
+ : -
+
+Price pacts can be difficult to start.
+ : We fear making a price pact because we know we'll actually have to do the thing we're scared to do.
+
+Learn self-compassion before making a price pact.
+ : -
+
+#### Prevent Distraction with Identity Pacts.
+
+Identity greatly influences our behaviour.
+ : People tend to align their actions with how they see themselves.
+
+An Identity pact is a precommitment to a self-image.
+ : You can prevent distraction by acting in line with your identity.
+
+Become a noun.
+ : By assigning yourself a moniker, you increase the likelihood of following through with behaviours consistent with what you call yourself.
+   Call your self 'indistractable'.
+
+Share with others
+ : Teaching others solidifies your commitment, even if you're still struggling.
+   A great way to be indistractable is to tell friends about what you learned in this book and the changes you're making in your life.
+
+Adopt rituals
+ : Repeating mantras, keeping a timeboxed schedule, or performing other routines, reinforces your identity and influences your future actions.
+
+
+#### Distraction is a Sign of Dysfunction
+
 
 
 ---
