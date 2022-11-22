@@ -320,6 +320,33 @@ Adopt rituals
 
 #### Distraction is a Sign of Dysfunction
 
+Jobs where employees encounter high expectations and low control have been shown to lead to symptoms of depression.
+ : -
+
+Depression-like symptoms are painful. 
+ : When people feel bad, they use distractions to avoid their pain and regain a sense of control.
+
+Tech overuse at work is a symptom of a dysfunctional company culture.
+ : -
+
+More tech use makes the underlying problems worse, perpetuating a ‘cycle of responsiveness’.
+ : -
+
+#### Fixing Distraction is a Test of Company Culture
+
+Don’t suffer in silence. 
+ : A workplace where people can’t talk about technology overuse is also one where people keep other important issues (and insights) to themselves.
+
+Knowing that your voice matters is essential. 
+ : Teams that foster psychological safety and facilitate regular open discussions about concerns not only have fewer problems with distraction, but also have happier employees and customers.
+
+#### The Indistractable Workplace
+
+Indistractable organisations, like Slack and BCG, foster psychological safety, provide a place for open discussions about concerns, and, most importantly, have leaders who exemplify the importance of doing focused work.
+ : -
+
+#### Avoid Convenient Excuses
+
 
 
 ---
