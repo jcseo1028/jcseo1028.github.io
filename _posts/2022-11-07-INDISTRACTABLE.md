@@ -347,6 +347,78 @@ Indistractable organisations, like Slack and BCG, foster psychological safety, p
 
 #### Avoid Convenient Excuses
 
+Stop deflecting blame. 
+ : When kids don’t act the way parents want them to, it’s natural to look for answers that help parents divert responsibility.
+
+Techno-panics are nothing new. 
+ : From the book, to the radio, to video games, the history of parenting is strewn with examples of moral panic over things that supposedly make kids act in strange ways.
+
+Tech isn’t evil. 
+ : Used in the right way and in the right amounts, kids’ tech use can be beneficial, while too much (or too little) can have slightly harmful effects.
+
+Teach kids to be indistractable. 
+ : Teaching children how to manage distraction will benefit them throughout their lives.
+
+#### Understand Their Internal Triggers
+
+Internal triggers drive behaviour. 
+ : To understand how to help kids manage distraction, we need to start by understanding the source of the problem.
+
+Our kids need psychological nutrients. 
+ : According to a widely accepted theory of human motivation, all people need three things to thrive: a sense of autonomy, competence and relatedness.
+
+Distractions satisfy deficiencies. 
+ : When our kids’ psychological needs are not met in the real world, they go looking for satisfaction – often in virtual environments.
+
+Kids need alternatives. 
+ : Parents and guardians can take steps to help kids find a balance between their online and offline worlds by providing more offline opportunities to find autonomy, competence and relatedness.
+
+The four-part Indistractable Model is valuable for kids as well. 
+ : Teach them methods for handling distraction and, most importantly, model being indistractable yourself.
+
+#### Make Time for Traction Together
+
+Teach traction. 
+ : With so many potential distractions in kids’ lives, teaching them how to make time for traction is critical.
+
+Just as with our own timeboxed schedules, kids can learn how to make time for what’s important to them. 
+ : In the absence of making their own plans in advance, kids will turn to distractions.
+
+It’s okay to let your kids fail.  
+ : Failure is how we learn.
+   Show kids how to adjust their schedules to make time to live up to their values.
+
+#### Help Them with External Triggers
+
+Teach them to swim before they dive in. 
+ : Like swimming in a pool, children should not be allowed to partake in certain risky behaviours before they are ready.
+
+Test for tech readiness. 
+ : A good measure of a child’s readiness is their ability to manage distraction by using the settings on the device to turn off external triggers.
+
+Kids need sleep. 
+ : There is little justification for having a television or other potential distractions in a kid’s room overnight. 
+   Make sure nothing gets in the way of getting good rest.
+
+Don’t be the unwanted external trigger. 
+ : Respect their time and don’t interrupt them when they have scheduled time to focus on something, be that work or play.
+
+#### Teach Them to Make Their Own Pacts
+
+Don’t underestimate your child’s ability to precommit and follow through. 
+ : Even young children can learn to use precommitments as long as they set the rules and know how to use a timer or some other binding system.
+
+Consumer scepticism is healthy. 
+ : Understanding that companies are motivated to keep kids spending time watching or playing is an important part of teaching media literacy.
+
+Put the kids in charge. 
+ : It’s only when kids practise monitoring their own behaviour that they learn how to manage their own time and attention.
+
+#### Spread Social Antibodies Among Friends
+
+
+#### Be an Indistractable Lover
+
 
 
 ---
