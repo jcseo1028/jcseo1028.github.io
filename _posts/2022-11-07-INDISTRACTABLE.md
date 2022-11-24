@@ -416,10 +416,26 @@ Put the kids in charge.
 
 #### Spread Social Antibodies Among Friends
 
+Distraction in social situations can keep us from being fully present with important people in our lives. 
+ : Interruptions degrade our ability to form close social bonds.
+
+Block the spread of unhealthy behaviours. 
+ : ‘Social antibodies’ are ways groups protect themselves from harmful behaviours by making them taboo.
+
+Develop new social norms. 
+ : We can tackle distraction among friends the same way we beat social smoking, by making it unacceptable to use devices in social situations. 
+   Prepare a few tactful phrases, such as asking ‘Is everything OK?’ to discourage phone usage among friends.
 
 #### Be an Indistractable Lover
 
+Distraction can be an impediment in our most intimate relationships. 
+ : Instant digital connectivity can come at the expense of being fully present with those beside us.
 
+Indistractable partners reclaim time for togetherness. 
+ : Following the four steps to becoming indistractable can ensure you make time for your partner.
+
+Now it’s your turn to become indistractable.
+ : -
 
 ---
 #### Introduction: From Hooked to Indistractable, vii,
