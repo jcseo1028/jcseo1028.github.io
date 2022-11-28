@@ -7,6 +7,27 @@ tags: [ 자기 개발 ]
 published: false
 ---
 
+### Super Summary
+
+The four steps of habit become the four laws of behavior.
+ : Cue
+   Craving
+   Response
+   Reward
+
+The corresponding laws to encourage or discourage behaviour are
+ : 1. Make it obvious(or invisible)
+   2. Make it attractive (or unattractive)
+   3. Make it easy(or difficult)
+   4. Make it satisfying(or unsatisfying)
+
+### The Building Blocks of Habit
+
+- Improving by one percent every day really adds up
+- Small changes may not appear to be working until you reach a certain tipping point.
+- Atoms from morecules, and habits form system.
+- Systems are more productive than habits.
+
 
 ---
 
