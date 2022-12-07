@@ -7,7 +7,7 @@ tags: [ 자기 개발 ]
 published: false
 ---
 
-### Super Summary
+#### Super Summary
 
 The four steps of habit become the four laws of behavior.
  : Cue
@@ -21,12 +21,20 @@ The corresponding laws to encourage or discourage behaviour are
    3. Make it easy(or difficult)
    4. Make it satisfying(or unsatisfying)
 
-### The Building Blocks of Habit
+#### The Building Blocks of Habit
 
-- Improving by one percent every day really adds up
+```
+The purpose of setting goals is to win the game.
+The purpose of building systems is to continue playing game.
+```
+
+- Improving by one percent every day really adds up ( 하루 1% 씩 성장?)
 - Small changes may not appear to be working until you reach a certain tipping point.
 - Atoms from morecules, and habits form system.
 - Systems are more productive than habits.
+
+#### Your Habits Determine Who You Are
+
 
 
 ---
