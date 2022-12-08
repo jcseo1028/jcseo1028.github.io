@@ -35,6 +35,28 @@ The purpose of building systems is to continue playing game.
 
 #### Your Habits Determine Who You Are
 
+Three layer of behaviou change
+ : Outcomes (these are goal oriented, like losing weight)
+   Processes (these are habits, like exercising)
+   Identity (These are your beliefs, primarily about yourself, like "I am a healthy, fit person")
+
+#### Four Steps to Better Habits
+
+Habits work in a four step cycle.
+ : 1. Cue : noticing the reward
+   2. Craving : wanting the reward.
+   3. Response : getting the reward.
+   4. Reward
+
+#### Recognizing the Power of Habits
+
+```
+By adding a "point and call" practice to daily behaviour, and creating a scorecard of positive, negative, and neutral habits,
+you can increase your awareness of those habits, which is the first step in effecting change. 
+```
+결국엔 Daily Report(score card) + 자기암시 인듯.
+
+#### Getting Started
 
 
 ---
