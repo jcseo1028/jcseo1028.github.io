@@ -58,6 +58,12 @@ you can increase your awareness of those habits, which is the first step in effe
 
 #### Getting Started
 
+- The First Law of Behavior is to Make it Obvious.
+- Implementation intentions and habit stacking are simple strategies for creating obvious cues for your new behavior.
+- Implementation intention : "I will (action) at (time) in (place)."
+- Habit stacking : "After I (action done daily) I will (new desired action)."
+
+#### Motivation Versus Environment
 
 ---
 
