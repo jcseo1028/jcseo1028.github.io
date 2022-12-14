@@ -65,6 +65,50 @@ you can increase your awareness of those habits, which is the first step in effe
 
 #### Motivation Versus Environment
 
+- Small changes in environment can trigger big changes in behavior.
+- Habits are triggered by cues; we can change the cues, or make them more less obvious.
+- It is easier to build new habits in a new environment.
+
+#### Self Control is Overrated
+
+- You can break a bad habit, but you are unlikely to forget it.
+- People who appear to have great self-control probably spend less time in tempting environment.
+- Self-control is a more effective short-term solution than a long term strategy.
+
+#### Make a Habit Attractive
+
+- The Second Law of Behavior Change is "Make it Attractive".
+- Habits are dopamine dependent.
+- The anticipation of the reward is greater than the reward itself.
+- Temptation building can be combined with habit stacking.
+
+#### Cultural Influences
+
+- The culture we live in determines what habits we find attractive.
+- We adopt these group preferences because we want to fit in.
+- In order to build better habits, it is helpful to join a group where you already have commonalities and your desired behavior is already part of the group behavior.
+
+#### Making a Bad Habit Undesirable
+
+- All behavior has a conscious level of craving and a subconscious level of motive.
+- Cues are predictions of the feeling that will result from the behavior or habit.
+- Remind yourself of the negative aspects of a habit(make it attractive) to eliminate it.
+- Create a shortcut for the feeling associated with a positive habit.
+
+#### Forward Motion
+
+- The third law of behavior change is "Make it Easy".
+- Take action, don't just generate motion.
+- The amount of time that passes is not as important to the formation of a habit as the number of repetitions of the action.
+
+#### Take the Easy Way
+
+- People naturally choose the option with the least effort involved, when there is a choice.
+- Create an opportunity to choose positive habits, by making them easy.
+- Discourage the opportunity for negative habits by making them harder or less convenient.
+
+#### Use the Two Minute Rule
+
 ---
 
 About the Author
@@ -78,9 +122,9 @@ Chapter 4. Recognizing the Power of Habits
 2. Getting Started 
 3. Motivation Versus Environment 
 4. Self Control is Overrated
-5. Make a Habit Attractive6. Cultural Influences
+5. Make a Habit Attractive
+6. Cultural Influences
 7. Making a Bad Habit Undesirable
-Chapter Summary
 8. Forward Motion
 9. Take the Easy Way
 Chapter Summary
