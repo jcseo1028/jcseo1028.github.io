@@ -109,6 +109,11 @@ you can increase your awareness of those habits, which is the first step in effe
 
 #### Use the Two Minute Rule
 
+- Small choices have big impacts.
+- You can sharpen your focus with the two minute rule.
+- Make incremental changes and proceed in the right direction.
+
+
 ---
 
 About the Author
