@@ -113,6 +113,37 @@ you can increase your awareness of those habits, which is the first step in effe
 - You can sharpen your focus with the two minute rule.
 - Make incremental changes and proceed in the right direction.
 
+#### Take Drastic Action
+
+- Make bad habits difficult through advance commitment.
+- Make good habits easier through advance planning.
+
+#### I Want it Now
+
+ - People prefer immediate rewards to delayed rewards.
+ - Delayed punishment are difficult to weigh and evaluate.
+ - Give yourself small but relevant treats.
+
+Laws so far(지금까지의 법칙)
+ : 1. Make it obvious
+   2. Make it attractive
+   3. Make it easy
+   4. Make it satisfying
+
+#### Keeping on Track
+
+- Don't overlook the satisfaction of making progress.
+- Tracking can be simple or automated like providing a visual illustration of progress.
+- "Don't miss twice"
+- Measure the right things.
+
+#### Be Accountable
+
+- Inversion of the Fourth Law : Make it Unsatisfying
+- Make a habit contract.
+- Find an accountability partner.
+
+#### Genetics Versus Hard Work
 
 ---
 
@@ -132,10 +163,9 @@ Chapter 4. Recognizing the Power of Habits
 7. Making a Bad Habit Undesirable
 8. Forward Motion
 9. Take the Easy Way
-Chapter Summary
 10. Use the Two Minute Rule
 11. Take Drastic Action
-12. I Want it NowLaws so far:
+12. I Want it Now
 13. Keeping on Track
 14. Be Accountable
 15. Genetics Versus Hard Work
