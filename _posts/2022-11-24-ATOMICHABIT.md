@@ -145,6 +145,20 @@ Laws so far(지금까지의 법칙)
 
 #### Genetics Versus Hard Work
 
+- Choose endeavors where you have a natural advantage.
+- Genes can't be changed, and can provide a significant advantage or disadvantage.
+- Choose habits that suit you, and work hard on those.
+
+endeavor
+ : 노력하다, 애쓰다
+   노력, 시도
+
+gene
+ : 유전자
+
+#### Just Right
+
+
 ---
 
 About the Author
