@@ -158,6 +158,26 @@ gene
 
 #### Just Right
 
+- People stay motivated when working at the outer edge of their ability.
+- Boredom is the greatest threat to success.
+
+boredom
+ : 지루함
+
+threat
+ : 협박, 위협
+
+#### Be Careful of Complacency
+
+- Habits are great conservers of brain power, but we need to review and improve.
+- Habits + Practice = Expertise
+- Expand the definition of your identity.
+
+complacency
+ : 안주, 현 상태에 만족함
+
+expertise
+ : 전문 지식
 
 ---
 
