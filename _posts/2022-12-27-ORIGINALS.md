@@ -40,6 +40,31 @@ ambivalence
 
 While it may look like entrepreneurs look for risks and enjoy taking them, most entrepreneurs actually work to avoid risks.
 
+The common misperception is that most entrepreneurs have up and resigned from their regular careers and risked their health and home in order to commit fully to their business ideas before they actually succeed.
+
+misperception
+ : 오인, 오해
+
+resign
+ : 사임하다, 물러나다.
+
+Actually, many entrepreneurs keep their regular day jobs for a very long time even after they have achieved a level of success for the entrepreneurial endeavor.
+
+entrepreneurial
+ : 기업가의
+
+endeavor
+ : 노력, 시도
+
+In fact, those are the entrepreneurs who actually achieve long-term success more often than the ones who desert their day jobs in the very beginning of a business start-up.
+
+desert
+ : 사막
+   버리다, 저버리다(=abandon)
+
+
+
+
 
 ---
 
