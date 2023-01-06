@@ -62,6 +62,26 @@ desert
  : 사막
    버리다, 저버리다(=abandon)
 
+The creative people who dreamed up and started eBay, Apple, Warby Parker, and Google kept working their day jobs for a significant amount of time after their companies reached a level of success.
+
+dream up
+ : 생각해 내다, 발명해 내다.
+
+Even the best-selling author Stephen King and the famous Queen guitarist John Legend kept working their regular jobs once their creative ideas became reality.
+
+Keeping a day job provides much stability for the entrepreneur when taking considerable risks for a new venture.
+
+It will also help ensure there has been enough time to test and perfect a product before it hits the market. 
+
+Not only that, but keeping that secure day job provides opportunities to take bigger risks during the start-up phase of a creative idea. 
+
+Those starting Warby Parker, an eyeglass company built online, is a great example of this. 
+
+The four individuals who created Warby Parker all stayed on their regular internships and day jobs while launching the company. 
+
+They used the extra time to careful analyze their start-up business plan and prepare for serious risks and challenges they might encounter once it started. 
+
+Because of this, they were able to build an amazing success in the business online that many believed would fail.
 
 
 
