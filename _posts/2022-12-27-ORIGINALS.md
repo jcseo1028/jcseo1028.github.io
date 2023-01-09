@@ -83,7 +83,69 @@ They used the extra time to careful analyze their start-up business plan and pre
 
 Because of this, they were able to build an amazing success in the business online that many believed would fail.
 
+People who have succeeded in becoming entrepreneurs share another common trait that was discovered over the course of several research studies – most of them tended to take limited risks during their teenage years. 
 
+trait
+ : (성격상의) 특성
+
+As teenagers, quite a few of them tried risky things like smoking marijuana, drinking alcohol, and minor shoplifting, but they did not allow those risky behaviors to go to the extreme and turn into drunk driving or felony theft.
+
+felony
+ : 흉악 범죄
+
+The point is they gave themselves permission to take risks without going beyond a certain point of safety. 
+
+permission
+ : 허락, 승인
+
+In his book, Grant explains that being a unique and individual person means you must be open to new things and new ideas. 
+
+However, being open to new things also comes with a cautious attitude just like someone who walks a tightrope between two skyscrapers is cautious enough to have a safety harness just in case.
+
+cautious
+ : 조심스러운, 신중한
+
+skyscraper
+ : 고층 건물
+
+harness
+ : 마구(馬具, 벨트 같은...)
+   마구를 채우다.
+
+Unique people are determined to do things better if possible – whether or not it takes more work to do so. 
+
+For example, people with this type of attitude aren’t satisfied with using whatever browser their computer is set to default to such as Safari or Internet Explorer. 
+
+They look to Chrome or Firefox to see if they work better than the default. 
+
+In similar fashion, people who have fewer advantages in life often take things as they are and will often give up their rights without a fight while those who happen to have had more advantages from growing up with higher income levels tend to fight for the rights they believe they deserve. 
+
+in (a)... fashion
+ : ... 방식으로
+
+deserve
+ : ~ 을 받을만하다. ~ 을 해야 마땅하다.
+
+Those without certain advantages might live believing they are merely victims to an unfair system and find it safer to do so than trying to draw attention to it in order to effect change: 
+
+merely
+ : 한낱, 그저, 단지
+
+victim
+ : 피해자, 재물
+
+unfair
+ : 부당한, 불공평한
+
+“If the world is supposed to be this way, we don't need to be dissatisfied with it.” 
+
+People who aspire to hold on to their originality must be willing to stand against common standards and fight for something better.
+
+originality
+ : 독창성
+
+stand against
+ : ~ 에 저항하다. ~에 기대다
 
 
 ---
