@@ -147,6 +147,70 @@ originality
 stand against
  : ~ 에 저항하다. ~에 기대다
 
+The online eyeglass company Warby Parker was the creative solution four college students came up with when they began to challenge the ridiculously high cost of obtaining prescription eyewear. 
+
+ridiculously
+ : 터무니없이
+
+prescription
+ : 처방전
+
+When they began to look into the matter, they discovered that one big company dominated the industry and thus was able to sell eyeglasses marked up more than a hundred times what they actually cost to produce. 
+
+dominate
+ : 지배하다, 군림하다.
+
+These four guys chose to fight that common standard, or status quo as it was, and in doing so, they created a hugely successful business of selling eyeglasses online for a simple $95 after customers had a chance to try them at home for free.
+
+status quo
+ : 현재의 상황
+
+Women’s suffrage is another great example of the same issue. 
+
+suffrage
+ : 투표권, 참정권
+
+They decided to challenge the status quo – the common standard of the time – that only men were allowed to vote. 
+
+Their decision not to accept that any more led to a movement that changed the world when women gained the right to vote as well.
+
+In the business world, empowering employees with the knowledge that jobs are not rigid is good for the overall health of the company. 
+
+empower
+ : 권한을 주다, 자율권을 주다.
+
+rigid
+ : 엄격한, 융통성 없는, 뻣뻣한
+
+Allowing employees to mold their positions to best fit their own passions and skills while serving the company as needed at the same time provides more room for promotion, satisfaction with their job, and a lessening of self-imposed limitations. 
+ 
+For the most part, unique individuals don’t usually seek or readily embrace public placements where they are highly visible. 
+
+embrace
+ : 안다. 포옹하다.
+
+For example, prior to being chosen to give a speech at the March on Washington, Martin Luther King, Jr. was actually afraid of speaking in a public setting. 
+
+Copernicus, the man who discovered the sun did not revolve around the earth and that the opposite was actually true, was too reticent to publish his amazing discovery himself. 
+
+opposite
+ : 다른 편의, 반대의
+
+reticent
+ : 말을 잘 안하는
+
+In fact, his findings were not published until 26 years later when another professor decided to publicize Copernicus’ discovery for him. 
+
+It can often be quite challenging to get past a natural fear and resistance for offering new ideas: 
+
+“Advocating for new systems often requires demolishing the old way of doing things, and we hold back for fear of rocking the boat.”
+
+advocate
+ : 옹호하다, 지지하다.
+
+#### How to Know which Great Idea is the Best (or Right) One
+
+
 
 ---
 
