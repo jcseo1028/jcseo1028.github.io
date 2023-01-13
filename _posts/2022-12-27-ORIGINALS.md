@@ -210,7 +210,84 @@ advocate
 
 #### How to Know which Great Idea is the Best (or Right) One
 
+Every idea is not necessarily a good one, nor will a new business idea or start-up always be successful. 
 
+When you are personally close to anything, it can actually hinder your ability to analyze it accurately.
+
+hinder
+ : 저해하다. ~을 못하게하다.
+
+It can be challenging to get someone to give you an unbiased perspective on your seemingly great idea.
+
+unbiased
+ : 편견 없는, 편파적이지 않은
+
+perspective
+ : 관점, 시각, 원근감
+
+seemingly
+ : 겉보기에는, 보아하니(=apparently)
+
+
+If you want a sure-fire way to succeed in finding the best idea that will be right for what you want, create a plethora of ideas! 
+
+sure-fire
+ : 확실한, 틀림없는
+
+plethora
+ : 과다, 과잉(=excess)
+
+A plethora or mega-volume of whatever you are trying to do will serve to increase the odds that you will hit on the right one. 
+
+mega-volume
+ : 방대한 양(의)
+
+odds
+ : 역경, 곤란
+
+For example, Picasso drew around 12,000 pictures and put together more than 5,800 actual works – he was definitely going to make at least one or two masterpieces out of that many works of art completed. 
+
+Maya Angelou didn’t just write a poem or two and expect them to be masterpieces of poetry. 
+
+She wrote 165 poems in all. 
+
+Einstein put out a great amount of writings, 248 or so. 
+
+People who are extremely creative will produce an extreme volume of whatever they are creating. 
+
+extemely
+ : 극도로, 극히
+
+Oftentimes historical treasures created by famous artists were actually produced during a time period when they were especially hard at work producing their art in multiples.
+
+If you want to produce your own original work successfully, another key characteristic you need is the ability to not become obsessed with perfection. 
+
+obsess
+ : 사로잡다, 강박감을 갖다.
+
+Perfectionism can kill or significantly hamper creativity when you narrow down your thought process and focus on just one idea or one way of doing things. 
+
+Perfectionism
+ : 완벽주의
+
+hamper
+ : 방해하다.
+
+The goal is to create multiples of proto-types or ideas because the best ones will most likely be found in the midst of the multiples. 
+
+As with anything else, occasionally there will be exceptions to this concept. 
+
+occasionally
+ : 가끔
+
+Every now and then, someone will reach that successful product or idea very early on in the process – sometimes even the very first time. 
+
+However, that is the exception rather than the norm. 
+
+norm
+ : 표준, 기준
+
+Usually creative people find success through the process of generating a lot of ideas and/or products.
 
 ---
 
