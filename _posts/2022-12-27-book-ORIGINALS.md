@@ -289,6 +289,93 @@ norm
 
 Usually creative people find success through the process of generating a lot of ideas and/or products.
 
+Once you think you discovered the brilliant idea you’re looking for, you need something very important in able to be sure that you have. 
+
+Grant explains how feedback can provide the assurance that you have indeed hit on a great idea. 
+
+Each of us may be completely adamant that we truly have hit on that wonderful idea, but that very confidence can be taken too far to the detriment of success because it leaves us unwilling or unable to see it realistically. 
+
+adamant
+ : 요지부동의, 단호한
+
+confidence
+ : 신뢰
+
+detriment
+ : 손상
+
+That is why it is important to share the discovery with trusted individuals and openly analyze what they have to say about it in return. 
+
+Being willing to listen to constructive criticism and valid feedback will actually provide a clearer path for you to follow to success.
+
+Quite often, the best people to provide this type of feedback are those who are also creative thinkers and fellow entrepreneurs. 
+
+fellow
+ : 동료
+
+These individuals are better equipped to recognize creativity and originality in others and offer sincere and honest feedback in return. 
+
+sincere
+ : 진실된
+
+originality
+ : 독창성
+
+When you are looking for such help in the business world or your career, it is best to look to colleagues and peers instead of employers, supervisors, and managers. 
+
+Those in leadership are generally trained to avoid risks and maintain the standards set by the owners of the business – regardless of the facts of the situation. 
+
+Remember that new ideas differing from the status quo are much harder to gain consideration or acceptance.
+
+When you are seeking unbiased analysis of your unique idea or project, it can help to have those evaluating your proposal do some creative but unrelated exercises first. 
+
+This enables them to broaden their thinking in the moment and look at your idea with an open mind in order to evaluate potential properly. 
+ 
+Creativity also has a lot to do with one of the highest honors of original thinking – the Nobel Prize. 
+
+Studies focused on scientists who have won the honor found that winners were connected to the arts more often than not when compared to their industry peers. 
+
+Dance, music, and acting were common activities for a majority of the winners. 
+
+When it comes to the same topic focused on successful entrepreneurs, creativity is commonly exhibited by their participation in hobbies involving the performing arts regardless of the type of business where they achieved their success. 
+
+In general, the findings of the studies show how very important it is to have an open mind willing to consider novel solutions and think outside of the box in order to be successful.
+
+However, creativity doesn’t necessarily have to involve the typical categories of performing arts. 
+
+Exploring other countries and their inherent cultures can also boost creativity significantly. 
+
+The more a culture and country differ from your home country, the more inspiration for creativity can be found. 
+
+inspiration
+ : 영감
+
+It also helps to spend a significant amount of time immersed in that different culture in order to get a better understanding of the differences. 
+
+immerse
+ : 담그다, 몰두하다
+
+The author of this book recommends we avoid relying primarily on our intuition or “gut feelings” when analyzing other people. 
+
+intuition
+ : 직관력
+
+Grant suggests we look beyond exciting presentations designed to impress and analyze the facts along with the action plan for success in order to evaluate whether or not an idea or product might be ready to succeed. 
+
+The primary consideration isn’t necessarily the success itself, but rather it’s how that success has been achieved. 
+ 
+Honest and open evaluation of your own idea is extremely helpful. 
+
+Think about all the ways your idea might fail and create solutions to meet that possible failure. 
+
+Focus on the feedback from others analyzing your ideas in the same manner. 
+
+Encourage them to look for and share negative perspectives, and use that information to better develop your idea. 
+
+Everyone involved with the idea, project, or product should also have access to the detailed feedback in order to fix problem areas that have been pointed out.
+
+#### Choose the right words at the right time, and speak up!
+
 ---
 
 A Gift for You 
