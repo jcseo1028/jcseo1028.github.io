@@ -376,6 +376,97 @@ Everyone involved with the idea, project, or product should also have access to 
 
 #### Choose the right words at the right time, and speak up!
 
+Your idea cannot see acceptance if you never share it with anyone. 
+
+Voicing your thoughts and beliefs is one of the most important components of an original and unique person. 
+
+However, if you speak up at the wrong time or with the wrong attitude or words, it may cause people to ignore or dismiss your ideas. 
+
+How you offer your original thoughts goes a long way in determining whether or not people listen to you and consider the ideas you’re presenting. 
+
+People will listen and truly consider your words if they admire and/or respect you as a person. 
+
+admire
+ : 존경하다
+
+Just because you happen to have authority or are in charge of people personally, it doesn’t mean they will truly hear and analyze whatever you are presenting. 
+
+In order for them to accept your idea and message, you need to be able to present to people who will listen with an open mind.
+
+However, you do not want to only present the positive details about what you’re offering. 
+
+People will listen actively and believe you speak with credibility if you also give the negative side in order to show that you are looking at all aspects with a balanced approach. 
+
+credibility
+ : 신뢰성
+
+It is also helpful to present knowledge of your own weaknesses along with ways you plan to overcome them or the negative impact they might have on your endeavor. 
+
+A listening audience clearly knows you aren’t perfect, and to present yourself as such will deeply damage your credibility.
+
+If you can be honest about yourself as well as your ideas and products, you will present yourself as a trustworthy person. 
+
+Presenting an idea or product that is offered as a piece of perfection and the answer to everyone’s problems isn’t believable, and the audience will quickly tune out everything you have to say or jump to a negative conclusion too quickly.
+
+The founder of Babble, Rufus Griscom, realized early in the creation of his company that expressing the negative side could truly be good for his business. 
+
+When he pitched his business idea to Disney, one of his slides was titled, “Here's Why You Should Not Buy Babble.” 
+
+He proceeded to offer an accurate analysis of the things that were not working properly with Babble. 
+
+The result being Griscom was able to sell Babble to Disney for $40 million. 
+
+Disney was able to focus on the good things about Babble because they didn’t have to think of reasons why not to buy the company since Griscom provided those reasons upfront. 
+
+upfront
+ : 정직한(honest)
+ 
+New ideas, novel ideas, and complicated ideas are understood and accepted easier if they are explained in a gradual process. 
+
+gradual
+ : 점진적인, 완만한
+
+Smaller amounts of information are given at a time as the presentation of the idea is built allowing the audience to gain a measure of comfort with the newness of it all. 
+
+It is helpful if there can be a break between the actual presentation of the idea and the time people are given to evaluate it, especially if it is for something exceptionally novel and unheard of.
+
+unheard
+ : 아무도 귀 기울이지 않는
+
+Not only do you need to choose the right time for your presentation, you also need to choose the right audience. 
+
+This is one of the areas where Grant recommends a less than orthodox approach. 
+
+orthodox
+ : 정통의, 전통적인
+
+He actually suggests you avoid presenting it primarily to the people who will be the most agreeable to it. 
+
+Instead, he recommends you look for people who are critical thinkers or creative and original. 
+
+thinker
+ : 사상가
+
+People who are creative and original thinkers will be more likely to be open to the ideas you present while critical thinkers will challenge your concepts. 
+
+The challenges help you grow and develop not only the product but also your communication skills. 
+
+In general, you want to present your thoughts to those on the top tier of the hierarchy as well as those on the ground floor. 
+
+hierarchy
+ : 계층 체계
+ 
+People at the top level are more receptive to open expression while those at the bottom don’t have as much to lose when expressing their analysis honestly. 
+
+The people in between those two tiers, however, are the least likely to give you beneficial feedback because they fear losing placement in the company if they go against company norms. 
+
+You will have the best listening audience if you are able to present to those at the highest and lowest levels.
+
+#### Begin procrastination
+
+procrastination
+ : 꾸물거림, 지연
+
 ---
 
 A Gift for You 
