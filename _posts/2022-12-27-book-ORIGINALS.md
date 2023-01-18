@@ -467,6 +467,116 @@ You will have the best listening audience if you are able to present to those at
 procrastination
  : 꾸물거림, 지연
 
+At first thought, it definitely does not seem wise to encourage procrastination as a useful part of your journey to success. 
+
+However, creativity and building an idea or product can actually be enhanced and bettered simply by putting things off for a while. 
+
+put off
+ : 미루다. 연기하다
+
+Delays in the process provide the time needed to evaluate options and opportunities while avoiding or adequately managing the risks involved when making thoughtful decisions. 
+
+adquate
+ : 충분한, 적절한
+ 
+In this scenario, procrastination isn’t about simple avoidance of doing something. 
+
+Instead, procrastination in the success journey is about providing time for various ideas to be considered along with all of the options, challenges, and solutions that might also be involved. 
+
+Your approach to a situation will usually be more unique if you give yourself time to consider the options before jumping to the first response you think of. 
+
+But procrastination in and of itself won’t increase your creativity. 
+
+What you do in that time you are using for procrastination is what will inspire and enhance your creativity.
+
+People who took a break from doing a task in order to play video games were prone to come up with even better ideas if they continued to keep the task at hand in the back of their thoughts while playing games. 
+
+prone
+ : ~ 하기 쉬운
+
+One famous procrastinator was the artist Da Vinci, and he was well aware of that fact as it took 15 years to actually produce the famous painting, The Last Supper. 
+
+The Last Supper
+ : 최후의 만찬
+
+The famous speeches I Have a Dream by Martin Luther King, Jr. and the Gettysburg Address by Abraham Lincoln, were not completed until moments before they were delivered. 
+
+King even added to his speech in the middle of presenting it. 
+ 
+It is human nature to dismiss the thought of tasks and projects once they are completed. 
+
+However, unfinished tasks seem to remain in the thought process and open up opportunities for creative thinking on how to complete said tasks. 
+
+CEOs dealing with challenges and threats to their companies will be more open to new ideas and different ways to solve issues if they allow procrastination to take over for a bit. 
+
+The CEOs who do not allow that procrastination time and act quickly without much thought will tend to miss opportunities for unexpected growth and development.
+
+Obviously, an entire strategy of procrastination will not lead to ultimate success. 
+
+obviously
+ : 확실히, 분명히
+
+Marin Luther King, Jr. developed his speech for over a year while at the same time gaining a working knowledge of public speaking and developing his message as well. 
+
+While he built the foundation for his fiery speech, he also kept an open mind and was flexible to determining the content right up until the very last minute before he gave it. 
+
+By putting off the finalization of something through this kind of procrastination, you open the door to potentially powerful improvisation. 
+
+improvisation
+ : 즉석에서 하기
+
+The most iconic part of King’s speech, the statement “I have a dream!” was not originally a part of his previously prepared speech, yet it has become one of the most powerful phrases in history. 
+
+When it comes to procrastination, the key is to do so thoughtfully while creating and developing different aspects of the task or project. 
+
+thoughtfully
+ : 사려깊게
+
+Procrastination was even a part of exploring the American West successfully. 
+
+Eventual settlers who put off moving to the West for a time enjoyed a much greater level of success then did the early pioneers who jumped at the opportunity early on. 
+
+eventual
+ : 궁극적인
+
+Early pioneers had the greatest access to unknown western lands, but they also saw the greatest failures in dealing with the challenges of those new lands. 
+
+Settlers moved much slower and gained immeasurable benefits in learning from what the pioneers had learned the hard way.
+
+immeasurable
+ : 헤아릴 수 없는
+
+Products that are new, innovative, and hurriedly put on the market actually have a 75% failure rate. 
+
+This is usually because the market they were being sold to was not quite ready for them at the time. 
+
+The entrepreneurs who get to enjoy successful ventures are ones who have learned to wait when introducing their product. 
+
+They wait for the right time to do so instead of charging in with a high risk of getting negative exposure that is detrimental to their success. 
+
+detrimental
+ : 해로운
+
+If you are the first one to get your product on the market, you are also the first one to potentially make mistakes with that product. 
+
+Sometimes being first on the market is part of the plan, and if that’s the case, Grant recommends taking time to ensure your technology has a patent and there is an appropriate network in place to receive your product.
+
+patent
+ : 특허권
+
+appropriate
+ : 적절한
+
+#### Formation of an excellent alliance. 
+
+alliance
+ : 동맹
+
+formation
+ : 형성
+
+
+
 ---
 
 A Gift for You 
