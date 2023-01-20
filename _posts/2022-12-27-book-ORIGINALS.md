@@ -575,6 +575,84 @@ alliance
 formation
  : 형성
 
+Grant has many suggestions for how to go about creating great alliances. 
+
+For example, strangers can work better together if they first sing a few well-known songs together. 
+
+If people do a few things in the same way, common ground is easier to found and enables different people to work well together even when their reasons for doing so are different. 
+
+Grant reminds us that there is a limit to this kind of collaboration however. 
+
+collaboration
+ : 공동작업, 협업
+
+Groups also need to employ a variety of working methods in order to teach each other how to do things a little differently and grow in experience. 
+
+When people share emotions together, it can sometimes make them feel an unusual bond whether those emotions are positive or negative.
+
+The presence of innovative ideas and methods of thinking will attract success and progress. 
+
+Introducing new ideas to any kind of group gives it opportunities for growth. 
+
+One of the best ways to introduce new ideas to a group is to collaborate with another group that has slightly lower or higher status in order to provide the most potential for growth.
+
+Sometimes radical ideas that would otherwise be rejected as a whole can be implemented simply by giving various members of the alliance only a small piece the overall information – just enough to complete their part of the project. 
+
+radical
+ : 급진적인
+
+Once they see their part succeed and watch other small parts succeed, the big, new idea becomes more acceptable. 
+
+People who might have rejected the entire idea out of hand in the beginning will support its potential in the end this way. 
+
+Extremely innovative and unusual ideas might need to be downplayed a bit when offered to larger audiences in order to not be rejected in the beginning. 
+
+downplay
+ : 경시하다, 하찮게 생각하다.
+
+This is kind of like the tactic many salespeople employ of merely getting their foot in the door in the beginning of the sales pitch which will lead to a better opportunity to present their sales pitch as a whole. 
+
+tactic
+ : 전략 전술
+
+Someone who will agree to buy a small product tends to become more willing to buy larger, more expensive products from the same seller. 
+
+Alliances, organizations, and ideologies can fall apart if the people involved are not willing to subdue the more radical ideas until the time is appropriate for sharing them.
+
+ideology
+ : 이데올로기, 신념
+
+fall apart
+ : 결단나다, 다 허물어질 정도이다.
+
+Grant also explains the need to avoid the whole situation of “frenemies.” 
+
+frenemy 
+ : friend + enemy
+
+Frenemies are those people who are supportive of you and your goals one day, but the next day they are voicing and even leading opposition to your ideas. 
+
+You actually need to know who your true enemies are and what they are saying about you and your idea. 
+
+That is much more beneficial than frenemies who change their opinion of you repeatedly and cannot be trusted. 
+
+Enemies provide a viewpoint that you may not have heard before, and once you honestly resolve issues enemies had with you or your ideas, they might turn into your most trusted advisors and salespeople. 
+ 
+Another tactic to employ during your presentation of new ideas is to offer familiar and comfortable information alongside your new and innovative ideas. 
+
+For example, those who fought for the suffrage movement did so by extolling the familiar virtue of “protecting the home.” 
+
+Women in those days were already comfortable with being in the position of protecting their homes, so the temperance movement gained many allies by showing women how their movement continued the principle of protecting the home. 
+
+temperance
+ : 금주, 절제
+ 
+Grant recommends two main strategies for creating an alliance: 
+
+one, explain how your ideas will actually assist people in fighting for their own values, and two, learn how to express your ideas in a way that fits the audience you are speaking to.
+
+
+#### The family tree of origins. 
 
 
 ---
