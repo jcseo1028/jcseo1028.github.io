@@ -654,7 +654,45 @@ one, explain how your ideas will actually assist people in fighting for their ow
 
 #### The family tree of origins. 
 
+Studies show that children born into households with older siblings are generally thought to be risk takers and more likely to rebel against the status quo than first-born children. 
 
+household
+ : 가정
+
+sibling
+ : 형제자매
+
+rebel
+ : 반역자, 반대자
+   반항하다, 저항하다
+
+These children are called laterborns and tend to exhibit more rebellious tendencies than older siblings. 
+
+laterborn
+ : 
+
+rebellious
+ : 반항적인
+
+tendency
+ : 성향, 기질, 경향
+
+Parents generally have two ways to deal with such children. 
+
+They can either allow them a measure of freedom and give them tools and safe methods for expressing their originality, or they can attempt to stifle that rebellion by removing any freedom of expression. 
+
+stifle
+ : 억누르다, 억압하다
+
+rebellion
+ : 반항, 반란
+
+The former method can be dangerous while the later method can stifle creativity and growth. 
+
+The question then is how to actually use the proclivity for rebellion for the good of the children and their originality without putting them and other people at risk because of dangerous behavior.
+
+proclivity
+ : 성향
 
 ---
 
