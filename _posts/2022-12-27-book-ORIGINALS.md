@@ -694,6 +694,83 @@ The question then is how to actually use the proclivity for rebellion for the go
 proclivity
  : 성향
 
+Grant recommends parents use discipline closely coupled with reasoning to deal with such children. 
+
+discipline
+ : 규율, 훈육
+   징계하다, 훈육하다
+
+reasoning
+ : 추론, 추리
+
+You don’t want to merely use “right” and “wrong” statements. 
+
+Instead, use logic to explain the reasons why something is wrong and how doing wrong will hurt other people. 
+
+Quite often, the people who grow to become strong defenders of weak and disadvantaged people were nurtured by parents who raised them to be focused on family values. 
+
+They also taught them the importance of personal character more than being focused on obedience, control, and punishment. 
+
+obedience
+ : 복종, 절대적인 순종
+
+Most of the people who rescued Holocaust victims differed from the people who silently did nothing because of how their parents raised them. 
+
+victim
+ : 피해자
+
+Rescuers were raised with a focus on personal character and values along with a clear respect for all humanity – not just friends and family.
+
+rescuer
+ : 구조자, 구출자
+
+Raising children who have the ability to behave with a great level of ethics and character as adults takes careful thought in the words you choose to use in various teaching moments. 
+
+ethics
+ : 윤리학, 도덕
+
+Children internalize what you teach them about character, and teaching them not to be a cheater is much more important than just telling them not to cheat. 
+
+internalize
+ : 내면화하다.
+
+cheat
+ : 속이다, 사기치다
+   속임수, 사기꾼
+ 
+Beyond parental influence, children also need additional role models. 
+
+beyond
+ : 저편에
+   (특정한 시간을)지나
+   건너편에, 그 너머에
+   그 이후에
+
+Children will find role models in fictional stories or in their community, but they will find people they admire and want to copy outside of the family unit. 
+
+admire
+ : 존경하다, 칭찬하다
+
+The Harry Potter series of books may carry unknown value in influencing many children to have compassion and understanding for those fighting various sorts of discrimination or marginalization.
+
+discrimination
+ : 차별
+
+marginalization
+ : 소외, 주변화
+
+marginal
+ : 미미한, 중요하지 않은
+   주변부의
+
+#### Groupthink thoughts and traits.
+
+groupthink
+ : 집단 사고
+
+trait
+ : (성격상의 특성)
+
 ---
 
 A Gift for You 
