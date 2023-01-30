@@ -771,6 +771,80 @@ groupthink
 trait
  : (성격상의 특성)
 
+By definition, groupthink is pretty much the opposite of uniqueness and creativity. 
+
+uniqueness
+ : 고유함
+
+When people do not voice their thoughts and opinions that differ from the norm or the status quo, originality slowly dies. 
+
+originality
+ : 독창성
+
+The question is how do you fight against groupthink while also promoting an appropriate alliance? 
+
+Grant believes this is where the concept of commitment blueprint comes into play. 
+
+commitment
+ : 약속
+
+blueprint
+ : 청사진
+
+This concept describes having people on the team who can fit in culturally with the other people in the group. 
+
+This type of team tends to be able to stay together much better than those who don’t fit together culturally. 
+
+Once you have a team with a similar commitment blueprint, you then need to find a way to keep the commitment strong while also utilizing feedback, opinions, and constructive criticism from people who don’t fit the culture but have necessary and valuable evaluations and perspectives on the primary ideas.
+
+The answer lies in building a culture within the team that will encourage and ask team members to challenge each other and purposely think differently when needed in order to come up with new viewpoints. 
+
+It also means new team members need to feel comfortable presenting different ideas and methods to the group from the very beginning once they are hired and even beforehand during the interview process.
+
+beforehand
+ : 사전에, 전에 미리
+
+Grant analyzes Bridgewater which is an investment company that sees loss as well as profit each and every day. 
+
+The focus of Bridgewater’s culture is keyed in on how employees work with each other and how people are encouraged to be creative and engage in conversations even when they disagree. 
+
+engage
+ : 사로잡다, 고용하다, 관계를 맺다
+
+This focus is for everyone in the company from the CEO down to the newest janitor. 
+
+janitor
+ : 관리자(caretaker)
+
+The point is, a strong business culture must allow and even encourage respectful disagreement as a key component of the company’s culture. 
+
+However, the characteristic of just being plain disagreeable is not helpful – the dissent must be appropriate and purposeful in order to be useful. 
+
+dissent
+ : 반대, 반대 의견
+   반대하다.
+
+But when said dissent is natural and honest, it will open the way for creativity along with clarity and eventual confidence. 
+
+clarity
+ : 명료성
+
+Building such an honest culture where dissent is not only accepted but appreciated will in turn create an atmosphere where the tendency to groupthink will be null and void. 
+ 
+Grant also speaks against another common misperception of managers who believe the staff under them should be focused on providing solutions to any pre-sented problems instead of just presenting the challenges that have come up. 
+
+Instead, Grant believes the focus should actually be on those problems – not solutions. 
+
+When the problems are thoroughly explored and understood and all ideas critically evaluated, the group will come up with solutions that are clear, thoughtful, and able to stand up against analysis.
+
+come up with
+ : 제시하다, ~을 생산하다.
+
+#### The emotions of an original. 
+
+emotion
+ : 감정, 정서
+
 ---
 
 A Gift for You 
