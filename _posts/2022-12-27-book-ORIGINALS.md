@@ -845,6 +845,118 @@ come up with
 emotion
  : 감정, 정서
 
+Being an original person is not easy. 
+
+At times, you are sure to face anxiety, fear, discouragement, and a host of other unpleasant emotions. 
+
+anxiety
+ : 불안, 염려, 걱정거리
+
+Grant offers strategies from Psychologist Julie Norman to use when dealing with emotions – the defensiveness of pessimism and the mindset of an optimist. 
+
+defensiveness
+ : 방어적임, 수동적임.
+
+pessimism
+ : 비관 주의
+
+The main strategy an optimist uses is a tendency to center one’s attention on the best side of things. 
+
+tendency
+ : 성향, 기질, 경향
+
+A pessimist’s defensive nature considers everything that might go wrong and feels negative emotions that will come when things eventually go wrong. 
+ 
+Surprisingly, quite often the defensive pessimists are the ones who actually find the most success. 
+
+This is probably because they consider what may be the worst outcomes and then try to figure out ways to avoid those worst-case scenarios. 
+
+They get anxious and stressed out before it is technically time for such emotions, but when those bad times come, they are more than prepared.
+
+Other methods for handling negative emotions is to pretend or act, re-label, or reframe them. 
+
+pretend
+ : ~인 척 행동하다. 가식적으로 행동하다
+
+Take fear, for example. Fear can be labeled as excitement. 
+
+Changing the name of the emotion can change how you respond to it. 
+
+The outcome in such situations can turn out quite well even when there is just cause to be afraid. 
+
+Humor can also be used to transform fear. 
+
+A caricature of a frightful dictator can help reduce one’s fear in speaking up against him because it is hard to be afraid of someone you’re laughing at. 
+
+frightful
+ : 끔직한, 무서운
+
+dictator
+ : 독재자
+ 
+In addition, if you act like or pretend you are not afraid, it can lead to you actually overcoming the negative aspects of fear. 
+
+Method acting where you take on the character of a powerful persona can help change your own limiting emotions. 
+
+Reframing the scary situation can also help in managing fear. 
+
+scary
+ : 무서운, 겁나는
+
+reframe
+ : 다시 구성하다
+ 
+If you are dealing with anger, venting that anger is not usually a helpful strategy in the end. 
+
+vent
+ : (감정,분통을)터뜨리다.
+   통풍구, 환기구
+
+Instead, change the way you look at the situation or person that is the perceived source or cause of the anger. 
+
+Change the focus of your attention away from being angry at someone, and in turn, try to focus on someone else who encourages you to improve the world or system so they can receive justice.
+
+#### Closing Thoughts 
+
+**CORE CONCEPTS**
+Positive change and momentum for improvement is created through originality in families, communities, and business situations. 
+
+momentum
+ : 모멘텀, 탄력, 가속도
+
+Originality can be learned at any stage in life, and you can also learn how to inspire others to be original and raise children who are original individuals.
+
+**ACTION POINTS**
+
+Originality can be increased by appropriate procrastination, requesting feedback, challenging status quo, creating multiple ideas, and looking for new and different situations. 
+ 
+Express your original ideas while also taking care not to offer a “perfect” version of your idea. 
+
+Voice legitimate reasons to not support the idea you’re expressing which will help the audience be more comfortable with what you’re saying as well as your trustworthiness. 
+
+legitimate
+ : 적당한, 타당한, 적당한
+
+trustworthiness
+ : 신뢰성
+ 
+Take advantage of your own emotions by setting your focus on improving the status quo, choosing what motivates you, focusing your anger on being for something instead of against, and reframing or re-labeling fear. 
+ 
+Utilize your place as a leader by welcoming challenges and criticism, including every employee in the creative process of coming up with ideas along with evaluation, supporting people in playing the role of “devil’s advocate”, and encouraging activities in creativity. 
+
+devil’s advocate
+ : 악마의 변호인, 일부러 반대 입장을 취하는 사람. 
+
+When raising children, place your focus on family values, encourage your children to find appropriate role models, and help them develop empathy and the ability to realize how their actions affect other people.
+
+empathy
+ : 감정이입, 공감
+
+
+The Autho's Homepage
+ - https://adamgrant.net/
+
+
 ---
 
 A Gift for You 
