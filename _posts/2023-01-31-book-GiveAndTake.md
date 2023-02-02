@@ -9,6 +9,8 @@ published: false
 
 #### DEFINING TAKERS
 
+Taker 정의하기
+
 We've all encountered that one person that has no problem doing all the taking. 
 
 These are people who don't care about other people's needs but instead only focus on themselves. 
@@ -119,7 +121,71 @@ deem
 
 #### WHAT MAKES A GIVER?
 
+무엇이 Giver를 만드는가?
 
+You might have recalled at some instance how someone has given you a selfless favor. 
+
+selfless
+ : 사심 없는
+
+favor
+ : 호의
+
+Whether it's help that came in the form of a helping hand in a project, a job or even advice, we've all met individuals who basically gave themselves without asking back. 
+
+These people are called givers. 
+ 
+These people happily share ideas, items or work with other people. 
+
+In most of their dealings, they give more than what they can ever receive. 
+
+They lend their experience, support and time without complaint. 
+
+lend
+ : 빌려주다.
+
+They are not after recognition and prefer to focus on providing value to the individuals they come in contact with. 
+
+For a giver, the capacity to help someone is worth it because it creates a positive vibe for all those that are involved. 
+
+vibe
+ : 분위기, 낌새, 느낌
+ 
+A worthy example of a giver is George Meyer, Emmy award winning writer of The Simpsons. 
+
+Over his entire career, he has contributed to over 300 episodes of the show. 
+
+However, he is only listed in 12 episodes in the credits as the head writer. 
+
+He basically wanted the show to succeed instead of focusing on taking the credit. 
+ 
+After a little research, it was also discovered that he invented "meh." 
+
+meh
+ : 영 별로인
+
+The word is used to signal apathy or boredom and was first used by Bart Simpson. 
+
+apathy
+ : 무관심
+
+Today, you can find it in daily vocabulary and listed in dictionaries. 
+
+Meyer didn't even take credit for it because he even forgot he created it. 
+
+In fact, his associate writers needed to prompt him about it. 
+ 
+For givers, they know that the main idea of collaboration is for the group to succeed. 
+
+They mainly focus in creating an abundant environment for themselves as well as for the entire group around them.
+
+abundant
+ : 풍부한
+
+#### MATCHERS AND FINDING A BALANCE
+
+matcher
+ : 잘 어울리는 사람. match 하는 사람.
 
 ---
 
