@@ -187,6 +187,60 @@ abundant
 matcher
  : 잘 어울리는 사람. match 하는 사람.
 
+For matchers, equality is the name of the game. 
+
+They want each individual to receive fair treatment. 
+
+Parents with a matcher's personality are those who give their kid's allowance depending on the completed chores they have done. 
+
+chore
+ : (정기적으로 하는)일, (하기싫은)일
+
+A friend who constantly reminds you of the last time they did you a favor when you asked for help on something is likely a matcher as well. 
+
+Compared to takers or givers, a matcher creates exchanges that are equal without bias to any one side. 
+
+exchange
+ : 교환
+ 
+Everyone should be in equal terms according to matchers. 
+
+Every resource and idea should flow from one person to the other in complete balance. 
+
+Those who have gained an advantage using an unusual trade are often frowned upon since matchers always assume they'll receive something in exchange for extending help. 
+
+frown
+ : 얼굴을 찌푸리다.
+
+In return, a matcher that has received favor will have the obligation to return the favor as well. 
+
+In return
+ : 그 대가로
+
+obligation
+ : 의무
+ 
+The way they see the world, if they have given help to someone, they expect to receive help later on when they ask. 
+ 
+Majority of people are likely matchers. 
+
+It's particularly noticeable inside a workplace and oftentimes it's the driving mechanism behind commercial trade. 
+
+A nice example of this is Craigslist. 
+
+This website is dedicated to matching – allowing people who have something to sell like goods and skills to pair with individuals who can purchase them. 
+ 
+For matchers, balance is beautiful. 
+
+Regardless of whether they trade physical or intangible items like ideas or talent; equal taking and giving should be the main measure of interaction.
+
+intangible
+ : 뭐라고 말할 수 없는, 무형의
+
+#### INTERACTION AND HOW IT AFFECTS HOW WE TAKE AND GIVE 
+
+
+
 ---
 
 DEFINING TAKERS 
