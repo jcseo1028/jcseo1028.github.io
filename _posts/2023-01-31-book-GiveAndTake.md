@@ -239,7 +239,33 @@ intangible
 
 #### INTERACTION AND HOW IT AFFECTS HOW WE TAKE AND GIVE 
 
+Each one of us has a dominant style in how we take, give and match but on occasion, we do adapt ourselves to suit particular people as well as situations. 
 
+dominant
+ : 우세한, 지배적인
+
+on occasion
+ : 가끔
+ 
+It's part of our nature to conform when we're in a group and at some point, when it's expected of us. 
+
+Generally, for instance, takers are generous whenever with other people because they don't like to be branded as a miser. 
+
+Meanwhile, givers hold off on being generous for fear it'll be seen as a form of weakness. 
+ 
+Aside from group pressure, generosity can also be affected by the amount of simi-larity people see in themselves compared to another individual. 
+
+If they are quite similar, the person is likely to give more as well. 
+
+One time, a study was conducted on fans of the soccer team Manchester United. 
+
+The fans would encounter a sup-posedly injured runner. 
+
+About 92% of the soccer fans stopped to help when they saw the runner wearing a Manchester United shirt but it drastically dropped to only 33% when the injured runner was using only a plain white shirt. 
+
+This shows that the more an individual is similar to a person, the more likely they are to give. 
+ 
+Overall, people around including yourself help shape the behavior of those you happen be with even when you don't realize it.
 
 ---
 
