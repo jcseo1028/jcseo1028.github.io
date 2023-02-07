@@ -251,21 +251,47 @@ It's part of our nature to conform when we're in a group and at some point, when
 
 Generally, for instance, takers are generous whenever with other people because they don't like to be branded as a miser. 
 
+generous
+ : 후한, 넉넉한
+
+miser
+ : 구두쇠
+
 Meanwhile, givers hold off on being generous for fear it'll be seen as a form of weakness. 
+
+hold off
+ : 시작하지 않다, 미루다, 보류하다
+
+meanwhile
+ : 그 동안에, 한편
  
-Aside from group pressure, generosity can also be affected by the amount of simi-larity people see in themselves compared to another individual. 
+Aside from group pressure, generosity can also be affected by the amount of similarity people see in themselves compared to another individual. 
 
 If they are quite similar, the person is likely to give more as well. 
 
 One time, a study was conducted on fans of the soccer team Manchester United. 
 
-The fans would encounter a sup-posedly injured runner. 
+conduct
+ : 하다, 지휘하다.
+
+The fans would encounter a supposedly injured runner. 
+
+supposedly
+ : 추정상, 아마
 
 About 92% of the soccer fans stopped to help when they saw the runner wearing a Manchester United shirt but it drastically dropped to only 33% when the injured runner was using only a plain white shirt. 
+
+drastically
+ : 극단적으로, 급격하게
 
 This shows that the more an individual is similar to a person, the more likely they are to give. 
  
 Overall, people around including yourself help shape the behavior of those you happen be with even when you don't realize it.
+
+#### THE PROBLEM WITH PUSHY TAKERS 
+
+
+
 
 ---
 
