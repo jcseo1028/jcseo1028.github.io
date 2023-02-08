@@ -290,8 +290,72 @@ Overall, people around including yourself help shape the behavior of those you h
 
 #### THE PROBLEM WITH PUSHY TAKERS 
 
+pushy
+ : 억지가 쎈, 뻔뻔한
 
+Common knowledge states that in order to achieve success, you need to take what you want. 
 
+common knowledge
+ : 상식
+
+However, relying on history, people who do take excessively can cause others to lose respect for them. 
+
+When this happens, their reputation is the first to become damaged and they also sabotage their own path to success because no one will want to work with them. 
+
+reputation
+ : 평판, 명성
+ 
+One famous example of this excessive taking is the scientist, Jonas Salk. 
+
+He developed the vaccine for polio with assistance from various professionals, scientists, a research team and thousands of volunteers. 
+
+polio
+ : (척수성) 소아 마비
+
+volunteer
+ : 자원 봉사자
+
+However, during the official press conference, Salk never thanked his team and this caused a rift and upset a lot of his members. 
+
+upset
+ : 속상하게 만들다.
+
+This selfishness backfired on him and he never got inducted in the National Academy of Sciences but a lot of other polio researchers did. 
+
+backfire
+ : 역효과를 낳다.
+
+Salk also didn't receive a Nobel Prize despite his contribution. 
+
+Others have claimed that this was directly the result of him not acknowledging how others have helped him during the process. 
+ 
+Famous architect, Frank Lloyd Wright, was also known as an extreme taker. 
+
+All of Wright's apprentices had to list down Wright's name in all of the buildings they designed. 
+
+apprentice
+ : 수습생, 도제
+
+They also didn't receive payment. 
+
+Even more scandalous to this is when Wright's son worked for him and requested payment but in turn, Wright sent him a bill of his living costs while under him. 
+
+scandalous
+ : 가증스러운
+
+One of Wright's clients even declared that he favored working with the apprentices as opposed to the architect because of his selfishness and disregard for people that worked hard for him. 
+
+This cost Wright a lot of business. 
+ 
+Both Salk and Wright are good examples of taker's tax at work. 
+
+This is a tax that consists of distributing word about a taker's bad behavior and in turn causes major damage to their reputation.
+
+It's often used by people to punish takers. 
+ 
+While takers might get to enjoy success for a limited period and help society, eventually the takers tax will take effect and stop them from succeeding further.
+
+#### GIVERS AND ACHIEVING THE OVERALL GOOD 
 
 ---
 
