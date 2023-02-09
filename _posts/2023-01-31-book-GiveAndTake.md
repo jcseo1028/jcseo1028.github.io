@@ -357,6 +357,64 @@ While takers might get to enjoy success for a limited period and help society, e
 
 #### GIVERS AND ACHIEVING THE OVERALL GOOD 
 
+When achieving success in the professional life, people have the mistaken notion that it's better to take rather than to give. 
+
+notion
+ : 개념, 관념, 생각
+
+This is especially evident in areas of business and politics where everything is cutthroat. 
+
+cutthroat
+ : 잔인한, 살인의, 흉악한 
+  살인자, 극악무도한 사람
+
+However, what's unusual is that givers usually succeed in environments like this because when they help others, it often benefits them as well. 
+
+unusual
+ : 특이한
+ 
+Abraham Lincoln is a prime example of serving the greater good as opposed to cutting him a big piece of the pie. 
+
+Before he went on to become a president, he dropped from the competition in a senatorial race so Lyman Trumbull, his opponent, could win. 
+
+senatorial race
+ : 상원위원 선거전
+
+He dropped out because he knew that Trumbull had the same dream as he did, which was to eliminate slavery. 
+
+slavery
+ : 노예 제도
+
+He also thought that Trumbull had a better chance of winning. 
+
+Later on, Trumbull returned the favor by recommending Lincoln when he ran for senate again. 
+
+senate
+ : 상원, 평의회, 원로원
+ 
+A more recent example is that of Jason Geller. 
+
+He is from Deloitte Consulting and is known for creating a management system that helps to store and gather information on competitors as well as clients of the company. 
+
+Instead of keeping the information to himself, he shared this data with his coworkers hoping they could use it to help the company succeed. 
+
+Geller's supervisor and heads were impressed with his generosity and he was soon promoted – becoming the younger ever Deloitte partner. 
+
+supervisor
+ : 감독관, 관리자, 지도교수
+
+generosity
+ : 너그러움
+
+Because givers are naturally drawn in the greater good, it gives them a great opportunity to rise to the heap of the pile, influence and take on powerful positions in their field.
+
+pile
+ : 포개놓은 것, 더미
+
+#### BUILDING INTERPERSONAL NETWORKS AS A GIVER 
+
+
+
 ---
 
 DEFINING TAKERS 
