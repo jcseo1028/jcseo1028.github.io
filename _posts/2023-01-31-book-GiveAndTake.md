@@ -237,6 +237,9 @@ Regardless of whether they trade physical or intangible items like ideas or tale
 intangible
  : 뭐라고 말할 수 없는, 무형의
 
+interaction
+ : 상호작용
+
 #### INTERACTION AND HOW IT AFFECTS HOW WE TAKE AND GIVE 
 
 Each one of us has a dominant style in how we take, give and match but on occasion, we do adapt ourselves to suit particular people as well as situations. 
@@ -413,7 +416,51 @@ pile
 
 #### BUILDING INTERPERSONAL NETWORKS AS A GIVER 
 
+Ever felt embarrassed about asking people for help especially if you've never been in touch with them for a long time? 
 
+오랫동안 연락하지 않은 사람에게 부탁할 때 창피한 적이 있으신가요?
+
+Givers usually don't get this feeling. 
+
+Even if they don't keep close touch with the person, the trust they have in them along with their readiness to help out is strong. 
+
+readiness
+ : 준비가 되어 있음. 기꺼이 하려는 상태
+
+They never think twice about asking for a favor despite the silence – these are favors they need or for other people. 
+ 
+For 2011, Adam Rifkin was hailed by Fortune Magazine as the best networker. 
+
+He is also a great giver. Rifkin helped create the 106 Miles group, which gathers entrepreneurs twice every month in order to network and to share information. 
+
+He uses the meetings as a way to help others find jobs, provide advice on new ideas as well as allow strangers access into his web of contacts. 
+ 
+Because of his generosity, he is well-respected and was even able to ask the cofounder of Excite, Graham Spencer, to give him pointers regarding his new venture, 
+
+despite the fact that he had never talked with Spencer for more than 5 years. 
+
+Most people never hesitate to get in touch with a giver because they already know these people are not driven by selfish reasons. 
+
+hesitate
+ : 망설이다, 주저하다
+ 
+The positive effects of sharing resources and information are real for givers. 
+
+They can create a large, thriving network because they already have an established positive reputation and known for reciprocating help if it is received.
+
+thrive
+ : 번창하다, 잘 자라다
+
+reputation
+ : 명성
+
+reciprocate
+ : 화답하다. 응답하다
+
+#### HOW GIVERS NURTURE TALENT AND POTENTIAL 
+
+nurture
+ : 양육하다, 보살피다.
 
 ---
 
