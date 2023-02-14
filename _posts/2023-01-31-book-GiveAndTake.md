@@ -461,6 +461,114 @@ reciprocate
 
 nurture
  : 양육하다, 보살피다.
+For most people, the idea of becoming a mentor can be dependent on a few factors. 
+
+Chances are, when people first consider it, they examine their mentee first to see if they are worth mentoring and if they possess the actual talent. 
+
+For givers, however, the situation is handled rather differently. 
+
+Givers believe that each person features potential and they instead dive into nurturing them. 
+
+With such great support, it often leads the protégée to easily find success, and in turn, the success reflects positively on the mentor that helped make it possible. 
+ 
+Stu Inman, the NBA manager, is a great giver. 
+
+Inman glossed over several legends while in the making like Michael Jordan but he did take on Clyde Drexler. 
+
+During this instance, Drexler was unimpressive but he went on to become part of the Olympics, including ten all-Star Teams and eventually got inducted on the Basketball Hall of Fame. 
+
+unimpressive
+ : 인상적이지 못한
+
+induct
+ : 입대시키다. 가입시키다.
+
+With Inman's perseverance, he gathered a status for taking in undervalued players and shaping them to become one of the world’s best. 
+
+perseverance
+ : 인내
+ 
+Accounting professor, C.J. Skender, is another individual who had the same interests. 
+
+He is a fantastic mentor to his students and going as far as sending each student a congratulations letter after they took the CPA exam, even if the student didn't pass. 
+ 
+As a result, more than 40 of Skender's students were named for their exceptional performance as CPA's. 
+
+Reggie Love, Barack Obama's current personal assistant, is also Skender's former student. 
+ 
+By witnessing greatness in everything and everyone, givers help create and foster an environment of success. 
+
+As a result, the triumph of the people they have helped become their own.
+
+#### THE POWER OF YIELDING POWER IN COMMUNICATIONS 
+
+Individuals often associate success with self-possessed speaking and assertiveness. 
+
+assertiveness
+ : 자기 주장
+
+However, through formal studies, the idea of powerless communication is actually more beneficial compared to declaring a bold conviction. 
+
+conviction
+ : 유죄선고, 신념, 확신
+ 
+Powerless communication means giving up control of the conversation to the audience instead of dominating it. 
+
+In other words, givers often take to listening as opposed to talking. 
+
+However, this doesn't mean silence. 
+
+Powerless communication means asking questions or asking for advice. 
+
+It's basically taking on a more submissive role instead of creating a domineering stance. 
+
+submissive
+ : 순종적인, 고분고분한
+ 
+A study conducted on optometrists showed that opticians who were clear givers also had some of the best sales. 
+
+optometrist
+ : 검안사(눈을 검사하는 사람?)
+
+optician
+ : 안경사, 안경점
+
+It's their communication style that has paved the way for them to succeed. 
+
+pave
+ : 포장하다.
+
+Kildare Escoto is a great example of a successful optician. 
+
+Escoto would not sell his products to his customers and instead ask them about their desires and the type of lifestyle they led.
+
+In exchange, this created a bond and gave him an opportunity to serve his clients better. 
+ 
+Annie, a scientist, was nearly complete with her MBA when the company she was worked for needed to close the facility she worked in. 
+
+A transfer was optional but it meant having to move out and give up on school. 
+
+Instead of demanding a solution to the problem, she instead inquired for the HR Manager's advice and because of her humble demeanor, she was given permission to use the company jet so she can commute from her job at the new facility to attend classes at the old school. 
+
+humble 
+ : 겸손한
+
+demeanor
+ : 처신, 거동, 행실
+ 
+Those who become masters of powerless communication can create considerable advantages. 
+
+Clear givers that have learned how to communicate like this are more likely trusted and have a receptive audience whenever they ask for help.
+
+receptive
+ : 수용적인
+
+#### THE EFFECT OF ABUSE AND BURN OUT ON GIVERS
+
+여기부터
+
+#### SUMMARY
+
 
 ---
 
