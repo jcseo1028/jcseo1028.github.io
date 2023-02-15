@@ -565,9 +565,142 @@ receptive
 
 #### THE EFFECT OF ABUSE AND BURN OUT ON GIVERS
 
-여기부터
+abuse
+ : 남용, 학대
+
+Because of the high demand, generosity is usually the easiest path to obtaining success. 
+
+generosity
+ : 너그러움, 관대함
+
+However, this does not imply that givers cannot be broken. 
+
+If a giver is in a high demand or stressful situation, they can burn out. 
+
+burn out
+ : 에너지를 소진하다, 다 타다.
+
+Takers will always exploit those who are givers and it's important for the latter to know how to keep their energy levels up and face the challenges in a way that's healthy for them. 
+
+exploit
+ : 이용하다, 착취하다
+
+latter
+ : 후자의
+ 
+Surprisingly, it's been discovered that givers bounce back from burnout in weird ways. 
+
+bounce back
+ : 다시 회복되다. (=recover)
+
+weird
+ : 기이한, 기묘한
+
+When they see the overall results of what they're doing, it gives them a great boost. 
+
+boost
+ : 신장시키다, 북돋우다
+   격려, 힘, 부양책
+ 
+As a schoolteacher, Conrey Callahan was near the burning point. 
+
+Instead of giving in, she decided to give out a mentoring program. 
+
+And this actually worked so much better because it gave her a chance to see the effect she makes on the lives of her students.
+
+It also helped create more energy so she could pursue the mentoring as well as the teaching job. 
+
+pursue
+ : 추구하다, 밀고 나가다
+ 
+Aside from clear burnout, givers also need to fend off demanding takers. 
+
+This is where the term "doormat" originated from, when a giver doesn't know how to protest if they are treated unfairly. 
+
+originate
+ : 비롯되다, 발명하다
+
+protest
+ : 항의하다, 이의를 제기하다.
+
+It's important that givers learn how to interact with others in a way that gives them a chance to share their gifts without getting them abused. 
+
+interact
+ : 소통하다, 상호작용을 하다.
+
+Generally, this means adopting an attitude of quid pro quo (giving something and getting something) but with a slight leaning towards giving, of course. 
+
+Givers who are smart often take notice of the action of takers surrounding them and matching this equally. 
+
+A gesture of generosity done occasional is more than enough to help preserve the giver's self-worth while also delivering a positive vibe. 
+
+occasional
+ : 가끔의
+
+vibe
+ : 분위기
+
+preserve
+ : 지키다, 보잔하다.
+
+self-worth
+ : 자존감
+
+Learning how to control over-generous impulses is a great way for givers to discover success without transforming into a taker's doormat. 
+
+doormat
+ : 몸종, 시키면 뭐든 다하는 사람
+
+This defensive measure can help them discover their true potential while allowing them to share the rewards with everyone.
 
 #### SUMMARY
+
+In order to succeed in both collaborative and personal projects, it's best to give more than to receive. 
+ 
+Having an attitude of competition and self-interest is usually linked to successful people but upon closer examination, scientifically; these are not the true traits to gain success. 
+
+It's not just takers who go on to succeed in life but givers can also attain their own success. 
+
+attain
+ : 이루다, 이르다
+
+Aside from that, givers can also spread their success on the people surrounding them. 
+ 
+In summary, the answer to these three questions should be helpful: 
+ 
+What are the kinds of personal interaction? 
+ 
+Matchers – people who prioritize equal exchange and fairness 
+
+prioritize
+ : 우선순위를 매기다, 우선적으로 처리하다
+
+Takers – self-centered individuals who are focused in gaining things for their benefit 
+
+Givers – people who are motivated to help others achieve their own goals 
+ 
+Why does taking become a long-term problem? 
+
+왜 취하기만 하는 것이 장기적인 문제가 되는가?
+ 
+Because the act of constantly taking can make other people lose respect for you and also damage your reputation. 
+ 
+How do you transform yourself to be more of a giver? 
+ 
+Dwell on creating happiness within the community or group of people around you. 
+
+Create and foster relationships and use these to help other people. 
+
+Create a positive impression and believe that every person has an innate talent. 
+
+Learn how to make use of powerless communication. 
+ 
+What are the dangers of giving? 
+ 
+A giver needs to be wary of takers who are abusive and will treat their relationship/friendship with givers unfairly.
+
+wary
+ : 경계하는, 조심하는
 
 
 ---
