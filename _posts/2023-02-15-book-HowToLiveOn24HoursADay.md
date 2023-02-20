@@ -173,6 +173,108 @@ It is unstealable.
 And no one receives either more or less than you receive.
 (그리고 당신이 받는 시간보다 더 많이 받거나 덜 받는 사람은 아무도 없습니다.)
 
+Talk about an ideal democracy!
+
+democracy
+ : 민주주의, 민주국가
+
+In the realm of time there is no aristocracy of wealth, and no aristocracy of intellect. 
+
+realm
+ : 영역, 왕국
+
+aristocracy
+ : 귀족 계층
+
+Genius is never rewarded by even an extra hour a day. 
+
+And there is no punishment. 
+
+Waste your infinitely precious commodity as much as you will, and the supply will never be withheld from you. 
+
+commodity
+ : 상품, 물품, 원자재
+
+withhold
+ : 주지 않다.
+
+No mysterious power will say:–
+
+“This man is a fool, if not a knave. 
+He does not deserve time; 
+(그는 시간을 받을만한 자격이 없다.)
+he shall be cut off at the meter.” 
+
+knave
+ : 악당
+
+deserve
+ : ~을 받을 만하다.
+
+It is more certain than consols, and payment of income is not affected by Sundays. 
+(이것은 좀더 consol보다 확실하고, 수입의 지불에 영향을 받지 않는다. 일요일에도.
+
+Moreover, you cannot draw on the future. 
+
+Impossible to get into debt! You can only waste the passing moment. 
+(시간은 빚을 낼 수도 없다. 단지 지나가는 순간만을 낭비할 수 있다.)
+
+You cannot waste to-morrow; 
+
+it is kept for you. 
+
+You cannot waste the next hour; 
+
+it is kept for you.
+
+I said the affair was a miracle. Is it not? 
+
+affair
+ : 사건, 일
+
+You have to live on this twenty-four hours of daily time. 
+
+Out of it you have to spin health, pleasure, money, content, respect, and the evolution of your immortal soul. 
+(그것에서 당신은 건강, 쾌락, 돈, 만족, 존경, 그리고 당신의 불멸의 영혼의 진화를 뽑아내야 합니다.)
+spin
+ : 돌다, 돌리다, 회전시키다.
+
+immortal
+ : 죽지 않는, 불멸의
+
+Its right use, its most effective use, is a matter of the highest urgency and of the most thrilling actuality. 
+(그것의 올바른 사용, 가장 효과적인 사용은 가장 긴급하고 가장 스릴 있는 현실의 문제이다.)
+thrilling
+ : 흥분되는
+
+actuality
+ : 실재, 현실
+
+All depends on that. 
+
+Your happiness–the elusive prize that you are all clutching for, my friends!–depends on that. 
+
+Strange that the newspapers, so enterprising and up-to-date as they are, are not full of “How to live on a given income of time,” instead of “How to live on a given income of money”! 
+(진취적이고 첨예한 신문들이 '주어진 돈으로 어떻게 살 것인가?' 가 아니라 '주어진 시간으로 어떻게 살 것인가?'로 가득 차 있지 않다니 이상하다.)
+
+Money is far commoner than time. 
+(돈은 시간보다 훨씬 흔하다.)
+
+When one reflects, one perceives that money is just about the commonest thing there is. 
+(반성할 때, 사람은 돈이 가장 흔한 것이라고 인식한다.)
+perceive
+ : 감지하다
+
+It encumbers the earth in gross heaps.
+(돈은 지구를 엄청난 양으로 뒤덥고 있다.)
+
+encumber
+ : 지장을 주다. 거추장스럽게 하다.
+
+heap
+ : 더미
+
+
 
 ---
 
