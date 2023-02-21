@@ -274,6 +274,67 @@ encumber
 heap
  : 더미
 
+If one can’t contrive to live on a certain income of money, one earns a little more–or steals it, or advertises for it. 
+(일정한 수입으로 억지로 살 수 없다면 조금 더 벌거나 훔치거나 선전한다.)
+contrive
+ : 용케 하다, 성사시키다, 고안하다.
+
+certain
+ : 확실한
+
+One doesn’t necessarily muddle one’s life because one can’t quite manage on a thousand pounds a year; 
+(1년에 1,000파운드를 제대로 감당할 수 없기 때문에 반드시 인생을 뒤죽박죽으로 만들지는 않습니다.)
+muddle
+ : 헝클어뜨리다, 혼란스럽게 하다.
+   혼란, 혼동
+
+one braces the muscles and makes it guineas, and balances the budget. 
+(하나는 근육을 보강하고 기니로 만들고 예산의 균형을 맞춥니다.)
+brace
+ : 대비하다, 대비시키다.
+   버티다
+
+But if one cannot arrange that an income of twenty-four hours a day shall exactly cover all proper items of expenditure, one does muddle one’s life definitely. 
+(그러나 하루 24시간의 수입이 모든 적절한 지출 항목을 정확하게 커버하도록 조정할 수 없다면, 사람은 분명히 인생을 혼란스럽게 한다.)
+expenditure
+ : 지출, 비용, 경비
+
+The supply of time, though gloriously regular, is cruelly restricted.
+(시간의 공급은 훌륭하게 규칙적이지만 잔인하게 제한되어 있습니다.)
+gloriously
+ : 훌륭히, 멋지게, 근사하게
+
+cruelly
+ : 잔인하게, 지독하게, 몹시
+
+restrict
+ : 제한하다.
+
+Which of us lives on twenty-four hours a day? 
+
+And when I say “lives,” I do not mean exists, nor “muddles through.”
+(그리고 내가 "살아 있다"고 말할 때 나는 존재하거나 "혼란스러워진다"는 것을 의미하지 않습니다.)
+
+Which of us is free from that uneasy feeling that the “great spending departments” of his daily life are not managed as they ought to be? 
+(우리 중 누가 일상 생활의 "큰 지출 부서"가 제대로 관리되지 않는다는 불안한 느낌에서 자유롭습니까?)
+
+Which of us is quite sure that his fine suit is not surmounted by a shameful hat, or that in attending to the crockery he has forgotten the quality of the food? 
+(우리 중 누가 자신의 멋진 양복에 부끄러운 모자를 쓰지 않았는지, 그릇을 돌보다가 음식의 질을 잊어버렸다고 확신합니까?)
+
+Which of us is not saying to himself– which of us has not been saying to himself all his life: “I shall alter that when I have a little more time”?
+(우리 중 누가 혼잣말을 하지 않습니까? 우리 중 누가 평생 혼잣말을 하지 않았습니까? "시간이 조금 더 있으면 변경하겠습니다.")
+
+We never shall have any more time. 
+(우리는 더 이상 시간이 없을 것입니다.)
+
+We have, and we have always had, all the time there is. 
+(우리는 항상 그래왔으며 항상 그래왔습니다.)
+
+It is the realisation of this profound and neglected truth (which, by the way, I have not discovered) that has led me to the minute practical examination of daily time- expenditure.
+(나로 하여금 매일의 시간 소비에 대한 세밀한 실제적 고찰을 하도록 이끈 것은 이 심오하고 간과된 진리(그런데 나는 발견하지 못한)의 깨달음입니다.)
+
+#### The Desire to Exceed One’s Programme
+
 
 
 ---
