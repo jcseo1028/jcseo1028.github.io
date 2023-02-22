@@ -335,7 +335,98 @@ It is the realisation of this profound and neglected truth (which, by the way, I
 
 #### The Desire to Exceed One’s Programme
 
+“But,” someone may remark, with the English disregard of everything except the point, 
+("그러나" 어떤 사람은 요점을 제외하고는 모든 것을 무시하고 영어로 다음과 같이 말할 수 있습니다.)
+disregard
+ : 묵살, 무시
+   묵살하다, 무시하다.
 
+“what is he driving at with his twenty-four hours a day?
+(그는 하루 24시간 동안 무엇을 하고 있는가?)
+
+I have no difficulty in living on twenty-four hours a day. 
+(나는 하루 24시간을 살아가는 데 어려움이 없다.)
+
+I do all that I want to do, and still find time to go in for newspaper competitions. 
+(나는 내가 하고 싶은 모든 일을 하면서 신문 경연 대회에 나갈 시간을 여전히 찾습니다.)
+
+Surely it is a simple affair, knowing that one has only twenty-four hours a day, to content one’s self with twenty-four hours a day!”
+(하루에 24시간 밖에 없다는 것을 알고 하루 24시간에 만족하는 것은 분명히 간단한 일입니다!)
+affair
+ : 일
+
+To you, my dear sir, I present my excuses and apologies. 
+
+You are precisely the man that I have been wishing to meet for about forty years. 
+(당신은 바로 내가 40년 동안 만나기를 원했던 바로 그 사람입니다.)
+precisely
+ : 정확히, 신중하게
+
+Will you kindly send me your name and address, and state your charge for telling me how you do it? 
+
+Instead of me talking to you, you ought to be talking to me. 
+
+Please come forward. 
+
+That you exist, I am convinced, and that I have not yet encountered you is my loss. 
+(당신이 존재한다는 것과 아직 당신을 만나지 못했다는 것은 나의 손실입니다.)
+convinced
+ : 납득시키다, 설득하다.
+
+Meanwhile, until you appear, 
+I will continue to chat with my companions in distress–that innumerable band of souls who are haunted, 
+more or less painfully, 
+by the feeling that the years slip by, and slip by, and slip by, 
+and that they have not yet been able to get their lives into proper working order.
+
+companion
+ : 동반자, 동지
+
+distress
+ : 고충, 고통
+   괴롭히다. 고통스럽게 하다.
+
+If we analyse that feeling, we shall perceive it to be, primarily, one of uneasiness, of expectation, of looking forward, of aspiration. 
+(만약 우리가 그 감정을 분석한다면, 우리는 그것을 주로 불안, 기대, 기대, 열망의 하나로 인식할 것이다.)
+uneasiness
+ : 불안, 걱정
+
+perceive
+ : 인지하다
+ 
+aspiration
+ : 열망
+
+It is a source of constant discomfort, for it behaves like a skeleton at the feast of all our enjoyments. 
+(그 느낌은 우리의 모든 즐거움의 향연에서 해골처럼 행동하기 때문에 지속적인 불편의 근원이다.)
+discomfort
+ : 불편
+
+feast
+ : 연회, 잔치
+
+We go to the theatre and laugh; but between the acts it raises a skinny finger at us. 
+(우리는 극장에 가서 웃는다. 그러나 행동 사이에 그것은 우리에게 마른 손가락을 들어 올립니다.)
+
+We rush violently for the last train, and while we are cooling a long age on the platform waiting for the last train, it promenades its bones up and down by our side and inquires: 
+(우리는 막차를 향해 사납게 돌진하고, 플랫폼에서 막차를 기다리며 오랜 세월을 식히는 동안, 그것은 우리 곁을 위아래로 뼛속까지 파고들며 묻는다.)
+violently
+ : 격렬하게
+
+promenade
+ : 거닐다, 산책하다.
+   산책로, 산책
+
+“O man, what hast thou done with thy youth? 
+(오 사람이여, 당신은 당신의 젊음에 무엇을 했습니까?)
+
+What art thou doing with thine age?” 
+(당신은 당신의 나이로 무엇을하고 있습니까)
+
+You may urge that this feeling of continuous looking forward, of aspiration, is part of life itself, and inseparable from life itself. True!
+(여러분은 계속해서 앞을 내다보는 이 느낌, 열망은 삶 자체의 일부이며, 삶 자체와 분리될 수 없다고 주장할 수도 있습니다. 맞아요!)
+urge
+ : 충고하다.
 
 ---
 
