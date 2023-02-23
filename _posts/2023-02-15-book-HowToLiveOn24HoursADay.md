@@ -423,10 +423,111 @@ promenade
 What art thou doing with thine age?” 
 (당신은 당신의 나이로 무엇을하고 있습니까)
 
-You may urge that this feeling of continuous looking forward, of aspiration, is part of life itself, and inseparable from life itself. True!
+**You may urge that this feeling of continuous looking forward, of aspiration, is part of life itself, and inseparable from life itself. True!**
 (여러분은 계속해서 앞을 내다보는 이 느낌, 열망은 삶 자체의 일부이며, 삶 자체와 분리될 수 없다고 주장할 수도 있습니다. 맞아요!)
 urge
  : 충고하다.
+
+But there are degrees. 
+(그러나, 정도는 있습니다.
+A man may desire to go to Mecca. 
+
+His conscience tells him that he ought to go to Mecca. 
+(그의 양심은 그가 메카로 가야 한다고 말한다.)
+ought
+ : 해야 하다. ~할 의무가 있다.
+
+conscience
+ : 양심, 가책
+
+He fares forth, either by the aid of Cook’s, or unassisted; 
+(그는 쿡의 도움을 받거나 도움을 받지 않고 앞으로 나아간다.)
+he may probably never reach Mecca; 
+(그는 아마도 메카에 도달하지 못할 수도 있습니다.)
+he may drown before he gets to Port Said; 
+(그는 포트사이드에 도착하기 전에 익사할 수도 있습니다.)
+he may perish ingloriously on the coast of the Red Sea; 
+(그는 홍해 해변에 수치스럽게 축을 수도 있습니다.)
+his desire may remain eternally frustrate. 
+(그의 욕망은 영원히 좌절될 수 있습니다.)
+fare 
+ : 요금, 승객
+   더 잘하다.
+
+drown
+ : 익사하다, 익사시키다.
+
+perish
+ : 죽다, 소멸하다
+
+ingloriously
+ : 수치스럽게
+
+eternally
+ : 영원히
+
+frustrate
+ : 좌절감을 주다, 방해하다.
+
+Unfulfilled aspiration may always trouble him. 
+(성취되지 않은 열망은 항상 그를 괴롭힐 수 있습니다.)
+
+But he will not be tormented in the same way as the man who, desiring to reach Mecca, and harried by the desire to reach Mecca, never leaves Brixton.
+(그러나 그는 메카에 도달하기를 원하고 메카에 도달하려는 욕망에 시달려 결코 브릭스턴을 떠나지 않는 사람과 같은 방식으로 괴로워하지 않을 것입니다.)
+torment
+ : 고통을 안겨주다, 괴롭히다.
+
+It is something to have left Brixton. 
+
+Most of us have not left Brixton. 
+(우리 대부분은 아직 브릭스턴을 떠나지 않았습니다.)
+
+We have not even taken a cab to Ludgate Circus and inquired from Cook’s the price of a conducted tour. 
+(우리는 Ludgate Circus까지 택시를 타지도 않았고 Cook's에게 안내 투어 가격을 물어본 적도 없습니다.)
+
+And our excuse to ourselves is that there are only twenty-four hours in the day. 
+(그리고 우리 스스로에 대한 변명은 하루에 24시간 밖에 없다는 것이다.)
+excuse
+ : 변명
+
+If we further analyse our vague, uneasy aspiration, we shall, I think, see that it springs from a fixed idea that we ought to do something in addition to those things which we are loyally and morally obliged to do. 
+(우리의 모호하고 불안한 열망을 좀 더 분석해 본다면, 그것이 우리가 충성스럽고 도덕적으로 해야 할 일들에 추가하여 무언가를 해야 한다는 고정된 생각에서 비롯된다는 것을 알게 될 것입니다.)
+vague
+ : 모호한
+
+**We are obliged, by various codes written and unwritten, to maintain ourselves and our families (if any) in health and comfort, to pay our debts, to save, to increase our prosperity by increasing our efficiency.** 
+(우리는 기록되거나 기록되지 않은 다양한 규정에 따라 우리 자신과 가족(있는 경우)의 건강과 안락함을 유지하고, 빚을 갚고, 저축하고, 효율을 높여 번영을 증진해야 할 의무가 있습니다.)
+oblige
+ : 의무적으로 ~하게되다, 돕다, 베풀다.
+
+prosperity
+ : 번영, 번성, 번창
+
+A task sufficiently difficult! 
+(충분히 어려운 작업)
+A task which very few of us achieve! 
+(우리 중 극소수만이 성취하는 과업!)
+A task often beyond our skill! 
+(종종 우리의 능력을 넘어서는 작업!)
+
+Yet, if we succeed in it, as we sometimes do, we are not satisfied; 
+(그러나 우리가 때때로 하는 것처럼 성공하더라도 만족하지 못합니다.)
+the skeleton is still with us.
+
+**And even when we realise that the task is beyond our skill, that our powers cannot cope with it, we feel that we should be less discontented if we gave to our powers, already overtaxed, something still further to do.** 
+(그리고 우리가 그 일이 우리의 능력을 넘어선다는 것과 우리의 힘이 그것을 감당할 수 없다는 것을 깨달을 때에도 우리는 이미 과중한 부담을 지고 있는 우리의 힘에 아직 더 해야 할 일을 주었다면 덜 불만스러워해야 한다고 생각합니다.)
+cope
+ : 대체하다.
+
+discontented
+ : 불만스러워하는
+
+And such is, indeed, the fact. 
+(그리고 사실이 그렇습니다.)
+
+The wish to accomplish something outside their formal programme is common to all men who in the course of evolution have risen past a certain level.
+(공식 프로그램 이외의 어떤 것을 성취하고자 하는 바람은 진화 과정에서 특정 수준을 넘어선 모든 사람들에게 공통적입니다.)
+
 
 ---
 
