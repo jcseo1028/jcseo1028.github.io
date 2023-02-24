@@ -528,6 +528,63 @@ And such is, indeed, the fact.
 The wish to accomplish something outside their formal programme is common to all men who in the course of evolution have risen past a certain level.
 (공식 프로그램 이외의 어떤 것을 성취하고자 하는 바람은 진화 과정에서 특정 수준을 넘어선 모든 사람들에게 공통적입니다.)
 
+**Until an effort is made to satisfy that wish, the sense of uneasy waiting for something to start which has not started will remain to disturb the peace of the soul.** 
+(그 소원을 이루기 위해 노력하기 전까지는 아직 시작되지 않은 일이 시작되기를 기다리는 불안한 마음이 영혼의 평안을 방해하게 될 것입니다._
+disturb
+ : 방해하다.
+
+That wish has been called by many names. 
+(그 소원은 많은 이름으로 불리고 있습니다.)
+
+It is one form of the universal desire for knowledge. 
+(지식에 대한 보편적인 욕구의 한 형태입니다.)
+
+And it is so strong that men whose whole lives have been given to the systematic acquirement of knowledge have been driven by it to overstep the limits of their programme in search of still more knowledge. 
+(그리고 지식의 체계적 습득에 전 생애를 바친 사람들이 더 많은 지식을 찾기 위해 프로그램의 한계를 넘어설 정도로 강력합니다.)
+
+Even Herbert Spencer, in my opinion the greatest mind that ever lived, was often forced by it into agreeable little backwaters of inquiry.
+(내 생각에 가장 위대한 지성이라고 생각하는 허버트 스펜서(Herbert Spencer)조차도 종종 그것에 의해 유쾌한 탐구의 후미진 곳으로 밀려났습니다.)
+backwater
+ : 후미, 후미진 곳, 벽지
+
+agreeable
+ : 기분 좋은, 쾌활한
+
+inquiry
+ : 연구, 탐구
+
+ I imagine that in the majority of people who are conscious of the wish to live that is to say, people who have intellectual curiosity–the aspiration to exceed formal programmes takes a literary shape. 
+(나는 살고자 하는 소망을 의식하는 대다수의 사람들, 즉 지적 호기심을 가진 사람들에게서 형식적인 프로그램을 뛰어넘고자 하는 열망이 문학적 형태를 띤다고 상상합니다.)
+conscious
+ : 의식하는, 자각하는
+
+They would like to embark on a course of reading. 
+(그들은 독서 과정을 시작하기를 원합니다.)
+embark
+ : 승선하다.
+
+Decidedly the British people are becoming more and more literary. 
+(결정적으로 영국인들은 점점 더 문학적으로 변해가고 있습니다.)
+
+literary
+ : 문학적인
+
+literature
+ : 문학
+
+**But I would point out that literature by no means comprises the whole field of knowledge, and that the disturbing thirst to improve one’s self–to increase one’s knowledge–may well be slaked quite apart from literature.** 
+(그러나 나는 문학이 결코 지식의 전체 영역을 포함하지 않으며, 자신을 향상시키려는, 즉 지식을 늘리려는 불안한 갈증은 문학과는 별개로 해소될 수 있다는 점을 지적하고 싶습니다.)
+comprise
+ : 구성되다, 이뤄지다.
+   구성하다, 차지하다.
+
+With the various ways of slaking I shall deal later. 
+
+Here I merely point out to those who have no natural sym  pathy with literature that literature is not the only well.
+(여기서 나는 단지 문학이 유일한 우물이 아니라는 점을 문학에 자연적으로 공감하지 못하는 사람들에게 지적할 뿐입니다.)
+
+
+#### Precautions Before Beginning 
 
 ---
 
