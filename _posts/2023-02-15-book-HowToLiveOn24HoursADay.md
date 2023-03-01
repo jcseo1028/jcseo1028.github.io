@@ -586,6 +586,134 @@ Here I merely point out to those who have no natural sym  pathy with literature 
 
 #### Precautions Before Beginning 
 
+Now that I have succeeded (if succeeded I have) / in persuading you / to admit to yourself / that you are constantly haunted / by a suppressed dissatisfaction /with your own arrangement /of your daily life; 
+내가 성공했기 때문에 / 당신을 설득하는데 / 당신 자신을 인정하는 것을 / 뇌리에서 계속 떠오르는 / 숨겨진 불만에 의해 / 당신 삶에서의 방식과 함께
+now that ~
+ : ~ 했기 때문에
+
+persuade
+ : 설득하다
+
+admit 
+ : 인정하다.
+
+haunt
+ : 귀신이 나타나다. (불쾌한 생각이) 계속 떠오르다
+
+suppress
+ : 진압하다, 숨기다.
+
+dissatisfaction
+ : 불만
+
+and that the primal cause /of that inconvenient dissatisfaction / is the feeling / that you are every day leaving undone something / which you would like to do/, and which, indeed,/ you are always hoping to do /when you have “more time”; 
+원래 원인은 / 불편한 불만족의 / 어떠한 느낌이다. / 당신이 매일 무언가를 하지 않고 떠나는. / 당신이 하고 싶지 않은 / 진실로 원하는 / 당신은 항상 하기를 원하고 있다. / 당신이 시간을 조금 더 가졌을 때
+primal
+ : 원시의/ 태고의
+
+and now that I have drawn your attention to the glaring, dazzling truth / that you never will have “more time,” /  since you already have all the time /there is–you expect me / to let you into some wonderful secret  / by which you may at any rate approach the ideal / of a perfect arrangement of the day, and by which, 
+내가 당신의 태도를 확연하고 눈부진 진실로 끌어당겼기 때문에 / 당신이 "추가 시간" 을 결코 가질 수 없다는 진실 / 당신이 이미 모든 시간을 가졌기 때문에 / 당신이 내게서 요구하는 시간/ 당신을 뭔가 훌륭한 비밀로 이끌기 위해 / 어쨌든 이상으로 다가감으로 인해 / 하루의 완전한 준비의 이상 / 
+draw
+ : 그리다, 끌어당기다.
+
+glaring
+ : 확연한, 두드러진
+
+dazzling
+ : 눈부신(=brilliant)
+
+at any rate
+ : 어쨌든, 적어도, 좌우간
+
+arrangement
+ : 준비
+
+therefore, that haunting, unpleasant, daily disappointment / of things  left undone / will be got rid of!
+그러므로 계속 떠오르고 , 기쁘지 않는, 일상의 실망 / 하지 않고 남겨진 일들의 / 제거될 것이다.
+
+get rid of
+ : 면하다, 제거하다, 끝내다.
+
+
+I have found no such wonderful secret. 
+(그런 놀라운 비밀은 발견하지 못했다.)
+
+Nor do I expect to find it, / nor do I expect that anyone else will ever find it. 
+(내가 비밀을 찾을 것이라고 기대하지도 않고, 다른 사람이 그 비밀을 찾을 것이라고도 기대하지 않는다.)
+
+It is undiscovered. 
+(비밀은 발견되지 않는다.)
+
+When you first began to gather my drift, / perhaps there was a resurrection of hope / in your breast. 
+(처음 나의 뜻을 모으기 시작했을 때 / 아마도 희망의 부활이 있었을 것이다 / 당신의 가슴 안에
+resurrection
+ : 부활
+
+breast
+ : 가슴.
+
+Perhaps you said to yourself, / “This man will show me an easy, unfatiguing way / of doing what I have so long in vain / wished to do.” 
+(아마도 당신 자신에게 말하기를 / 이 남는 나를 쉽고, 지치지 않는 방법을 보여줄 것이다. / 무언가를 하는 방법 / 오랫동안 헛되지 않은 무언가 / 하고 싶어지는것
+
+unfatiguing
+ : 지치지 않는.
+
+vain
+ : 헛된, 소용없는
+
+**Alas, no! The fact is that there is no easy way, no royal road.** 
+(아아~ 안돼/ 사실은 쉬운 방법과 좋은 길은 없다는 것이다.)
+
+The path to Mecca is extremely hard and stony, and the worst of it is that you never quite get there after all.
+(Mecca 로 가는 여정은 극도로 어렵고, 돌이 많고, 최악의 경우 도착할 수도 없다. )
+
+**The most important preliminary to the task of arranging one’s life / so that one may live fully and comfortably /within one’s daily budget of twenty-four hours is** 
+(가장 중요한 대비는 / 한 사람의 일생에 배치된 임무 / 사람이 fully 하고 안락하게 살지도 모르는 / 24 시간의 사람의 일별 예산안에서
+preliminary
+ : 예비 행위, 예선전
+
+**the calm realisation of the extreme difficulty of the task, / of the sacrifices and the endless effort /  which it demands.** 
+(임무가 극도로 어렵다는 자각 / 희생과 끝없는 노력의 임무 / 그것이 요구하는 노력 / 
+calm
+ : 침착한, 잔잔한
+realisation (=realization)
+ : 자각, 인식
+
+I cannot too strongly insist on this. 
+( 이 사실을 너무 강하게 고집할 수만은 없다.)
+insist
+ : 주장하다, 고집하다
+
+**If you imagine / that you will be able to achieve your ideal / by ingeniously planning out a time-table / with a pen on a piece of paper, you had better give up hope at once.** 
+(만약에 당신이 생각해본다면/당신이 당신의 이상을 수행할 수 있을 것 / 시간표를 기발하게 계획함에 의해 / 종이 위에 펜으로 / 당신은 당장 포기하는게 낫다 )
+
+ingeniously
+ : 기발하게
+
+at once 
+ : 당장
+
+If you are not prepared for discouragements and disillusions; 
+(당신이 낙심하거나 환멸하는것을 준비하지 않았다면)
+
+discouragement
+ : 낙심
+
+disillusion
+ : 환멸
+
+if you will not be content with a small result for a big effort, / then do not begin. 
+(많은 노력에 대해 적은 결과에 만족하지 않을 거라면/ 시작하지도 마라.)
+
+be content with
+ : 만족하다.
+
+Lie down again / and resume the uneasy doze which you call your existence.
+(다시 누워라 / doze 를 계속해라 / 당신의 존재를 부르는 doze )
+doze
+ : 졸음, 쪽잠
+
+
 ---
 
 Preface to this Edition 
