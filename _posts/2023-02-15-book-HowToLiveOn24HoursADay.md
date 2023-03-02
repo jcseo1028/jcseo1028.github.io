@@ -713,6 +713,74 @@ Lie down again / and resume the uneasy doze which you call your existence.
 doze
  : 졸음, 쪽잠
 
+It is very sad, is it not, very depressing and sombre? 
+(매우슬프다 매우 우울하고 칙칙하지 않은가?)
+
+depressing
+ : 우울하게 만드는, 
+
+sombre
+ : 칙칙한, 침울한
+
+And yet I think it is rather fine, too, this necessity for the tense bracing of the will before anything worth doing can be done. 
+And yet I think /it is rather fine, too, / this necessity for the tense bracing / of the will before anything worth doing /can be done. 
+(그렇다 하더라도 차라리 낫다고 생각한다. / 긴장된 버팀대 위한 필요성 / 무언가 가치있는 일을 하기 전 의지의 버팀대 /  필요성은 수행될 수 있다.)
+
+and yet
+ : 그렇다 하더라도
+
+necessity
+ : 필수품, 필요성
+
+tense
+ : 긴장한, 신경이 날카로운
+
+brace
+ : 버팀대, 치아 교정기
+
+bracing
+ : 상쾌한
+
+**I rather like it myself. I feel it to be the chief thing that differentiates me from the cat by the fire.** 
+I rather like it myself. /  I feel it / to be the chief thing / that differentiates me / from the cat / by the fire. 
+(나 자신을 좋아하는게 낫다 / 나는 그것을 느낀다 / 최고의 것이 되는 것 / 나를 구별하는 것 / 고양이로부터 / 불옆에 있는)
+
+chief
+ : 주된, 최고의
+
+differentiate
+ : 구별하다, 구분짓다.
+
+“Well,” you say, “assume that I am braced for the battle. 
+("좋아요", 당신은 말합니다/ 가정해봐라 / 내가 전쟁을 위해 대비된다 / )
+
+brace
+ : 버팀대, 치아 교정기
+   대비를 하다, 대비시키다, 버팅기다.
+
+Assume that I have carefully weighed and comprehended your ponderous remarks; how do I begin?” 
+Assume / that I have carefully weighed /and comprehended your ponderous remarks; /how do I begin?”
+(가정해봐라 /  내가 조심히 저울질 한다 / 그리고 당신의 너무신중한 발언을 이해했다 / 어떻게 시작해야 할까요?)
+
+weigh
+ : 따져보다, 저울질하다.
+
+ponderous
+ : 너무 신중한
+
+remark
+ : 발언
+
+Dear sir, you simply begin. 
+
+There is no magic method of beginning. 
+
+If a man standing on the edge of a swimming-bath and wanting to jump into the cold water should ask you, 
+
+“How do I begin to jump?” you would merely reply,
+
+**“Just jump. Take hold of your nerves, and jump.”**
+
 
 ---
 
