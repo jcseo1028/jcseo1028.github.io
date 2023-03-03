@@ -51,6 +51,10 @@ C:\Users\계정명\.gitconfig
     trustExitCode = true
 
 ```
+
+@2023.03.03 재설정
+Visual Studio 2017 및 2022 버전이 동시에 적용된다.
+
 ---
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7159086721305762"

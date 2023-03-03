@@ -781,6 +781,42 @@ If a man standing on the edge of a swimming-bath and wanting to jump into the co
 
 **“Just jump. Take hold of your nerves, and jump.”**
 
+**As I have previously said, / the chief beauty / about the constant supply  of time / is / that you cannot waste it in advance.** 
+(내가 전에 말했던 것 처럼 / 최고의 아름다움은 /  지속적인 시간의 공급에 관한 / ~ 이다 / 당신이 미리 사용할 수 없다는 것 / 
+
+The next year, the next day, the next hour are lying ready for you, as perfect, as unspoilt, /as if you had never wasted or misapplied a single moment in all your career. 
+(그 다음 해, 그 다음 날, 그 다음 시간은 당신을 위해 준비되어 있다./ 완벽하고, / 훼손되지 않은 / 당신이 결코 낭비하거나 적용하지 않았던 것처럼 / 당신의 모든 경력 안에서)
+unspoilt
+ : 훼손되지 않은(unspoiled)
+
+Which fact is very gratifying and reassuring. 
+(그 사실은 매우 기쁘고 안심이 된다.)
+gratify
+ : 기쁘게 하다.
+
+reassure
+ : 안심시키다.
+
+You can turn over a new leaf every hour / if you choose. 
+(매 시간마다 새로운 경험을 할 수 있다. / 당신이 선택한다면)
+
+Therefore no object is served in waiting till next week, or even until tomorrow. 
+(그러므로 다음주나 내일까지 제공되는 것은 없습니다.)
+
+You may fancy / that the water will be warmer next week. 
+(당신은 원할지도 모릅니다 / 물이 다음주까지 더 따뜻해 지는것을)
+fancy
+ : 원하다, ~하고싶다.
+
+It won’t. It will be colder. 
+(그렇지 않다, 그것은 더 차가워진다.)
+
+But before you begin, /let me murmur a few words of warning in your private ear.
+(그러나 시작하기 전에/ 나에게 몇몇 경고의 단어들을 속삭여라 / 당신의 귀 안에)
+
+murmur
+ : 속삭이다, 중얼거리다.
+
 
 ---
 
