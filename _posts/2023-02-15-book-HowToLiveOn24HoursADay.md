@@ -817,6 +817,141 @@ But before you begin, /let me murmur a few words of warning in your private ear.
 murmur
  : 속삭이다, 중얼거리다.
 
+Let me principally warn you against your own ardour. 
+(주로 당신의 열정에 대해 경고하겠습니다.)
+ardour
+ : 열정(ardor)
+
+Ardour in well-doing is a misleading and a treacherous thing. 
+(선행에 대한 열정은 오해의 소지가 있고 위험한 것이다.)
+misleading
+ : 호도하는, 오해의 소지가 있는
+
+treacherous
+ : 기만적인, 위험한.
+
+It cries out loudly for employment; you can’t satisfy it at first; 
+(그것은 고용을 위해 크게 외칩니다; 당신은 그것을 처음에 만족할 수 없습니다.)
+
+it wants more and more; 
+(그것은 점점 더 많이 원합니다.)
+
+it is eager to move mountains and divert the course of rivers. 
+(그것은 산을 옮기고 강물의 방향을 바꾸기를 강렬히 원합니다.)
+eager
+ : 열렬한, 간절히 바라는
+
+divert
+ : 방향을 바꾸게 하다.
+
+It isn’t content till it perspires. 
+(땀이 날때까지는 만족하지 않는다..)
+content
+ : 만족하는
+
+perspire
+ : 땀을 흘리다, 땀이 나다
+
+And then, too often, when it feels the perspiration on its brow, it wearies all of a sudden and dies, without even putting itself to the trouble of saying, “I’ve had enough of this.” 
+(그리고, 너무 자주, 그것이 땀을 느낄때, 그것의 이마 에서, 그것은 갑작스럽게 죽는다, 문제를 말하지도 않고. "난 충분해"
+brow
+ : 이마
+
+weary
+ : 지친, 피곤한
+   지치게 하다.
+
+**Beware of undertaking too much at the start.** 
+(처음부터 너무 많은 임무를 주지 마시오.)
+
+**Be content with quite a little.** 
+(조금이라도 만족하세요.)
+
+**Allow for accidents.** 
+(사고를 허용하세요)
+
+**Allow for human nature, especially your own.**
+(특히 당신이 가지고 있는 인간본성을 허용하세요.)
+
+A failure or so, in itself, would not matter, / if it did not incur a loss / of selfesteem and of self-confidence. 
+(실패 그 자체로는 문제가 되지 않는다. / 손실이 발생하지 않았다면 / 자부심과 자신감의 손실)
+incur
+ : 초래하다, 발생시키다.
+
+selfesteem
+ : 자부심
+
+self-confidence
+ : 자신감
+
+But just as nothing succeeds like success, so nothing fails like failure. 
+(그러나 성공만큼 성공하는 것이 없듯이 실패만큼 실패하는 것도 없다.)
+
+Most people who are ruined are ruined by attempting too much. 
+(망한 대부분의 사람들은 너무 많은 노력을 해서 망한다.)
+
+**Therefore, in setting out on the immense enterprise of living fully and comfortably within the narrow limits of twenty-four hours a day, let us avoid at any cost the risk of an early failure.** 
+(그러므로, 하루 24시간이라는 좁은 범위 내에서 완전하고 편안하게 사는 거대한 사업에 착수함에 있어, 어떤 대가를 치르더라도 조기 실패의 위험을 피합시다.)
+Therefore, /in setting out /on the immense enterprise /of living fully and comfortably /within the narrow limits / of twenty-four hours a day, / let us avoid at any cost the risk of an early failure. 
+(그러므로 / 설정하는 / 거대한 기업을 / 완전히 안락하게 살고 있는 / 좁은 제한 안에서 / 하루 24시간 동안의 / 우리를 조기 실패의 위험으로부터 피하게 하자)
+immense
+ : 어마어마한
+
+enterprise
+ : 기업, 대규모 사업
+
+I will not agree that, in this business at any rate, a glorious failure is better than a petty success. 
+(나는 동의하지 않을 것이다 / 이 사업에서 / 어쨌든 / 영광스러운 실패가 / 착은 성공보다 더 낫다 )
+
+I am all for the petty success. 
+(나는 사소한 성공을 추구한다.)
+
+A gloriousfailure leads to nothing; a petty success may lead to a success that is not petty. 
+(영광스러운 실패는 아무것도 이끌지 못한다. 작은 성공은 작지 않은 성공을 이끌지도 모른다.)
+
+So let us begin to examine the budget of the day’s time. 
+(그럼 하루 시간의 예산을 조사해보도록 합시다)
+
+You say your day is already full to overflowing. How? 
+(당신은 말합니다 / 당신의 날이 이미 넘쳐흐른다/ 어떻게?)
+
+overflowing
+ : 넘쳐흐르다
+
+You actually spend in earning your livelihood–how much? 
+(당신은 실재로 사용합니다/당신의 생계를 꾸리기는데 / 얼마나 많이?)
+earn
+ : (돈을) 벌다
+
+livelihood
+ : 생계
+
+Seven hours, on the average? 
+(평균적으로 7시간?)
+
+And in actual sleep, seven? 
+(그리고 수면시간으로 7시간?)
+
+I will add two hours, and be generous. 
+(내가 2시간을 더 추가해주겠다 / 그리고 넉넉한)
+
+And I will defy you to account to me on the spur of the moment for the other eight hours.
+And I will defy you / to account to me / on the spur / of the moment / for the other eight hours.
+(나는 당신이 defy 하도록 할것이다 / 내가 ~ 라고 간주되도록 / 순간의 원동력 / 나머지 8시간 동안.)
+defy
+ : 반항하다, 저항하다, 불가능하다. 견뎌내다
+
+account
+ : 간주하다, 여기다
+   계좌
+
+spur
+ : 박차, 자극제, 원동력
+
+#### The Cause of the Troubles 
+
+
+
 
 ---
 
@@ -836,7 +971,7 @@ Remember Human Nature
 
 Controlling the Mind 
 
-The Reflective Mood 
+The Reflective Mood []
 
 Interest in the Arts 
 
