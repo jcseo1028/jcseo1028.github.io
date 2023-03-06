@@ -950,8 +950,88 @@ spur
 
 #### The Cause of the Troubles 
 
+In order to come to grips at once with the question / of time-expenditure in all its actuality, I must choose an individual case for examination. 
+( 그 문제를 한번에 마주치기 위해서 / 시간 지출의 문제 / 모든 현실에서 / 나는 개별적인 경우를 선택해야만 한다. / 조사를 위해.
+come to grips with
+ : ~ 와 마주치다, ~와 씨름하다.
 
+grip
+ : 꼭 붙잡음
+  꽉 잡다.
+  끌다.
 
+expenditure
+ : 지출, 비용, 경비
+
+actuality
+ : 실재, 현실
+
+I can only deal with one case, /and that case cannot be the average case, / because there is no such case as the average case, / just as there is no such man as the average man. 
+(나는 오직 한 경우만 다룰 수 있다 / 그 경우는 평균적인 경우가 될 수 없고 / 평균적인 경우가 없기 때문에 / 단지 그러한 평균적인 사람이 없기 때문에)
+
+Every man and every man’s case is special. 
+(모든 사람과 모든 경우는 특별하다.)
+
+But if I take the case of a Londoner / who works in an office, / whose office hours are from ten to six, 
+(그러나 내가 만약 런던인의 경우를 체택한다면 / 사무실에서 일하는 / 사무실의 근무시간은 10시 부터 6시인 
+and who spends fifty minutes morning and night / in travelling between his house door and his office door, 
+아침과 저녁에 50분씩 소비하는 / 집과 사무실 사이를 왕복하는데/
+I shall have got as near to the average as facts permit. 
+(평균에 가까운 허용할만한 사실들을 얻을 수 있을 것이다.)
+
+There are men who have to work longer for a living, but there are others who do not have to work so long. 
+( 사람들이 있다 / 생계를 위해 더 오래 일해야만 하는 사람들 / 그렇지만 다른 사람들도 있다 / 그렇게 오래 일을 하지 않아도 되는 사람들)
+
+Fortunately the financial side of existence does not interest us here; for our present purpose / the clerk at a pound a week is exactly off / as the millionaire in Carlton House-terrace.
+(다행히 존재의 재정적 측면은 우리에게 흥미 있지 않다. 여기에서/ 우리의 현재 목적을 위해 / 일주일에 1 파운드를 버는 직원은 실재로 충분하다. / Carlton Hotel 테라스에 있는 백만장자 처럼/ 
+clerk
+ : 점원, 사무원
+
+be well off
+ : 유복하게 지내다 (= be rich enough to have a high standard of living)
+
+Now the great and profound mistake / which my typical man makes in regard to his day / is a mistake of general attitude, a mistake / which vitiates and weakens two-thirds / of his energies and interests. 
+( 이제 그 위대하고 심오한 실수는 / 나의 전형적인 사람이 그의 일상에서 regard 하는 / 일반적인 태도의 실수이고 / 실수이다  / 2/3 (효과를) 떨어뜨리고 약화 시키는 / 그의 에너지와 흥미의 2/3을
+profound
+ : 엄청난, 깊은, 심오한
+
+vitiate
+ : (무엇의 효과를) 해치다, 떨어뜨리다.
+
+In the majority of instances / he does not precisely feel a passion / for his business; at best / he does not dislike it. 
+(Instances 의 대부분에서 / 그는 정확히 정열을 느끼지 않는다 / 그의 사업을 위해 ; 최고에서 / 그가 그것을 싫어하지 않는.
+at best
+ : 기껏해야
+
+He begins his business functions / with reluctance, as late as he can, and he ends them with joy, as early as he can. 
+(그는 그의 사업적 기능들을 시작합니다 / 마지못해 , 가능한한 늦게 시작 하고, 그는 기쁘게 그것들을 종료합니다, 가능한한 빨리)
+reluctance
+ : 싫음, 마지못해 함, 꺼림
+
+And his engines / while he is engaged in his business / are seldom at their full “h.p.” 
+(그리고 그의 에너지는 / 그가 회사에 잡혀있는 동안에 / 좀처럼 꽉 차지 않는다.)
+engage
+ : 사로잡다, 끌다
+
+seldom
+ : 좀처럼 ... 않는
+
+(I know / that I shall be accused / by angry readers of traducing the city worker; but I am pretty thoroughly acquainted / with the City, and I stick to what I say.)
+(나는 안다 / 내가 고소를 당할 것을 / 화난 독자에 의해 / 도시 일꾼을 비방하는 독자; 그렇지만 나는 꽤 완전하게 익히고 있다 / City 와 함께, 그리고 내가 말한 것을 고수한다.)
+accuse
+ : 기소하다, 비난하다
+
+traduce
+ : 비방하다
+
+thoroughly
+ : 대단히 완전히
+
+acquaint
+ : 익히다, 숙지하다
+
+stick
+ : 찌르다
 
 ---
 
