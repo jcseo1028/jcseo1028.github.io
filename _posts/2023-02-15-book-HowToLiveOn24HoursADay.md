@@ -1033,6 +1033,93 @@ acquaint
 stick
  : 찌르다
 
+Yet in spite of all this / he persists in looking upon those hours from ten to six as “the day,” to which the ten hours preceding them / and the six hours following them / are nothing but a prologue and epilogue. 
+(그럼에도 불구하고 / 그는 10시부터 6시까지의 시간을 집요하게 하루로 여긴다,  / 그들 앞에 진행되는 10시간 / 그리고 그들을 따르는 6시간 / 시작과 끝일 뿐이다.? )
+persist
+ : 집요하게 계속하다.
+
+look upn(=regard) ... as ~
+ : ... 를 ~로 여기다.
+
+Such an attitude, unconscious though it be, of course kills his interest / in the odd sixteen hours, with the result that, even if he does not waste them, he does not count them; he regards them simply as margin. 
+(그러한 태도, 그것이 비록 무의식적인, 물론 그의 흥미를 죽이는 / 이상한 16시간 동안, 그러한 결과로, 그는 시간을 낭비하지 않더라도, 그는 시간은 세지 않는다; 그는 그 시간을 단순이 여분으로 생각한다.
+
+unconscious
+ : 무의식적인
+
+though(=although)
+ : ... 일지라도
+
+odd
+ : 이상한, 홀수의
+
+This general attitude is utterly illogical and unhealthy, since it formally gives the central prominence / to a patch of time / and a bunch of activities / which the man’s one idea is to “get through” and have “done with.”
+(이러한 일반적인 태도는 완전히 비논리적이고 건전하지 않다, 그것이 정중하게 가운데 중요성을 주기 때문에 / 시간의 부분에 대한 / 그리고 행동들의 다발 / 그 사람의 한가지 생각이 "get through(통과)" 이고 "done with(완료)" 가 되는 행동들.
+utterly
+ : 완전히, 순전히
+
+prominence
+ : 중요성, 유명함
+
+formally
+ : 정중하게
+
+patch
+ : 부분, 조각
+
+bunch
+ : 다발, 송이, 묶음
+
+If a man makes two-thirds of his existence subservient to one-third, for which admittedly / he has no absolutely feverish zest, how can he hope to live fully and completely? 
+(만약 어떤 사람이 그의 부차적인 존재의 2/3 를 1/3로 만든다면,  인정하건대 / 그는 몹시 흥분된 열정은 없다, 그는 알차고 완전한 삶을 희망하는게 가능할까요?)
+subservient
+ : 굴종하는, 부차적인
+
+admittedly
+ : 인정하건대
+
+feverish
+ : 몹시 흥분된, 가열된
+
+zest
+ : 열정
+
+He cannot.
+(그는 할 수 없다)
+
+If my typical man wishes to live fully and completely / he must, in his mind, arrange a day within a day. 
+( 만약 나의 전형적인 사람이 알차고 완전한 삷을 살기 위해서는 / 그는 , 그의 마음 속으로, 하루한에 하루를 배정 해야만 한다.)
+
+And this inner day, a Chinese box in a larger Chinese box, must begin at 6 p.m. and end at 10 a.m. 
+(그리고 이 내적 하루는, 더 큰 상자 안에 상자인 ,  오후 6시에 시작해야만 한다. 그리고 오전 10시에 끝나야 한다.)
+
+**It is a day of sixteen hours; and during all these sixteen hours / he has nothing whatever to do / but cultivate his body and his soul and his fellow men.** 
+(그것인 16시간의 하루이다; 그리고 이 16 시간 동안에 /  그가 해야하는 것들은 아무것도 없다 / 그의 몸과 그의 영혼과 그의 동료를 경작하는 것 외에는)
+cultivate
+ : 경작하다, 재배하다, 구축하다.
+
+During those sixteen hours he is free; he is not a wageearner; he is not preoccupied / with monetary cares; he is just as good as a man with a private income. 
+(그 16시간 동안에 그는 자유다 ; 그는 임금 노동자가 아니다 ; 그는 사로잡혀있지 않다. / 경제적 돌봄과; 그는 단지 개인적 수입이 있는 사람처럼 좋은 상태이다.) 
+wage earner
+ : 임금 노동자
+
+preoccupied
+ : 사로잡힌
+
+monetary
+ : 통화의, 재정적인
+
+This must be his attitude. 
+(이것은 그의 태도여야 한다.)
+
+And his attitude is all important. 
+(그리고 그의 태도는 모두 중요하다)
+
+**His success / in life (much more important than the amount of estate upon / what his executors will have to pay estate duty) depends on it.**
+(그의 성공은 / 삶에서의 ( 좀 더 중요한 / 유산의 양보다 / 그의 유언 집행인이 지불해야하는 의무가 있는 유산) 그것에 달려있다.)
+executor
+ : 유언 집행인
+
 ---
 
 Preface to this Edition 
