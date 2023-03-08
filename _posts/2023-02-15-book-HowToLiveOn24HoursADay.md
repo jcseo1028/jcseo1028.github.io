@@ -1120,6 +1120,124 @@ And his attitude is all important.
 executor
  : 유언 집행인
 
+What? You say / that full energy given to those sixteen hours / will lessen the value of the business eight? 
+(뭐라고? 당신은 말한다 / 그 16시간으로 주어진 꽉찬 에너지가 / 업무시간의 가치가 줄일 것이다)
+lessen
+ : 줄다, 줄이다
+
+Not so. On the contrary, it will assuredly increase / the value of the business eight. 
+(그렇지 않다. 그와는 반대로, 그것은 분명히 증가시킬 것이다 / 업무시간의 가치를)
+on the contrary
+ : 그와는 반대로
+
+contrary
+ : ~와는 다른
+  반대되는 것.
+
+assuredly
+ : 분명히, 틀림없이
+
+**One of the chief things / which my typical man has to learn / is that the mental faculties are capable of a continuous hard activity; they do not tire like an arm or a leg.** 
+(가장 중요한 것중의 하나는 / 나의 전형적인 사람이 배워야만 하는 / 정신 능력이 지속된 어려운 활동을 할 여력이 있다. ; 그들은-정신능력은- 팔이다 다리처럼 피곤하지 않다.)
+faculty
+ : 능력
+
+capable
+ : ~을 할 수 있는
+
+All they want is change–not rest, except in sleep. 
+(그들이 원하는 모든 것은 변화인다- 휴식이 아닌, 수면을 제외하고)
+
+I shall now examine the typical man’s current method / of employing the sixteen hours / that are entirely his, beginning with his uprising.
+(난 이제 전형적인 사람의 현재 방법을 검사해야만 한다 / 16시간을 사용하는 방법 / 전적으로 그의 것인 16 시간, 그의 uprising 을 시작하면서 )
+examine
+ : 조사하다, 검토하다, 시험을 실시하다
+
+uprising
+ : 봉기, 반란, 폭동
+
+I will merely indicate things / which he does / and which I think / he ought not to do, postponing my suggestions /for “planting” the times / which I shall have cleared–as a settler clears spaces in a forest.
+( 나는 단지 그것을 표시할 것이다 / 그가 가지고 있는 것 / 내가 생각하는 것 / 그가 하지 말아야 한다고 , 나의 제안을 연기하면서 / 시간을 "planting" 하기 위해 / 내가 명확하게 가져야 하는 시간 - 정복자가 공간을 깨끗이 치우는 것 처럼 / 숲에서 )
+merely
+ : 한낱, 그저, 단지
+
+ought
+ : ~해야 한다, ~할 의무가 있다, 
+
+In justice to him /  I must say / that he wastes very little time / before he leaves the house / in the morning at 9.10. 
+( 그에게 공평하게 / 나는 말해야 한다 / 그가 매우 적은 시간을 낭비한다고 / 그가 집을 떠다기 전에 / 아침 9시 10분에)
+
+In too many houses / he gets up at nine, breakfasts between 9.7 and 9.9 1/2, and then bolts. 
+(너무 많은 집에서 / 그는 9시에 일어난다, 아침 식사는 9 시 7분에서 9시 9분 30초에 급하게 먹어치운다.)
+bolt
+ : 음식을 급히 먹다?
+
+But immediately / he bangs the front door his mental faculties, which are tireless, become idle. 
+(그러나 측시 / 그는 앞문을 친다 그의 정신 능력, 피곤하지 않는, 멍한 상태가 된다.)
+bang
+ : 쾅하고 치다.
+
+He walks to the station / in a condition of mental coma. 
+(그는 기차역으로 걸어간다 / 정신적 코마의 상태로 )
+
+Arrived there, he usually has to wait for the train. 
+(거기에 도착하면, 그는 보통 기차를 기다린다.)
+
+On hundreds of suburban stations every morning / you see men calmly strolling up and down platforms / while railway companies unblushingly rob them of time, which is more than money. 
+(매일 아침 대부분의 도시의 역에서 / 당신은 잔잔하게 플랫폼을 오르고 내리는 그들을 봅니다. / 철도 회사들이 그들의 시간을 도둑질하는 동안에, 돈보다 더 중요한 시간)
+subruban
+ : 교외의, 도시의
+
+calmly
+ : 침착하게, 잔잔하게
+
+stroll
+ : 거닐다, 산택하다.
+
+rob
+ : 털다, 도둑질하다.
+
+**Hundreds of thousands of hours / are thus lost every day simply / because my typical man thinks / so little of time that it has never occurred to him / to take quite easy precautions against the risk of its loss.** 
+( 많은 시간은 / 그래서 단순하게 매일 잃어버립니다 / 나의 전형적인 사람이 생각하기 때문에 / 너무 작은 시간이어서 / 그 시간은 그에게 결코 발생되지 않는다 / 꽤 쉬은 주의를 취하기 위해 / 시간손실의 위험에 대비해)
+
+He has a solid coin of time / to spend every day–call it a sovereign. 
+(그는 시간의 동전을 가지고 있다 / 매일 소비하는 - 이걸 sovereign 이라 부른다.
+sovereign
+ : 1파운드 금화.
+   군주, 국왕
+   자주적인, 독립된, 최고 권력을 지닌
+
+He must get change for it, and in getting change / he is content to lose heavily. 
+(그는 그것을 위해 잔돈을 얻어야 하고, 잔돈을 계속 얻으면서 / 그는 많이 많이 잃는 것에 만족합니다)
+content
+ : 내용(물)
+   만족하는
+
+change
+ : 잔돈
+
+Supposing that in selling him a ticket / the company said, “We will change you a sovereign,/  but we shall charge you three halfpence for doing so,” what would my typical man exclaim?
+(그에게 티켓을 판다고 가정할 때 / 회사는 말합니다 " 우리는 당신의 금화를 바꿔줄 것이다 / 그러나 우리는 당신에게 교환을 위해 3 펜스를 부과할 것입니다" 나의 전형적인 사람은 뭐라고 불평할까요?
+
+Yet that is the equivalent / of what the company does / when it robs him of five minutes twice a day. 
+(단지 그것은 동등하다 / 회사가 무엇을 하는 것 / 그것이 그에게 하루 5분을 강탈할 때)
+
+You say/  I am dealing with minutiae. 
+(당신은 말합니다 / 내가 사소한 것들을 다루고 있다고)
+minutiae
+ : 세부사항들, 상세한 내용
+
+I am. And later on I will justify myself. 
+(맞습니다. 그리고 다음에 그것을 정당화하겠습니다.)
+
+Now will you kindly buy your paper / and step into the train?
+(이제 당신은 당신의 종이를 사고, 열차에 오르겠습니까?)
+
+#### Tennis and the Immortal Soul 
+
+immortal
+ : 죽지 않는, 불멸의
+
 ---
 
 Preface to this Edition 
