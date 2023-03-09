@@ -1238,6 +1238,125 @@ Now will you kindly buy your paper / and step into the train?
 immortal
  : 죽지 않는, 불멸의
 
+You get into the morning train with your newspaper, and you calmly and majestically give yourself up to your newspaper. 
+(당신은 신문과 함께 기차에 탈 것이고, 침착하고 당당하게 신문을 접한다-신문을 읽는다?- )
+
+majestically
+ : 장대하게, 당당하게
+
+You do not hurry. 
+(당신은 서두르지 않는다.)
+
+You know / you have at least half an hour / of security in front of you. 
+(당신은 안다 / 당신한테 개인적인 1시간 30분이 있다는 것을)
+
+As your glance lingers idly / at the advertisements of shipping and of songs / on the outer pages, your air is the air /of a leisured man, wealthy in time, of a man from some planet / where there are a hundred and twenty-four hours a day instead of twenty-four. 
+( 당신의 시선은 남아 있다 / 쇼핑 과 노래 광고에 / 바깥쪽 페이지에 있는, 당신의 공기는 그 공기다 / 한가한 남자의 공기 / 어떤 행성으로부터 온 남자의 공기 / 24시간 대신에 하루에 124 시간이 있는 행성)
+glance
+ : 흘깃 보다
+
+linger
+ : 남다, 더 오래 머물다.
+
+leisure
+ : 여가
+
+I am an impassioned reader of newspapers. 
+(나는 신문에 크게 감동한 독자이다)
+impassion
+ : 크게 감동시키다, 자극하다.
+
+I read five English and two French dailies, and the news-agents alone know how many weeklies, regularly. 
+(나는 5개 영어, 2개 프랑스 일간지들을 읽었고, 뉴스 에이전트늘은 많이 많은 주간지가 있는 것을 알았다, 규직척으로)
+alone
+ : 혼자, 단독으로, 외로운
+
+I am obliged to mention this personal fact / lest I should be accused of a prejudice against newspapers / when I say / that I object to the reading of newspapers / in the morning train. 
+( 나는 이 개인적인 사실을 의무적으로 언급하게 된다 / 내가 신문에 대한 편견으로 고소를 당할까봐 / 내가 말 했을 때 / 내가 신문 구독을 반대한다고 / 아침 기차에서는 )
+oblige
+ : 의무적으로 ~ 하게되다.
+lest
+ : ~하지 않도록, ~할까봐
+
+Newspapers are produced with rapidity, to be read with rapidity. 
+(신문은 빠르게 생산되고, 빠르게 읽혀진다.)
+with rapidity
+ : 빠르게
+
+There is no place in my daily programme for newspapers. 
+(내 일상의 프로그램에는 뉴스를 위한 장소가 없다.)
+
+I read them / as I may in odd moments. 
+(나는 신문을 읽는다. 내가 한가하해질때)
+
+But I do read them. 
+(그러나 나는 신문을 읽는다)
+
+The idea of devoting to them thirty or forty consecutive minutes / of wonderful solitude  /(for nowhere can one more perfectly immerse one’s self in one’s self / than in a compartment full of silent, withdrawn, smoking males) / is to me repugnant. 
+( 그들에게 연이은 30~40분 시간을 바친다는 생각은 나에게는 불쾌하다/  아름다운 고독의 시간 / 언제어디서나 좀더 완전하게 자신안의 자신에게 몰두하기 위한 / 객실 안에서 보다 / 정적, 후퇴, 금연등으로 차있는 )
+repugnant
+ : 불쾌한, 혐오스러운
+
+devote
+ : 바치다
+
+solitude
+ : (특히 즐거운) 고독
+
+consecutive
+ : 연이은(연속으로)
+
+immerse
+ : 담그다, 몰두하다.
+
+compartment
+ : 객실, 칸
+
+
+I cannot possibly allow you / to scatter priceless pearls / of time with such Oriental lavishness. 
+( 나는 도저히 당신이 가치없는 시간의 진주들을 흩뿌리는 것을 허락할 수 없다. / 그런 동양적인 낭비와 같은 시간 )
+possibly
+ : 아마, 도저히
+lavishness
+ : 낭비
+scatter
+ : 흩뿌리다, 흩어지게 만들다.
+
+You are not the Shah of time. 
+(당신은 시간의 Shah 가 아니다)
+
+Let me respectfully remind you that you have no more time than I have. 
+( 다신 공손에게 당신에게 상기시켜 주겠다 / 당신이 내가 가진 시간 보다 더 많이 가질 수 없을을 )
+respectfully
+ : 공손하게
+
+**No newspaper reading in trains! I have already “put by” / about three-quarters of an hour for use.**
+(기차에서 신문을 읽지 마라. 나는 이미 "put by" 했다 / 사용을 위한 한 시간의 3/4 에 관해 )
+put by
+ : 따로 주다, 비축하다.
+
+Now you reach your office. 
+
+And I abandon you there till six o’clock. 
+(그리고 나는 당신을 거기에 두고 간다 / 6시까지
+abandon
+ : 버리다, 두고 가다
+
+I am aware / that you have nominally an hour (often in reality an hour and a half) / in the midst of the day, less than half / of which time is given to eating. 
+(나는 믿는다 / 당신이 명목상으로 한 시간을 가졌다고 ( 종종 현실에서 1시간 30분) / 하루의 중간에서, 30분 보다 적은 / 식사로 주어진 시간 )
+nominally
+ : 명목상으로
+
+midst
+ : 중간, 한가운데
+
+But I will leave you all that to spend as you choose. 
+(나는 당신이 모든 것을 선택한데로 하게끔 놓아두고 떠날 것이다.)
+
+You may read your newspapers then.
+(그러면 신문을 읽어도 된다.)
+
+
 ---
 
 Preface to this Edition 
