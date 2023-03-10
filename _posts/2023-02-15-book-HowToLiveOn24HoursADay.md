@@ -1356,6 +1356,91 @@ But I will leave you all that to spend as you choose.
 You may read your newspapers then.
 (그러면 신문을 읽어도 된다.)
 
+I meet you again / as you emerge from your office. 
+( 나는 당신을 다시 만난다 / 당신이 사무실에서 나올 때 )
+emerge
+ : 나오다, 모습을 보이다.
+
+You are pale and tired. 
+(당신은 창백하고 피곤해 보인다.)
+pale
+ : 창백한, 핼쑥한
+
+At any rate, your wife says you are pale, and you give her / to understand that you are tired. 
+(어쨌든, 당신의 부인은 당신이 창백하다고 말하고, 당신이 그녀에게 준다 / 당신이 피곤함을 알려준다.)
+
+During the journey home/  you have been gradually working up the tired feeling. 
+( 집으로 가는 도중에 / 당신은 서서히 피곤한 느낌을 해소해 왔습니다..)
+gradually
+ : 서서히
+
+The tired feeling hangs heavy / over the mighty suburbs of London / like a virtuous and melancholy cloud, particularly in winter. 
+( 당신의 피곤한 감정은 무겁게 매달려 있다 / 런던의 교외에 / 고력하고 구슬픈 구름처럼 / 특별히 겨울에 )
+mighty
+ : 강력한, 힘쎈
+
+suburb
+ : 교외
+
+virtuous
+ : 도덕적인, 고결한
+
+melancholy
+ : 구슬픈
+
+particularly
+ : 특히, 특별히
+
+You don’t eat immediately / on your arrival home. 
+(당신은 즉시 먹지 않는다 / 집에 도착했을 때 )
+
+But in about an hour or so you feel as if you could sit up / and take a little nourishment. 
+( 그러나 한 시간 가량 또는 당신이 일어날 수 있는 것을 느끼면, 약간의 음식을 섭취한다)
+nourishment
+ : 음식물, 영양
+
+And you do. 
+
+Then you smoke, seriously; you see friends; you potter; you play cards; you flirt with a book; you note that old age is creeping on; you take a stroll; you caress the piano.... 
+(그러고 당신은 심각하게 담배를 피고; 친구를 보고; 빈둥거리고; 카드놀이를 하고; 책과 함께 추파를 던지고(책을 뒤적거리고) ; 당신이 나이들어가는 것에 주목하고; 산책을 하고 ; 피아노를 점검하고...
+potter
+ : 빈둥거리다.
+
+creep
+ : 살금살금 움직이다.
+
+flirt
+ : 추파를 던지다
+   바람둥이
+
+note
+ : ~에 주목하다, 언급하다.
+  메모, 노트, 쪽지
+
+stroll
+ : 거닐다, 산책하다.
+
+By Jove! a quarter past eleven. 
+이런~! 11시 15분이야.
+
+You then devote quite forty minutes to thinking about going to bed; and it is conceivable / that you are acquainted / with a genuinely good whisky. 
+(그러면 당신은 40분을 들인다. 자러가는 것에 대한 생각을 하는데; 그리고 그것은 상상할 수 있다 / 당신이 익숙해진다 / 진짜로 좋은 위스키와 함께)
+
+conceivable
+ : 상상할 수 있는, 가능한
+
+acquaint
+ : 익히다, 숙지하다.
+
+genuinely
+ : 진심으로, 진짜로
+
+At last you go to bed, exhausted by the day’s work. 
+(마지막으로 잠자리에 들면, 하루 일과가 종료된다.)
+
+**Six hours, probably more, have gone / since you left the office–gone like a dream, gone like magic, unaccountably gone!**
+(6시간이, 아마도 좀더 사라져버렸다. / 당신이 사무실을 떠난 이후로 - 꿈 같이 사라지고, 마법같이 사라지고, 셀수없이 사라졌다.)
+
 
 ---
 
