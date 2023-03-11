@@ -1441,6 +1441,138 @@ At last you go to bed, exhausted by the day’s work.
 **Six hours, probably more, have gone / since you left the office–gone like a dream, gone like magic, unaccountably gone!**
 (6시간이, 아마도 좀더 사라져버렸다. / 당신이 사무실을 떠난 이후로 - 꿈 같이 사라지고, 마법같이 사라지고, 셀수없이 사라졌다.)
 
+That is a fair sample case. But you say: “It’s all very well for you to talk. A man is tired. A man must see his friends. He can’t always be on the stretch.” 
+(저것은 공정한 샘플의 경우다. 그렇지만 당신은 말합니다 : "당신이 말하는 것은 좋다. 그 사람은 피고했다. 그 사람은 친구들을 봐야만 한다. 그능 항상 늘어져 있을 수만은 없다.)
+stretch
+ : 늘이다. 늘어지다.
+
+Just so. But when you arrange to go to the theatre (especially with a pretty woman) what happens? 
+(단지 그렇다. 그러나 당신이 영화를 예매해야 할때 ( 특히 매우 예쁜 여성과)  무슨 일이 일어나는가?)
+
+You rush to the suburbs; you spare no toil / to make yourself glorious in fine raiment; you rush back to town in another train; you keep yourself on the stretch for four hours, if not five; you take her home; you take yourself home. 
+( 당신은 교외로 급하게 달려간다; 당신을 시간을 낸다 / 당신을 의복으로 멋지게 하기 위해;  다른 열차로 마을로 급하게 돌아온다;  당신은 4시간 동안 늘어져 있는다, 5시가 아니라면; 그녀를 집에 바래다준다; 집으로 돌아온다)
+spare
+ : 남는, 여분의
+   (시간, 돈 등을) 할애하다, 내어주다
+
+toil
+ : 힘들게 일하다. 느릿느릿 움직이다.
+   노역, 고역
+
+glorious
+ : 영광스러운, 대단히 즐거운
+
+raiment
+ : 의복, 의류
+
+You don’t spend three-quarters of an hour / in “thinking about” going to bed. 
+(당신은 45분을 소비하지 않았다 / 잠자리에 들 생각을 하면서.)
+
+You go. Friends and fatigue have equally been forgotten, and the evening has seemed so exquisitely long (or perhaps too short)! 
+(당신은 간다.  친구들과 피로는 동등하게 잃어버린다, 그리고 저녁은 절묘하게 길어질 것으로 보인다. (또는 아마도 너무 짧을 것이다.)
+fatigue
+ : 피로
+
+exquisitely
+ : 아주 아름답게, 절묘하게
+
+And do you remember that time / when you were persuaded to sing / in the chorus of the amateur operatic society, and slaved two hours every other night for three months? 
+(그리고 그 시간을 기억하는가? / 당신이 노래하도록 설득당했던 시간 / 아마츄어 오페라 협회의 코러스로 / 그리고 3달동안 매일 야근을 2시간씩 노예처럼 해야했던 시간?)
+persuade
+ : 설득하다, 납득시키다.
+
+slave
+ : 노예
+   노예처럼 일하다.
+
+Can you deny / that when you have something definite to look forward to at eventide, something / that is to employ all your energy – the thought of that something gives a glow and a more intense vitality / to the whole day?
+( 부인할 수 있나? 밤에 무언가 분명한 것을 찾을려고 했을 때, 무언가 / 당신의 모든 에너지를 써야하는 무언가  -  무언가가 홍조 와 좀 더 열정적인 활력을 준다는 생각 / 하루 종일
+definite
+ : 확실한, 분명한
+
+eventide
+ : 저녁, 밤
+
+employ
+ : 고용하다, 쓰다
+
+glow
+ : 불빛, (운동이나 행복감에 띄는)홍조
+
+intense
+ : 열정적인, 진지한
+
+vitality
+ : 활력
+
+What I suggest is / that at six o’clock / you look facts in the face and admit / that you are not tired (because you are not, you know), and that you arrange your evening so / that it is not cut in the middle by a meal. 
+(내가 제안하는 것은 / 6시에 / 당신은 사실을 봐야 한다 / 그리고 당신이 피곤하지 않다는 것을 인정한다.(당신도 알기에 당신은 피곤하지 않기 때문에), 그리고 당신의 저녁을 배정한다 / 식사에 의해 중간에 끊기지 않도록)
+
+By so doing / you will have a clear expanse of at least three hours. 
+(그렇게 함으로써 / 당신은 적어도 3시간의 광활한 공간을 가질 수 있을 것이다.)
+
+I do not suggest / that you should employ three hours every night of your life in using up your mental energy. 
+(나는 제안하지 않는다 / 당신이 인생의 매일 밤 3시간을 사용해야만 한다 / 당신의 정신력을 강화시키려고 )
+
+**But I do suggest / that you might, for a commencement, employ an hour and a half every other evening / in some important and consecutive cultivation of the mind.** 
+(그러나 나는 제안한다 / 당신이 새로운 시작을 위해 매일 저녁 한 시간 30분을 사용했으면 한다. / 무언가 중요하고 연속적인 마음의 경작을 하면서)
+commancement
+ : 시작, 개시
+
+consecutive
+ : 연이은, 연속적인
+
+You will still be left with three evenings / for friends, bridge, tennis, domestic scenes, odd reading, pipes, gardening, pottering, and prize competitions. 
+( 당신은 여전이 저녁 3시간이 맡겨질 것이다 / 친구를 위해, 브릿지, 테니스, domestic 장면, 잠깐의 독서, 파이프(담배), 정원가꾸기, 빈둥거리기, 시상식 등등.)
+
+You will still have the terrific wealth of forty-five hours / between 2 p.m. Saturday and 10 a.m. Monday. 
+(당신은 여전히 끔찍한 45시간의 가치를 가지고 있을 것이다. 토요일 오후 2시에서 월요일 오전 10시 사이에
+
+**If you persevere you will soon want to pass four evenings, and perhaps five, in some sustained endeavour to be genuinely alive.** 
+( 만약 당신이 곧 4일(아마도 5일)의 저녁이 지나가기를 원할 것을 고수하고 있다면, 어떤 한결같은 노력으로 / 진심으로 살기위한 노력) 
+preserve
+ : 지키다, 보존하다.
+
+sustained 
+ : 지속된, 한결같은, 일관된
+
+endeavour
+ : 노력
+
+genuinely
+ : 진심으로
+
+And you will fall out of that habit of muttering to yourself at 11.15 p.m., “Time to be thinking about going to bed.” 
+( 그리고 당신은 밤 11시 15분에 자기 자신에 대해 불평하는 습관을 없앨 것이다. "잠자로 가는것에 관해 생각하는 시간")
+muttering
+ : 불평
+
+The man who begins to go to bed forty minutes / before he opens his bedroom door / is bored; that is to say, he is not living. 
+( 40분에 자러가기 시작하는 사람 / 욕실문을 열기 40분 전 / 지루하다; 말이없고, 생기가 없다.)
+
+But remember, at the start, those ninety nocturnal minutes thrice a week must be the most important minutes in the ten thousand and eighty. 
+(그러나 기억해라, 시작시에, 그 시간은 가장 중요한 시간이 되어야 한다.)
+
+They must be sacred, quite as sacred as a dramatic rehearsal or a tennis match. 
+(그들은 가장 성스러워야만 한다, 꽤 성스러운 / 극적인 리허설이나 테스트 경기처럼)
+sacred
+ : 성스러운
+
+Instead of saying, “Sorry I can’t see you, old chap, but I have to run off to the tennis club,” 
+(말하는 대신에, "미안 나는 널 볼 수 없어. 그렇지만 난 테니스 클럽을 나가야만 한다.")
+
+
+you must say, “...but I have to work.” 
+(당신은 말해야 합니다, "그렇지만 일하러 가야 합니다")
+
+This, I admit, is intensely difficult to say. 
+(인정한다. 이것은 말하기 어렵다.)
+
+Tennis is so much more urgent / than the immortal soul.
+(테니스가 좀 더 많이 긴급하다 / 죽지않는 영혼보다 )
+
+#### Remember Human Nature 
+
 
 ---
 
