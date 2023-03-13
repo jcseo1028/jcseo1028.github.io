@@ -1573,6 +1573,24 @@ Tennis is so much more urgent / than the immortal soul.
 
 #### Remember Human Nature 
 
+I have incidentally mentioned the vast expanse of forty-four hours / between leaving business at 2 p.m. on Saturday / and returning to business at 10 a.m. on Monday. 
+( 그건 그렇고 나는 44시간의 방대한 비용에 대해 언급했었다 / 토요일 오후 2시에 회사에서 떠나고 / 월요일 오전 10시에 회사로 돌아오는 사이에/)
+incidentally
+ : 그런데, 그건 그렇고.
+
+vast
+ : 방대한
+
+And here I must touch on the point / whether the week should consist of six days or of seven. 
+(그리고 여기 나는 그 점을 터치해야 한다 / 일 주일이 6일 아니면 7일로 구성되어야 하는 점에)
+
+For many years–in fact, until I was approaching forty–my own week consisted of seven days. 
+( 여러 해 동안, 내가 40살이 될때까지, 나의 일 주일은 7일로 구성되어 있었다.)
+
+I was constantly being informed by older and wiser people / that more work, more genuine living, could be got out of six days than out of seven.
+(나는 계속해서 더 나이많고 현명한 사람들에게 정보를 받아왔다 / 좀 더 일하는 것, 좀 더 진실한 삶은,  7일보다 6일동안 더 얻게 될수 있었다.)
+genuine
+ : 진실한
 
 ---
 
