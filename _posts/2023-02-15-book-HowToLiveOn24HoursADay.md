@@ -1592,6 +1592,69 @@ I was constantly being informed by older and wiser people / that more work, more
 genuine
  : 진실한
 
+get out of
+ : ~을 ~에서 얻다, 알아내다
+   ~에서 나오다 도망치다.
+
+And it is certainly true / that now, with one day in seven / in which I follow no programme and make no effort save / what the caprice of the moment dictates, I appreciate intensely the moral value of a weekly rest. 
+( 그리고 그것은 확실히 진실이다 / 지금, 7일 중에 하루 / 내가 프로그램을 따르지 않는다 / 그리고 구하려고 노력하지 않는다 / 그 순간적인 변덕이 지시하는 것,  나는 몹시 주간 휴식의 도덕척 가치를 감사한다.)
+intensely
+ : 몹시
+
+caprice
+ : 변덕
+
+dictate
+ : 받아쓰기, 구술
+   받아쓰게 하다, 지시하다
+
+moral
+ : 도덕적인
+
+Nevertheless, had I my life to arrange over again, I would do again as I have done. 
+(그럼에도 불구하고, 나의 삶을 다시 정리한다면, 내가 했던 것처럼 다시 할것이다.)
+nevertheless
+ : 그렇기는 하지만, 그럼에도 불구하고
+
+arrange
+ : 마련하다, 정리하다
+
+Only those / who have lived at the full stretch seven days a week for a long time / can appreciate the full beauty / of a regular recurring idleness. 
+(오직 사람들 / 오랫동안 1주일중 7일을 가득 늘어진 삶을 살았던 / 가득찬 아름다움을 감사할 수 있다. / 규칙적으로 반복되는 게으름의 )
+idleness
+ : 게으름.
+
+Moreover, I am ageing. 
+(더구나 나는 나이들고 있다.)
+
+And it is a question of age. 
+(그리고 그것은 나이의 문제이다.)
+
+In cases of abounding youth and exceptional energy and desire for effort / I should say unhesitatingly: Keep going, day in, day out. 
+( 풍부한 젋음, 예외적인 에너지, 노력을 위한 갈망이 있는 경우에는 / 나는 확고하게 말해야 한다: 계속 유지하라고, 매일매일?)
+abonding
+ : 풍부한, 많은
+
+unhesitatingly
+ : 확고하게
+
+**But in the average case I should say: Confine your formal programme (superprogramme, I mean) to six days a week.** 
+(그러나 내가 말해야 하는 평균적인 경우에는: 당신의 일반적인 프로그램을 제한시켜라. 1주일에 6일로 (이게 슈퍼프로그램이다.)
+confine
+ : 국한시키다(제한하다), 가두다
+
+If you find yourself wishing to extend it, extend it, but only in proportion to your wish; and count the time extra as a windfall, not as regular income, so that you can return to a six-day programme / without the sensation of being poorer, of being a backslider.
+(그것을 확장시키고 싶으면, 확장시켜라, 그러나 오직 당신 의지의 비율, 그리고 우발적인 시간 여유를 세라, 정규 수입이 아닌, 그래서 6일의 프로그램을 얻을 수 있다/  가난해지는 느낌 없이, 타락해지는 느낌 없이 )
+proportion
+ : 부분, 비율
+
+windfall
+ : 우발적인 소득, 뜻밖의 횡재
+   낙과(바람에 떨어진 과일)
+
+sensation
+ : 느낌, 감각
+
 ---
 
 Preface to this Edition 
