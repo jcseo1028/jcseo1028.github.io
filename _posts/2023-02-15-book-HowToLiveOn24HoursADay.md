@@ -1655,6 +1655,63 @@ windfall
 sensation
  : 느낌, 감각
 
+Let us now see where we stand. 
+(이제 우리가 어디에 서있는 지 봅시다)
+
+So far we have marked for saving out of the waste of days, half an hour at least on six mornings a week, and one hour and a half on three evenings a week. 
+( 지금까지 낭비하는 시간을 절약을 위해 표시했다, 1주일 6일 아침에서 적어도 30분 동안, 1주일 중 3일 저녁에 1시간 30분.)
+so far
+ : 지금까지
+
+Total, seven hours and a half a week.
+(모두 1주일에 7시간 30분이다.)
+
+I propose to be content with that seven hours and a half for the present. 
+(나는 현재를 위해 이 7시간 30분에 만족하기를 제안한다.)
+
+“What?” you cry. 
+
+“You pretend to show us how to live, and you only deal with seven hours and a half out of a hundred and sixty-eight! Are you going to perform a miracle with your seven hours and a half?” 
+( 당신은 살아가는 법을 알려주는 적 했다, 그리고 당신은 단지 7시간 30분에 만족하라고 한다.  168시간 중! 7시간 30분을 이용해서 기적을 보여줄 예정입니까?)
+pretend
+ : ~인 척하다
+
+deal with
+ : 처리하다, ~을 다루다
+
+Well, not to mince the matter, I am–if you will kindly let me! That is to say, I am going to ask you to attempt an experience which, while perfectly natural and explicable, has all the air of a miracle. 
+( 네, 그 문제를 잘게 갈지 않고, 나는 - 당신이 나를 친절하게 대한다면! 말할것이다, 나는 당신에게 어떤 경험을 시도하라고 요청할 예정이다, 완전히 자연스럽고 설명이 되게, 기적을 가질 수 있는 경험.)
+mince
+ : (고기를)갈다.
+
+explicable
+ : 해명되는, 설명되는
+
+My contention is that the full use of those seven-and-a-half hours will quicken the whole life of the week, add zest to it, and increase the interest which you feel in even the most banal occupations. 
+( 나의 주장은 7시간 30분의 꽉찬 사용이 1주일의 전체 삶을 빠르게 할 것이라는 것이다, 그것으로 열정이 추가된다, 흥미가 증가한다 / 당신이 가장 따분할 때도 느끼는 흥미)
+contention
+ : 논쟁, 주장
+
+zest
+ : 열정
+
+banal
+ : 지극히 평범한, 따분한
+
+**You practise physical exercises for a mere ten minutes morning and evening, and yet you are not astonished when your physical health and strength are beneficially affected every hour of the day, and your whole physical outlook changed.** 
+( 당신은 물리적 운동을 한다 겨우 10분동안만 아침 저녁으로, 그리고 단지 놀라서는 안된다 / 당신의 물리적 건강과 힘이 좋게 영향을 받은 것에 / 그리고 당진의 전체 물리적 외형은 바뀐다.)
+mere
+ : 겨우 ~ 의, ~에 불과한
+
+astonish
+ : 깜짝 놀라게 하다.
+
+**Why should you be astonished that an average of over an hour a day given to the mind should permanently and completely enliven the whole activity of the mind?**
+( 당신이 왜 놀랄수 있는가 / 마음에 주어진 1시간 넘게의 평균이 영구적으로 완전하게 정신의 전체 활동을 더 재미있게 하는 것)
+enliven
+ : 더 재미있게 만들다.
+
+
 ---
 
 Preface to this Edition 
