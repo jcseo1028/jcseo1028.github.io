@@ -7,57 +7,58 @@ tags: [ 자기 개발 ]
 published: false
 ---
 
-#### Preface to this Edition 
+#### Preface to this Edition
 
-This preface, though placed at the beginning, as a preface must be, should be read at the end of the book. 
+This preface, though placed at the beginning, as a preface must be, should be read at the end of the book.
 
 이 서문은 책의 시작 부분에 있지만 다음 장들을 모두 읽고 맨 마지막에 읽어야 한다.
 
 - 나머지 읽고 다시 돌아와보자.
 
 #### The Daily Miracle
-Yes, he’s one of those men that don’t know how to manage. 
+
+Yes, he’s one of those men that don’t know how to manage.
 (네, 그는 관리 방법을 모르는 사람들 중 한명입니다.)
-Good situation. 
-Regular income. 
-Quite enough for luxuries as well as needs. 
-Not really extravagant. 
+Good situation.
+Regular income.
+Quite enough for luxuries as well as needs.
+Not really extravagant.
 extravagant
  : 낭비하는
-And yet the fellow’s always in difficulties. 
+And yet the fellow’s always in difficulties.
 (그럼에도 불구하고 그는 항상 어려움에 처해있다.)
 fellow
  : 친구, 동료
 Somehow he gets nothing out of his money.
-(그는 어떻게 해서든 돈에서 아무것도 얻지 못한다) 
+(그는 어떻게 해서든 돈에서 아무것도 얻지 못한다)
 somehow
  : 어떻게든지 해서, 그럭저럭
-Excellent flat–half empty! 
+Excellent flat–half empty!
 (훌륭하게 절반이 비어있다?)
-Always looks as if he’d had the brokers in. 
+Always looks as if he’d had the brokers in.
 (그는 항상 중개인들을 끌어들인 것처럼 보인다.)
 brokers
  : 중개인
-New suit–old hat! 
-Magnificent necktie–baggy trousers! 
+New suit–old hat!
+Magnificent necktie–baggy trousers!
 (멋진 넥타이 - 헐렁한 바지)
 magnificent
  : 멋진, 거대한, 장대한
 baggy
  : 헐렁한
-Asks you to dinner: cut glass–bad mutton, or Turkish coffee–cracked cup! 
+Asks you to dinner: cut glass–bad mutton, or Turkish coffee–cracked cup!
 mutton
  : 양고기
 He can’t understand it. 
-Explanation simply is that he fritters his income away. 
+Explanation simply is that he fritters his income away.
 (간단히 설명하자면 그는 수입을 낭비한다는 것이다.)
 fritter
  : 낭비하다
-Wish I had the half of it! 
+Wish I had the half of it!
 (절반만이라도 있었으면)
 I’d show him–.
 
-So we have most of us criticised, at one time or another, in our superior way. 
+So we have most of us criticised, at one time or another, in our superior way.
 ( 그래서 우리 대부분은 한 번쯤은 우월한 방식으로 비판을 받아왔습니다.)
 
 criticize
@@ -66,7 +67,7 @@ criticize
 superior
  : 우월한, 월등한
 
-We are nearly all chancellors of the exchequer: it is the pride of the moment. 
+We are nearly all chancellors of the exchequer: it is the pride of the moment.
 (우리는 거의 모두 재무장관입니다. 그것은 순간의 자부심입니다.)
 
 chancellor
@@ -1322,10 +1323,10 @@ lavishness
 scatter
  : 흩뿌리다, 흩어지게 만들다.
 
-You are not the Shah of time. 
+You are not the Shah of time.
 (당신은 시간의 Shah 가 아니다)
 
-Let me respectfully remind you that you have no more time than I have. 
+Let me respectfully remind you that you have no more time than I have.
 ( 다신 공손에게 당신에게 상기시켜 주겠다 / 당신이 내가 가진 시간 보다 더 많이 가질 수 없을을 )
 respectfully
  : 공손하게
@@ -1335,14 +1336,14 @@ respectfully
 put by
  : 따로 주다, 비축하다.
 
-Now you reach your office. 
+Now you reach your office.
 
 And I abandon you there till six o’clock. 
 (그리고 나는 당신을 거기에 두고 간다 / 6시까지
 abandon
  : 버리다, 두고 가다
 
-I am aware / that you have nominally an hour (often in reality an hour and a half) / in the midst of the day, less than half / of which time is given to eating. 
+I am aware / that you have nominally an hour (often in reality an hour and a half) / in the midst of the day, less than half / of which time is given to eating.
 (나는 믿는다 / 당신이 명목상으로 한 시간을 가졌다고 ( 종종 현실에서 1시간 30분) / 하루의 중간에서, 30분 보다 적은 / 식사로 주어진 시간 )
 nominally
  : 명목상으로
@@ -1350,7 +1351,7 @@ nominally
 midst
  : 중간, 한가운데
 
-But I will leave you all that to spend as you choose. 
+But I will leave you all that to spend as you choose.
 (나는 당신이 모든 것을 선택한데로 하게끔 놓아두고 떠날 것이다.)
 
 You may read your newspapers then.
@@ -1638,7 +1639,7 @@ abonding
 unhesitatingly
  : 확고하게
 
-**But in the average case I should say: Confine your formal programme (superprogramme, I mean) to six days a week.** 
+**But in the average case I should say: Confine your formal programme (superprogramme, I mean) to six days a week.**
 (그러나 내가 말해야 하는 평균적인 경우에는: 당신의 일반적인 프로그램을 제한시켜라. 1주일에 6일로 (이게 슈퍼프로그램이다.)
 confine
  : 국한시키다(제한하다), 가두다
@@ -1699,7 +1700,7 @@ banal
  : 지극히 평범한, 따분한
 
 **You practise physical exercises for a mere ten minutes morning and evening, and yet you are not astonished when your physical health and strength are beneficially affected every hour of the day, and your whole physical outlook changed.** 
-( 당신은 물리적 운동을 한다 겨우 10분동안만 아침 저녁으로, 그리고 단지 놀라서는 안된다 / 당신의 물리적 건강과 힘이 좋게 영향을 받은 것에 / 그리고 당진의 전체 물리적 외형은 바뀐다.)
+( 당신은 물리적 운동을 한다 겨우 10분동안만 아침 저녁으로, 그리고 단지 놀라서는 안된다 / 당신의 물리적 건강과 힘이 좋게 영향을 받은 것에 / 그리고 당신의 전체 물리적 외형은 바뀐다.)
 mere
  : 겨우 ~ 의, ~에 불과한
 
@@ -1711,31 +1712,135 @@ astonish
 enliven
  : 더 재미있게 만들다.
 
+More time might assuredly be given to the cultivation of one’s self. 
+( 좀더의 시간은 확실히 자기개발에 주어진다.)
+assuredly
+ : 분명히, 틀릴없이
+
+And in proportion as the time was longer the results would be greater. 
+( 그리고 시간이 더 길어지는데 비례하여 그 결과도 더 좋아진다.)
+in proportion to ~
+ : ~ 하는데 비례하여
+
+**But I prefer to begin with what looks like a trifling effort.** 
+(그러나 사소한 노력같이 보이는 것을 먼저 하는 것을 선호한다.)
+prefer to ~
+ : ~ 하는 것을 선호하다.
+
+trifling
+ : 하찮은, 사소한
+
+It is not really a trifling effort, as those will discover who have yet to essay it. 
+(그것인 진짜로 사소한 일이 아니다, 단지 그것을 시도한 사람들은 발견할 것이기 때문에)
+essay
+ : 수필, 에세이
+   시도하다.
+
+To “clear” even seven hours and a half from the jungle is passably difficult. 
+( 정글로부터 7시간 반조차 "Clear" 하느 것은 꽤 어렵다.)
+passably
+ : 꽤, 그런대로
+
+For some sacrifice has to be made. 
+(약간의 희생이 있어야 하기 때문이다.)
+
+One may have spent one’s time badly, but one did spend it; one did do something with it, however ill-advised that something may have been. 
+( 누군가 자신의 시간을 나쁘게 소비한다, 다른 누군가는 시간을 소비했다, 누군가는 그것과 함께 무언가를 했다, 그러나 문제의 소지가 있는 뭔가가 있다.)
+ill-advised
+ : 경솔한, 문제의 소지가 있는
+
+To do something else means a change of habits. 
+(무언가를 하는 것은 또안 습관의 변화를 의미한다.)
+
+And habits are the very dickens to change! 
+(그리고 습관은 변하기에 가장 어려운 것이다.)
+dickens
+ : 어려움, 악
+
+**Further, any change, even a change for the better, is always accompanied by drawbacks and discomforts.**
+(더구나, 어떤 변화든, 그것이 더 좋은 변화라 해도, 항상 결점과 불편이 수반된다.)
+accompany
+ : 동반하다.
+
+drawback
+ : 결점, 문제점
+
+discomfort
+ : 불편
+
+If you imagine / that you will be able to devote seven hours and a half a week to serious, continuous effort, and still live your old life, you are mistaken. 
+(당신이 상상한다면 /  당신이 1주일에 7시간 30분을 헌신하고도, 심각하고, 계혹되는 노력으로, 여전히 예전 생활을 살수 있을거라고, 당신은 실수하고 있는거다.)
+devote
+ : 바치다, 헌신하다.
+
+I repeat that some sacrifice, and an immense deal of volition, will be necessary. 
+(나는 반복한다. 약간의 노력과 자유 의지의 엄청난 거래가 필요할 것이다.)
+immense
+ : 엄청난, 어마어마한
+
+volition
+ : 자유 의지
+
+And it is because I know the difficulty, it is because I know the almost disastrous effect of failure in such an enterprise, that I earnestly advise a very humble beginning. 
+(그것은 내가 어려움을 알기 때문이다, 그것은 내가 사업에서의 실패의 거의 처참한 영향을 알기 때문이다, 내가 진지하게 매우 겸손한 시작을 충고한다.)
+disastrous
+ : 처참한, 형편없는
+
+earnestly
+ : 진지하게, 진정으로
+
+humble
+ : 겸손한, 초라한
+
+You must safeguard your self-respect. 
+( 당신은 당신의 자존심을 보호해야만 합니다.)
+safeguard
+ : 보호하다.
+
+self-respect
+ : 자기존중, 자존심
+
+**Self-respect is at the root of all purposefulness, and a failure in an enterprise deliberately planned deals a desperate wound at one’s self-respect.** 
+(자존심은 모든 목적성의 뿌리에 있다, 그리고 의도적으로 계획된 사업에서의 실패는 자존감에 상처를 남긴다.)
+wound
+ : 상처
+   상처를 입히다.
+
+desperate
+ : 자포자기하는
+
+deliberately
+ : 고의로, 의도적으로
+
+**Hence I iterate and reiterate: Start quietly, unostentatiously.**
+(그러므로 반복하고 또 반복한다 : 조용히 소소하게 시작하라.)
+unostentatiously
+ : 허세 부리지 않고, 수수하게
 
 ---
 
-Preface to this Edition 
+Preface to this Edition
 
-The Daily Miracle 
+The Daily Miracle
 
-The Desire to Exceed One’s Programme 
+The Desire to Exceed One’s Programme
 
-Precautions Before Beginning 
+Precautions Before Beginning
 
-The Cause of the Troubles 
+The Cause of the Troubles
 
-Tennis and the Immortal Soul 
+Tennis and the Immortal Soul
 
-Remember Human Nature 
+Remember Human Nature
 
-Controlling the Mind 
+Controlling the Mind
 
 The Reflective Mood []
 
-Interest in the Arts 
+Interest in the Arts
 
-Nothing in Life Is Humdrum 
+Nothing in Life Is Humdrum
 
-Serious Reading 
+Serious Reading
 
 Dangers to Avoid
