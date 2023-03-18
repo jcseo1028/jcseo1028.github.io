@@ -1817,6 +1817,36 @@ deliberately
 unostentatiously
  : 허세 부리지 않고, 수수하게
 
+When you have conscientiously given seven hours and a half a week to the cultivation of your vitality for three months–then you may begin to sing louder and tell yourself what wondrous things you are capable of doing. 
+( 당신이 양심적으로 3달동안 자기개발로 7시간 30분을 진행했을 때- 그러면 당신은 자신에게 크게 말하기 시작할 것이다.  당신이 할 수 있는 것들을)
+conscientiously
+ : 양심적으로
+
+vitality
+ : 활력
+
+capable
+ : 할 수 있는
+
+Before coming to the method of using the indicated hours, I have one final suggestion to make.
+( 이 지정된 시간을 사용하는 방법을 시작하기 전에, 마지막 하나의 제안을 한다.)
+
+**That is, as regards the evenings, to allow much more than an hour and a half in which to do the work of an hour and a half.**
+( 저녁과 관련하여, 저것은 1시간 30분의 일을 하기위해  1시간 30분보다 좀더 많은 시간을 허락해야 한다는 것이다.)
+as regrads
+ : ~와 관련하여
+
+Remember the chance of accidents.
+(사건의 기회를 기억하라.)
+
+Remember human nature.
+(인간의 본성을 기억하라.)
+
+And give yourself, say, from 9 to 11.30 for your task of ninety minutes.
+(당신에게 말해라, 9시 부터 11시 30분까지는 90분의 당신의 임무를 위한 시간이다.)
+
+#### Controlling the Mind
+
 ---
 
 Preface to this Edition
