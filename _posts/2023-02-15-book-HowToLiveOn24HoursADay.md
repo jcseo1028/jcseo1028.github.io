@@ -1919,6 +1919,55 @@ When you leave your house, concentrate your mind on a subject (no matter what, t
 You will not have gone ten yards before your mind has skipped away under your very eyes and is larking round the corner with another subject.
 (당신은 당신의 눈앞에서 당신의 뇌가 뛰어넘어 갔을 때, 당신은 당신의 뇌가 다른 주제와 코너에서 놀고 있다는 것을 알게 될 것이다.)
 
+Bring it back by the scruff of the neck.
+(그 정신의 목덜미를 잡고 데려와라.)
+scruff
+ : 목덜미?
+
+Ere you have reached the station you will have brought it back about forty times.
+( 당신이 역에 도착하기 전에 당신은 그것을 가져올 수 있다 대략 40번 )
+ere
+ : ~의 전에(=before)
+
+Do not despair. Continue. Keep it up. You will succeed.
+(실항하지 말고 계속해라. 당신은 성공할 것이다.)
+
+You cannot by any chance fail if you persevere.
+( 실패할 기회가 없다. 인내하고 계속한다면 )
+persevere
+ : 인내하고 계속하다.
+
+It is idle to pretend that your mind is incapable of concentration.
+( 당신의 정신이 집중력이 부족한 척 하는 것은 게으른 것이다.)
+idle
+ : 게으른, 나태한
+   공회전하다.
+
+pretend
+ : ~인척하다.
+
+Do you not remember that morning when you received a disquieting letter which demanded a very carefully-worded answer?
+(당신은 그 아침을 기억하지 않는가? / 당신이 조용하지 않은 편지를 받았을 때 / 매우 신중하게 답을 요구하는 편지 )
+
+How you kept your mind steadily on the subject of the answer, without a second’s intermission, until you reached your office; whereupon you instantly sat down and wrote the answer?
+(어떻게 그 대답의 주제에 대해 마음을 꾸준하게 유지하는가?, 두번의 중간 휴식이 없이, 당신이 사무실에 도착할때까지, 그래서 당신은 즉시 의자에 앉아서 답변을 했습니까?)
+whereupon
+ : 그래서, 그 때문에, 그 결과
+
+That was a case in which you were roused by circumstances to such a degree of vitality / that you were able to dominate your mind like a tyrant. You would have no trifling.
+(그것은 어떤 경우였다 / 당신이 환경에 의해 깨어난 경우 / 그러한 활력도 환경 / 당신이 폭군같이 정신을 지배당했던. 사소한 것은 없을 것이다.)
+rouse
+ : 깨우다, 분발하게 하다.
+
+vitality
+ : 활력
+
+dominate
+ : 지배하다.
+
+You insisted that its work should be done, and its work was done.
+(당신은 그 일이 완료되야한다고 주장했고, 그 일은 완료되었습니다.)
+
 ---
 
 Preface to this Edition

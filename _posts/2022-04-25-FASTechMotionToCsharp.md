@@ -66,8 +66,8 @@ BitField, Union 으로 된 구조체는 비트연산을 응용하여 변환한�
 ```cpp
 typedef union
 {
-	DWORD	dwValue;
-	struct
+ DWORD dwValue;
+ struct
 	{
 		unsigned	FFLAG_ERRORALL			: 1; // = 0x00000001;
 		unsigned	FFLAG_HWPOSILMT			: 1; // = 0x00000002;
