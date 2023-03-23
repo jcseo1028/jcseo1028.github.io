@@ -1968,6 +1968,41 @@ dominate
 You insisted that its work should be done, and its work was done.
 (당신은 그 일이 완료되야한다고 주장했고, 그 일은 완료되었습니다.)
 
+**By the regular practice of concentration (as to which there is no secret–save the secret of perseverance) you can tyrannise over your mind (which is not the highest part of you) every hour of the day, and in no matter what place.**
+( 집중의 규칙적인 연습에 의해 ( 비밀이 없는 - 인내의 비빌을 저장하는 ) 당신은 당신의 정신을 압제할 수 있습니다. ( 당신의 최고 부위가 아닌 정신 ) 매일 모든 시간에, 어디서든 상관 없이 )
+perseverance
+ : 인내
+
+tyrannise
+ : 압제하다, 폭군같이 굴다.
+
+The exercise is a very convenient one.
+(그 연습은 매우 편리한 것입니다.)
+
+If you got into your morning train with a pair of dumb-bells for your muscles or an encyclopaedia in ten volumes for your learning, you would probably excite remark.
+(만약에 당신이 당신의 근육을 위한덤벨과 함께 아침 기차에 올랐다면 혹은 학습을 위한 10 권의 묶음이 있는 하나의 백과사전과 함께, 당신은 아마도 흥분할 것이다.)
+encyclopaedia
+ : 백과사전
+
+But as you walk in the street, or sit in the corner of the compartment behind a pipe, or “strap-hang” on the Subterranean, who is to know that you are engaged in the most important of daily acts?
+(그러나 당신이 거리를 걷거나, 객실칸 코너에 앉아있거나, 지하에서  "strap-hang" 하고 있거나, 누가 알겠는가 당신이 하루 일상의 가장 중요한 것에 사로잡혀 있는 것을...)
+compartment
+ : (기차의) 객실 칸
+
+Subterranean
+ : 지하
+
+engage
+ : 사로잡다.
+
+What asinine boor can laugh at you?
+( 어떤 터무니 없는 천박한 사람이 당신을 보고 웃을 수 있겠는가?)
+asinine
+ : 터무니 없는
+
+boor
+ : 천박한 사람
+
 ---
 
 Preface to this Edition
