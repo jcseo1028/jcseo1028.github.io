@@ -2003,6 +2003,26 @@ asinine
 boor
  : 천박한 사람
 
+I do not care what you concentrate on, so long as you concentrate.
+( 나는 당신이 무엇에 집중하는 지 상관하지 않는다, 당신이 집중하는 한)
+so long as
+ : ~ 하는 동안은, ~하는 한은, ~하기만 하면
+
+It is the mere disciplining of the thinking machine that counts.
+( 그것은 단지 숫자를 세는 생각하는 기계의 규율에 불과하다.)
+mere
+ : 겨우 ~의, 한낱 ~에 불과한.
+
+disciplining
+ : 규율
+   징계하다, 훈육하다.
+
+But still, you may as well kill two birds with one stone, and concentrate on something useful.
+(그러나 여전히, 당신은 돌 하나로 새 두마리를 잡을 수 있고, 뭔가 유용한 것에 집중할지도 모른다.)
+
+I suggest–it is only a suggestion–a little chapter of Marcus Aurelius or Epictetus.
+( 나는 제안한다. - 단지 제안일 뿐이다 - Marcus Aurelius 나 Epictetus 의 작은 쳅터로.)
+
 ---
 
 Preface to this Edition
