@@ -2023,6 +2023,75 @@ But still, you may as well kill two birds with one stone, and concentrate on som
 I suggest–it is only a suggestion–a little chapter of Marcus Aurelius or Epictetus.
 ( 나는 제안한다. - 단지 제안일 뿐이다 - Marcus Aurelius 나 Epictetus 의 작은 쳅터로.)
 
+Do not, I beg, shy at their names.
+(구걸하지 마라, 그들에 이름에 부끄러운)
+
+For myself, I know nothing more “actual,” more bursting with plain common-sense, applicable to the daily life of plain persons like you and me (who hate airs, pose, and nonsense) than Marcus Aurelius or Epictetus.
+(나 자신을 위해, 나는 좀 더 'actual' 한 것을 모른다, 좀 더 터지는 공통 감각의  평지, 좀 더 적용가능한  숨김없는 사람의 일상 / 당신과 나처림 (air, pose, nonsense를 싫어하는 ) Marcus Aurelius 나 Epictetus)
+plane
+ : 분명한, 숨김없는
+  평원, 평지
+
+burst
+ : 터지다. 불쑥 가다
+  파열, 파열된 곳.
+
+Read a chapter– and so short they are, the chapters!–in the evening and concentrate on it the next morning.
+( 한 챕터를 읽어라 - 그리고 챕터는 짧다 -  저녁과 다음달 아침까지 집중한다.)
+You will see.
+
+Yes, my friend, it is useless for you to try to disguise the fact.
+(내 친구는 그것이 필요없다고 말한다, / 당신이 그 사실을 변장하려고 하는 것을)
+ disguise
+ : 변장하다.
+
+I can hear your brain like a telephone at my ear.
+(나는 당신의 뇌를 들을 수 있다 / 내 귀에서 들리는 전화처럼.
+
+You are saying to yourself: “This fellow was doing pretty well up to his seventh chapter.
+(친구는 Chanpter7 까지는 꽤 잘했다.)
+
+He had begun to interest me faintly.
+(그는 나에게 흥미를 갖기 시작했다.
+
+faintly
+ : 희미한, 아주 적은
+
+But what he says about thinking in trains, and concentration, and so on, is not for me.
+(그러나 그가 ~에 대해서 말하는 것은 / 기차에서 생각에 관해, 집중에 관해, 기타 ~ 에 관해, 나를 위한 것이 아니다.)
+
+It may be well enough for some folks, but it isn’t in my line.”
+( 그것은 일반적인 사람들에게는 충분하지만, 내 라인에서는 아니었다.)
+folks
+ : 일반적인 사람들, 여러분
+   민속의, 전동척인.
+
+It is for you, I passionately repeat; it is for you. Indeed, you are the very man I am aiming at.
+그것은 당신을 위한 것이다. 열정적으로 반복한다; 그것을 진실로 당신을 위한 것이다, 당신은 내가 목표로 삼고 있는 멋진 사람이다.)
+
+Throw away the suggestion, and you throw away the most precious suggestion that was ever offered to you. It is not my suggestion.
+(제안을 던져버리고, 당신은 가장 ~ 한 제안을 던진다 / 당신에게 요청된 제안, 그것은 나의 제안이 아니다.)
+
+It is the suggestion of the most sensible, practical, hard-headed men who have walked the earth.
+( 그것은 가장 민감하고, 현실적이고, 단단한 머리를 가진 사람의 제안이다. / 지구를 걷고 있는 사람 )
+practical
+ : 현실적인
+
+I only give it you at second-hand.
+( 나는 단지 간접적으로 주었다.)
+second-hand
+ : 중고의, 간접적인
+
+Try it. Get your mind in hand.
+(시도하라.  마음을 다스려라.)
+
+And see how the process cures half the evils of life–especially worry, that miserable, avoidable, shameful disease worry!
+( 그리고 그 과정이 일상의 악마를 어떻게 치유하는지 보라 - 걱정 / 비참하고, 피할 수 있고, 부끄러운 질병인 걱정)
+cure
+ : 낫게하다, 치유하다
+
+#### The Reflective Mood
+
 ---
 
 Preface to this Edition
@@ -2041,7 +2110,7 @@ Remember Human Nature
 
 Controlling the Mind
 
-The Reflective Mood []
+The Reflective Mood
 
 Interest in the Arts
 
