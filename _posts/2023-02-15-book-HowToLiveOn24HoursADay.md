@@ -2092,6 +2092,94 @@ cure
 
 #### The Reflective Mood
 
+**The exercise of concentrating the mind (to which at least half an hour a day should be given) is a mere preliminary, like scales on the piano.**
+(정신을 집중하는 연습은 단지 예비행위다. 피아노의 스케일 연습같은 ( 적어도 하루에 1시간 30분은 주어져야 하는 ) )
+mere
+ : 거의 ~의
+
+preliminary
+ : 예비행위, 예선전
+   예비의(=initial)
+
+Having acquired power over that most unruly member of one’s complex organism, one has naturally to put it to the yoke.
+( 힘을 모으는 것은 / 가장 다루기 힘든 조직원을 통해서 / 복잡한 조직에서, 어떤이는 자연스럽게 그것에 멍에를 씌운다.)
+unruly
+ : 다루기 힘든
+
+yoke
+ : 멍에, 굴레
+
+Useless to possess an obedient mind unless one profits to the furthest possible degree by its obedience.
+( 순종적인 마음을 소유하는 것은 쓸모없다 / 이익을 얻지 못한다면 / 가장 확실한 / 그것의 순종에 의해 )
+obedient
+ : 말을 잘 듣는, 순종하는
+
+unless
+ : ~ 하지 않는 한
+
+obedience
+ : 순종, 복종
+
+A prolonged primary course of study is indicated.
+( 학습의 연장된 기본 코스는 표시됩니다.)
+prolong
+ : 연장시키다, 연장하다(=extend)
+
+Now as to what this course of study should be there cannot be any question; there never has been any question.
+( 이제는 이 학습과정이 있어야 하는 것은 질문이 될 수 없다. ; 결코 질문이 없다. )
+
+All the sensible people of all ages are agreed upon it.
+(모든 나이대의 감각있는 사람들은 동의했다.)
+
+And it is not literature, nor is it any other art, nor is it history, nor is it any science.
+(그리고 그것은 문학도, 다른 예술도, 역사도, 과학도 아니다.)
+
+It is the study of one’s self.
+(그것은 자신에 대한 학습이다.)
+
+**Man, know thyself.**
+(너 자신을 알라.)
+
+These words are so hackneyed that verily I blush to write them.
+( 이 말은 너무 진부에서 진심으로 쓰기가 부끄럽다.)
+hackneyed
+ : 진부한
+
+verily
+ : 참으로, 진정으로
+
+blush
+ : 부끄러운.
+
+Yet they must be written, for they need to be written. (I take back my blush, being ashamed of it.)
+( 그러나 그들은 쓰여져야만 한다, 그들이 쓰여질 필요가 있기 때문에. ( 다시 또 써서 부끄럽다.)
+
+Man, know thyself.
+(너 자신을 알라.)
+
+I say it out loud.
+(나는 크게 말합니다.)
+
+The phrase is one of those phrases with which everyone is familiar, of which everyone acknowledges the value, and which only the most sagacious put into practice.
+(이 구문은 모든 사람들에게 친숙한 구문 중에 하나이다, 모든 사람들이 그 가치를 인정하고, 가장 현명한 사람만이 실천하는)
+acknowledge
+ : 인정하다.
+
+I don’t know why.
+(나도 이유를 모른다.)
+
+**I am entirely convinced that what is more than anything else lacking in the life of the average well-intentioned man of to-day is the reflective mood.**
+( 나는 전적으로 납득했다. /  ~ 보다 더 중요한 것은 / 평균적인 선의의 사람의 인생에서 부족한 것 보다 / reflective mood 이다. )
+convince
+ : 납득시키다, 설득하다.
+
+lack
+ : 부족하다
+   부족, 결핍
+
+well-intentioned
+ : 선의의
+
 ---
 
 Preface to this Edition
