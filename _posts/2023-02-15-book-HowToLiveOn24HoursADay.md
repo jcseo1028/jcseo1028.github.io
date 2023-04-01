@@ -2180,6 +2180,133 @@ lack
 well-intentioned
  : 선의의
 
+We do not reflect.
+(우리는 곰곰히 생각하지 않는다.)
+reflect
+ : 반사하다.
+   심사 숙고하다.
+
+I mean that we do not reflect upon genuinely important things; upon the problem of our happiness, upon the main direction in which we are going, upon what life is giving to us,
+( 내가 의미하는 것은 우리가 진심으로 중요한 것을 생각하지 않는다; 우리의 행복에 대한 문제, 우리가 가야하는 주요 방향, 생활이 우리에게 주는것,)
+genuinely
+ : 진심으로
+
+upon
+ : ~ 에 대해(=on)
+
+upon the share which reason has (or has not) in determining our actions, and upon the relation between our principles and our conduct.
+( 우리의 행동을 결정하는 이유의 공유, 그리고 우리의 원칙과 행동 사이의 관계에 대해 )
+conduct
+ : 지휘하다, 행동하다
+   행동, 수행, 처리
+
+And yet you are in search of happiness, are you not? Have you discovered it?
+( 당신은 행복의 검색을 하고있나, 그것을 찾았나?)
+
+The chances are that you have not.
+(그 기회들은 당신이 가지고 있지 않다.)
+
+The chances are that you have already come to believe that happiness is unattainable.
+( 그 기회들은 / 당신이 이미 믿고있는 /행복은 도달 불가능하다)
+unattainable
+ : 도달 불가능한
+
+But men have attained it.
+(그러나 사람은 그것을 획득합니다.)
+
+And they have attained it by realising that happiness does not spring from the procuring of physical or mental pleasure, but from the development of reason and the adjustment of conduct to principles.
+(그리고 그들은 현실화로 인해 그것을 이뤘다 / 행복이 봄이 아니다라는 것을 /  물리적으로나 정신적 압박으로 구한 것들로부터 /  ~ 없이 / 이유와 정의의 개발로부터 원리까지
+procure
+ : 구하다, 입수하다.
+
+I suppose that you will not have the audacity to deny this.
+(나는 추측한다./  당신이 이것을 부인할 뻔뻔함을 없을 것이라고)
+audacity
+ : 뻔뻔한.
+
+And if you admit it, and still devote no part of your day to the deliberate consideration of your reason, principles, and conduct,
+you admit also that while striving for a certain thing you are regularly leaving undone the one act which is necessary to the attainment of that thing.
+( 그리고 당신이 그것을 인정한다면, 그리고 여전히 신중한 고려 해야한다.
+( 그리고 당신은 또한 ~을 인정한다/ 어떤 것에 분투하는 동안에 / 당신이 그 행동을 하지 않는 것 / 그것을 얻기위한 필요가 있는 행동)
+admit
+ : 인정하다
+
+devote
+ : 바치다, 쏟다, 기울이다.
+
+deliberate
+ : 고의에, 신중한
+
+strive
+ : 분투하다.
+
+Now, shall I blush, or will you?
+(이제 내가 부끄러워야 하나 아니면 당신이 그럴 것인가?)
+
+Do not fear that I mean to thrust certain principles upon your attention.
+(두려워 마라 / 내가 특정한 원리를  찌를 셈이다/ 당신의 태도에 대한)
+thrust
+ : (거칠게) 밀다, 밀치다, 찌르다.
+
+mean to
+ : ~ 할 셈이다.
+
+I care not (in this place) what your principles are.
+( 나는 (여기서) 당신의 원칙이 무엇인지는 돌보지 않을것이다.)
+
+Your principles may induce you to believe in the righteousness of burglary.
+( 당신의 원칙은 아마도 당신이 믿는 것에서 유도된 것일 것이다 / 절도의 정의에 )
+induce
+ : 설득하다, 유도하다, 유발하다.
+
+righteousness
+ : 정의, 정직, 공정, 당연
+
+burglary
+ : 절도, 빈집털이
+
+I don’t mind.
+(나는 괜찮다.)
+
+**All I urge is that a life in which conduct does not fairly well accord with principles is a silly life; and that conduct can only be made to accord with principles by means of daily examination, reflection, and resolution.**
+( 내가 충가하는 모든 것은 / 삶이 어리석은 것이다 / 행동이 원칙과 함께 잘 합의되지 않는 삶은, 그리고 행동이 단지  원칙과 함께 합의가 될 수 있습니다. / 의미에 의해서 / 매일 연습, 검토, 반성의 /
+urge
+ : 충고하다, 권고하다.
+
+accord
+ : 합의
+
+silly
+ : 어리석은, 바보같은
+
+What leads to the permanent sorrowfulness of burglars is that their principles are contrary to burglary.
+( 도둑의 영구적인 슬픔을 이끄는 것은 그들의 원칙들이 도둑과 반대되는 것이다.)
+permanent
+ : 영구적인
+
+sorrowfulness
+ : 슬픔
+
+be contrary to
+ : ~ 에 반하다, ~ 에 어긋나다.
+
+**If they genuinely believed in the moral excellence of burglary, penal servitude would simply mean so many happy years for them; all martyrs are happy, because their conduct and their principles agree.**
+( 만약 당신이 도둑의 도덕적 뛰어남을 믿는다면, 처벌의 노예 상태는 단순히 의미한다. / 그렇게 많은 행복한 시간들 ; 모든 순교자는 행복하다, 그들의 행동과 그들의 원칙이 부합되기 때문데. )
+penal
+ : 처벌의, 형벌의, 처벌할 수 있는, 매우 심함.
+
+moral
+ : 도덕과 관련된, 도덕상의
+
+excellence
+ : 뛰어남.
+
+servitude
+ : 노예상태
+
+martyrs
+ : 순교자
+
 ---
 
 Preface to this Edition
