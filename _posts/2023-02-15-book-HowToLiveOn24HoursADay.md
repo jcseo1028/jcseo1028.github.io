@@ -430,7 +430,7 @@ urge
  : 충고하다.
 
 But there are degrees.
-(그러나, 정도는 있습니다.
+(그러나, 정도는 있습니다.)
 A man may desire to go to Mecca.
 
 His conscience tells him that he ought to go to Mecca.
@@ -530,7 +530,7 @@ The wish to accomplish something outside their formal programme is common to all
 (공식 프로그램 이외의 어떤 것을 성취하고자 하는 바람은 진화 과정에서 특정 수준을 넘어선 모든 사람들에게 공통적입니다.)
 
 **Until an effort is made to satisfy that wish, the sense of uneasy waiting for something to start which has not started will remain to disturb the peace of the soul.**
-(그 소원을 이루기 위해 노력하기 전까지는 아직 시작되지 않은 일이 시작되기를 기다리는 불안한 마음이 영혼의 평안을 방해하게 될 것입니다.
+(그 소원을 이루기 위해 노력하기 전까지는 아직 시작되지 않은 일이 시작되기를 기다리는 불안한 마음이 영혼의 평안을 방해하게 될 것입니다.)
 disturb
  : 방해하다.
 
@@ -644,7 +644,7 @@ It is undiscovered.
 (비밀은 발견되지 않는다.)
 
 When you first began to gather my drift, / perhaps there was a resurrection of hope / in your breast.
-(처음 나의 뜻을 모으기 시작했을 때 / 아마도 희망의 부활이 있었을 것이다 / 당신의 가슴 안에
+(처음 나의 뜻을 모으기 시작했을 때 / 아마도 희망의 부활이 있었을 것이다 / 당신의 가슴 안에)
 resurrection
  : 부활
 
@@ -652,7 +652,7 @@ breast
  : 가슴.
 
 Perhaps you said to yourself, / “This man will show me an easy, unfatiguing way / of doing what I have so long in vain / wished to do.”
-(아마도 당신 자신에게 말하기를 / 이 남는 나를 쉽고, 지치지 않는 방법을 보여줄 것이다. / 무언가를 하는 방법 / 오랫동안 헛되지 않은 무언가 / 하고 싶어지는것
+(아마도 당신 자신에게 말하기를 / 이 남는 나를 쉽고, 지치지 않는 방법을 보여줄 것이다. / 무언가를 하는 방법 / 오랫동안 헛되지 않은 무언가 / 하고 싶어지는것)
 
 unfatiguing
  : 지치지 않는.
@@ -667,12 +667,12 @@ The path to Mecca is extremely hard and stony, and the worst of it is that you n
 (Mecca 로 가는 여정은 극도로 어렵고, 돌이 많고, 최악의 경우 도착할 수도 없다. )
 
 **The most important preliminary to the task of arranging one’s life / so that one may live fully and comfortably /within one’s daily budget of twenty-four hours is**
-(가장 중요한 대비는 / 한 사람의 일생에 배치된 임무 / 사람이 fully 하고 안락하게 살지도 모르는 / 24 시간의 사람의 일별 예산안에서
+(가장 중요한 대비는 / 한 사람의 일생에 배치된 임무 / 사람이 fully 하고 안락하게 살지도 모르는 / 24 시간의 사람의 일별 예산안에서)
 preliminary
  : 예비 행위, 예선전
 
 **the calm realisation of the extreme difficulty of the task, / of the sacrifices and the endless effort /  which it demands.**
-(임무가 극도로 어렵다는 자각 / 희생과 끝없는 노력의 임무 / 그것이 요구하는 노력 /
+(임무가 극도로 어렵다는 자각 / 희생과 끝없는 노력의 임무 / 그것이 요구하는 노력 )
 calm
  : 침착한, 잔잔한
 realisation (=realization)
@@ -782,7 +782,7 @@ If a man standing on the edge of a swimming-bath and wanting to jump into the co
 (당신이 쓰기를 하려면 / 당신은 쓰기를 시작해야 한다.)
 
 **As I have previously said, / the chief beauty / about the constant supply  of time / is / that you cannot waste it in advance.**
-(내가 전에 말했던 것 처럼 / 최고의 아름다움은 /  지속적인 시간의 공급에 관한 / ~ 이다 / 당신이 미리 사용할 수 없다는 것 /
+(내가 전에 말했던 것 처럼 / 최고의 아름다움은 /  지속적인 시간의 공급에 관한 / ~ 이다 / 당신이 미리 사용할 수 없다는 것 )
 
 The next year, the next day, the next hour are lying ready for you, as perfect, as unspoilt, /as if you had never wasted or misapplied a single moment in all your career.
 (그 다음 해, 그 다음 날, 그 다음 시간은 당신을 위해 준비되어 있다./ 완벽하고, / 훼손되지 않은 / 당신이 결코 낭비하거나 적용하지 않았던 것처럼 / 당신의 모든 경력 안에서)
@@ -853,7 +853,7 @@ perspire
  : 땀을 흘리다, 땀이 나다
 
 And then, too often, when it feels the perspiration on its brow, it wearies all of a sudden and dies, without even putting itself to the trouble of saying, “I’ve had enough of this.”
-(그리고, 너무 자주, 그것이 땀을 느낄때, 그것의 이마 에서, 그것은 갑작스럽게 죽는다, 문제를 말하지도 않고. "난 충분해"
+(그리고, 너무 자주, 그것이 땀을 느낄때, 그것의 이마 에서, 그것은 갑작스럽게 죽는다, 문제를 말하지도 않고. "난 충분해")
 brow
  : 이마
 
@@ -951,7 +951,7 @@ spur
 #### The Cause of the Troubles
 
 In order to come to grips at once with the question / of time-expenditure in all its actuality, I must choose an individual case for examination.
-( 그 문제를 한번에 마주치기 위해서 / 시간 지출의 문제 / 모든 현실에서 / 나는 개별적인 경우를 선택해야만 한다. / 조사를 위해.
+( 그 문제를 한번에 마주치기 위해서 / 시간 지출의 문제 / 모든 현실에서 / 나는 개별적인 경우를 선택해야만 한다. / 조사를 위해. )
 come to grips with
  : ~ 와 마주치다, ~와 씨름하다.
 
@@ -973,7 +973,7 @@ Every man and every man’s case is special.
 (모든 사람과 모든 경우는 특별하다.)
 
 But if I take the case of a Londoner / who works in an office, / whose office hours are from ten to six,
-(그러나 내가 만약 런던인의 경우를 체택한다면 / 사무실에서 일하는 / 사무실의 근무시간은 10시 부터 6시인
+(그러나 내가 만약 런던인의 경우를 체택한다면 / 사무실에서 일하는 / 사무실의 근무시간은 10시 부터 6시인)
 and who spends fifty minutes morning and night / in travelling between his house door and his office door,
 아침과 저녁에 50분씩 소비하는 / 집과 사무실 사이를 왕복하는데/
 I shall have got as near to the average as facts permit.
@@ -983,7 +983,7 @@ There are men who have to work longer for a living, but there are others who do 
 ( 사람들이 있다 / 생계를 위해 더 오래 일해야만 하는 사람들 / 그렇지만 다른 사람들도 있다 / 그렇게 오래 일을 하지 않아도 되는 사람들)
 
 Fortunately the financial side of existence does not interest us here; for our present purpose / the clerk at a pound a week is exactly off / as the millionaire in Carlton House-terrace.
-(다행히 존재의 재정적 측면은 우리에게 흥미 있지 않다. 여기에서/ 우리의 현재 목적을 위해 / 일주일에 1 파운드를 버는 직원은 실재로 충분하다. / Carlton Hotel 테라스에 있는 백만장자 처럼/
+(다행히 존재의 재정적 측면은 우리에게 흥미 있지 않다. 여기에서/ 우리의 현재 목적을 위해 / 일주일에 1 파운드를 버는 직원은 실재로 충분하다. / Carlton Hotel 테라스에 있는 백만장자 처럼/)
 clerk
  : 점원, 사무원
 
@@ -991,7 +991,7 @@ be well off
  : 유복하게 지내다 (= be rich enough to have a high standard of living)
 
 Now the great and profound mistake / which my typical man makes in regard to his day / is a mistake of general attitude, a mistake / which vitiates and weakens two-thirds / of his energies and interests.
-( 이제 그 위대하고 심오한 실수는 / 나의 전형적인 사람이 그의 일상에서 regard 하는 / 일반적인 태도의 실수이고 / 실수이다  / 2/3 (효과를) 떨어뜨리고 약화 시키는 / 그의 에너지와 흥미의 2/3을
+( 이제 그 위대하고 심오한 실수는 / 나의 전형적인 사람이 그의 일상에서 regard 하는 / 일반적인 태도의 실수이고 / 실수이다  / 2/3 (효과를) 떨어뜨리고 약화 시키는 / 그의 에너지와 흥미의 2/3을)
 profound
  : 엄청난, 깊은, 심오한
 
@@ -999,7 +999,7 @@ vitiate
  : (무엇의 효과를) 해치다, 떨어뜨리다.
 
 In the majority of instances / he does not precisely feel a passion / for his business; at best / he does not dislike it.
-(Instances 의 대부분에서 / 그는 정확히 정열을 느끼지 않는다 / 그의 사업을 위해 ; 최고에서 / 그가 그것을 싫어하지 않는.
+(Instances 의 대부분에서 / 그는 정확히 정열을 느끼지 않는다 / 그의 사업을 위해 ; 최고에서 / 그가 그것을 싫어하지 않는.)
 at best
  : 기껏해야
 
@@ -1042,7 +1042,7 @@ look upn(=regard) ... as ~
  : ... 를 ~로 여기다.
 
 Such an attitude, unconscious though it be, of course kills his interest / in the odd sixteen hours, with the result that, even if he does not waste them, he does not count them; he regards them simply as margin.
-(그러한 태도, 그것이 비록 무의식적인, 물론 그의 흥미를 죽이는 / 이상한 16시간 동안, 그러한 결과로, 그는 시간을 낭비하지 않더라도, 그는 시간은 세지 않는다; 그는 그 시간을 단순이 여분으로 생각한다.
+(그러한 태도, 그것이 비록 무의식적인, 물론 그의 흥미를 죽이는 / 이상한 16시간 동안, 그러한 결과로, 그는 시간을 낭비하지 않더라도, 그는 시간은 세지 않는다; 그는 그 시간을 단순이 여분으로 생각한다.)
 
 unconscious
  : 무의식적인
@@ -1054,7 +1054,7 @@ odd
  : 이상한, 홀수의
 
 This general attitude is utterly illogical and unhealthy, since it formally gives the central prominence / to a patch of time / and a bunch of activities / which the man’s one idea is to “get through” and have “done with.”
-(이러한 일반적인 태도는 완전히 비논리적이고 건전하지 않다, 그것이 정중하게 가운데 중요성을 주기 때문에 / 시간의 부분에 대한 / 그리고 행동들의 다발 / 그 사람의 한가지 생각이 "get through(통과)" 이고 "done with(완료)" 가 되는 행동들.
+(이러한 일반적인 태도는 완전히 비논리적이고 건전하지 않다, 그것이 정중하게 가운데 중요성을 주기 때문에 / 시간의 부분에 대한 / 그리고 행동들의 다발 / 그 사람의 한가지 생각이 "get through(통과)" 이고 "done with(완료)" 가 되는 행동들.)
 utterly
  : 완전히, 순전히
 
@@ -1201,7 +1201,7 @@ rob
 ( 많은 시간은 / 그래서 단순하게 매일 잃어버립니다 / 나의 전형적인 사람이 생각하기 때문에 / 너무 작은 시간이어서 / 그 시간은 그에게 결코 발생되지 않는다 / 꽤 쉬은 주의를 취하기 위해 / 시간손실의 위험에 대비해)
 
 He has a solid coin of time / to spend every day–call it a sovereign.
-(그는 시간의 동전을 가지고 있다 / 매일 소비하는 - 이걸 sovereign 이라 부른다.
+(그는 시간의 동전을 가지고 있다 / 매일 소비하는 - 이걸 sovereign 이라 부른다.)
 sovereign
  : 1파운드 금화.
    군주, 국왕
@@ -1217,7 +1217,7 @@ change
  : 잔돈
 
 Supposing that in selling him a ticket / the company said, “We will change you a sovereign,/  but we shall charge you three halfpence for doing so,” what would my typical man exclaim?
-(그에게 티켓을 판다고 가정할 때 / 회사는 말합니다 " 우리는 당신의 금화를 바꿔줄 것이다 / 그러나 우리는 당신에게 교환을 위해 3 펜스를 부과할 것입니다" 나의 전형적인 사람은 뭐라고 불평할까요?
+(그에게 티켓을 판다고 가정할 때 / 회사는 말합니다 " 우리는 당신의 금화를 바꿔줄 것이다 / 그러나 우리는 당신에게 교환을 위해 3 펜스를 부과할 것입니다" 나의 전형적인 사람은 뭐라고 불평할까요?)
 
 Yet that is the equivalent / of what the company does / when it robs him of five minutes twice a day.
 (단지 그것은 동등하다 / 회사가 무엇을 하는 것 / 그것이 그에게 하루 5분을 강탈할 때)
@@ -1337,7 +1337,7 @@ put by
 Now you reach your office.
 
 And I abandon you there till six o’clock.
-(그리고 나는 당신을 거기에 두고 간다 / 6시까지
+(그리고 나는 당신을 거기에 두고 간다 / 6시까지)
 abandon
  : 버리다, 두고 가다
 
@@ -1401,7 +1401,7 @@ nourishment
 And you do.
 
 Then you smoke, seriously; you see friends; you potter; you play cards; you flirt with a book; you note that old age is creeping on; you take a stroll; you caress the piano....
-(그러고 당신은 심각하게 담배를 피고; 친구를 보고; 빈둥거리고; 카드놀이를 하고; 책과 함께 추파를 던지고(책을 뒤적거리고) ; 당신이 나이들어가는 것에 주목하고; 산책을 하고 ; 피아노를 점검하고...
+(그러고 당신은 심각하게 담배를 피고; 친구를 보고; 빈둥거리고; 카드놀이를 하고; 책과 함께 추파를 던지고(책을 뒤적거리고) ; 당신이 나이들어가는 것에 주목하고; 산책을 하고 ; 피아노를 점검하고...)
 potter
  : 빈둥거리다.
 
@@ -1468,7 +1468,7 @@ You don’t spend three-quarters of an hour / in “thinking about” going to b
 (당신은 45분을 소비하지 않았다 / 잠자리에 들 생각을 하면서.)
 
 You go. Friends and fatigue have equally been forgotten, and the evening has seemed so exquisitely long (or perhaps too short)!
-(당신은 간다.  친구들과 피로는 동등하게 잃어버린다, 그리고 저녁은 절묘하게 길어질 것으로 보인다. (또는 아마도 너무 짧을 것이다.)
+(당신은 간다.  친구들과 피로는 동등하게 잃어버린다, 그리고 저녁은 절묘하게 길어질 것으로 보인다. (또는 아마도 너무 짧을 것이다.))
 fatigue
  : 피로
 
@@ -1485,7 +1485,7 @@ slave
    노예처럼 일하다.
 
 Can you deny / that when you have something definite to look forward to at eventide, something / that is to employ all your energy – the thought of that something gives a glow and a more intense vitality / to the whole day?
-( 부인할 수 있나? 밤에 무언가 분명한 것을 찾을려고 했을 때, 무언가 / 당신의 모든 에너지를 써야하는 무언가  -  무언가가 홍조 와 좀 더 열정적인 활력을 준다는 생각 / 하루 종일
+( 부인할 수 있나? 밤에 무언가 분명한 것을 찾을려고 했을 때, 무언가 / 당신의 모든 에너지를 써야하는 무언가  -  무언가가 홍조 와 좀 더 열정적인 활력을 준다는 생각 / 하루 종일)
 definite
  : 확실한, 분명한
 
@@ -1525,7 +1525,7 @@ You will still be left with three evenings / for friends, bridge, tennis, domest
 ( 당신은 여전이 저녁 3시간이 맡겨질 것이다 / 친구를 위해, 브릿지, 테니스, domestic 장면, 잠깐의 독서, 파이프(담배), 정원가꾸기, 빈둥거리기, 시상식 등등.)
 
 You will still have the terrific wealth of forty-five hours / between 2 p.m. Saturday and 10 a.m. Monday.
-(당신은 여전히 끔찍한 45시간의 가치를 가지고 있을 것이다. 토요일 오후 2시에서 월요일 오전 10시 사이에
+(당신은 여전히 끔찍한 45시간의 가치를 가지고 있을 것이다. 토요일 오후 2시에서 월요일 오전 10시 사이에)
 
 **If you persevere you will soon want to pass four evenings, and perhaps five, in some sustained endeavour to be genuinely alive.**
 ( 만약 당신이 곧 4일(아마도 5일)의 저녁이 지나가기를 원할 것을 고수하고 있다면, 어떤 한결같은 노력으로 / 진심으로 살기위한 노력)
@@ -1637,7 +1637,7 @@ unhesitatingly
  : 확고하게
 
 **But in the average case I should say: Confine your formal programme (superprogramme, I mean) to six days a week.**
-(그러나 내가 말해야 하는 평균적인 경우에는: 당신의 일반적인 프로그램을 제한시켜라. 1주일에 6일로 (이게 슈퍼프로그램이다.)
+(그러나 내가 말해야 하는 평균적인 경우에는: 당신의 일반적인 프로그램을 제한시켜라. 1주일에 6일로 (이게 슈퍼프로그램이다.))
 confine
  : 국한시키다(제한하다), 가두다
 
@@ -2046,7 +2046,7 @@ Yes, my friend, it is useless for you to try to disguise the fact.
  : 변장하다.
 
 I can hear your brain like a telephone at my ear.
-(나는 당신의 뇌를 들을 수 있다 / 내 귀에서 들리는 전화처럼.
+(나는 당신의 뇌를 들을 수 있다 / 내 귀에서 들리는 전화처럼.)
 
 You are saying to yourself: “This fellow was doing pretty well up to his seventh chapter.
 (친구는 Chanpter7 까지는 꽤 잘했다.)
@@ -2152,7 +2152,7 @@ blush
  : 부끄러운.
 
 Yet they must be written, for they need to be written. (I take back my blush, being ashamed of it.)
-( 그러나 그들은 쓰여져야만 한다, 그들이 쓰여질 필요가 있기 때문에. ( 다시 또 써서 부끄럽다.)
+( 그러나 그들은 쓰여져야만 한다, 그들이 쓰여질 필요가 있기 때문에. ( 다시 또 써서 부끄럽다.))
 
 Man, know thyself.
 (너 자신을 알라.)
@@ -2215,7 +2215,7 @@ But men have attained it.
 (그러나 사람은 그것을 획득합니다.)
 
 And they have attained it by realising that happiness does not spring from the procuring of physical or mental pleasure, but from the development of reason and the adjustment of conduct to principles.
-(그리고 그들은 현실화로 인해 그것을 이뤘다 / 행복이 봄이 아니다라는 것을 /  물리적으로나 정신적 압박으로 구한 것들로부터 /  ~ 없이 / 이유와 정의의 개발로부터 원리까지
+(그리고 그들은 현실화로 인해 그것을 이뤘다 / 행복이 봄이 아니다라는 것을 /  물리적으로나 정신적 압박으로 구한 것들로부터 /  ~ 없이 / 이유와 정의의 개발로부터 원리까지)
 procure
  : 구하다, 입수하다.
 
@@ -2227,7 +2227,7 @@ audacity
 And if you admit it, and still devote no part of your day to the deliberate consideration of your reason, principles, and conduct,
 you admit also that while striving for a certain thing you are regularly leaving undone the one act which is necessary to the attainment of that thing.
 ( 그리고 당신이 그것을 인정한다면, 그리고 여전히 신중한 고려 해야한다.
-( 그리고 당신은 또한 ~을 인정한다/ 어떤 것에 분투하는 동안에 / 당신이 그 행동을 하지 않는 것 / 그것을 얻기위한 필요가 있는 행동)
+( 그리고 당신은 또한 ~을 인정한다/ 어떤 것에 분투하는 동안에 / 당신이 그 행동을 하지 않는 것 / 그것을 얻기위한 필요가 있는 행동))
 admit
  : 인정하다
 
@@ -2269,7 +2269,7 @@ I don’t mind.
 (나는 괜찮다.)
 
 **All I urge is that a life in which conduct does not fairly well accord with principles is a silly life; and that conduct can only be made to accord with principles by means of daily examination, reflection, and resolution.**
-( 내가 충가하는 모든 것은 / 삶이 어리석은 것이다 / 행동이 원칙과 함께 잘 합의되지 않는 삶은, 그리고 행동이 단지  원칙과 함께 합의가 될 수 있습니다. / 의미에 의해서 / 매일 연습, 검토, 반성의 /
+( 내가 충가하는 모든 것은 / 삶이 어리석은 것이다 / 행동이 원칙과 함께 잘 합의되지 않는 삶은, 그리고 행동이 단지  원칙과 함께 합의가 될 수 있습니다. / 의미에 의해서 / 매일 연습, 검토, 반성의 /)
 urge
  : 충고하다, 권고하다.
 
@@ -2307,7 +2307,119 @@ servitude
 martyrs
  : 순교자
 
+As for reason (which makes conduct, and is not unconnected with the making of principles), it plays a far smaller part in our lives than we fancy
+( 이유 때문에 ( 실행을 만들고 원리와 연결되지 않는), 그것은 더 적은 부분으로 연주된다 / 우리의 삶에서 우리가 원하는 것보다)
+fancy
+ : 원하다, 하고 싶다.
+
+We are supposed to be reasonable but we are much more instinctive than reasonable.
+( 우리는 일리가 있다고 알고 있다 / 그렇지만 우리는 좀더 이성적이기보다 본능적이다. )
+be supposed to
+ : ~ 하기로 되어있다.
+
+instinctive
+ : 본능적인
+
+**And the less we reflect, the less reasonable we shall be.**
+(그리고 더 적은 반성을 할수록, 우리는 덜 이성적이게 된다.)
+
+The next time you get cross with the waiter because your steak is over-cooked, ask reason to step into the cabinet-room of your mind, and consult her.
+(다음에 당신은 웨이터를 부릅니다. / 당신의 스테이크가 너무 익었기 때문에, 이유를 물어라 / 당신 마음의 캐비닛에 들어가서, 그리고 그녀와 상담해라)
+
+She will probably tell you that the waiter did not cook the steak, and had no control over the cooking of the steak; and that even if he alone was to blame, you accomplished nothing good by getting cross;
+(그녀는 아마도 당신에게 말할 것이다 / 웨이터가 스테이크를 요리하지 않았다, 그리고 스테이크의 요리를 제어하지도 않았다, 그리고 그가 비난을 받는다면, 당신은 불평한 것에 대해 아무것도 얻지 못한다.)
+you merely lost your dignity, looked a fool in the eyes of sensible men, and soured the waiter, while producing no effect whatever on the steak.
+(당신은 거의 위엄을 잃었다, 감각있는 사람들의 눈에 바보로 보인다, 그리고 웨이터와 사이가 틀어진다, 스테이크가 생산되고 있는 동안에)
+get cross
+ : 심술이 나다
+
+dignity
+ : 위엄, 존엄성, 자존감
+
+sour
+ : 안 좋아지다, 틀어지다
+    신
+
+The result of this consultation with reason (for which she makes no charge) will be that when once more your steak is over-cooked you will treat the waiter as a fellow-creature,
+remain quite calm in a kindly spirit, and politely insist on having a fresh steak.
+(이 상담의 결과는 ( 그녀가 charge 를 만들지 않는 것 )  한번 더 스테이크가 너무 익었을 때, 당신은 웨이터를 fellow-creature 로 대우할 것이다.
+  친절한 영혼에 작은 감동이 남든다, 그리고 공손하게 신선한 스테이크를 요구할 것이다)
+fellow-creature
+ : 동포
+
+insist on
+ : ~ 를 주장하다, ~을 요구하다.
+
+politely
+ : 공손히, 예의바르게
+
+The gain will be obvious and solid.
+( 그 이득은 분명하고 견고할 것이다. )
+gain
+ : 이득
+     얻다
+
+obvious
+ : 분명한, 너무 뻔한
+
+solid
+ : 단단한, 견고한
+
+In the formation or modification of principles, and the practice of conduct, much help can be derived from printed books (issued at sixpence each and upwards).
+(원칙의 형태나 변경에서, 그리고 행동의 연습, 많은 도움이 파생 된다. / 인쇄된 책들로부터 ( 6 펜스에 발행된 ))
+derive
+ : 유래하다, 파생하다
+
+I mentioned in my last chapter Marcus Aurelius and Epictetus.
+(내가 이 전 챕터에서 Marcus Aurelius 와 Epictetus 를 언급했다.)
+
+Certain even more widely known works will occur at once to the memory.
+(일로 좀 더 넓게 알려진 것들은 발생할 것이다 / 기억으로 한 번에)
+
+I may also mention Pascal, La Bruyere, and Emerson.
+(나는 또한 Pascal, La Bruyere, Emerson 을 언급한다.)
+
+For myself, you do not catch me travelling without my Marcus Aurelius.
+(나 자신을 위해, 당신은 내가 나의 Marcus Aurelius 없이 여행하는 것을 잡지 않는다.)
+
+Yes, books are valuable.
+(책은 가치가 있다.)
+
+**But not reading of books will take the place of a daily, candid, honest examination of what one has recently done, and what one is about to do–of a steady looking at one’s self in the face (disconcerting though the sight may be).**
+(그렇지만 책을 읽지 않는 것은 일상의 장소, 솔직한 장소, 누군가 최근에 완료한 정직한 시험의 장소를 취하지 못할 것이다, 그리고 하나는 스스로 수행해야 한다. ( ))
+candid
+ : 솔직한, 자연스러운
+
+disconcert
+ : 불안하게 만들다
+
+When shall this important business be accomplished?
+(이 중요한 사업은 언제 수행되어야 하나?)
+
+The solitude of the evening journey home appears to me to be suitable for it.
+( 저녁 여행의 고독은 나에게 적합한 것으로 보인다.)
+solitude
+ : 고독
+
+**A reflective mood naturally follows the exertion of having earned the day’s living.**
+( 반성하는 마음은 일상을 벌게해주는 노력이 자연적으로 따르게 한다.)
+exertion
+ : 노력
+
+Of course if, instead of attending to an elementary and profoundly important duty, you prefer to read the paper (which you might just as well read while waiting for your dinner) I have nothing to say.
+(물론 중요한 세금을 내는 대신에, 당신이 책을 읽는 것을 좋아한다면 (단지 저녁시간을 기다리는 동안에 읽는것 ) / 나는 더 할 말이 없다.)
+
+But attend to it at some time of the day you must.
+(그러나 하루 중 아무때나 하기는 해야 합니다.)
+
+I now come to the evening hours.
+(나는 이제 저녁시간에 오겠다.)
+
+#### Interest in the Arts
+
 ---
+
+[목차]
 
 Preface to this Edition
 
