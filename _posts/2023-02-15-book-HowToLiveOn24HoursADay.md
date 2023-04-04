@@ -2417,6 +2417,55 @@ I now come to the evening hours.
 
 #### Interest in the Arts
 
+Many people pursue a regular and uninterrupted course of idleness in the evenings because they think that there is no alternative to idleness but the study of literature; and they do not happen to have a taste for literature.
+( 많은 사람들이 규칙적이고 방해받지 않는 게으름을 추구한다. 저녁에 / 그들이 ~을 생각하기 때문에 / 대안이 없다 / 문학 공부 말고는 ; 그리고 그들은 문학을 맛보려고 하지 않는다.)
+pursue
+ : 추구하다, 계속하다.
+
+This is a great mistake.
+(이것은 큰 실수다)
+
+Of course it is impossible, or at any rate very difficult, properly to study anything whatever without the aid of printed books.
+(물론 그것은 불가능하다, 또는 어떤 면에서 매우 어렵다, 인쇄된 책의 도움 없이 공부하는 것은 )
+
+But if you desire to understand the deeper depths of bridge or of boat- sailing you would not be deterred by your lack of interest in literature from reading the best books on bridge or boat-sailing.
+( 만약에 당신이 배나 보트의 더 깊은 깊이를 이해하기를 열망한다면 - 당신은 흥미 부족으로 단념하지 않을 것입니다. / 문학에서  / 다리나 항해에 대한 최고의 책을 읽는 것으로부터 )
+deter
+ : 단념시키다, 그만두게 하다.
+
+**We must, therefore, distinguish between literature, and books treating of subjects not literary.**
+(그러므로 우리는 구별해야만 한다 / 문학과 문학과 관계 없는 것을 취급하는 책들 사이를)
+
+I shall come to literature in due course.
+(나는 적절한 시기에 문학에 이르겠다.)
+
+Let me now remark to those who have never read Meredith, and who are capable of being unmoved by a discussion as to whether Mr. Stephen Phillips is or is not a true poet, that they are perfectly within their rights.
+( 이제 절대 Meredith 를 읽지 않는 그들에 대해 언급한다, 그리고 움직이지 않을 역량이 있는 사람 / 논쟁에 의해 / Mr. Stephen 이 시인인지 아닌지 / 그들은 완전히 그들 권리 안에 있다 )
+
+It is not a crime not to love literature.
+(문학을 사랑하지 않는 것이 범죄는 아니다.)
+
+It is not a sign of imbecility.
+( 그것이 우둔함의 상징은 아니다.)
+imbecility
+ : 저능함, 우둔함
+
+The mandarins of literature will order out to instant execution the unfortunate individual who does not comprehend, say, the influence of Wordsworth on Tennyson.
+(문학의 고위관료들은 즉시 실행을 주문할 것이다 불행한 개인들 / 이해하지 못하는, 말하는, Tennyson 에서 Wordswoth 의 영향력을)
+mandarin
+ : 고위 관료
+
+comprehend
+ : 이해하다
+
+But that is only their impudence.
+( 그러나 그것은 단지 몰염치가 아니다.)
+impudence
+ : 뻔뻔스러움, 몰염치
+
+Where would they be, I wonder, if requested to explain the influences that went to make Tschaikowsky’s “Pathetic Symphony”?
+( 그들이 어디에 있는지, 나는 이상하다, 영향력을 설명해달라고 요구 받으면 / Tschaikowsky 의 “Pathetic Symphony” 영향력을 만들어 가야 하는 영향력)
+
 ---
 
 [목차]
