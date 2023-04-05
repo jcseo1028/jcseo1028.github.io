@@ -2466,6 +2466,37 @@ impudence
 Where would they be, I wonder, if requested to explain the influences that went to make Tschaikowsky’s “Pathetic Symphony”?
 ( 그들이 어디에 있는지, 나는 이상하다, 영향력을 설명해달라고 요구 받으면 / Tschaikowsky 의 “Pathetic Symphony” 영향력을 만들어 가야 하는 영향력)
 
+There are enormous fields of knowledge quite outside literature which will yield magnificent results to cultivators.
+( 거대한 지식의 영역들이 있다 / 문학 바깥 영역에 / 경작자에게 아름다운 결과를 내줄 문학)
+enormous
+ : 막대한, 거대한
+
+magnificent
+ : 참으로 아름다운
+
+cultivator
+ : 경작자, 재배자
+
+yield
+ : 내다, 산출하다.
+
+For example (since I have just mentioned the most popular piece of high-class music in England to-day), I am reminded that the Promenade Concerts begin in August.
+(예를 들어 - 내가 단지 가장 유명한 악보를 언급했기 때문에 / 오늘날 영국의 상위 등금 음악에서- 나는 Promenade 콘서드가 8월에 시작하는 것을 기억했다.)
+
+You go to them.
+(당신은 거기에 간다.)
+
+You smoke your cigar or cigarette (and I regret to say that you strike your matches during the soft bars of the “Lohengrin” overture), and you enjoy the music.
+( 당신은 담배를 피운다 ( 유감스럽게도 당신이 성냥을 킬때입니다/ “Lohengrin” 서곡의 부드러운 부분이 동안에 ) 그리고 음악을 즐긴다.)
+overture
+ : 서곡
+
+regret to say
+ : 유감스럽게도 ~ 입니다.
+
+But you say you cannot play the piano or the fiddle, or even the banjo; that you know nothing of music.
+(그러나 당신은 당신이 피아노나 바이올린 벤조조차 연주할 수 없다고 말합니다. 당신은 음악을 모릅니다.)
+
 ---
 
 [목차]
