@@ -2497,6 +2497,167 @@ regret to say
 But you say you cannot play the piano or the fiddle, or even the banjo; that you know nothing of music.
 (그러나 당신은 당신이 피아노나 바이올린 벤조조차 연주할 수 없다고 말합니다. 당신은 음악을 모릅니다.)
 
+What does that matter?
+(문제가 무엇인가?)
+
+That you have a genuine taste for music is proved by the fact that, in order to fill his hall with you and your peers, the conductor is obliged to provide programmes from which bad music is almost entirely excluded (a change from the old Covent Garden days!).
+( 음악을 위한 진실한 느낌을 갖는 것은 그 사실에 의해 입증되었다, 당신과 당신의 동료와 함께 그의 홀을 채우기 위해,  지휘자는 의무적으로 프로그램을 공급하게 된다 / 나쁜 음악이 거의 전적으로 제외되는 프로그램 ( 오래된 Covent Garden days로 부터의 변화)
+genuine
+ : 진짜의, 진실한
+
+oblige
+ : 의무적으로 ~하게 되다, 돕다, 베풀다.
+
+Now surely your inability to perform “The Maiden’s Prayer” on a piano need not prevent you from making yourself familiar with the construction of the orchestra to which you listen a couple of nights a week during a couple of months!
+( 이제 확실히 당신의 무능은 / The Maiden’s Prayer 를 피아노로 연주하는 / 제한이 필요하지 않다 / 당신 자신을 오케스트라의 악기와 익숙해지는것으로부터 / 당신이 두달동안 한주의 2번 정도 저녁에 듣는 )
+inability
+ : 무능, 불능
+
+a couple of
+ : 두서내 개의, 몇 개의
+   둘의, 두 사람의
+
+be familiar with
+ : ~ 에 익히 알다
+  익숙해지다
+
+As things are, you probably think of the orchestra as a heterogeneous mass of instruments producing a confused agreeable mass of sound.
+( 현 상태로는, 당신은 아마도 오케스트라를  여러 다른 종류드로 이뤄진 악기로서 생각할지도 모른다 / 혼란되서 동의가 가능한 많은 소리를 제공하는)
+as things are
+ : 지금 형편으로는, 현 상태로는
+
+heterogeneous
+ : 여러 다른 종류들로 이뤄진 ( <-> homogeneous )
+
+confuse
+ : 혼란시키다.
+
+You do not listen for details because you have never trained your ears to listen to details.
+( 당신은 자세히 듣지 않는다 / 당신의 귀가 자세히 듣도록 연습되지 않았기 때문에)
+
+If you were asked to name the instruments which play the great theme at the beginning of the C minor symphony you could not name them for your life’s sake.
+( 아마 당신은 요청받는다면  / 악기의 이름을 / 주 테마를 연주하는 / C 단조 교향곡의 시작부분에서 / 당신은 그들을 명명할 수 없다. / 당신인생의 sake 때문에 )
+sake
+ : 위함, 동기, 목적
+
+name
+ : 이름을 짓다, 명명하다.
+
+Yet you admire the C minor symphony. It has thrilled you. It will thrill you again.
+(그러다 당신은 C 단조 교향곡을 존경한다. 그것은 당신에게 스릴을 준다. 그것은 당신에게 스릴을 줄 것이다.)
+admire
+ : 존경하다, 감탄하다
+
+You have even talked about it, in an expansive mood, to that lady–you know whom I mean.
+(당신은 그것에 관해 이야기한다, 고급진 분위기에서, 그녀에게 - 당신은 내가 누구를 의미하는지 안다. )
+
+And all you can positively state about the C minor symphony is that Beethoven composed it and that it is a “jolly fine thing.”
+(그리고 당신이 양적으로 C단조 교약곡에 대해 state 하는것은 / Beethoven이 작곡한 “jolly fine thing.” 이다.)
+
+Now, if you have read, say, Mr. Krehbiel’s “How to Listen to Music” (which can be got at any bookseller’s for less than the price of a stall at the Alhambra, and which contains photographs of all the orchestral instruments and plans of the arrangement of orchestras) you would next go to a promenade concert with an astonishing intensification of interest in it.
+( 이제 당신이 읽거나 말했다면, Mr. Krehbiel의 “How to Listen to Music”을 ( 어느 서점에서나 구해질 수 있는 / stall 보다 적은 가격으로 / 알함브라에서, 그리고 모든 오케스트라의 악기 사진들을 포함하는, 그리고, 오케스트라의 배치를 계획하는 ) 당신은 아마 다음에 promenade concert 에 갈것이다 / 놀라운 그것에 대한 관심 증대와 함께)
+astonish
+ : 놀라운
+   놀라게 하다.
+
+intensification
+ : 강화, 증대, 격화
+
+Instead of a confused mass, the orchestra would appear to you as what it is–a marvellously balanced organism whose various groups of members each have a different and an indispensable function.
+( 혼란스러운 집단 대신에, 오케스트라는 당신에게 ~처럼 보일 것이다. / 훌륭하게 균형잡힌 조직 처럼 / 그것의 다양한 멤버들의 조직 각각이 다름과 없어서는 안되는 기능이 있다)
+mass
+ : 대량의, 대중의, 집단의
+   질량, 덩어리
+
+marvelously
+ : 훌륭하게, 불가사의하게
+
+indispensible
+ : 없어서는 안되는
+
+dispensible
+ : 없어도 되는
+
+You would spy out the instruments, and listen for their respective sounds.
+( 당신은 악기들을 몰래 조사할 것이다, 그리고 그들의 존경스러운 소리를 들을 것이다.)
+spy out
+ : 몰래 탐지하다, 몰래 조사하다
+
+You would know the gulf that separates a French horn from an English horn, and you would perceive why a player of the hautboy gets higher wages than a fiddler, though the fiddle is the more difficult instrument.
+(당신은 gulf 를 알것이다 / 영국 호른으로 부터 프랑스 호른으로 분리된 / 그리고 그 이유를 인지할 것이다 / 오보에 연주자가 더 높은 임금을 얻는 이유 / 바이올린 연주자보다, 비록 바이올린이 더 중요한 악기임에 불구하고)
+perceive
+ : 인식하다, 인지하다
+
+hautboy
+ : 오보에
+
+wage
+ : 임금, 급여
+
+You would live at a promenade concert, whereas previously you had merely existed there in a state of beatific coma, like a baby gazing at a bright object.
+( 당신은 promenade 콘서트에서 살것이다, 당신이 전에 거기에 있었음에도 / 행복한 혼수 상태로, 밝은 물체를 응시하는 아기처럼.)
+whereas
+ : ~임에 비하여, ~인데도
+   서문
+
+beatific
+ : 축복을 주는, 행복에 넘친, 품위 있는
+
+coma
+ : 혼수 상태
+
+gaze
+ : 응시하다, 보다
+   시선
+
+The foundations of a genuine, systematic knowledge of music might be laid.
+( 음악의 진정하고 체계적인 지식의 토대가 마련될 수 있습니다.)
+genuine
+ : 진실된, 진짜의, 성실한, 순수한
+
+foundation
+ : 기반, 토대
+
+systematic
+ : 체계적인, 조직적인
+
+You might specialise your inquiries either on a particular form of music (such as the symphony), or on the works of a particular composer.
+( 당신의 조사를 전문화할 수도 있습니다. / 고향곡 같은 음악의 특별한 형식이나 / 특별한 작곡자의 곡들에 대한 )
+specialize
+ : 전문화하다, 특수화하다, 전공하다.
+inquiry
+ : 조사, 문의, 수사
+
+At the end of a year of forty-eight weeks of three brief evenings each, combined with a study of programmes and attendances at concerts chosen out of your increasing knowledge, you would really know something about music, even though you were as far off as ever from jangling “The Maiden’s Prayer” on the piano.
+( 그 해의 끝에서 / 48주동안 한 주에 3일의 짧은 저녁으로 구성된/   , 연구로 조합된 / 프로그램과 관객의 / 콘서트에서 / 당신의 증가된 지식으로 선택된, 당신은 진실로 음악에 관해 알 것입니다, 비록 당신이 jangling 과 멀리 떨어져 있다 하더라도 / 피아노로 소녀의 기도를 jangling )
+jangle
+ : 땡그랑 커리다, 시끄러운 소리를 내다
+   말다툼
+
+brief
+ : 보고서, 개요
+  짧은
+
+attandance
+ : 참석, 관객
+
+“But I hate music!” you say. My dear sir, I respect you.
+(그러나 음악이 싫다고 당신은 말합니다. 저는 당신을 존경합니다.)
+
+**What applies to music applies to the other arts.**
+(음악으로 적용된 무언가는 다른 예술에도 적용됩니다.)
+
+I might mention Mr. Clermont Witt’s “How to Look at Pictures,” or Mr. Russell Sturgis’s “How to Judge Architecture,” as beginnings (merely beginnings) of systematic vitalising knowledge in other arts, the materials for whose study abound in London.
+(  Clermont Witt 의 "How to Look at Pictures" 나 Russel Sturgis 의 “How to Judge Architecture,” 를 언급합니다 / 체계화되고 활력있는 지식의 시작으로 / 다른 예술, 물질? 런던에 있는 누군가 연구를 위한 )
+
+“I hate all the arts!” you say. My dear sir, I respect you more and more.
+(당신은 모든 예술이 싫다고 말하지만 나는 당신을 점점더 존경한다. )
+
+I will deal with your case next, before coming to literature.
+(다음에 당신의 경우에 대해 다룰 예정입니다, 문학으로 돌아오기 전에)
+
+#### Nothing in Life Is Humdrum
+
 ---
 
 [목차]
