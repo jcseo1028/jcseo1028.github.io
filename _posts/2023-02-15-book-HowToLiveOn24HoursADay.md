@@ -2658,6 +2658,29 @@ I will deal with your case next, before coming to literature.
 
 #### Nothing in Life Is Humdrum
 
+Art is a great thing.
+
+But it is not the greatest.
+
+**The most important of all perceptions is the continual perception of cause and effect – in other words, the perception of the continuous development of the universe– in still other words, the perception of the course of evolution.**
+( 모든 지각 중에서 가장 중요한 것은 원인과 영향에 대한 끊임 없는 지각이다. - 달리 말하면, 세상의 지속적인 개발의 지각 - 다른 말로, 진화 단계의 지각
+perception
+ : 인식, 지각
+
+continual
+ : 끊임 없는
+
+**When one has thoroughly got imbued into one’s head the leading truth that nothing happens without a cause, one grows not only largeminded, but large-hearted.**
+( 누군가 그 사람의 머리에 진리가 완벽하게 스며들었을 때 / 진리 / 원인 없이는 아무것도 일어나지 않는다는 , 사람은 성장한다 / 큰 마음 뿐만 아니라 큰 심장으로 )
+throughly
+ : 완벽하게, 철저하게
+
+leading truth
+ : 진리
+
+imbue
+ : 스며들게 하다, 적시다, 불어넣다.
+
 ---
 
 [목차]
