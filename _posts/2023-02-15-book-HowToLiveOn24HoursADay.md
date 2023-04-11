@@ -2681,6 +2681,69 @@ leading truth
 imbue
  : 스며들게 하다, 적시다, 불어넣다.
 
+It is hard to have one’s watch stolen, but one reflects that the thief of the watch became a thief from causes of heredity and environment which are as interesting as they are scientifically comprehensible; and one buys another watch, if not with joy, at any rate with a philosophy that makes bitterness impossible.
+(시계를 훔치는 것은 어렵다, 그러나 사람은 반영한다 / 시계 도둑이 도둑이 된다 / 유전과 환경적인 영향들로부터 / 그것은 그들이 과학적으로 이해하는 것만큼 흥미롭나. 그리고 사람은 다른 시계를 산다, 즐겁지 않다면, 어쨌는 철학적으로 / 쓰라림을 불가능하게 하는 )
+heredity
+ : 유전, 세습
+
+bitterness
+ : 쓴맛, 괴로움, 쓰라림.
+
+One loses, in the study of cause and effect, that absurd air which so many people have of being always shocked and pained by the curiousness of life.
+(사람이 ~을 잃어버린다, 원인과 효과의 연구에서, 말도 안되는 공기 / 많은 사람들이 항상 충격받고 고통 받는 / 인생의 심각함에 의해
+absurd
+ : 말도 안되는, 터무니 없는, 황당한
+
+curiousness
+ :  신기함, 진기함, 호기심
+
+Such people live amid human nature as if human nature were a foreign country full of awful foreign customs.
+( 그런 사람들은 인간 본성 속에서 산다 / 인간본성이 외국에 있는 것 처럼 / 끔찍한 외국 습관으로 가득찬)
+amid
+ : 가운데, 속에서
+
+awful
+ : 끔찍한, 엄청난
+
+But, having reached maturity, one ought surely to be ashamed of being a stranger in a strange land!
+( 그러나, 성숙에 도달한 사람이라면 확실히 부끄러워 해야한다. / 이상한 나라에서 이상한 사람이 되는 것을 )
+maturity
+ : 성숙, 만기
+
+The study of cause and effect, while it lessens the painfulness of life, adds to life’s picturesqueness.
+(원인과 효과의 연구, 그것이 인생의 고통을 줄이는 동안에, 인생의 아름다운 순간들은 추가된다)
+lessen
+ : 줄이다
+
+lesson
+ :  가르치다
+   강의
+
+pictureseque
+ : 그림같이 아름다운, 생생한
+
+The man to whom evolution is but a name looks at the sea as a grandiose, monotonous spectacle, which he can witness in August for three shillings third-class return.
+(누군가를 진화시키는 사람은 이름을 가진다 / 바다를 보다 / 웅장하고 단조로운 광경으로 / 8월에 3실링으로 3등석으로 귀환하는)
+grandiose
+ : 웅장한, 단단한
+
+monotonous
+ : 단조로운, 지루한
+
+spectacle
+ : 장관
+
+The man who is imbued with the idea of development, of continuous cause and effect, perceives in the sea an element which in the day-before-yesterday of geology was vapour, which yesterday was boiling, and which tomorrow will inevitably be ice.
+( 개발에 대한 생각이 스며들어 있는 사람은, 지속적인 원인과 효과에 대한 개발, 인식한다 바다에서 요소를 / 지질학의 3일전은 증기이다, 어제는 끓었다, 그리고 내일은 결국 얼음이 될 것이다. )
+geology
+ : 지질학
+
+vapour
+ : 증기, 증발하다
+
+inevitably
+ : 불가피하게, 격국
+
 ---
 
 [목차]
