@@ -2744,6 +2744,38 @@ vapour
 inevitably
  : 불가피하게, 격국
 
+He perceives that a liquid is merely something on its way to be solid, and he is penetrated by a sense of the tremendous, changeful picturesqueness of life.
+( 그는 인식한다 / 액체는 단순히 무언가다 / 고체로 되는 방법에 있는, 그리고 그는 감각에 의해 관통된다 / 인생의 거대하고 변화스러운 아름다움의 감각)
+merely
+ : 단지, 단순히, 그저
+
+penetrate
+ : 관통하다, 파고 들다
+
+tremendous
+ : 엄청난, 대단한
+
+Nothing will afford a more durable satisfaction than the constantly cultivated appreciation of this. It is the end of all science.
+( 좀더 오래 견디는 만족할 여유가 있는 것은 아무것도 없다 / 지속적으로 경작된 감사보다 / 그것은 모든 과학의 끝이다)
+afford
+ : 여유가 있다, 할 수 있다.
+
+durable
+ : 내구력이 있는, 튼튼한, 오래 견디는
+
+Cause and effect are to be found everywhere.
+(원인과 효과는 어느곳에서나 발견된다.)
+
+Rents went up in Shepherd’s Bush. It was painful and shocking that rents should go up in Shepherd’s Bush.
+(임대료가 올랐다 / Shepherd's Bush에서. 그것은 고통이 있고 충격적이었다 / Shepherd's Bush에서 임대료가 올랐다는 것은)
+rent
+ : 임대료
+
+**But to a certain point we are all scientific students of cause and effect, and there was not a clerk lunching at a Lyons Restaurant who did not scientifically put two and two together and see in the (once) Two-penny Tube the cause of an excessive demand for wigwams in Shepherd’s Bush, and in the excessive demand for wigwams the cause of the increase in the price of wigwams.**
+(그러나 특정 포인트에서 우리는 모두 원인과 효과의 과학적인 학생들이다, 그리고 거기엔 clerk 이 없다 / 식당에서 점심을 먹고 있는 /)
+wigwam
+ : 천막, 오두막
+
 ---
 
 [목차]
