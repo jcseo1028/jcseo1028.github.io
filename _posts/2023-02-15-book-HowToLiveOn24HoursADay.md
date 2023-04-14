@@ -2776,6 +2776,56 @@ rent
 wigwam
  : 천막, 오두막
 
+“Simple!” you say, disdainfully.
+( 단순하다. 당신은 무시하며 말합니다.)
+disdainfully
+ : 무시하며, 업신여기며
+
+Everything–the whole complex movement of the universe–is as simple as that–when you can sufficiently put two and two together.
+(모든 것 - 우주의 전체 복잡한 순간 - 은 ~처럼 단순하다 / 당신이 충분히 2개와 2개를 함께 합칠 때 )
+put together
+ : 합치다, 한데 모으다.
+
+And, my dear sir, perhaps you happen to be an estate agent’s clerk, and you hate the arts, and you want to foster your immortal soul, and you can’t be interested in your business because it’s so humdrum.
+( 그리고 아마도 당신은 부동산회사의 점원이 될 수도 있다, 그리고 당신은 예술을 싫어한다, 그리고 당신은 당신의 불멸의 정신을 육성하기 원한다, 그리고 당신은 당신의 사업데 흥미가 없을 수 있다 / 그것은 지루하기 때문에)
+foster
+ : 육성하다, 증진하다
+
+immortal
+ : 불멸의, 불사의
+
+Nothing is humdrum.
+(아무것도 humdrum 하지 않다.)
+humdrum
+ : 단조로운, 평범한
+   지루함.
+
+The tremendous, changeful picturesqueness of life is marvellously shown in an estate agent’s office.
+( 인생의 거대하고 변화적인 그림같이 생생함은 marvellously 하게 보여진다 / 부동산 회사의 사무실에서 )
+marvelously
+ : 훌륭하게, 불가사의하게
+
+What! There was a block of traffic in Oxford Street; to avoid the block people actually began to travel under the cellars and drains, and the result was a rise of rents in Shepherd’s Bush!
+( 어! Ofxford 거리에 교통이 마비되었다; 마비를 피하기 위해 사람들은 실재로 여행하기 시작한다 / cellars 와 drain 아래에서, 그리고 결과는 임대료의 상승이다/ Shepherd’s Bush 에서)
+cellar
+ : 지하실
+
+drain
+ : 하수구, 배수관
+
+And you say that isn’t picturesque!
+(그리고 그림같이 생생하지 않다고 당신은 말합니다!)
+
+Suppose you were to study, in this spirit, the property question in London for an hour and a half every other evening.
+(당신이 공부하고 있다고 가정할 때, 이 정신내에서, 부동산 문제에 대해 / 런던에서 / 1시간 30분동안/ 매일 저녁에)
+property
+ : 부동산
+
+Would it not give zest to your business, and transform your whole life?
+( 당신의 사업에 기분좋은 자극을 주고 그리고 당신의 전체 일생을 변화시키지 않을까요?
+zest
+ : 기분좋은 자극, 산뜻한 풍미
+
 ---
 
 [목차]
