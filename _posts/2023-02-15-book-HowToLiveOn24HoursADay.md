@@ -2826,6 +2826,70 @@ Would it not give zest to your business, and transform your whole life?
 zest
  : 기분좋은 자극, 산뜻한 풍미
 
+You would arrive at more difficult problems.
+(당신은 좀더 어려운 문제에 도달할 것입니다.)
+
+And you would be able to tell us why, as the natural result of cause and effect, the longest straight street in London is about a yard and a half in length, while the longest absolutely straight street in Paris extends for miles.
+(그리고 당신은 우리에게 왜라고 말할 것이다, 자연적인 결과때문에 / 원인과 결과의, 가장 길고 직선 거리는 / 런던에서 / 대략 1야드 반정도이다/ 거리로, 반면에 절대적으로 가장 긴 직선거리는 / 파리에서 / 마일로 확장된다.)
+
+I think you will admit that in an estate agent’s clerk I have not chosen an example that specially favours my theories.
+(나는 생각한다/ 당신이 ~을 인정할 것이다 / 부동산 회사의 점원안에 / 나는 한 ~한 예를 선택하지 않는다 / 특별히 나의 이론들을 찬성한)
+favour
+ : 찬성하다, 주다
+   유리하다
+
+You are a bank clerk, and you have not read that breathless romance (disguised as a scientific study), Walter Bagehot’s “Lombard Street”?
+(당신은 은행 점원이다, 그리고 당신을 ~을 읽지 않았나? / 숨쉴수 없는 로맨스 ( 감춰진 / 과학적 연구로 ), Walter Bagehot 의 "Lombard Street")
+disguise
+ : 변장 시키다, 감추다
+   위장, 변장
+
+**Ah, my dear sir, if you had begun with that, and followed it up for ninety minutes every other evening, how enthralling your business would be to you, and how much more clearly you would understand human nature.**
+(아. 여러분, 만약 당신이 ~와 함께 시작했다면, 그리고 그것을 따랐다면/ 매일 저녁 90분동안, 얼마다 매혹적인 사업이 당신에게로 되었을지, 그리고 얼마나 많은 좀더 명황하게 당신이 인간 본성을 알았을까요?)
+enthralling
+ : 매혹하는, 마음을 빼앗은, 아주 재미있는
+
+You are “penned in town,” but you love excursions to the country and the observation of wild life–certainly a heart-enlarging diversion.
+( 당신은 마을에 감금되어 있다, 그러나 당신은 여행을 사랑한다 / 조국과 거친삶의 관점에서 - 확실히 하나의 심장 - 기분전환을 확장하는 )
+pen
+ : 가두다, 감금하다.
+
+excursion
+ : 여행, 행동, 나들이
+
+diversion
+ : 전환, 기분전환
+
+Why don’t you walk out of your house door, in your slippers, to the nearest gas lamp of a night with a butterfly net, and observe the wild life of common and rare moths that is beating about it, and coordinate the knowledge thus obtained and build a superstructureon it, and at last get to know something about something?
+( 왜 현관 밖으로 걸어나가려고 하지 않는거, 슬리퍼를 신고, 밤의 가장 가까은 가스등으로 / 나비망과 함께, 그리고 거친삶을 관찰하다 / 일상적이고 드문 나방들 / 그것에 관해 싸우고 있는, 지식을 coodinate 하는 / 그렇게 획득되고 지어진 상부구조, 그리고 마지막에 무언가에 관에 뭐가를 알기를 )
+moth
+ : 나방
+
+coordinate
+ : 조직하다,
+   좌표
+
+superstructure
+ : 상부 구조
+
+You need not be devoted to the arts, not to literature, in order to live fully.
+( 당신은 헌신할 필요는 없습니다, / 예술, 문학 / 완전히 생활하기 위해 )
+devote
+ : 헌신하다, 바치다
+
+**The whole field of daily habit and scene is waiting to satisfy that curiosity which means life, and the satisfaction of which means an understanding heart.**
+( 일상 습관과 장면의 모든 영역은 만족하기를 기다리고 있다 / 인생을 의미하는 호기심, 그리고 심장을 이해하는 만족)
+curiosity
+ : 호기심
+
+I promised to deal with your case, O man who hates art and literature, and I have dealt with it. 
+(나는 당신의 경우에 대해 다루기 약속합니다, O 형은 예술과 문학을 싫어하는, 저는 그것에 다뤄진다.)
+
+I now come to the case of the person, happily very common, who does “like reading.”
+(저는 이제 사람의 경우를 가지고 온다, 행복하게 매우 일상적인, 독서를 좋아하는 사람.)
+
+#### Serious Reading
+
 ---
 
 [목차]
