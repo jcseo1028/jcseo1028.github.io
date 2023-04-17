@@ -2882,13 +2882,57 @@ devote
 curiosity
  : 호기심
 
-I promised to deal with your case, O man who hates art and literature, and I have dealt with it. 
+I promised to deal with your case, O man who hates art and literature, and I have dealt with it.
 (나는 당신의 경우에 대해 다루기 약속합니다, O 형은 예술과 문학을 싫어하는, 저는 그것에 다뤄진다.)
 
 I now come to the case of the person, happily very common, who does “like reading.”
 (저는 이제 사람의 경우를 가지고 온다, 행복하게 매우 일상적인, 독서를 좋아하는 사람.)
 
 #### Serious Reading
+
+Novels are excluded from “serious reading,” so that the man who, bent on self-improvement, has been deciding to devote ninety minutes three times a week to a complete study of the works of Charles Dickens will be well advised to alter his plans.
+( 소설은 진지한 독서에 포함되지 않는다, 그래서 그 사람은, 자기개발에 열심인, 1주일에 3번 90분 동아 devote 하기로 정하고 있다 /  완전한 연구를 위해 / 찰스 디킨스의 작품의 / 계획을 조정하는데 조언을 주는)
+serious
+ : 진지한, 심각한
+
+bent
+ : 열중한, 결심한, 구부러진
+
+devote
+ : 헌신하다, 바치다.
+
+The reason is not that novels are not serious–some of the great literature of the world is in the form of prose fiction–the reason is that bad novels ought not to be read, and that good novels never demand any appreciable mental application on the part of the reader.
+(그 이유는 소설이 심각한 무언가가 아니기 때문이다. / 세상의 위대한 문학은 허구의 형식이다 - 나쁜 소설은 읽을 필요하 없다, 그리고 좋은 소설은 결코 적용가능한 정신적 응용을 요구하지 않는다/ 독자 입장에서 )
+prose
+ : 산문, 수필
+
+It is only the bad parts of Meredith’s novels that are difficult.
+(그것은 단지 나쁜 부분이다 / Meredith 소설의 / 어려운 )
+
+A good novel rushes you forward like a skiff down a stream, and you arrive at the end, perhaps breathless, but unexhausted.
+(좋은 소설은 당신이 앞으로 나아가게 한다 / 물줄기를 skiff 하는 것처럼, 그리고 당신이 끝에 도착했을 때, 아마도 숨쉬지 않을 것이다, 그러나 지치지 않는다.)
+
+The best novels involve the least strain.
+(좋은 소설은 최소의 긴장을 포함한다.)
+strain
+ : 긴장
+
+**Now in the cultivation of the mind one of the most important factors is precisely the feeling of strain, of difficulty, of a task which one part of you is anxious to achieve and another part of you is anxious to shirk; and that feeling cannot be got in facing a novel.**
+(이제 마인드 개발에서 가장 중요한 요인 중 하나는 긴장과 어려움을 느끼는 것이다. 임무 / 당신이 걱정스러워하는 한부분  / 당신이 회피하고 싶어하는 부분; 그 느낌은 소설로는 얻을 수 없다.)
+precisely
+ : 정확히, 정밀하게
+
+anxious
+ : 불안한, 걱정스러운, 하고싶어하는
+
+shirk
+ : 회피하다, 게을리하다.
+
+You do not set your teeth in order to read “Anna Karenina.”
+(당신은 “Anna Karenina.” 를 읽기 위해 이를 악물지 않는다.)
+
+**Therefore, though you should read novels, you should not read them in those ninety minutes.**
+(그러므로 당신이 소설을 읽어야만 하더라도, 당신은 정해진 90분 동안에 소설을 읽으면 안된다.)
 
 ---
 
