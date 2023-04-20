@@ -2934,6 +2934,115 @@ You do not set your teeth in order to read “Anna Karenina.”
 **Therefore, though you should read novels, you should not read them in those ninety minutes.**
 (그러므로 당신이 소설을 읽어야만 하더라도, 당신은 정해진 90분 동안에 소설을 읽으면 안된다.)
 
+Imaginative poetry produces a far greater mental strain than novels.
+( 창의적인 시인들은 생산한다 / 소설보다 더 위대한 정신적 긴장을)
+Imaginative
+ : 창의적인, 상상의
+
+strain
+ : 긴장, 변형, 종류
+
+It produces probably the severest strain of any form of literature.
+( 그것은 아마도 가장 심각한 변형을 생산할 것이다 / 어떤 문학의 형태들 중에서 )
+severe
+ : 심각한, 무거운
+
+It is the highest form of literature.
+(그것은 문학의 가장 높은 차원의 형태이다.)
+
+**It yields the highest form of pleasure, and teaches the highest form of wisdom.**
+( 그것은 기쁨의 가장 높은 형태를 산출한다, 그리고 지혜의 가장 높은 형태를 가르친다.)
+yield
+ : 산출하다, 양보하다.
+
+In a word, there is nothing to compare with it.
+(한마디로, 그것과 비교할 것은 아무것도 없습니다.)
+
+I say this with sad consciousness of the fact that the majority of people do not read poetry.
+(는 이러한 슬픈 ~사실의 지각을 말합니다 / 대다수의 사람들이 시를 읽지 않는 사실)
+consciousness
+ : 의식, 지각
+
+I am persuaded that many excellent persons, if they were confronted with the alternatives of reading “Paradise Lost” and going round Trafalgar Square at noonday on their knees in sack-cloth, would choose the ordeal of public ridicule.
+( 나는 많은 훌륭한 사람들에게 설득된다, 만약 그들이  “Paradise Lost” 독서의 대안에 직면했다면 / 그리고 낮에 Trafalgar Square 를 산책하고 있다면 / 그들의 무릎으로 / 삼베옷을 입고, 시련을 선택할지도 모른다. / 공개적인 비웃움의 시련)
+persuade
+ : 설득하다, 납득시키다.
+
+confront
+ : 직면하다, 맞서다
+
+sack
+ : 삼베
+
+ordeal
+ : 시련, 고난
+
+ridicule
+ : 비웃음, 조소
+   조롱하다, 놀리다
+
+Still, I will never cease advising my friends and enemies to read poetry before anything.
+(여전히 나는 절대 조언을 중단하지 않을 것이다 / 나의 친구와 적에게 / 미리 시를 읽어야 하는 것 )
+cease
+ : 중단하다. 사라지다.
+
+If poetry is what is called “a sealed book” to you, begin by reading Hazlitt’s famous essay on the nature of “poetry in general.”
+(만약에 시가 당신에게 "봉인된 책" 이라 불리는 무언가라면, Hazlitt의 유명한 수필을 읽는것부터 시작하라 / "일반적인 시" 의 본질에 놓여있는)
+seal
+ : 봉인하다.
+   봉인, 도장, 물개
+
+It is the best thing of its kind in English, and no one who has read it can possibly be under the misapprehension that poetry is a mediaeval torture, or a mad elephant, or a gun that will go off by itself and kill at forty paces.
+(영어로 그 종류의 최고의 것이다, 그리고 그것을 읽는 아무나 오해할 수 있다 / 시는 중세의 이다, 또는 미친 코끼리, 또는 ~ 총이다 / 스스로 나가서 40의 속도로 죽이는 )
+misapprehension
+ : 오해
+
+mediaeval
+ : 중세의
+
+torture
+ : 고문
+   고통을 주다, 괴롭히다.
+
+pace
+ : 속도, 페이스
+  보조를 맞추다.
+
+Indeed, it is difficult to imagine the mental state of the man who, after reading Hazlitt’s essay, is not urgently desirous of reading some poetry before his next meal.
+(진실로 그 사람의 정신적 상태를 상상하는 것은 어렵다, Hazlitt 의 수필을 읽은 후에 , 긴깁하게 갈망하지 않는 사람 / 어떤 시를 읽고 싶은 갈망 / 다음 식사 전에)
+
+If the essay so inspires you I would suggest that you make a commencement with purely narrative poetry.
+(만약 수필이 당신에게 감명을 준다면 / 나는 ~을 제안하고 싶다 / 당신이 순수하게 narative 한 시와 함께 시작하는 것을 )
+commencement
+ : 시작
+
+narrative
+ : 설명적인
+   이야기, 담화(narration)
+
+There is an infinitely finer English novel, written by a woman, than anything by George Eliot or the Brontes, or even Jane Austen, which perhaps you have not read.
+(무한히 더 멋진 영자소설이 있다, 여자의 의해 쓰여진, George Eloit 이나 Brontes나, Jane Austen 의 것보다, 그것은 아마도 당신은 읽지 않을 )
+
+**Its title is “Aurora Leigh,” and its author E.B. Browning.**
+(제목은 “Aurora Leigh,”이다, 그리고 작가는 Browning 이다.)
+
+It happens to be written in verse, and to contain a considerable amount of genuinely fine poetry.
+(그것은 우연히 시로 쓰여졌다, 그리고 고려 가능한 정도가 포함되어 있다 / 일반적으로 멋진 시의)
+verse
+ : 시, 절, 노래
+
+Decide to read that book through, even if you die for it. Forget that it is fine poetry.
+( 이 책 전체를 읽기를 다짐해라, 그거 때문에 당신이 죽을지라도. 그것이 멋진 시임을 잊지 마라)
+
+Read it simply for the story and the social ideas.
+(단순히 그것을 읽어라 / 스토리와 사회적 생각을 위해 )
+
+And when you have done, ask yourself honestly whether you still dislike poetry.
+(그리고 당신이 다 읽었을 때, 정직하게 당신 자신에게 물어라 / 당신이 여전히 시를 싫어하는 지)
+
+I have known more than one person to whom “Aurora Leigh” has been the means of proving that in assuming they hated poetry they were entirely mistaken.
+( 나는 어떤 사람보다 더 많이 알아왔다 / “Aurora Leigh” 가 입증하는 의미가 있다 / 그들이 시를 싫어한다고 가정함에 / 그들은 전적으로 실수했다.)
+
 ---
 
 [목차]
