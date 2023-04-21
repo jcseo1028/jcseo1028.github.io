@@ -3043,6 +3043,88 @@ And when you have done, ask yourself honestly whether you still dislike poetry.
 I have known more than one person to whom “Aurora Leigh” has been the means of proving that in assuming they hated poetry they were entirely mistaken.
 ( 나는 어떤 사람보다 더 많이 알아왔다 / “Aurora Leigh” 가 입증하는 의미가 있다 / 그들이 시를 싫어한다고 가정함에 / 그들은 전적으로 실수했다.)
 
+Of course, if, after Hazlitt, and such an experiment made in the light of Hazlitt, you are finally assured that there is something in you which is antagonistic to poetry, you must be content with history or philosophy.
+(물론, 만약에, Hazlitt 후에, 그리고 그런 실험 / Hazlitt 의 빛에서 만들어진, 당신은 결국 보장된다 / 당신안에 무언가 있다 / 그것은 시에 대립하는, 당신은 역사나 철학이 포함되어야만 한다.)
+assure
+ : 확신시키다, 보장하다
+
+antagonistic
+ : 대립하는, 반대의
+
+I shall regret it, yet not inconsolably.
+( 나는 그것을 후회해야 한다, 그러나 안타깝지는 않다.(
+regret
+ : 후회하다.
+   유감, 아쉬움
+
+inconsolably
+ : 달랠 수 없이, 안타깝게도
+
+“The Decline and Fall” is not to be named in the same day with “Paradise Lost,” but it is a vastly pretty thing; and Herbert Spencer’s “First Principles” simply laughs at the claims of poetry and refuses to be accepted as aught but the most majestic product of any human mind.
+(“The Decline and Fall” 은 “Paradise Lost,” 와 같은 날에 명명되지 않았다, 그러나 그것은 매우 예쁜것이다; 그리고 Herbert Spencer의 “First Principles”은 단순히 시의 불만에 대해 비웃는다 / 그리고 받아들이길 거부한다 / 영으로 있지만 가장 당당한 인간 마음의 산물이다)
+vastly
+ : 방대하게, 매우
+
+aught
+ : 어떤 일, 무엇인가, 영(zero)
+
+majestic
+ : 장엄한, 위엄 있는, 당당한
+
+I do not suggest that either of these works is suitable for a tyro in mental strains.
+( 나는 제안하지 않는다 / 두 작품 모두 초심자를 위해 / 정신적 긴장면에서)
+tyro
+ : 초심자, 초보
+
+But I see no reason why any man of average intelligence should not, after a year of continuous reading, be fit to assault the supreme masterpieces of history or philosophy.
+( 그 이유를 보지 못했다 / 평균 지능을 가진 사람이 하지 않는 이유, 계속적인 독서의 1년 후에, 맞춰지다 / 최고의 작품을 공격하기 위해 / 역사나 철학적의)
+assult
+ : 폭행, 공격
+   맹렬히 공격하다
+
+supreme
+ : 최고의, 최상의
+
+The great convenience of masterpieces is that they are so astonishingly lucid.
+(대작의 위대한 편리함은 그들이 놀랍게도 그렇게 명쾌한 것이다.)
+lucid
+ : 명쾌한, 명료한, 번쩍이는.
+
+I suggest no particular work as a start.
+(시작으로 특정한 작품을 제안하지는 않는다.)
+particular
+ : 특정한, 특별한
+
+The attempt would be futile in the space of my command.
+(그 시도는 헛될 것이다 / 나의 명령 공간에서)
+futile
+ : 효과없는, 쓸데없는
+   헛수고, 무산
+
+But I have two general suggestions of a certain importance.
+( 그러나 나는 2가지 일반적인 제안을 가지고 있다 / 특정한 중요성의 제안)
+
+**The first is to define the direction and scope of your efforts.**
+(첫번째는 당신 노력의 방향과 범위를 정의하는 것이다.)
+
+Choose a limited period, or a limited subject, or a single author.
+( 선택하라 제한적인 시대, 또는 제한적인 주제, 또는 한명의 저자를)
+period
+ : 기간, 시대 주기
+
+Say to yourself: “I will know something about the French Revolution, or the rise of railways, or the works of John Keats.”
+(자신에게 말해보라 : " 나는 프랑스 혁명에 관해 뭔가 알고 싶다, 또는 기차길의 부상, 또는 John Keats 의 작품")
+
+And during a given period, to be settled beforehand, confine yourself to your choice.
+(그리고 주어진 기간 동안에, beforehand 로 정해진, 자신을 당신의 선택으로 한정하라.)
+confine
+ : 한정하다, 제한하다
+
+There is much pleasure to be derived from being a specialist.
+( 많은 기쁨이 있다 / 전문가가 되는 것으로부터 이끌어지는 )
+derive
+ : 이끌어내다, 유래하다
+
 ---
 
 [목차]
