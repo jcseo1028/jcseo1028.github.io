@@ -3125,6 +3125,112 @@ There is much pleasure to be derived from being a specialist.
 derive
  : 이끌어내다, 유래하다
 
+**The second suggestion is to think as well as to read.**
+(두번째 제안은 읽을 것 뿐만 아니라 생각하는 것이다.)
+as well as
+ : ~뿐만 아니라
+
+I know people who read and read, and for all the good it does them they might just as well cut bread-and-butter.
+( 나는 사람들을 안다 / 읽고 또 읽는, 그리고 그 모든 장점 때문에 그것은 그들이 단지 빵과 버터를 자르는 것 뿐만 아니라 하는)
+
+They take to reading as better men take to drink.
+(그들은 독서를 한다 더 좋은 사람이 술을 마시는 것처럼.)
+
+They fly through the shires of literature on a motor-car, their sole object being motion.
+(그들은 난다 / 문학의 지방을 통해 / 모터카에서, 그들의 sole한 목적에서 / 모션을 하고 있는)
+shire
+ : 주, 지방, 소굴
+   쉬게 하다
+
+They will tell you how many books they have read in a year.
+(당신은 그들에게 ~한 방법을 말할 것이다 / 1년에 몇권의 책을 읽었는지)
+
+Unless you give at least forty-five minutes to careful, fatiguing reflection (it is an awful bore at first) upon what you are reading, your ninety minutes of a night are chiefly wasted.
+( 당신이 주의깊게 적어도 45분을 준다면, 반사를 피로하게 하는(그것은 처음에 정말 지루하다) / 당신이 읽고 있는 무언가 , 당신의 밤의 90분은 주로 낭비된다.)
+fatigue
+ : 피로, 피곤
+   피로하게 하다.
+
+awful
+ : 끔찍한, 엄청난, 무서운
+
+chiefly
+ : 주로
+
+This means that your pace will be slow.
+(이것은 당신의 페이스가 느릴것이라는 의미이다.)
+
+Never mind.
+(걱정하지 마라)
+
+**Forget the goal; think only of the surrounding country; and after a period, perhaps when you least expect it, you will suddenly find yourself in a lovely town on a hill.**
+(목표를 잃어버려라; 단지 주변나라를 생각하라; 일정 주기 후에, 아마도 적어도 그것을 기대했을 때, 당신은 갑자기 당신 자신을 찾을 것이다 / 언덕에 있는 사랑스러운 마을에서)
+
+#### Dangers to Avoid
+
+I cannot terminate these hints, often, I fear, too didactic and abrupt, upon the full use of one’s time to the great end of living (as distinguished from vegetating) without briefly referring to certain dangers which lie in wait for the sincere aspirant towards life.
+(나는 이 힌트들을 중단할 수 없다, 나는 종종 느낀다, 너무 교훈적이고 갑작스러움을, 시간을 꽉차게 사용하면 위대한 끝에 이른다( 단조로와지는 것과 구별되는)/ 특정 위험에 진실로 언급하는것 없이 / 기다림 안에 놓여있는 위험 / 진실로 위대한 나아가는 삶을 위해)
+didactic
+ : 교훈적인
+
+abrupt
+ : 갑작스러운, 퉁명스러운
+
+vegetate
+ : 생장하다, 단조로운 생활을 하다.
+
+refer
+ : 말하다, 언급하다
+
+sincere
+ : 진지한, 진심의
+
+aspirant
+ : 큰 뜻을 품은 사람, 열망자
+
+The first is the terrible danger of becoming that most odious and least supportable of persons–a prig.
+(첫번째는 끔찍한 위함이다 / 가장 odios 하고 적어도 지원가능한 사람이 되든 것의 / a prig)
+odious
+ : 싫은, 미운
+
+prig
+ : 까다로운 사람, 도둑
+
+Now a prig is a pert fellow who gives himself airs of superior wisdom.
+(이제 prig 는 건방진 동료이다./ 그 자신에게 우월한 지혜의 공기를 주는 )
+pert
+ : 건방진, 주제넘은
+
+A prig is a pompous fool who has gone out for a ceremonial walk, and without knowing it has lost an important part of his attire, namely, his sense of humour.
+( prig는 오만한 바보이다 / 의식적인 걸을을 위해 나가버린 / 그리고 ~을 아는 것 없이 / 그의 중요한 것을 잃어버린 것을 / 그의 의상, namely, 유머 감각)
+pompous
+ : 잘난체하는, 오만한
+
+attire
+ : 복장, 의복
+
+namely
+ : 즉
+
+A prig is a tedious individual who, having made a discovery, is so impressed by his discovery that he is capable of being gravely displeased because the entire world is not also impressed by it.
+(prig 는 지루한 개인이다./ ,발견을 하고 있는 / 그의 ~한 발견에 의해 감명받은 / 그가 진지하게 불쾌하기에 충분한 / 모든 세상은 또한 그것에 의해 감명받지 않기 때문에)
+tedious
+ : 지루한, 장황한
+
+gravely
+ : 엄숙히, 진지하게
+
+displease
+ : 불쾌하게 하다
+
+**Unconsciously to become a prig is an easy and a fatal thing.**
+( 무의식적으로 prig 가 되는 것은 쉽고 치명적인 것이다.)
+unconsciously
+ : 무의식적으로
+
+fatal
+ : 치명직인
+
 ---
 
 [목차]
