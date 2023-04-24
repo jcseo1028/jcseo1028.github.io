@@ -2663,7 +2663,7 @@ Art is a great thing.
 But it is not the greatest.
 
 **The most important of all perceptions is the continual perception of cause and effect – in other words, the perception of the continuous development of the universe– in still other words, the perception of the course of evolution.**
-( 모든 지각 중에서 가장 중요한 것은 원인과 영향에 대한 끊임 없는 지각이다. - 달리 말하면, 세상의 지속적인 개발의 지각 - 다른 말로, 진화 단계의 지각
+( 모든 지각 중에서 가장 중요한 것은 원인과 영향에 대한 끊임 없는 지각이다. - 달리 말하면, 세상의 지속적인 개발의 지각 - 다른 말로, 진화 단계의 지각)
 perception
  : 인식, 지각
 
@@ -2690,7 +2690,7 @@ bitterness
  : 쓴맛, 괴로움, 쓰라림.
 
 One loses, in the study of cause and effect, that absurd air which so many people have of being always shocked and pained by the curiousness of life.
-(사람이 ~을 잃어버린다, 원인과 효과의 연구에서, 말도 안되는 공기 / 많은 사람들이 항상 충격받고 고통 받는 / 인생의 심각함에 의해
+(사람이 ~을 잃어버린다, 원인과 효과의 연구에서, 말도 안되는 공기 / 많은 사람들이 항상 충격받고 고통 받는 / 인생의 심각함에 의해)
 absurd
  : 말도 안되는, 터무니 없는, 황당한
 
@@ -2822,7 +2822,7 @@ property
  : 부동산
 
 Would it not give zest to your business, and transform your whole life?
-( 당신의 사업에 기분좋은 자극을 주고 그리고 당신의 전체 일생을 변화시키지 않을까요?
+( 당신의 사업에 기분좋은 자극을 주고 그리고 당신의 전체 일생을 변화시키지 않을까요? )
 zest
  : 기분좋은 자극, 산뜻한 풍미
 
@@ -3052,7 +3052,7 @@ antagonistic
  : 대립하는, 반대의
 
 I shall regret it, yet not inconsolably.
-( 나는 그것을 후회해야 한다, 그러나 안타깝지는 않다.(
+( 나는 그것을 후회해야 한다, 그러나 안타깝지는 않다.)
 regret
  : 후회하다.
    유감, 아쉬움
@@ -3230,6 +3230,36 @@ unconsciously
 
 fatal
  : 치명직인
+
+Hence, when one sets forth on the enterprise of using all one’s time, it is just as well to remember that one’s own time, and not other people’s time, is the material with which one has to deal;
+(그러므로, 누군가 40을 정할 때/ 모든 시간을 사용하는 사업에 대해, 그것은 단지 그 사람의 시간을 잘 기억하는 것 뿐이다, 그리고 다른 사람들의 시간은 아닌, ~은 물질이다 / 누군가 거래해야 하는;)
+enterprise
+ : 기업, 사업
+
+that the earth rolled on pretty comfortably before one began to balance a budget of the hours, and that it will continue to roll on pretty comfortably whether or not one succeeds in one’s new role of chancellor of the exchequer of time.
+( 꽤 안전에게 역할이 메겨진 / 누군가 시간의 예산을 균형 맟추가 시작하기 전에, 그것은 계속할 것이다 / 꽤 편하게 역할을 하는 것을 / ~인지 아닌지 / 누군가 ~한 역할을 성공한다/ 시간의 국무부 장관의 역할)
+exchequer
+ : 국고, 재무부, 재정
+
+chancellor
+ : 총장, 수상
+
+It is as well not to chatter too much about what one is doing, and not to betray a too-pained sadness at the spectacle of a whole world deliberately wasting so many hours out of every day, and therefore never really living.
+( 그것은 너무 많이 떠드는게 아니다 / 누가 하고 있는 것에 관해, 너무 고통스러운 슬픔을 배신하는 것이 아니다 / 전 세계의 장관에서 / 고의적으로 너무 많은 시간을 낭비하는, 그러므로 진짜 사는 것이 아니다.)
+chatter
+ : 떠들다, 지껄이다.
+   말, 수다
+
+betray
+ : 배신하다, 배반하다.
+
+deliberately
+ : 의도적으로, 고의적으로
+
+**It will be found, ultimately, that in taking care of one’s self one has quite all one can do.**
+( 그것은 결국 발견될 것이다, 그 자신을 돌보면서 누군가 모든 것을 할 수 있다는 것을)
+ultimately
+ : 마침내, 결국, 최후로
 
 ---
 
