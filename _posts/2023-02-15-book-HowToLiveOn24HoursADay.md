@@ -3261,6 +3261,145 @@ deliberately
 ultimately
  : 마침내, 결국, 최후로
 
+Another danger is the danger of being tied to a programme like a slave to a chariot.
+( 또 다른 위험은 ~한 위험이다 / 프로그램에 얽매이는 / 전차의 노예처럼)
+slave
+ : 노예
+
+chariot
+ : 전차
+
+One’s programme must not be allowed to run away with one.
+(누군가의 프로그램은 ~한 것이 허락되서는 안된다 / 그것을 도망가는)
+run away
+ : 달아나다, 도망가다
+
+It must be respected, but it must not be worshipped as a fetish.
+(그것은 존경받아야함 한다, 그러나 숭배되어서는 안된다 / 맹목적 숭배물로)
+worship
+ : ~을 숭배하다.
+  숭배, 예배
+
+fetish
+ : 맹목적 숭배물, 미신, 집착
+
+A programme of daily employ is not a religion.
+(매일 고용 프로그램은 종교가 아니다.)
+religion
+ : 종료, 신앙
+
+This seems obvious.
+( 이것은 명백해 보인다.)
+obvious
+ : 분명한, 명백한
+
+Yet I know men whose lives are a burden to themselves and a distressing burden to their relatives and friends simply because they have failed to appreciate the obvious.
+(그러나 나는 ~한 사람을 안다 / 생활이 그들 자신들에게 부담 이고 / 그들에 친지와 친구들에게 비참한 부담인 / 그들이 실패했기 때문에 / 명백함에 감사하는 것을)
+burden
+ : 부담감, 책임
+
+distressing
+ : 비참한, 괴로움을 주는, 비통한
+
+“Oh, no,” I have heard the martyred wife exclaim, “Arthur always takes the dog out for exercise at eight o’clock and he always begins to read at a quarter to nine.
+("안돼", 나는 순교자인 척하는 부인이 감탄하는 것을 들었다. "Arthur 는 항상 개를 데리고 나간다 / 8시에 운동하기 위해 / 그리고 그는 항상 9시 까지 독서를 한다.)
+martyred
+ : 순교자인 척하는
+
+exclaim
+ : 외치다, 감탄하다
+
+So it’s quite out of the question that we should. . .” etc., etc.
+(그래서 우리가 ...등등을 해야한다는 것은 질문의 여지가 없습니다.)
+
+And the note of absolute finality in that plaintive voice reveals the unsuspected and ridiculous tragedy of a career.
+( 그리고 절대적인 최종 상태의 음은 / 애처로운 목소리에서 / 드러낸다 / 의심받지 않고 말도 안되는 경력의 비극을 )
+finality
+ : 최종적인 상태, 결정적임.
+
+plaintive
+ : 구슬픈, 애처로운
+
+reveal
+ : 드러내다, 밝히다.
+
+unsuspected
+ : 의심받지 않은, 천만 뜻밖의
+
+tragedy
+ : 비극, 참사
+
+ridiculous
+ : 터무니없는, 말도 안되는, 우스꽝쓰러운
+
+On the other hand, a programme is a programme.
+( 반면에 프로그램은 프로그램이다.)
+
+And unless it is treated with deference it ceases to be anything but a poor joke.
+( 그리고 그것이 다름으로 대우받지 않는다면 / 그것은 뭔가 되게 cease 한다 / 가련한 농담이 아닌)
+cease
+ : 중단하다, 사라지다.
+
+To treat one’s programme with exactly the right amount of deference, to live with not too much and not too little elasticity, is scarcely the simple affair it may appear to the inexperienced.
+(누군가의 프로그램을 대우하는 것은 / 다름의 정확한 양으로, 살기위해 / 너무 많지 않고 / 너무 적은 탄력성, 거의 단순한 문제이다 / 아마도 경험되지 않은 것으로 보이는)
+elasticity
+ : 탄성, 탄력성, 신축성
+
+affair
+ : 문제, 일
+
+scarcely
+ : 거의, 겨우, 가까스로
+
+And still another danger is the danger of developing a policy of rush, of being gradually more and more obsessed by what one has to do next.
+( 그리고 여전이 또 다른 문제는 ~한 문제이다 / rush 의 정책을 개발하는, 점점 더 사로잡히는 / 무언가에 의해 / 누군가 다음에 해야하는 것)
+obsess
+ : 사로잡히다, 집착하다
+
+In this way one may come to exist as in a prison, and one’s life may cease to be one’s own.
+( 이 과정안에서 누군가는 감옥에서 존재한다, 그리고 누군가의 일생은 그 자신의 것이 되는것이 중단된다..)
+
+One may take the dog out for a walk at eight o’clock, and meditate the whole time on the fact that one must begin to read at a quarter to nine, and that one must not be late.
+(누군가는 산책을 위해 8시에 개를 데리고 나간다, 그리고 명상한다 / 모든 시간에 / ~한 사실에 대해 / 누군가 독서를 9시에 시작해야만 한다는, 그리고 누군가는 늦지 말아야 한다는)
+
+**And the occasional deliberate breaking of one’s programme will not help to mend matters.**
+(그리고 누군가의 프로그램에서의 가끔의 고의적인 중단은 문제를 개선하는데 도움을 주지 않을 것이다.)
+occasional
+ : 가끔의, 때때로
+
+deliberate
+ : 고의적은, 신중한
+
+mend
+ : 개선하다, 고치다.
+
+The evil springs not from persisting without elasticity in what one has attempted, but from originally attempting too much, from filling one’s programme till it runs over.
+(악은 나타난다 탄력성 없이 지속하지 않는 것으로부터 / 누군가 시도했다는 것 , 그러나 원칙적인 시도가 너무 많은 것으로 부터, 누군가의 프로그램이 끝날때까지 채워지는 것으로 부터 가 아니라)
+
+The only cure is to reconstitute the programme, and to attempt less.
+( 유일한 치유는 프로그램을 재건하는 것이고, 적게 시도하는 것이다.)
+cure
+ : 치료, 치유
+
+reconstitute
+ : 재건하다
+
+But the appetite for knowledge grows by what it feeds on, and there are men who come to like a constant breathless hurry of endeavour.
+( 그러나 지식을 위한 관심은 ~에 의해 성장한다 / 그것이 무엇에 양분을 주는지, 그리고 ~한 사람이 있다 / 항상 숨쉬지 않는 것처럼 급한 사람처럼 오는)
+appetite
+ : 식욕, 관심, 성향
+
+endeavour
+ : 노력
+
+**Of them it may be said that a constant breathless hurry is better than an eternal doze.**
+(그 중에서도 / 지속적인 숨가쁜 바쁨이 더 좋다 / 영원한 졸음 보다)
+eternal
+ : 영원한, 무한한
+
+doze
+ : 졸음, 선잠
+
 ---
 
 [목차]
