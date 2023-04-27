@@ -3400,6 +3400,47 @@ eternal
 doze
  : 졸음, 선잠
 
+In any case, if the programme exhibits a tendency to be oppressive, and yet one wishes not to modify it, an excellent palliative is to pass with exaggerated deliberation from one portion of it to another;
+( 어떤 경우든, 그 프로그램이 가혹한 경향을 보인다면, 그리고 누군가 그것을 변경하지 않기를 원한다면, 훌륭한 완화제는 ~와 함께 지나가는 것이다 / 과장된 토의와 함께 / 다른 사람의 몫으로부터)
+tendency
+ : 경향, 추세
+
+oppressive
+ : 가혹한, 포악한
+
+palliative
+ : 변명하는, 일시적으로 가볍게 하는
+   완화제
+
+deliberation
+ : 심사숙고, 토의
+
+exaggerated
+ : 과장된
+
+portion
+ : 몫, 할당
+
+for example, to spend five minutes in perfect mental quiescence between chaining up the St. Bernard and opening the book; in other words, to waste five minutes with the entire consciousness of wasting them.
+(예를 들어, 5분을 소비하는 것이다 / 완벽한 정신적 침묵 상태에서 / St. Bernard 에 묶여있는 것과 책을 여는 것 사이에; 다른 말로, 5분을 낭비하기 위해 / 그들을 낭비하는 전적의 의식과 함께)
+quiescence
+ : 정지, 무활동, 침묵
+
+consciousness
+ : 의식
+
+The last, and chiefest danger which I would indicate, is one to which I have already referred–the risk of a failure at the commencement of the enterprise.
+( 그리고 마지막으로 내가 알리고 싶은 주요한 위험은, 하나이다 / 내가 이미 언급했던 것중에 - 실패의 위험 / 기업의 시작 에서 )
+chief
+ : 최고의, 주요한
+   우두머리
+
+commencement
+ : 졸업, 시작
+
+I must insist on it.
+(나는 그것에 대해 주장해야만 한다.)
+
 ---
 
 [목차]
