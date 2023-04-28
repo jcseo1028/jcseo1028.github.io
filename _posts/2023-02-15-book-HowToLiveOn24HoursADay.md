@@ -3441,6 +3441,67 @@ commencement
 I must insist on it.
 (나는 그것에 대해 주장해야만 한다.)
 
+**A failure at the commencement may easily kill outright the newborn impulse towards a complete vitality, and therefore every precaution should be observed to avoid it.**
+( 시작에서의 실패는 거듭단 원동력을 죽일지도 모른다/ 완전한 활력 으로, 그리고 그러므로 모든 예방은 그것을 피해야 한다.)
+outright
+ : 솔직한, 노골적인
+   완전히, 철저히
+
+newborn
+ : 거듭난, 부활한
+
+impulse
+ : 충동, 자극, 원동력
+
+vitality
+ : 활력
+
+The impulse must not be over-taxed.
+( 충동(원동력)은 과세되어서는 안된다.)
+
+**Let the pace of the first lap be even absurdly slow, but let it be as regular as possible.**
+( 첫번째 lap 의 속도는 터무니없이 느리게, 그러나 가능한 규칙적으로 해야 한다.)
+absurdly
+ : 불합리하게, 터무니없이
+
+**And, having once decided to achieve a certain task, achieve it at all costs of tedium and distaste.**
+(그리고 한번 특정 임무를 수행하기로 결심했다면, 그것을 성취하라 / 지루함과 거부감의 모든 비용을 지불해서라도)
+tedium
+ : 지루함, 단조로움
+
+distaste
+ : 거부, 혐오
+
+**The gain in self-confidence of having accomplished a tiresome labour is immense.**
+( 자기신뢰 안에서 지겨운 노동으로 얻어진 이득(자신감)은 굉장하다.)
+accomplish
+ : 성취하다, 달성하다.
+
+gain
+ : 이득, 이익
+   획득하다.
+
+tiresome
+ : 피곤한, 지겨운
+
+immense
+ : 굉장한, 막대한
+
+**Finally, in choosing the first occupations of those evening hours, be guided by nothing whatever but your taste and natural inclination.**
+(마지막으로, 첫번째 직업을 선택할 때 / 저녁 시간대의 , ~을 따르지 마라 / 자신의 취향과 자연적인 성향이 무엇이든지간에)
+inclination
+ : 성향, 의향
+
+It is a fine thing to be a walking encyclopaedia of philosophy, but if you happen to have no liking for philosophy, and to have a like for the natural history of streetcries, much better leave philosophy alone, and take to street-cries.
+(~은 좋은 것이다 / 걸어다니는 철학의 백과사전 되는 것은, 그러나 철학을 위한 연결이 발생되지 않는다면,  좋아하는 것을 취하라 / streetcry들의 자연적인 역사를 위한, 철학을 혼자 떠나는 것이 낫다, 그리고 streetcry 가 되어라.)
+encyclopaedia
+ : 백과사전
+
+streetcries
+ : 길거리에서 상인들이 떠드는 소리
+
+#### Preface to this Edition @jcseo1028
+
 ---
 
 [목차]
