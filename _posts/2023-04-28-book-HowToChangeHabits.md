@@ -92,6 +92,43 @@ That’s all it took for them to set themselves apart.
 
 #### Step 1 = Effective Strategies to Develop the Growth Mindset
 
+**If you want to achieve your full potential, developing a Growth Mindset is the first habit-building step to take in that direction.**
+( 만약 당신이 당신의 모든 잠재력을 성취하고 싶다면, 성장형 사고방식을 개발하는 것이 첫번째 습관 만들기 단계이다 / 그 방향으로 취하기 위한)
+
+Cultivating the right successful mindset is not something that starts tomorrow, next week, or sometime in the future when the right opportunity maybe presents itself.
+(올바른 성공적인 사고방식을 개발하는 것은 무언가가 아니다 / 내일, 다음주, 미래의 언제가 시작하는/ 올바른 기회가 그 자체로 나타났을 때)
+
+It is something that starts right now.
+(그것은 바로 당장 시작해야 하는 것이다.)
+
+A mindset is essentially the beliefs that you have about yourself and what qualities you possess.
+(사고방식은 근본적으로 믿음이다 / 당신이 가지고 있는 것과 소유한 품질이 무엇인지)
+essentially
+ : 근본적으로
+
+This could be your intelligence, your personality, your strengths, and your talents.
+( 이것은 ~ 일 수 있다, 당신의 지력, 당신의 개인성, 당신의 힘, 그리고 당신의 재능)
+
+The difference in backgrounds, life experiences, beliefs, and situations all contribute to the kind of mindset that you have right now.
+( 배경에서 다른 점은, 인생 경험, 믿음, 상황은 모두 공헌한다/ 사고방식의 종류에 / 당신이 당장 가져야 하는)
+
+Think about your own mindset for a minute; what does yours say about you right now?
+(잠시 당신이 가진 사고방식에대해 생각해보자, 당신에 관해 지금 당장 말할 수 있는 것은 무엇인가?)
+
+What do you want your mindset to be moving forward?
+(당신의 사고방식을 나아가게 하기위해 당신이 원하는 것은 무엇인가?)
+
+You need to constantly challenge the way you look at your life to steer it in the right direction toward success.
+(당신은 계속 도전할 필요가 있다 / 당신이 당신의 인생을 보는 방향으로 / 성공으로 가는 올바른 방향 안에서)
+
+You need to cultivate a Growth Mindset and strive to make personal development at the core of your focus.
+(당신은 성장형 사고방식을 개발할 필요가 있다 / 그리고 자기개발에 애써야 한다 / 당신 초점의 핵심에서)
+strive
+ : 노력하다, 애쓰다
+
+Here are some of the most effective strategies you need to make this happen:
+(여기 몇가지 가장 효율적인 적략들이 있다 / 이것이 발현되기에 필요한);
+
 ---
 
 [목차]
