@@ -129,6 +129,81 @@ strive
 Here are some of the most effective strategies you need to make this happen:
 (여기 몇가지 가장 효율적인 적략들이 있다 / 이것이 발현되기에 필요한);
 
+**Perceive Challenges as Opportunities**
+(도전을 기회로 인식하라.)
+
+Because that’s what they are.
+(무엇인가 있기 때문이다)
+
+We are faced with important decisions every day.
+(우리는 매일 중요한 결정에 직면한다.)
+
+Should we accept a new job?
+(새로운 직업을 받아들일까?)
+
+Should we commit to a new relationship?
+(우리는 새로운 관계에 전념해야 할까?)
+commit
+ : 저지르다, 약속하다, 전념하다)
+
+Should we move?
+(움직여야 할까?)
+
+Should we take up this new opportunity?
+(이 새로운 기회를 취해야 할까?)
+
+Some challenges are a big part of how you develop as a person.
+(어떤 도전들은 큰 부분이다. / 당신이 사람으로써 개발할 수 있는 방법들 중)
+
+The more challenges you’re faced with, the more opportunities you have to learn about what your strengths are and what makes you tick.
+(당신이 더 많은 도적들과 직면했을 때, 더 많은 기회/당신이 배울수 있는 / ~에 관해 / 무엇이 당신의 힘이고 무엇이 당신을 단단하게 하는지 )
+
+**To develop that Growth Mindset, push yourself, challenge yourself, and always strive to learn something new.**
+(성장형 사고방식을 배우기 위해, 당신 자신을 밀고, 당신 자신에게 도전하고, 항상 노력하라/ 무언가 새로운 것을 배우는데)
+strive
+ : 노력하다, 애쓰다, 분투하다.
+
+You never know when a new skill or piece of information might come in handy.
+(당신은 결코 알지 못합니다 / 언제 새로운 스킬이나 정보가 손에 들어올 지 )
+
+**Learning Over Seeking Approval**
+( 승인을 찾기위해 배우는 것?)
+
+The Growth Mindset is going to require a shift in this priority.
+(성장형 사고방식은 이러한 우선순위를 변경하라고 요구한다.)
+
+Learning is now going to come first over seeking approval from others.
+(배움은 이제 먼저 오려고 한다 / 다른 사람들로부터 승인을 얻으려고)
+
+When you’re more concerned with seeking approval from others, you’re depriving yourself of the opportunity to develop to your fullest potential.
+(당신이 좀더 걱정할 때 / 다른 사람들로부터 승인을 얻으려고, 당신은 자신의 기회를 박탈하고 있다 / 당신의 가득찬 잠재력을 개발할 기회)
+deprive
+ : 빼앗다, 박탈하다
+
+The thing is, not everyone is going to agree with what you do, but if it works for you and you’re confident it’s the right step to take, then the only approval you need is from yourself.
+(그것은 모든사람이 동의하려고 하지 않는것이다 / 당신이 무엇을 하든, 그러나 그것이 당신을 위해 일하고 당신이 신뢰한다면 / 그것을 취하기 위한 올바른 단계를, 그러면 당신이 필요한 승인은 오직 자신으로부터 나온다.)
+
+**Stop worrying so much about what other people think and instead shift the focus to better yourself for your own benefit.**
+( 다른 사람이 생각하는 것에 대해 너무 많이 걱정하지 마라, 대신에 초점을 바꿔라 / 자신에게 더 좋도록 / 자신의 이익을 위해.)
+
+**Accepting Constructive Criticism**
+(건설적인 비판 받아들이기.)
+
+While it’s never pleasant to be criticized, think of criticism as a teachable moment.
+(비판을 받는 결코 기쁘지 않을 동안에, 비판을 배울수 있는 순간으로 생각하라.)
+
+**When someone points out your weakness, instead of becoming defensive, use this as a signal that this is an area you should be working on to become better.**
+(누군가 당신의 약점을 지적할 때, 방어적으로 되는 대신에, 이것을 신호로 사용해라 / 이것이 어떤 영역이라는 / 당신이 작업하고 있는 / 더 좋게 되는쪽으로 )
+
+Often, constructive criticism is not a personal attack on you; it’s the way that you choose to perceive it.
+(종종, 생산적인 비판은 당신에 대한 개인적인 공격이 아니다 ; 그것은 방향이다 / 당신이 그것을 인지하기 위해 선택하는)
+
+Think of criticism as a way to learn and grow.
+( 비판을 배움과 성장의 방법으로써 생각하라)
+
+After all, that’s what the Growth Mindset is about.
+(결국, 그것이 성장형 사고방식이 무엇에 관한 것인지이다.)
+
 ---
 
 [목차]
