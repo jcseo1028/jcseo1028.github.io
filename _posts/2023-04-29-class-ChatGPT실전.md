@@ -58,9 +58,24 @@ ChatGPT 를 원어민 선생님으로 활용하자
 
 #### AI 기술로 이야기 만들기, 인공지능과 함께하는 아이데이션
 
+아이데이션
+ : 아이디어를 떠올리는 것.
+
+(프롬프트) 동화책을 쓰려고 하는데, 기본적인 이야기 플롯을 추천해줄래?
+
 #### AI로 이미지 작업을! 온라인에서 텍스트로 매력적인 AI 이미지 만들기
 
+AI 이미징 Web Service (보통 부분 유료 서비스)
+ : 1. [Dall-E](https://labs.openai.com/)
+   2. [Deepai](https://deepai.org/machine-learning-model/text2img)
+   3. [Lexica](https://lexica.art/)
+   4. [Crayon](https://www.craiyon.com/)
+
+각 서비스별로 학습된 모델 데이터가 다르기 때문에 결과물의 느낌이 다르다.
+
 #### AI Story + AI Image! 인공지능 기술을 활용한 매력적인 콘텐츠
+
+???
 
 [Chapter-3] 자동화 과정으로 콘텐츠 생산 파이프라인 만들기
 

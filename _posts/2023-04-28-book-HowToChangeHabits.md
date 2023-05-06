@@ -204,6 +204,178 @@ Think of criticism as a way to learn and grow.
 After all, that’s what the Growth Mindset is about.
 (결국, 그것이 성장형 사고방식이 무엇에 관한 것인지이다.)
 
+**Learn Well Rather Than Learn Fast**
+(빨리 배우는 것보다 차라리 잘 배워라)
+
+Learning is not a process that can be rushed.
+(배움은 러쉬될 수 있는 프로세스가 아니다.)
+
+**You must be willing to make mistakes and experience challenges, no matter how daunting they may seem.**
+(당신은 기꺼이 실수를 하고 도전을 경험해야만 합니다, 그들이 보기에 아무리 벅차게 보일지라도.)
+daunt
+ : 기가죽다
+   겁, 억제, 위축
+
+Mistakes do not mean that you’re a failure.
+(실수는 당신이 실패자라는 것을 의미하지 않는다.)
+
+The only way you can fail at something is if you don’t try at all.
+(당신이 무언가에서 실패할 수 있는 유일한 방법은 당신이 전혀 시도하지 않았다는 것이다.
+
+You’re not a failure if you need to work on improving something.
+(당신은 실패자가 아니다 / 당신이 무언가를 개선할 일이 필요하다면)
+
+That’s what every successful person has had to do on their way to the top.
+(이것은 모든 성공한 사람이 그들의 방향에서 해야만 하는 무언가이다. / 최고로 가는 방향)
+
+Thomas Edison could not have said it better when he said: I did not fail; I simply found 1000 ways not to make a lightbulb.
+(토마스 에디슨은 그것이 더 좋다고 말할 수 없었다 / 그가 말 했을 때 : 나는 실패하지 않았다; 다는 단순히 1000 가지 방법을 찾았다 / lightbulb 를 만들지 못하는 )
+
+After all, if Edison had let it stop him, we wouldn’t be benefiting from his incredible accomplishments today.
+(모든 것이 지난 후에, 만약에 에디슨이 실험을 멈췄다면, 우리는 이익을 받지 못했을 것이다 / 그의 위대한 성취로부터 )
+
+**Focus on the Process, Not the Result**
+(결과가 아닌 과정에 집중하라)
+
+The journey is part of reaching your final destination.
+(그 여행은 당신의 마지막 목적지로 향하는 것의 일부분이다.)
+
+People who have a Growth Mindset have a willingness to learn, and learning happens when they focus on the process, not the end result.
+(성장형 사고방식을 가진 사람들은 배우는데 기뻐한다, 그리고 배움은 발생한다 / 그들이 과정에 집중할 때, 최종 결과가 아닌)
+
+When you enjoy the learning process, you’re able to make the most out of each experience.
+(당신이 배우는 과정을 즐겼을 때, 당신은 각 경험의 최고의 결과를 만들 수 있다.)
+
+**It is important to have goals, but one of the key traits of developing a successful mindset is learning valuable, important, life-changing lessons along the way.**
+(목표를 갖는 것은 중요하다, 그러나 성공적인 사고방식을 개발하는 주요 특징 중 하나는 가치있는 것을 배우는 것이다, 중요한 것, 그 방향을 통해 인생을 바꾸는 수업)
+
+**Learning from the Mistakes of Others**
+(다른 사람들의 실수로부터 배우는 것)
+
+Don’t compare yourself to other people, but observe what they do and learn from the mistakes that they have made.
+(당신 자신을 다른 사람들과 비교하지 마라, 그러나 관찰하라 / 그들이 수행하고 배운 것을 / 그들이 만든 실수로부터 )
+
+Keep those lessons in mind for the future when you find yourself in a similar situation.
+(그러한 수업들을 마음에 새겨라/ 미래를 위해 / 당신이 비슷한 상황에서 당신 자신을 알았을 때)
+
+**When you observe the mistakes of others, imagine that it was you in that situation.**
+(당신이 다른 사람들의 실수를 관찰할 때, 당신이 그 상황에 있다고 상상하라.)
+oberve
+ : 관찰하다, 보다, 지키다
+
+Ask yourself how you would apply these lessons to your life.
+(자신에게 물어라 / 어떻게 당신의 삶에 이 교훈을 적용할 지에 대해)
+
+What would you do differently to change the outcome?
+(당신을 다르게 하는 것은 무엇인가? 결과를 바꾸기 위해)
+
+**Cultivating Determination and Grit**
+( 결정과 끈기를 개발하는 것 )
+determination
+ : 결심, 결정, 편향
+
+Cultivate a strong passion and perseverance for your long-term goals.
+( 강한 열정과 끈기를 개발하라 / 당신의 장기 목표를 위해 )
+perserverance
+ : 인내, 끈기
+
+So much so that nothing will stand in your way or deter you from achieving them, no matter how many times you get knocked down.
+( 그렇게 많이 아무것도 당신의 길에 서있지 않을 것이다, 당신이 그들을 수행하는 것으로 부터 단념하는 것은 없을 것이다., 문제가 되지않는다 / 당신이 얼마나 많이 쓰러졌는지는 )
+deter
+ : 단념하다, 방해하다, 저지하다.
+
+One of the greatest strengths of an individual with a Growth Mindset is the ability to keep going, no matter how many times they are knocked down along the way.
+(성공적 사고방식을 가지고 있는 사람의 가장 강점 중 하나는 계속 진행하는 능력이다, 그들이 그들의 길에서 많이 쓰러졌더라도)
+no matter how
+ : ~하더라도, 어떻든간에, 어떻게 하든
+
+**No matter how many times they have had to face adversity, they still stand up again and keep putting one foot in front of the other.**
+(그들이 많은 역경에 직면했더라도, 그들은 다시 일어설 것이고, 그 앞으로 발을 디딜 것이다.)
+adversity
+ : 역경, 재난, 불운
+
+**Build A Sense of Purpose**
+( 목적 감각을 개발하라 )
+
+One habit-building necessity as you work toward that Growth Mindset is to cultivate a sense of purpose.
+( 당신이 성장형 사고방식을 갖기 위해 필요한 한 가지 습관 쌓기는 목적 감감을 개발하는 것이다.)
+necessity
+ : 필요성, 필수품
+
+Look at the long-term goals and have a larger sense of purpose.
+(장기 목표를 바라보고 더 큰 목적 감각을 가져라.)
+
+**A Growth Mindset requires looking at the big picture and one question that you consistently need to ask yourself on a regular basis:**
+( 성장형 사고방식은 큰 그림과 하나의 질문을 보는 것이 필요하다 / 당신이 지속적으로 당신 자신에게 물어야 할 / 기본적으로 )
+consistently
+ : 시종일관하여
+
+**“Is what I am working on currently part of a major life goal?”**
+( 내가 꾸준하게 일해야 하는 것은 무엇인가? / 주된 인색 목표의 부분으로)
+
+**If the answer is no, then you need to reevaluate your priorities.**
+(답변이 없다면, 당신은 우선순위를 재평가하는 것이 필요하다.)
+reevaluate
+ : 재평가하다, 다시 평가하다.
+
+**Every Milestone Comes with A NewGoal**
+( 모든 이정표는 새로운 목표와 함께 온다. )
+milestone
+ : 이정표, 기념비
+
+For each milestone you achieve, take a moment to celebrate and then set a new goal for yourself.
+(당신이 성취해야 하는 각각의 이정표를 위해, 기념할 순간을 취하라 / 그러면 다시 당신에게 새로운 목표를 설정하라)
+
+Success is a process that never stops, and Growth Mindset individuals are always setting new goals for themselves to stay motivated in both their personal and professional projects.
+(성공은 절대 멈추지 않는 과정이다, 그리고 성장형 사고방식을 가진 사람들은 항상 새로운 목표를 설정한다 / 그들의 동기부여되는 상태를 유지하기 위해 / ~와 함께 / 그들의 개인과 전문적인 프로젝트들)
+motivate
+ : 동기부여, 의욕, 목적의식
+  ~에 동기를 주다
+
+There will always be another goal to reach.
+(도달해야 할 목표가 항상 있을 것이다.)
+
+Another way that you can improve.
+(다른 방법 / 당신이 개설할 수 있는)
+
+Another opportunity to tackle.  
+(다른 기회 / 착수해야 하는)
+tackle
+ : 달라붙다, 착수하다
+   태클, 낚시도구
+
+**Be Patient**
+( 끈기가 있어야 한다.)
+patient
+ : 참을성이 있는, 끈기있는
+   환자, 인내심
+
+Success does not happen overnight.
+(성공은 하룻밤 사이에 발생하지 않는다.)
+
+You need to allow yourself time to succeed, no matter how long that time may take.
+(당신은 성공을 위해 당신자신에게 시간투자를 해야 한다, 그 시간이 길더라도)
+
+Nothing that is worth doing will ever come quickly and easily.
+(할 가치가 있는 것은 절대 빠르고 쉽게 오지 않는다.)
+
+You must be realistic about the time it takes to achieve success to avoid getting disappointed when the results don’t seem to happen as quickly as you hoped.
+(당신은 시간에 관해 현실주의자가 되어야 한다 / 그것은 성공을 취한다 / 실망하는 것을 피하기 위해 / 결과가 빨리 보이지 않을 때 / 당신이 원하는 만큼 빨리)
+
+Part of developing the Growth Mindset is patience, knowing that if you want something bad enough, you must be pre-pared to work hard at it.
+(성장형 사고방식을 개발하는 부분은 노력이다,  ~을 알다시피 / 당신의 무언가 나쁘게 충분함을 원하면, 당신은 힘든일을 준비해야한 한다는 것을)
+
+Possibly for a long time.
+(가능하게 긴 시간동안)
+
+**Your patience will eventually pay off, as long as you keep working at it and never give up.**
+(당신의 인내는 결국 지불될 것이다, 당신이 할수 있는 만큼 오래 일하고 절대 포기하지 않는다면)
+
+#### Chapter 2: Step 2 – Stop Self-Sabotage
+
+sabotage
+ : 방해, 파괴
+
 ---
 
 [목차]
