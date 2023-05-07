@@ -14,6 +14,7 @@ published: false
 [Cpk 개념 잡기](https://www.dbility.com/146)
 
 ### 기본 CPK 공식
-![CPK 공식](/assets/images/2022-08-05/cpk_equation.JPG)
-- 표준편차 관련 Minitab 과 계산이 다름. -> 다른 방식 사용해야 할 듯함.
 
+![CPK 공식](/assets/images/2022-08-05/cpk_equation.JPG)
+
+- 표준편차 관련 Minitab 과 계산이 다름. -> 다른 방식 사용해야 할 듯함.

@@ -79,7 +79,7 @@ main:
 
 화면 상단에 Category 및 Tag 메뉴가 표시된다.
 
-### Post 작성 시 header 부분에 다음과 같이 Category 및 Tag 를 지정한다.
+### Post 작성 시 header 부분에 다음과 같이 Category 및 Tag 를 지정한다
 
 ```python
 

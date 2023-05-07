@@ -10,7 +10,7 @@ published: true
 
 ### 0x800700B Error
 
-```
+```text
 System.BadImageFormatException: 프로그램을 잘못된 형식으로 로드하려고 했습니다. (예외가 발생한 HRESULT: 0x8007000B)
 ```
 
@@ -21,7 +21,3 @@ Build 시 64bit 로 옵션을 변경하여 처리한다.
 간혹, .NetFramework 의 버전이 안 맞아서 생기는 경우도 있다.
 
 ---
-
-
-
-

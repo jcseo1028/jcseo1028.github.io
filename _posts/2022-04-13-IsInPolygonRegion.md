@@ -51,6 +51,7 @@ public bool IsPointInPolygon( Point p, Point[] polygon )
 }
 
 ```
+
 ---
 
 CogRectangleAffine 을 Polygon 화 하는 방법? -> 영역 자체를 Polygon 으로 변경해야 할 듯.

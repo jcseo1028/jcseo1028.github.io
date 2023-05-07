@@ -16,26 +16,29 @@ published: true
 [여기도 순서별로 잘 설명되어 있다](https://greeksharifa.github.io/references/2020/10/30/python-selenium-usage/#install)
 
 ### selenium 설치
+
 강력한 Web Scraping/Crawling 도구 selenium
 
 Visual Studio Code 터미널에서 아래와 같이 selenium 설치
 
-```
+```shell
 terminal > pip install selenium
 
 ```
 
 ### pyperclip 설치
+
 클립보드 모듈 pyperclip
 
 Visual Studio Code 터미널에서 아래와 같이 pyperclip 설치
 
-```
+```shell
 terminal > pip install pyperclip
 
 ```
 
 ### Chrome Driver 설치
+
 selenium 이 활용할 WebBrowser 모듈
 
 [Chrome Driver Download Page](https://sites.google.com/a/chromium.org/chromedriver/downloads)

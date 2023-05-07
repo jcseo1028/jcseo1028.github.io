@@ -13,7 +13,6 @@ published: false
 
 [python 정리 예제](https://blog.naver.com/zeus05100/221810856536)
 
-
 ### Cognex 적용
 
 Cognex 에서는 Blob Tool 의 Morphology 를 이용하면 될 듯 하다.
@@ -25,4 +24,3 @@ PT_BlobTools[m_PatNo, i].RunParams.MorphologyOperations.Add(CogBlobMorphologyCon
 Image 의 크기에 따라 횟수가 많아지는 부분에 대한 추후 재검토가 필요하다.
 
 KTG 는 걍 마크로 해도 될 거 같다고 하네...
-
