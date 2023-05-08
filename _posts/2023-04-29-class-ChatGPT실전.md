@@ -75,11 +75,22 @@ AI 이미징 Web Service (보통 부분 유료 서비스)
 
 #### AI Story + AI Image! 인공지능 기술을 활용한 매력적인 콘텐츠
 
-???
+위의 두 강의 조합해서 동화책 만들기 실습
 
 [Chapter-3] 자동화 과정으로 콘텐츠 생산 파이프라인 만들기
 
 #### ChatGPT 기술 적용한 자동화 시트 제작
+
+[샘플시트링크](https://docs.google.com/spreadsheets/d/1hqWCJTDU6wMV0IEWSlWdPsdqUHHuay_xwFdftRqV4hY/edit?usp=sharing)
+ : 내 드라이브로 사본 만들기
+
+[내사본링크](https://docs.google.com/spreadsheets/d/1ycIGufDUV2U92a-rSiE5XUMX7Wan26FJY1oijm0oi4E/edit#gid=223475366)
+
+ChatGPT API 를 사용하려면 유료 등록해야 함.
+ : 생성시에만 보이므로 별도로 저장 필요함.
+
+확장프로그램 설치 필요.
+ : GPT for Sheets™ and Docs™
 
 #### ChatGPT, Google Sheets/Docs 활용을 위한 필수 명령어
 
