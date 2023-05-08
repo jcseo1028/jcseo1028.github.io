@@ -10,7 +10,6 @@ published: false
 hack back
  : to reverse-engineer
 
-
 #### What's Your Superpower?
 
 We need to learn how to avoid distraction.
@@ -230,7 +229,7 @@ You can hack back the external triggers on your phone in four steps in less than
    2. Replace - Shift where and when you use potentially distracting apps, like social media and YouTube, to your desk instead of on your phone. Get a wristwatch so you don't have to look at your phone for the time.
    3. Rearrange - Move any apps that may trigger mindless checking from your phone's home screen.
    4. Reclaim - Change the notification settings for each app. Be very selective regarding which apps can send you sound and sight cues. Learn to use your phone's 'Do Not Disturb' settings.
-   
+
 #### Hack Back Your Desktop
 
 Desktop clutter takes a heavy psychological toll on your attention.
@@ -298,7 +297,7 @@ Price pacts can be difficult to start.
 Learn self-compassion before making a price pact.
  : -
 
-#### Prevent Distraction with Identity Pacts.
+#### Prevent Distraction with Identity Pacts
 
 Identity greatly influences our behaviour.
  : People tend to align their actions with how they see themselves.
@@ -317,13 +316,12 @@ Share with others
 Adopt rituals
  : Repeating mantras, keeping a timeboxed schedule, or performing other routines, reinforces your identity and influences your future actions.
 
-
 #### Distraction is a Sign of Dysfunction
 
 Jobs where employees encounter high expectations and low control have been shown to lead to symptoms of depression.
  : -
 
-Depression-like symptoms are painful. 
+Depression-like symptoms are painful.
  : When people feel bad, they use distractions to avoid their pain and regain a sense of control.
 
 Tech overuse at work is a symptom of a dysfunctional company culture.
@@ -334,10 +332,10 @@ More tech use makes the underlying problems worse, perpetuating a ‘cycle of re
 
 #### Fixing Distraction is a Test of Company Culture
 
-Don’t suffer in silence. 
+Don’t suffer in silence.
  : A workplace where people can’t talk about technology overuse is also one where people keep other important issues (and insights) to themselves.
 
-Knowing that your voice matters is essential. 
+Knowing that your voice matters is essential.
  : Teams that foster psychological safety and facilitate regular open discussions about concerns not only have fewer problems with distraction, but also have happier employees and customers.
 
 #### The Indistractable Workplace
@@ -347,41 +345,41 @@ Indistractable organisations, like Slack and BCG, foster psychological safety, p
 
 #### Avoid Convenient Excuses
 
-Stop deflecting blame. 
+Stop deflecting blame.
  : When kids don’t act the way parents want them to, it’s natural to look for answers that help parents divert responsibility.
 
-Techno-panics are nothing new. 
+Techno-panics are nothing new.
  : From the book, to the radio, to video games, the history of parenting is strewn with examples of moral panic over things that supposedly make kids act in strange ways.
 
-Tech isn’t evil. 
+Tech isn’t evil.
  : Used in the right way and in the right amounts, kids’ tech use can be beneficial, while too much (or too little) can have slightly harmful effects.
 
-Teach kids to be indistractable. 
+Teach kids to be indistractable.
  : Teaching children how to manage distraction will benefit them throughout their lives.
 
 #### Understand Their Internal Triggers
 
-Internal triggers drive behaviour. 
+Internal triggers drive behaviour.
  : To understand how to help kids manage distraction, we need to start by understanding the source of the problem.
 
-Our kids need psychological nutrients. 
+Our kids need psychological nutrients.
  : According to a widely accepted theory of human motivation, all people need three things to thrive: a sense of autonomy, competence and relatedness.
 
-Distractions satisfy deficiencies. 
+Distractions satisfy deficiencies.
  : When our kids’ psychological needs are not met in the real world, they go looking for satisfaction – often in virtual environments.
 
-Kids need alternatives. 
+Kids need alternatives.
  : Parents and guardians can take steps to help kids find a balance between their online and offline worlds by providing more offline opportunities to find autonomy, competence and relatedness.
 
-The four-part Indistractable Model is valuable for kids as well. 
+The four-part Indistractable Model is valuable for kids as well.
  : Teach them methods for handling distraction and, most importantly, model being indistractable yourself.
 
 #### Make Time for Traction Together
 
-Teach traction. 
+Teach traction.
  : With so many potential distractions in kids’ lives, teaching them how to make time for traction is critical.
 
-Just as with our own timeboxed schedules, kids can learn how to make time for what’s important to them. 
+Just as with our own timeboxed schedules, kids can learn how to make time for what’s important to them.
  : In the absence of making their own plans in advance, kids will turn to distractions.
 
 It’s okay to let your kids fail.  
@@ -390,59 +388,62 @@ It’s okay to let your kids fail.
 
 #### Help Them with External Triggers
 
-Teach them to swim before they dive in. 
+Teach them to swim before they dive in.
  : Like swimming in a pool, children should not be allowed to partake in certain risky behaviours before they are ready.
 
-Test for tech readiness. 
+Test for tech readiness.
  : A good measure of a child’s readiness is their ability to manage distraction by using the settings on the device to turn off external triggers.
 
-Kids need sleep. 
- : There is little justification for having a television or other potential distractions in a kid’s room overnight. 
+Kids need sleep.
+ : There is little justification for having a television or other potential distractions in a kid’s room overnight.
    Make sure nothing gets in the way of getting good rest.
 
-Don’t be the unwanted external trigger. 
+Don’t be the unwanted external trigger.
  : Respect their time and don’t interrupt them when they have scheduled time to focus on something, be that work or play.
 
 #### Teach Them to Make Their Own Pacts
 
-Don’t underestimate your child’s ability to precommit and follow through. 
+Don’t underestimate your child’s ability to precommit and follow through.
  : Even young children can learn to use precommitments as long as they set the rules and know how to use a timer or some other binding system.
 
-Consumer scepticism is healthy. 
+Consumer scepticism is healthy.
  : Understanding that companies are motivated to keep kids spending time watching or playing is an important part of teaching media literacy.
 
-Put the kids in charge. 
+Put the kids in charge.
  : It’s only when kids practise monitoring their own behaviour that they learn how to manage their own time and attention.
 
 #### Spread Social Antibodies Among Friends
 
-Distraction in social situations can keep us from being fully present with important people in our lives. 
+Distraction in social situations can keep us from being fully present with important people in our lives.
  : Interruptions degrade our ability to form close social bonds.
 
-Block the spread of unhealthy behaviours. 
+Block the spread of unhealthy behaviours.
  : ‘Social antibodies’ are ways groups protect themselves from harmful behaviours by making them taboo.
 
-Develop new social norms. 
- : We can tackle distraction among friends the same way we beat social smoking, by making it unacceptable to use devices in social situations. 
+Develop new social norms.
+ : We can tackle distraction among friends the same way we beat social smoking, by making it unacceptable to use devices in social situations.
    Prepare a few tactful phrases, such as asking ‘Is everything OK?’ to discourage phone usage among friends.
 
 #### Be an Indistractable Lover
 
-Distraction can be an impediment in our most intimate relationships. 
+Distraction can be an impediment in our most intimate relationships.
  : Instant digital connectivity can come at the expense of being fully present with those beside us.
 
-Indistractable partners reclaim time for togetherness. 
+Indistractable partners reclaim time for togetherness.
  : Following the four steps to becoming indistractable can ensure you make time for your partner.
 
 Now it’s your turn to become indistractable.
  : -
 
 ---
-#### Introduction: From Hooked to Indistractable, vii,
+
+#### Introduction: From Hooked to Indistractable, vii
+
 1. What's Your Superpower?, 1,
 2. Being Indistractable, 6,
 
-#### Part 1: Master Internal Triggers,
+#### Part 1: Master Internal Triggers
+
 3. What Motivates Us, Really?, 15,
 4. Time Management is Pain Management, 21,
 5. Deal with Distraction from Within, 26,
@@ -450,13 +451,15 @@ Now it’s your turn to become indistractable.
 7. Reimagine the Task, 34,
 8. Reimagine Your Temperament, 38,
 
-#### Part 2: Make Time for Traction,
+#### Part 2: Make Time for Traction
+
 9. Turn Your Values into Time, 45,
 10. Control the Inputs, Not the Outcomes, 51,
 11. Schedule Important Relationships, 55,
 12. Sync with Stakeholders at Work, 61,
 
-#### Part 3: Hack Back External Triggers,
+#### Part 3: Hack Back External Triggers
+
 13. Ask the Critical Question, 69,
 14. Hack Back Work Interruptions, 74,
 15. Hack Back Email, 79,
@@ -467,25 +470,29 @@ Now it’s your turn to become indistractable.
 20. Hack Back Online Articles, 106,
 21. Hack Back Feeds, 111,
 
-#### Part 4: Prevent Distraction with Pacts,
+#### Part 4: Prevent Distraction with Pacts
+
 22. The Power of Precommitments, 119,
 23. Prevent Distraction with Effort Pacts, 123,
 24. Prevent Distraction with Price Pacts, 127,
 25. Prevent Distraction with Identity Pacts, 133,
 
-#### Part 5: How to Make Your Workplace Indistractable,
+#### Part 5: How to Make Your Workplace Indistractable
+
 26. Distraction is a Sign of Dysfunction, 141,
 27. Fixing Distraction is a Test of Company Culture, 146,
 28. The Indistractable Workplace, 152,
 
-#### Part 6: How to Raise Indistractable Children (And Why We All Need Psychological Nutrients),
+#### Part 6: How to Raise Indistractable Children (And Why We All Need Psychological Nutrients)
+
 29. Avoid Convenient Excuses, 159,
 30. Understand Their Internal Triggers, 164,
 31. Make Time for Traction Together, 171,
 32. Help Them with External Triggers, 176,
 33. Teach Them to Make Their Own Pacts, 180,
 
-#### Part 7: How to Have Indistractable Relationships,
+#### Part 7: How to Have Indistractable Relationships
+
 34. Spread Social Antibodies Among Friends, 187,
 35. Be an Indistractable Lover, 191,
 
