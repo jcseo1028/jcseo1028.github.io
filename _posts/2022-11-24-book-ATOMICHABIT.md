@@ -23,7 +23,7 @@ The corresponding laws to encourage or discourage behaviour are
 
 #### The Building Blocks of Habit
 
-```
+```text
 The purpose of setting goals is to win the game.
 The purpose of building systems is to continue playing game.
 ```
@@ -50,10 +50,11 @@ Habits work in a four step cycle.
 
 #### Recognizing the Power of Habits
 
-```
+```text
 By adding a "point and call" practice to daily behaviour, and creating a scorecard of positive, negative, and neutral habits,
 you can increase your awareness of those habits, which is the first step in effecting change. 
 ```
+
 결국엔 Daily Report(score card) + 자기암시 인듯.
 
 #### Getting Started
@@ -120,9 +121,9 @@ you can increase your awareness of those habits, which is the first step in effe
 
 #### I Want it Now
 
- - People prefer immediate rewards to delayed rewards.
- - Delayed punishment are difficult to weigh and evaluate.
- - Give yourself small but relevant treats.
+- People prefer immediate rewards to delayed rewards.
+- Delayed punishment are difficult to weigh and evaluate.
+- Give yourself small but relevant treats.
 
 Laws so far(지금까지의 법칙)
  : 1. Make it obvious
@@ -185,12 +186,13 @@ About the Author
 Power Principles
 Super Summary
 Super Summary  
+
 1. The Building Blocks of Habit
 Chapter 2. Your Habits Determine Who You Are
 Chapter 3. Four Steps to Better Habits
-Chapter 4. Recognizing the Power of Habits 
-2. Getting Started 
-3. Motivation Versus Environment 
+Chapter 4. Recognizing the Power of Habits
+2. Getting Started
+3. Motivation Versus Environment
 4. Self Control is Overrated
 5. Make a Habit Attractive
 6. Cultural Influences
@@ -213,13 +215,14 @@ Afterword
 20. Self Control is Overrated
 21. Make a Habit Attractive
 22. Cultural Influences
-23. Making a Bad Habit Undesirable24. Forward Motion
+23. Making a Bad Habit Undesirable
+24. Forward Motion
 25. Take the Easy way
 26. Use the Two Minute Rule
 27. Take Drastic Action
-28. I want It Now29. Keeping on Track
+28. I want It Now
+29. Keeping on Track
 30. Be Accountable
 31. Genetics Versus Hard Work
 32. Just Right
 33. Be Careful of Complacency
-
