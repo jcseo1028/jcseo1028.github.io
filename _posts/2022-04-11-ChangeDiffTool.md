@@ -55,8 +55,10 @@ Visual Studio 2017 및 2022 버전이 동시에 적용된다.
 
 ---
 
+```html
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7159086721305762"
      crossorigin="anonymous"></script>
+```
 
 이렇게 넣으면 애드센스 작동되나? -> 1차 실패해서 다시 받아야 할 거 같음.
 

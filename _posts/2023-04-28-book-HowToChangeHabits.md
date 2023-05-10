@@ -376,6 +376,43 @@ Possibly for a long time.
 sabotage
  : 방해, 파괴
 
+Happiness is something we can all choose to feel more of.
+(행복은 우리가 모두 선택할 수 있는 무언가이다 / 좀 더 느끼기 위해)
+
+**Unfortunately, a lot of people have this bad habit of self-sabotaging and limiting themselves when things feel like they’re getting “too hard” because they are afraid.**
+(불행히도, 많은 사람들이 이 자신을 해치고 그들 자신을 제한하는 나쁜 습관을 가지고 있다 / 그것들이 그들이 조금더 하라고 느겨질때 / 그들이 두렵기 때문에.)
+
+It’s human nature to fear what we don’t know and what’s unfamiliar
+(이것은 인간의 자연적인 본성이다 / 우리가 모르고 친숙하지 않은 것을 두려워하는)
+
+The fear of the unknown can be a very powerful thing.
+(무지의 두려움은 매우 강한 것이 될 수 있다.)
+
+It kills the ability to create that positive psychology you need for success because the fear of failure is going to stop you from even trying.
+(그것은 창조할 능력을 죽인다 / 양적 정신이 / 당신이 성공을 위해 필요로 하는 / 실패의 두려움이 시도하려고 하는거조차 막으려 하기 때문에)
+
+#### What Is Self-Sabotage?
+
+**When you hurt yourself or hold yourself back from reaching your full potential, that is self-sabotage.**
+(당신이 자신을 해치거나 당신의 완전한 잠재력에 도달하는 것을 뒤로 잡아당길 때, 이를 self-sabotage 라 한다.)
+
+We’re all guilty of self-sabotage, and sometimes we do it without even realizing it.
+( 우리는 모두 self-sabotage의 죄를 가지고 있고, 때때로 그것을 인지도 못한 채 행하곤 한다.)
+guilty
+ : 유죄의
+
+Other times, you might realize that you’re doing it but still do it anyway.
+(다른 때에, 당신은 느낄수 있다 / 당신이 그것을 하고 있지만 여전히 어쨌는 그것을 하는)
+
+For example, you know that you’re emotionally eating and it’s not good for you, yet you still do it anyway because the craving is there and you don’t know how to distract yourself or squash it.
+(예를 들어, 당신은 안다 / 당신이 감성적으로 먹고 있다 / 그리고 당신을 위해 좋지 않다, 그러나 당신은 어쨌는 그것을 여전이 한다 / 왜냐하면 그 갈망이 거기에 있고, 당신은 모른다 / 당신 자신을 방해하거나 squash 하는 지를 )
+craving
+ : 갈망, 열망
+   갈망하는
+
+squash
+ : 짓누르다, 밀어넣다.
+
 ---
 
 [목차]
