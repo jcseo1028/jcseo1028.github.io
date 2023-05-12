@@ -413,6 +413,84 @@ craving
 squash
  : 짓누르다, 밀어넣다.
 
+Why do we still do it?
+(왜 우리는 여전히 그렇게 할까요?)
+
+Why do we continue to self-sabotage when we know it’s only bringing about negative consequences in our lives?
+(왜 우리는 자기 방해를 계속할까요? / 우리가 그것이 ~을 가져오는 것을 알때 / 부정적인 영향을 / 우리의 삶에서)
+consequence
+ : 결과, 영향
+
+Well, one of the reasons we continue to do this is comfort.
+(네, 우리가 이것을 계속하는 이유들 중 하나는 편한하기 때문이다.)
+
+Humans love comfort.
+(인간은 안락함을 사랑한다.)
+
+We love to do what we’re comfortable with, and this is why we find it so hard to venture outside our comfort zone.
+(우리는 ~하는 것을 좋아한다 / 우리를 편한하게 하는 것, 그리고 이것은 ~한 이유 때문이다 / 우리가 그것이 어려운 것을 아는 / 안락한 영역 밖으로 나가서 모험하는 것이 )
+
+We love familiarity and we’re resistant to change because it makes it uncomfortable.
+(우리는 친숙함을 사랑하고 우리는 바꾸는데 저항이 있다 / 그것이 불한하게 만들기 때문에 )
+familiarity
+ : 친밀함
+
+We don’t like it when something is too risky or uncertain.
+(우리는 그것을 좋아하지 않는다. / 무언가 너무 위험하거나 불확실할 때)
+
+If given the choice, we would all prefer to stay in our comfort zones, and self-sabotage is what happens when you’re approaching the edge of that comfort zone or when you’ve passed that comfort zone line.
+(선택이 주어지면, 우리는 모두 안락존에 머무는 것을 좋아할 것이다, 그리고 자기 방해는 일어나는 것이다 / 당신이 안락존의 끝에 다가갔을 때 / 또는 안락존의 경계를 지나갈때)
+
+There’s a mental or subconscious part of you that tells you to backtrack or give up when something becomes too hard.
+( 정신적이거나 당신 잠재의식의 부분이다 / 당신을 뒤로가게 하거나 포기하게 만드는 / 무언가 어려움이 왔을 때)
+subconscious
+ : 잠재의식의
+
+**Your mind starts to convince you that the struggle is not worth it and you start doing things that don’t allow you to overcome the challenges you face. Self-sabotage.**
+(당신의 마음이 당신을 납득시키리 시작한다 / 그 싸움이 가치가 없고 그것을 하기 시작한다 / 당신이 극복하는 것을 허락하지 않는다 / 당신이 마주한 도전을. 자기방해)
+convince
+ : 확신시키다, 설득하다, 납득시키다.
+
+struggle
+ : 노력
+   분투하다.
+
+Not only is self-sabotage about your comfort zone, it always has a lot to do with your confidence and the way you perceive yourself and your self-worth.
+(  자기방해는 안락존에 관해서뿐만 아니라 , 그것은 항상 당신의 신뢰와 함께 많은 것을 한다/ 그리고 당신이 자신과 자기 가치를 인식하는 방법을)
+
+You won’t allow yourself to feel happy if you believe that you don’t deserve it, which is a form of self-sabotage too.
+(당신은 행복하게 느끼는 것을 허락하지 않는다 / 만약 당신이 ~을 믿는다면 / 당신이 그것을 갈망하지 않는 것 , 자기방해 형태의 것 역시)
+
+The same thing goes for success and reaching goals.
+(같은 것이 성공과 목표를 이루기 위해 진행한다.)
+
+You might believe that you have a desire to succeed in a certain path, but subconsciously in the back of your mind, you don’t believe that you have what it takes to make it happen.
+(당신은 ~을 믿는다 / 당신이 특정한 경로에서 성공하려는 갈망이 있는 것, 그러나 잠재적으로 당신 마음의 뒤에서, 당신은 ~을 믿지 않는다 / 당신이 ~을 가지는것 / 그것이 그것을 발생하게 하는 것)
+
+**Successful people do not doubt themselves.**
+(성공적인 사람들은 자신들에게 의심이 없다.)
+
+This belief is how they made it all the way to the top.
+(이러한 믿음은 그들이 모든것을 최상으로 만드는 방법이다.)
+
+However, if they questioned themselves and allowed doubt to creep in (“I don’t know if I can do this…”), there is no way they would have made it as far as they did.
+(그러나, 만약에 그들이 그들자신들에게 물었다면, 그리고 서서히 다가오는 의심을 허락했다면(나는 모른다 / 이것을 할 수 있다면), ~할 방법이 없다. / 그들이 할수 있는 만큼 하는 것)
+creep
+ : 서행하다, 기다
+
+If you don’t believe you deserve it, you’re always going to self-sabotage, even when you think you’re not doing it.
+(만약 당신이 그것을 받을 자격이 있는 것을 믿지 못한다면, 당신은 항상 자기방해를 하려고 할것이다, 자기방해를 하지않으려 생각할 때조차)
+deserve
+ : ~을 받을 자격이 있다.
+
+It will come in the form of procrastination, excuses, going through an emotional roller coaster of ups and downs that make you feel like you want to give up, not fully committing to what you want to do, not focusing 100% or giving it your best effort.
+(그것은 ~의 형태로 올것이다 / 지연, excuse, 정신적인 롤러코스터 / 오르락 내리락 하는 / 당신을 ~하게 느끼게 하는 / 당신이 포기를 원하는 거 같이, 전적으로 당신이 원하는 것을 승인하지 않고, 100% 집중하지 못하거나, 최고의 노력을 주지 않는다.)
+
+There’s a lot of ways that self-sabotage could play out.
+(~하는 많은 방법들이 있다 / 자기방해가 나타날 수 있는)
+
+#### Overcoming Self-Sabotage for Good
+
 ---
 
 [목차]
