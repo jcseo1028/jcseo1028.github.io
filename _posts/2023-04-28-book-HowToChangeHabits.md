@@ -491,6 +491,87 @@ There’s a lot of ways that self-sabotage could play out.
 
 #### Overcoming Self-Sabotage for Good
 
+Most of the time, what is standing between you and your goal is a mental block.
+(대부분의 시간에, 당신과 당신의 목표 사이에 서 있는 것은 정신적인 장벽이다.)
+
+**Without the right habit-building techniques, it can be hard to cultivate that successful mindset that will keep you strong enough to weather any storm that comes your way.**
+(올바른 습관 쌓기 기술 없이, ~하는 것은 어려울 수 있다 / 성공적인 사고방식을 개발하는 것 / 당신을 강하게 유지시켜줄 사고방식 / ~한 날씨에 충분한 / 당신의 길에 마주하는 폭풍이 치는 날씨)
+
+Now that you know what self-sabotage is, the next question is, what can you do to stop it?
+(이제 자기 방해가 무엇인지 아는 당신의, 다음 질문은, 무엇이 그것을 멈출 수 있게 하는 가이다?)
+
+What can you do to release the mental blocks that are holding you back and how do you stop being your own worst enemy as you try to pursue your goals?
+(정신적 장벽을 해제하기 위해 무엇을 할 수 있나? / 당신을 뒤로 잡아당기고 있는 정신 장벽 / 어떻게 가장 나쁜 적을 멈출 수 있나? / 당신이 시도함으로써 / 당신의 목표를 추구함으로써)
+pursue
+ : 추구하다, 추진하다
+
+By following these new habit-building steps to build that positive psychology you need to stay on track:
+(다음의 새로운 습관쌓기 단계를 따름으로써 / 양성적인 정신을 개발하기 위해 / 당신이 트랙에 유지하는데 필요한 정신:)
+
+**Recognize That It’s Happening**
+(그것이 일어나고 있음을 인식하라)
+
+Identify the ways that you’ve self-sabotaged in the past.
+( 그 방법들을 확인하라 / 당신이 과거에 자기방해했었던 )
+Identify
+ : 확인하다, 밝히다, 알아보다, 식별하다
+
+Identify when you’re feeling resistant when you’ve pushed a little outside your comfort zone.
+( 당신이 저항을 느끼는 시간을 확인하라 / 당신이 조금 밀었을 때 / 당신의 안락좀 밖으로)
+
+What lies outside your comfort zone may feel weird, but you need to remember that with challenge comes change.
+(당신의 안락존 밖에 무엇이 놓여있고, weird 를 느끼는지, 그러나 당신은 ~을 기억할 필요가 있다 / 변화를 할 도전과 함께)
+weird
+ : 이상한, 기묘한, 수상한, 섬뜩한
+
+Positive change cannot take place if you choose to stay where you are and never move.
+(긍정적인 변화는 take place 할 수 없다 / 만약 당신이 머무는 것을 선택한다면 / 당신이 있는 곳에 있고 움직이지 않는 것)
+take place
+ : 열리다, 일어나다
+
+As uncomfortable as change might be, it’s important to consistently remind yourself that change can be a good thing if you let it.
+(불편한 변화는 ~이 될지도 모른다, ~하는 것은 중요하다 / 지속적으로 당신자신에게 ~을 리마인드 하는 것 / 변화는 좋은 것이 될 수 있다 / 당신이 그것을 유지한다면)
+
+Pushing beyond your comfort zone is like a muscle you work during exercise.
+(당신의 안락존 밖으로 미는 것은 근육과 같다 / 당신이 운동하는 동안에 일하는)
+
+It’s hard at first, but the more you do it, the easier it starts to become.
+(처음엔 어렵다, 그러나 조금더 당신이 그것을 하면, 점점 되기 쉬워질 것이다.)
+
+**Work on Your Self-Worth**
+(자신의 가치를 위해 일하라)
+
+Part of your new positive psychology needs to be a new belief.
+(새로운 긍정적인 정신의 부분은 새로운 믿음을 필요로 한다.)
+
+A belief that you deserve all that you desire.
+(당신이 받을만한 믿음은 당신이 갈망하는 모든 것이다.)
+
+Believe that you have what it takes to make your dreams come true.
+(당신이 가지고 있는 것을 믿어라 / 그것이 당신의 꿈을 실현시켜줄 것이라는 것을)
+
+Building on and improving your self-worth is going to be a part of your self-improvement journey.
+(당신의 가치를 개발하고 개선하는 것은 ~의 일부분이 되어야 한다 / 당신의 자기개발 여행의 일부분)
+
+Without the confidence and belief in your own self-worth, you will always find it a challenge to value yourself, love yourself, or even name any positive traits that you may have.
+(당신 자신의 가치에 대한 신뢰와 믿음이 없이, 당신은 항상 자신을 value 하는 도전을 찾을 것이다, 자신을 사랑하고, 당신이 가진 긍정적인 특징들..)
+value
+ : ~을 높이 평가하다.
+
+Low self-esteem and low self-worth can be one of the biggest hindrances in your life and the most debilitating reason that will be holding you back from achieving everything that you want if you do not do something about it.
+(낮은 존중감과 낮은 가치는 가장 큰 장애가 될 수 있다/ 당신의 삶에서 / 그리고 가장 약화시키는 이유 / 당신을 뒤로 잡아당기는 / 모든것을 성취하는 것으로부터 / 당신이 원하는 모든 것 / 만약 당신이 그것에 관해 아무것도 하지 않는다면)
+esteem
+ : 존중, 존경
+
+hindrance
+ : 장애, 방해
+
+debilitate
+ : 약화시키다
+
+**You need to believe that you’re worthy; otherwise, no matter how hard you work, you’re always going to find some obstacle or other blocking you.**
+(당신은 자신이 가치가 있다고 믿을 필요가 있다; 그렇지 않으면 당신이 아무리 열심히 일한다 한들 , 당신은 항상 어떤 장해물이나 당신을 막는 것을을 찾으려고 할 것이다.)
+
 ---
 
 [목차]
