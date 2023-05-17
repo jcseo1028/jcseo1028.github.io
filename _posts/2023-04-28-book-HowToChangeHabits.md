@@ -572,6 +572,154 @@ debilitate
 **You need to believe that you’re worthy; otherwise, no matter how hard you work, you’re always going to find some obstacle or other blocking you.**
 (당신은 자신이 가치가 있다고 믿을 필요가 있다; 그렇지 않으면 당신이 아무리 열심히 일한다 한들 , 당신은 항상 어떤 장해물이나 당신을 막는 것을을 찾으려고 할 것이다.)
 
+**Avoid Negative Self-Talk**
+(부정적인 혼자말을 피하라.)
+
+Avoid anything remotely negative in general.
+(부정적인 것들은 어떤 것이든 피하라.)
+remotely
+ : 멀리서, 떨어져서, 간접적으로
+
+Negativity is like an undesirable anchor that is designed to do nothing but weigh you down.
+(부정성은 원하지 않은 닻과 같다 / 아무것도 하지 않게 설계된 닻 / 당신을 가라않히는 것 외에)
+negativity
+ : 소극성, 음성, 부정성
+
+undesirable
+ : 바람직하지 않은, 원하지 않는
+
+Do not give into it, and whenever you catch yourself in a negative thought, stop immediately because you are only going to make yourself feel worse.
+(그 안으로 주지 마라, 그리고 당신이 부정적 생각에 사로잡히면, 즉시 멈춰라 / 왜냐하면 당신은 자신을 나쁘게 만들 것이기 때문에)
+
+Make an active effort to turn your thoughts around into something positive, this is going to require some practice but it can be done.
+(활동적인 노력을 해라/  당신의 생각을 무언가 긍정적인 것으로 바꾸는 / 이것은 약간의 노력을 필요로 한다 / 그것을 할 수 없다?)
+
+Positive affirmations are one way of overcoming this negative self-talk hurdle.
+(긍정적인 확언은 한가지 방법이다 / 이 부정적인 혼잣말 장애물을 극복하는 방법)
+affirmation
+ : 확언, 단언, 긍정
+
+**Affirmations can do remarkable feats when it comes to shifting a person’s perception and mindset.**
+(확언은 주목할 만한 기술이다 / 사람의 인식과 사고방식을 변화시킬 때)
+feat
+ : 위업, 공적, 기술
+
+remarkable
+ : 주목할 만한, 놀라운
+
+The most successful, prominent individuals in this world are constantly talking about how positive affirmations can do wonders to change your life.
+(이 세상에서 가장 성공적이고 유명한 사람들은 ~에 관에 계속 이야기 한다 / 긍정적 확언이 기적을 할 수 있다는 것에 대해 / 당신의 삶을 변화시키는 것에)
+prominent
+ : 유명한, 두드러진
+
+Take motivational speakers, for example.
+(동기부여 연설가들을 예로 들어라)
+
+Kick negative self-talk to the curb and instead, work on building something powerful, like your successful mindset.
+(
+curb
+ : 억제하다, 막다
+
+To change that habit, you need to begin emulating what the successful people do, and affirmations are a good place to start.
+(
+emulate
+ : 모방하다
+
+**Learning to Manage Your Fears**
+(두려움을 관리하는 방법을 배우기)
+
+Feel the fear, but learn to push through it.
+(
+
+Be afraid, but do it anyway.
+(
+
+Procrastination is a form of fear.
+(
+
+You procrastinate because you’re afraid of failure.
+(
+
+That’s why you start self-sabotaging in the form of procrastination and resistance.
+(
+
+With each difficult decision that you make to face your fears, you’re becoming a stronger version of yourself, even if you don’t realize it just yet.
+(
+
+You need to learn to manage your fears, be aware of them, understand why you have them, and then learn to take action anyway.
+(
+
+Reduce the procrastination and just take action.
+(
+
+**Resist Temptation**
+(유혹을 저항하라)
+temtation
+ : 유혹
+
+Temptation is nothing more than a distraction, another form of procrastination.
+(
+
+Resisting temptation is going to take a lot of willpower to do, and if you don’t have the discipline to back it up, you will always find yourself experiencing setbacks instead of moving forward.
+(
+discipline
+ : 규율, 기강, 징계
+
+setback
+ : 좌절, 실패, 역행
+
+It may be hard, but you need to find ways to actively avoid and resist temptation, never allowing yourself to be drawn into the desire to procrastinate.
+(
+
+Think longterm and about the big picture, and remember that immediate gratification will serve no purpose.
+(
+gratification
+ : 만족, 희열
+
+Imagine a scenario with two people, Anne and Sally.
+
+Anne may give in to the temptation to binge-watch an entire season on Netflix during the weekend while Sally, will resist the urge and choose to do something more productive instead.
+(
+urge
+ : 촉구하다, 해야 한다
+
+This doesn’t mean that Sally doesn’t have the same temptations.
+(
+
+It just means that she actively choose to do something more productive instead, and that’s how she avoided indirect self-sabotage.
+(
+
+**Keep Pushing Forward**
+(계속 앞으로 나아가라)
+
+To keep moving forward and never give up is one of the best things you can do in this case.
+(
+
+The most persistent people are the ones more likely to achieve success because they have the discipline and the drive to never give up and always keep moving forward.
+(
+
+This is because they are engaged in habits that work for them, and they have diligently trained themselves to have the discipline to stick to these habits.
+(
+engage
+ : 관여하다, 종사하다
+
+With successful people, giving up is not even an option and working hard is something that is second nature to them, and they don’t even question it anymore; they just get right down to work.
+(
+
+Instead of focusing on how hard the challenge is, they focus on putting one foot in front of the other and to keep moving forward.
+(
+
+The self-sabotaging thought will come creeping into your mind, enticing you to give up each time you struggle, but you need to train your mind to be stronger than that you have.
+(
+
+Push back against it by doing the hard thing and keep pushing forward.
+(
+
+No matter what you feel like or what your mind is telling you to do, keep pushing forward.
+(
+
+#### Chapter 3: Step 3 – Create and Set SMART Goals
+
 ---
 
 [목차]
