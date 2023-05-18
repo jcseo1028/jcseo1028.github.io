@@ -720,6 +720,105 @@ No matter what you feel like or what your mind is telling you to do, keep pushin
 
 #### Chapter 3: Step 3 – Create and Set SMART Goals
 
+Whether it’s personal or professional, struggling to achieve your goals is something we can all relate to.
+(그것이 개인적이든 전문가적이든간에, 당신의 목표를 수행하기위해 노력하는 것은 모두 연관되어 있을 수 있다.)
+
+Most of the time, our struggle is not from a lack of desire or effort (maybe), but from the way the goal is structured.
+(대부분 우리의 노력은 갈망이나 노력의 부족으로부터 오지 않는다, 그렇지만 목표가 수립된 방향에서 온다.)
+
+Yes, the way that you structure your goals makes a difference.
+(그래서 당신이 목표를 수립하는 방법은 차이를 만든다.)
+
+If you find yourself struggling to see your goals all the way through, it might be time to start looking at it from a SMART perspective.
+( 만약 당신이 목표를 보기 위해 분투할 것을 찾는다면,  그것은 시간일 수 있다 / SMART 한 관점으로부터 그것을 보기 시작하는 시간)
+
+#### What Are SMART Goals?
+
+SMART is an acronym that is going to add structure and help you evaluate the way you set your goals.
+( SMART 는 머릿글자이다 / 당신이 목표를 설정하는 방법을 구조화하하고, 평가하는데 도움을 주는)
+
+acronym
+ : 머릿글자, 두문자어 약어
+
+**S**pecific
+**M**easurable
+**A**chievable
+**R**elevant
+**T**imebound
+
+relevant
+ : 관련 있는, 적절한
+
+The SMART framework is what you would rely on when you’re deciding on your goals.
+( SMART 프레임워크는 당신이 의존하는 무언가 이다 / 당신이 목표를 정하려고 할때)
+
+framework
+ : 체제, 구조, 프레임워크
+
+rely
+ : 의존하다.
+
+Using SMART goals is a great way to get you motivated to start planning all the steps which you need to take to turn it from merely a goal into a reality.
+(SMART 목표를 사용하는 것은 위대한 방법이다 / 당신을 동기부여하는 / 모든 단계의 계획을 수립하기 위해 / 당신은 단지 당신의 목표를 실재로 전화하는 단계)
+
+Let’s say that the goal of your business was to achieve a 50% growth in revenue in your business which stems from orders placed through your website.
+(예를 들자 / 당신 사업의 목표가 수입이 50% 성장하는 것이다 / 당신의 사업에서 / 당신의 웹사이트를 통해 발생한 주문으로 생긴 사업)
+
+revenue
+ : 매출, 수익, 수입
+
+stem
+ : 기인하다, 비롯되다, 생기다
+   줄기
+
+Now, let’s apply the SMART framework to that goal.
+(이제 이를 SMART 프레임워크에 적용해보자)
+
+**The goal is to increase online revenue by 50% (specific), achieve a 50% growth stemming from your website (measurable), to do this by implementing ads which are more dynamic and driven (achievable), making dynamic ad content part of your overall marketing strategy (relevant), and to get this done by the end of your fourth quarter (time-sensitive).**
+(목표는 온라인 수익을 50% 증가시키는 것이다[specific], 50% 성장을 달성한다/웹사이트로부터[measurable], 이것을 하기 위해 / 광고를 구현함으로써 / 좀더 다이다믹하고 driven 되는 광고[achievable], 다이나믹한 광고 컨텐츠를 만든다 / 마케팅 전략을 통해 [relevant], 이것은 4분기 끝가지 완료한다 [ time-sensitive])
+
+The step-by-step detail involved is how you track and measure your success every step of the way.
+(단계별 상세한 디테일이 포함된 것은 당신이 추적하고 측정하는 방법이다 )
+
+With each goal that you set, ask yourself if it falls within the SMART quadrant?
+(당신이 설정한 각각의 목표에 대해, 자신에게 물어보라 / 그 목표가 SMART 사분원 안에 떨어지는지)
+quadrant
+ : 사분원, 사분면, 상한의
+
+Is your goal specific enough?
+(충분히 구체적인가?)
+
+Is it attainable according to the timeline which you set?
+(당신이 설정한 계획에 따라 달성이 가능한가?)
+attainable
+ : 달성할 수 있는
+
+Is it relevant to your overall result?
+( 전체 결과에 적절한가?)
+
+Is it timebound?
+(마감 시한이 있는가?)
+
+Can it be measured?
+(측정이 가능한가?)
+
+Think of the SMART framework as the foundation on which all your goals are going to be built.
+(SMART 프레임워크를 기초로 생각하라 / 모든 당신의 목표가 수립되어지는 기초)
+
+It’s like a house, in a way. Without a firm foundation, a house will not stand for long.
+(그것은 집과 같다. 확고한 기초 없이, 집은 오랫동안 서 있지 못할 것이다.)
+
+It’ll serve its purpose for a while, but eventually, it starts to fall apart because the foundation is no longer strong enough to support it.
+(그것은 ~하는 동한 목적을 제공한다, 그러나 결국, 그것은 부분으로 떨어지기 시작한다 / 왜냐하면 기초가 더이상 그것을 지지할 만큼 충분히 튼튼하지 않기 때문에)
+
+A goal needs to be SMART because it helps you set each goal is clearly and definitively as possible.
+(목표는 SMART 하는게 필요하다 / 왜냐하면 그것은 당신이 설정한 각각의 목표를 명확하고 확고하게 하는데 도움을 준다.)
+
+It provides you with a concrete way of measuring your success, showing you if you’re progressing forward or not progressing at all.
+(그것은 당신이 성공에 집중하는 방법을 제공한다, 당신이 앞으로 진행하고 있는지 전혀 진행하지 못하고 있는지 보여주기 때문에)
+
+#### How to Set SMART Goals That Work
+
 ---
 
 [목차]
