@@ -19,11 +19,13 @@ Stanford Professor and author, Carol Dweck, there are two types of mindsets that
 •The Growth Mindset
 •The Fixed Mindset
 (스텐포드 교수이자 작가인 Carol Dweck은, 2가지 유형의 마인드셋이 있다 / 우리가 처리할 수 있는: 성장형 마인드셋 vs. 공정된 마인드셋)
+
 be capable of ~
  : ~ 할 수 있다.
 
 **Fixed Mindset individuals believe that their personal traits cannot be changed and, therefore, make very little to no progress at all in their lives.**
 (고정된 마이드셋인 사람들은 믿는다 / 그들의 개인적 trait 들이 변할 수 없고, 그래서 매우 적게 진행된다./ 그들의 모든 삶에서)
+
 trait
  : 특징, 특성
 
@@ -50,11 +52,13 @@ They know that the effort they put in has a part to play in the successes they a
 
 They believe that their basic abilities can be strengthened and developed through hard work and dedication.
 (그들은 ~을 믿는다/그들이 기본 능력이 강해질 수 있고 개발될 수 있다는 것을 / 어려운 일과 헌신을 통해서)
+
 dedication
  : 헌신, 노력
 
 This notion forms the core of their belief system.
 (이러한 notion 은 그들의 신뢰시스템의 핵실을 형성한다.)
+
 notion
  : 개념, 생각
 
@@ -63,11 +67,13 @@ To the Growth Mindset group, talent and brains are only the beginning.
 
 Individuals with this mindset are the ones who go on to achieve monumental success in their lives.
 (이 사고방식을 가진 사람들은 ~한 사람들이다 / 그들의 삶에서 엄청난 성공을 성취하기 위해 나아가는)
+
 monumental
  : 기념비적인, 엄청난
 
 The ones that we look up to and aspire to be, the ones who are successes in the industries that they command.
 ( 그들이 찾고 되기위해 열망하는 사람들은, 그 사람 / 성공한 사람들이다 / 그들이 지휘하는 산업에서)
+
 look up
  : 올려다보다, 존경하다
 
@@ -76,11 +82,13 @@ command
 
 More importantly, they are the ones who did not let procrastination stand in their way and hold them back.
 (좀 더 중요하게, 그들은 ~한 사람들이다 / procrastination 한 태도를 놓지 않는 / 그들의 길에, 그리고 후퇴하지 않는)
+
 procrastination
  : 지연, 미루기, 꾸물대는 버릇
 
 This is the one thing that sets them apart, and it was having the right mindset.
 (이것은 그 한가지 것이다 / 그들을 차별화하고, 그것이 올마른 사고방식을 가지는 것)
+
 apart
  : 산산이, 떨어져
 
@@ -103,6 +111,7 @@ It is something that starts right now.
 
 A mindset is essentially the beliefs that you have about yourself and what qualities you possess.
 (사고방식은 근본적으로 믿음이다 / 당신이 가지고 있는 것과 소유한 품질이 무엇인지)
+
 essentially
  : 근본적으로
 
@@ -123,6 +132,7 @@ You need to constantly challenge the way you look at your life to steer it in th
 
 You need to cultivate a Growth Mindset and strive to make personal development at the core of your focus.
 (당신은 성장형 사고방식을 개발할 필요가 있다 / 그리고 자기개발에 애써야 한다 / 당신 초점의 핵심에서)
+
 strive
  : 노력하다, 애쓰다
 
@@ -143,8 +153,9 @@ Should we accept a new job?
 
 Should we commit to a new relationship?
 (우리는 새로운 관계에 전념해야 할까?)
+
 commit
- : 저지르다, 약속하다, 전념하다)
+ : 저지르다, 약속하다, 전념하다
 
 Should we move?
 (움직여야 할까?)
@@ -160,6 +171,7 @@ The more challenges you’re faced with, the more opportunities you have to lear
 
 **To develop that Growth Mindset, push yourself, challenge yourself, and always strive to learn something new.**
 (성장형 사고방식을 배우기 위해, 당신 자신을 밀고, 당신 자신에게 도전하고, 항상 노력하라/ 무언가 새로운 것을 배우는데)
+
 strive
  : 노력하다, 애쓰다, 분투하다.
 
@@ -177,6 +189,7 @@ Learning is now going to come first over seeking approval from others.
 
 When you’re more concerned with seeking approval from others, you’re depriving yourself of the opportunity to develop to your fullest potential.
 (당신이 좀더 걱정할 때 / 다른 사람들로부터 승인을 얻으려고, 당신은 자신의 기회를 박탈하고 있다 / 당신의 가득찬 잠재력을 개발할 기회)
+
 deprive
  : 빼앗다, 박탈하다
 
@@ -212,6 +225,7 @@ Learning is not a process that can be rushed.
 
 **You must be willing to make mistakes and experience challenges, no matter how daunting they may seem.**
 (당신은 기꺼이 실수를 하고 도전을 경험해야만 합니다, 그들이 보기에 아무리 벅차게 보일지라도.)
+
 daunt
  : 기가죽다
    겁, 억제, 위축
@@ -260,6 +274,7 @@ Keep those lessons in mind for the future when you find yourself in a similar si
 
 **When you observe the mistakes of others, imagine that it was you in that situation.**
 (당신이 다른 사람들의 실수를 관찰할 때, 당신이 그 상황에 있다고 상상하라.)
+
 oberve
  : 관찰하다, 보다, 지키다
 
@@ -271,26 +286,31 @@ What would you do differently to change the outcome?
 
 **Cultivating Determination and Grit**
 ( 결정과 끈기를 개발하는 것 )
+
 determination
  : 결심, 결정, 편향
 
 Cultivate a strong passion and perseverance for your long-term goals.
 ( 강한 열정과 끈기를 개발하라 / 당신의 장기 목표를 위해 )
+
 perserverance
  : 인내, 끈기
 
 So much so that nothing will stand in your way or deter you from achieving them, no matter how many times you get knocked down.
 ( 그렇게 많이 아무것도 당신의 길에 서있지 않을 것이다, 당신이 그들을 수행하는 것으로 부터 단념하는 것은 없을 것이다., 문제가 되지않는다 / 당신이 얼마나 많이 쓰러졌는지는 )
+
 deter
  : 단념하다, 방해하다, 저지하다.
 
 One of the greatest strengths of an individual with a Growth Mindset is the ability to keep going, no matter how many times they are knocked down along the way.
 (성공적 사고방식을 가지고 있는 사람의 가장 강점 중 하나는 계속 진행하는 능력이다, 그들이 그들의 길에서 많이 쓰러졌더라도)
+
 no matter how
  : ~하더라도, 어떻든간에, 어떻게 하든
 
 **No matter how many times they have had to face adversity, they still stand up again and keep putting one foot in front of the other.**
 (그들이 많은 역경에 직면했더라도, 그들은 다시 일어설 것이고, 그 앞으로 발을 디딜 것이다.)
+
 adversity
  : 역경, 재난, 불운
 
@@ -299,6 +319,7 @@ adversity
 
 One habit-building necessity as you work toward that Growth Mindset is to cultivate a sense of purpose.
 ( 당신이 성장형 사고방식을 갖기 위해 필요한 한 가지 습관 쌓기는 목적 감감을 개발하는 것이다.)
+
 necessity
  : 필요성, 필수품
 
@@ -307,6 +328,7 @@ Look at the long-term goals and have a larger sense of purpose.
 
 **A Growth Mindset requires looking at the big picture and one question that you consistently need to ask yourself on a regular basis:**
 ( 성장형 사고방식은 큰 그림과 하나의 질문을 보는 것이 필요하다 / 당신이 지속적으로 당신 자신에게 물어야 할 / 기본적으로 )
+
 consistently
  : 시종일관하여
 
@@ -315,11 +337,13 @@ consistently
 
 **If the answer is no, then you need to reevaluate your priorities.**
 (답변이 없다면, 당신은 우선순위를 재평가하는 것이 필요하다.)
+
 reevaluate
  : 재평가하다, 다시 평가하다.
 
 **Every Milestone Comes with A NewGoal**
 ( 모든 이정표는 새로운 목표와 함께 온다. )
+
 milestone
  : 이정표, 기념비
 
@@ -328,6 +352,7 @@ For each milestone you achieve, take a moment to celebrate and then set a new go
 
 Success is a process that never stops, and Growth Mindset individuals are always setting new goals for themselves to stay motivated in both their personal and professional projects.
 (성공은 절대 멈추지 않는 과정이다, 그리고 성장형 사고방식을 가진 사람들은 항상 새로운 목표를 설정한다 / 그들의 동기부여되는 상태를 유지하기 위해 / ~와 함께 / 그들의 개인과 전문적인 프로젝트들)
+
 motivate
  : 동기부여, 의욕, 목적의식
   ~에 동기를 주다
@@ -340,12 +365,14 @@ Another way that you can improve.
 
 Another opportunity to tackle.  
 (다른 기회 / 착수해야 하는)
+
 tackle
  : 달라붙다, 착수하다
    태클, 낚시도구
 
 **Be Patient**
 ( 끈기가 있어야 한다.)
+
 patient
  : 참을성이 있는, 끈기있는
    환자, 인내심
@@ -398,6 +425,7 @@ It kills the ability to create that positive psychology you need for success bec
 
 We’re all guilty of self-sabotage, and sometimes we do it without even realizing it.
 ( 우리는 모두 self-sabotage의 죄를 가지고 있고, 때때로 그것을 인지도 못한 채 행하곤 한다.)
+
 guilty
  : 유죄의
 
@@ -406,6 +434,7 @@ Other times, you might realize that you’re doing it but still do it anyway.
 
 For example, you know that you’re emotionally eating and it’s not good for you, yet you still do it anyway because the craving is there and you don’t know how to distract yourself or squash it.
 (예를 들어, 당신은 안다 / 당신이 감성적으로 먹고 있다 / 그리고 당신을 위해 좋지 않다, 그러나 당신은 어쨌는 그것을 여전이 한다 / 왜냐하면 그 갈망이 거기에 있고, 당신은 모른다 / 당신 자신을 방해하거나 squash 하는 지를 )
+
 craving
  : 갈망, 열망
    갈망하는
@@ -418,6 +447,7 @@ Why do we still do it?
 
 Why do we continue to self-sabotage when we know it’s only bringing about negative consequences in our lives?
 (왜 우리는 자기 방해를 계속할까요? / 우리가 그것이 ~을 가져오는 것을 알때 / 부정적인 영향을 / 우리의 삶에서)
+
 consequence
  : 결과, 영향
 
@@ -432,6 +462,7 @@ We love to do what we’re comfortable with, and this is why we find it so hard 
 
 We love familiarity and we’re resistant to change because it makes it uncomfortable.
 (우리는 친숙함을 사랑하고 우리는 바꾸는데 저항이 있다 / 그것이 불한하게 만들기 때문에 )
+
 familiarity
  : 친밀함
 
@@ -443,11 +474,13 @@ If given the choice, we would all prefer to stay in our comfort zones, and self-
 
 There’s a mental or subconscious part of you that tells you to backtrack or give up when something becomes too hard.
 ( 정신적이거나 당신 잠재의식의 부분이다 / 당신을 뒤로가게 하거나 포기하게 만드는 / 무언가 어려움이 왔을 때)
+
 subconscious
  : 잠재의식의
 
 **Your mind starts to convince you that the struggle is not worth it and you start doing things that don’t allow you to overcome the challenges you face. Self-sabotage.**
 (당신의 마음이 당신을 납득시키리 시작한다 / 그 싸움이 가치가 없고 그것을 하기 시작한다 / 당신이 극복하는 것을 허락하지 않는다 / 당신이 마주한 도전을. 자기방해)
+
 convince
  : 확신시키다, 설득하다, 납득시키다.
 
@@ -475,11 +508,13 @@ This belief is how they made it all the way to the top.
 
 However, if they questioned themselves and allowed doubt to creep in (“I don’t know if I can do this…”), there is no way they would have made it as far as they did.
 (그러나, 만약에 그들이 그들자신들에게 물었다면, 그리고 서서히 다가오는 의심을 허락했다면(나는 모른다 / 이것을 할 수 있다면), ~할 방법이 없다. / 그들이 할수 있는 만큼 하는 것)
+
 creep
  : 서행하다, 기다
 
 If you don’t believe you deserve it, you’re always going to self-sabotage, even when you think you’re not doing it.
 (만약 당신이 그것을 받을 자격이 있는 것을 믿지 못한다면, 당신은 항상 자기방해를 하려고 할것이다, 자기방해를 하지않으려 생각할 때조차)
+
 deserve
  : ~을 받을 자격이 있다.
 
@@ -502,6 +537,7 @@ Now that you know what self-sabotage is, the next question is, what can you do t
 
 What can you do to release the mental blocks that are holding you back and how do you stop being your own worst enemy as you try to pursue your goals?
 (정신적 장벽을 해제하기 위해 무엇을 할 수 있나? / 당신을 뒤로 잡아당기고 있는 정신 장벽 / 어떻게 가장 나쁜 적을 멈출 수 있나? / 당신이 시도함으로써 / 당신의 목표를 추구함으로써)
+
 pursue
  : 추구하다, 추진하다
 
@@ -526,6 +562,7 @@ weird
 
 Positive change cannot take place if you choose to stay where you are and never move.
 (긍정적인 변화는 take place 할 수 없다 / 만약 당신이 머무는 것을 선택한다면 / 당신이 있는 곳에 있고 움직이지 않는 것)
+
 take place
  : 열리다, 일어나다
 
@@ -555,11 +592,13 @@ Building on and improving your self-worth is going to be a part of your self-imp
 
 Without the confidence and belief in your own self-worth, you will always find it a challenge to value yourself, love yourself, or even name any positive traits that you may have.
 (당신 자신의 가치에 대한 신뢰와 믿음이 없이, 당신은 항상 자신을 value 하는 도전을 찾을 것이다, 자신을 사랑하고, 당신이 가진 긍정적인 특징들..)
+
 value
  : ~을 높이 평가하다.
 
 Low self-esteem and low self-worth can be one of the biggest hindrances in your life and the most debilitating reason that will be holding you back from achieving everything that you want if you do not do something about it.
 (낮은 존중감과 낮은 가치는 가장 큰 장애가 될 수 있다/ 당신의 삶에서 / 그리고 가장 약화시키는 이유 / 당신을 뒤로 잡아당기는 / 모든것을 성취하는 것으로부터 / 당신이 원하는 모든 것 / 만약 당신이 그것에 관해 아무것도 하지 않는다면)
+
 esteem
  : 존중, 존경
 
@@ -577,11 +616,13 @@ debilitate
 
 Avoid anything remotely negative in general.
 (부정적인 것들은 어떤 것이든 피하라.)
+
 remotely
  : 멀리서, 떨어져서, 간접적으로
 
 Negativity is like an undesirable anchor that is designed to do nothing but weigh you down.
 (부정성은 원하지 않은 닻과 같다 / 아무것도 하지 않게 설계된 닻 / 당신을 가라않히는 것 외에)
+
 negativity
  : 소극성, 음성, 부정성
 
@@ -596,11 +637,13 @@ Make an active effort to turn your thoughts around into something positive, this
 
 Positive affirmations are one way of overcoming this negative self-talk hurdle.
 (긍정적인 확언은 한가지 방법이다 / 이 부정적인 혼잣말 장애물을 극복하는 방법)
+
 affirmation
  : 확언, 단언, 긍정
 
 **Affirmations can do remarkable feats when it comes to shifting a person’s perception and mindset.**
 (확언은 주목할 만한 기술이다 / 사람의 인식과 사고방식을 변화시킬 때)
+
 feat
  : 위업, 공적, 기술
 
@@ -609,6 +652,7 @@ remarkable
 
 The most successful, prominent individuals in this world are constantly talking about how positive affirmations can do wonders to change your life.
 (이 세상에서 가장 성공적이고 유명한 사람들은 ~에 관에 계속 이야기 한다 / 긍정적 확언이 기적을 할 수 있다는 것에 대해 / 당신의 삶을 변화시키는 것에)
+
 prominent
  : 유명한, 두드러진
 
@@ -616,12 +660,14 @@ Take motivational speakers, for example.
 (동기부여 연설가들을 예로 들어라)
 
 Kick negative self-talk to the curb and instead, work on building something powerful, like your successful mindset.
-(
+(부정적인 혼잣말을 억제하고 대신에, 무언가 강력한 것을 만들어라, 당신의 성공적인 사고방식처럼)
+
 curb
  : 억제하다, 막다
 
 To change that habit, you need to begin emulating what the successful people do, and affirmations are a good place to start.
-(
+(그 습관을 바꾸기 위해서, 당신은 시작해야 한다 / 성공한 사람들이 하는 것을 모방하는 것을 / 그리고 확언은 시작하기 좋은 장소이다)
+
 emulate
  : 모방하다
 
@@ -629,39 +675,41 @@ emulate
 (두려움을 관리하는 방법을 배우기)
 
 Feel the fear, but learn to push through it.
-(
+(두려움을 느껴라, 그러나 그것을 통과하는 방법을 배워라)
 
 Be afraid, but do it anyway.
-(
+( 두려워라, 그러나 그래도 해라)
 
 Procrastination is a form of fear.
-(
+(유보는 두려움의 형태이다)
 
 You procrastinate because you’re afraid of failure.
-(
+(당신은 유보한다 / 당신이 실패를 두려워하기 때문에)
 
 That’s why you start self-sabotaging in the form of procrastination and resistance.
-(
+(그것이 당신이 유보와 저항의 형태로 자기파괴를 시작하는 이유이다)
 
 With each difficult decision that you make to face your fears, you’re becoming a stronger version of yourself, even if you don’t realize it just yet.
-(
+(당신이 당신의 두려움에 직면하기 위해 어려운 결정을 할 때마다 / 당신은 당신의 강한 버전이 되고 있다 / 심지어 당신이 아직 그것을 깨닫지 못하더라도)
 
 You need to learn to manage your fears, be aware of them, understand why you have them, and then learn to take action anyway.
-(
+(당신은 당신의 두려움을 관리하는 방법을 배워야 한다 / 그것들을 인식하고, 그것들이 왜 있는지 이해하고, 그리고 그래도 행동하는 방법을 배워야 한다)
 
 Reduce the procrastination and just take action.
-(
+(유보를 줄이고 그냥 행동하라)
 
 **Resist Temptation**
 (유혹을 저항하라)
+
 temtation
  : 유혹
 
 Temptation is nothing more than a distraction, another form of procrastination.
-(
+(유혹은 단지 방해물에 불과하다 / 또 다른 유보의 형태)
 
 Resisting temptation is going to take a lot of willpower to do, and if you don’t have the discipline to back it up, you will always find yourself experiencing setbacks instead of moving forward.
-(
+(유혹을 저항하는 것은 많은 의지력이 필요할 것이다 / 그리고 당신이 그것을 뒷받침할 기강이 없다면 / 당신은 항상 자신을 경험할 것이다 / 좌절 대신에 앞으로 나아가는 대신에)
+
 discipline
  : 규율, 기강, 징계
 
@@ -669,54 +717,58 @@ setback
  : 좌절, 실패, 역행
 
 It may be hard, but you need to find ways to actively avoid and resist temptation, never allowing yourself to be drawn into the desire to procrastinate.
-(
+(그것은 어려울 수 있지만 / 당신은 방법을 찾아야 한다 / 유혹을 능동적으로 피하고 저항하는 방법을 / 당신 자신을 끌어당기는 것을 허용하지 않고 / 유보의 욕망에 빠지게)
 
 Think longterm and about the big picture, and remember that immediate gratification will serve no purpose.
-(
+(장기적으로 생각하고 큰 그림을 생각하라 / 그리고 즉각적인 만족은 어떤 목적에도 봉착하지 않는다는 것을 기억하라)
+
 gratification
  : 만족, 희열
 
 Imagine a scenario with two people, Anne and Sally.
+(두 사람, Anne과 Sally가 있는 상황을 상상해라)
 
 Anne may give in to the temptation to binge-watch an entire season on Netflix during the weekend while Sally, will resist the urge and choose to do something more productive instead.
-(
+(Anne은 유혹에 굴복할 수도 있다 / Netflix에서 주말 동안 전체 시즌을 시청하는 것에 / 그러나 Sally는 저항할 것이다 / 그리고 대신에 무언가 더 생산적인 것을 선택할 것이다)
+
 urge
  : 촉구하다, 해야 한다
 
 This doesn’t mean that Sally doesn’t have the same temptations.
-(
+(이것은 Sally가 같은 유혹을 가지고 있지 않다는 것을 의미하지 않는다)
 
 It just means that she actively choose to do something more productive instead, and that’s how she avoided indirect self-sabotage.
-(
+(그것은 그녀가 더 생산적인 것을 선택했다는 것을 의미한다 / 그리고 그것이 그녀가 간접적인 자기파괴를 피하는 방법이다)
 
 **Keep Pushing Forward**
 (계속 앞으로 나아가라)
 
 To keep moving forward and never give up is one of the best things you can do in this case.
-(
+(앞으로 나아가고 결코 포기하지 않는 것은 / 당신이 이 경우에 할 수 있는 가장 좋은 일 중 하나이다)
 
 The most persistent people are the ones more likely to achieve success because they have the discipline and the drive to never give up and always keep moving forward.
-(
+(가장 끈기있는 사람들은 가장 성공할 가능성이 높다 / 왜냐하면 그들은 기강과 열정을 가지고 있기 때문이다 / 결코 포기하지 않고 항상 앞으로 나아가는)
 
 This is because they are engaged in habits that work for them, and they have diligently trained themselves to have the discipline to stick to these habits.
-(
+(이것은 그들이 그들을 위해 작동하는 습관에 종사하고 있기 때문이다 / 그리고 그들은 열심히 자신을 훈련시켰다 / 그들은 그 습관에 고수하는 기강을 가지고)
+
 engage
  : 관여하다, 종사하다
 
 With successful people, giving up is not even an option and working hard is something that is second nature to them, and they don’t even question it anymore; they just get right down to work.
-(
+(성공한 사람들과 함께 / 포기는 선택의 여지도 없고 / 열심히 일하는 것은 그들에게 자연스러운 것이다 / 그리고 그들은 더 이상 그것을 의문하지 않는다 / 그들은 그냥 일에 바로 들어간다)
 
 Instead of focusing on how hard the challenge is, they focus on putting one foot in front of the other and to keep moving forward.
-(
+(도전이 얼마나 어려운지에 초점을 맞추는 대신에 / 그들은 다른 사람 앞에 한 발을 내딛고 / 앞으로 나아가는 것에 초점을 맞춘다)
 
 The self-sabotaging thought will come creeping into your mind, enticing you to give up each time you struggle, but you need to train your mind to be stronger than that you have.
-(
+(자기파괴적인 생각은 당신의 마음에 스며들어올 것이다 / 당신이 노력할 때마다 포기하도록 유혹할 것이다 / 그러나 당신은 당신의 마음을 훈련시켜야 한다 / 당신이 가진 것보다 더 강하게)
 
 Push back against it by doing the hard thing and keep pushing forward.
-(
+(어려운 일을 하고 계속 앞으로 나아가는 것으로 그것에 대항하라)
 
 No matter what you feel like or what your mind is telling you to do, keep pushing forward.
-(
+(당신이 무엇을 느끼든지 / 또는 당신의 마음이 당신에게 무엇을 하라고 말하든지 / 계속 앞으로 나아가라)
 
 #### Chapter 3: Step 3 – Create and Set SMART Goals
 
@@ -782,6 +834,7 @@ The step-by-step detail involved is how you track and measure your success every
 
 With each goal that you set, ask yourself if it falls within the SMART quadrant?
 (당신이 설정한 각각의 목표에 대해, 자신에게 물어보라 / 그 목표가 SMART 사분원 안에 떨어지는지)
+
 quadrant
  : 사분원, 사분면, 상한의
 
@@ -790,6 +843,7 @@ Is your goal specific enough?
 
 Is it attainable according to the timeline which you set?
 (당신이 설정한 계획에 따라 달성이 가능한가?)
+
 attainable
  : 달성할 수 있는
 
@@ -818,6 +872,251 @@ It provides you with a concrete way of measuring your success, showing you if yo
 (그것은 당신이 성공에 집중하는 방법을 제공한다, 당신이 앞으로 진행하고 있는지 전혀 진행하지 못하고 있는지 보여주기 때문에)
 
 #### How to Set SMART Goals That Work
+
+If you want to succeed in life, you need to get into the habit of setting goals.
+(당신이 인생에서 성공하기를 원한다면, 당신은 목표를 설정하는 습관을 가지는 것이 필요하다.)
+
+Without them, you’re going to lack direction and focus.
+(그것 없이는 방향과 초점이 부족해질 것이다.)
+
+Goals provide you with a benchmark for your success, and to accomplish your objective, your goals need to be set up in the right way from the start.
+(목표는 당신의 성공에 대한 벤치마크를 제공한다, 그리고 당신의 목적을 성취하기 위해, 당신의 목표는 시작부터 올바른 방향으로 정해지는 것이 필요하다.)
+
+Simply saying, “I wish I could be more successful” is not going to cut it.
+(단순히 말해서 '나는 좀 더 성공하고 싶어'라고 하는 것은 그것을 자르지 않는다.)
+
+You need to set goals because it helps you get rid of all the excuses that have been holding you back all this time.
+(당신은 목표를 설정할 필요가 있다/왜냐하면 그것이 모든 핑계를 제거하는데 도움을 주기 때문이다 / 당신을 모든 시간에 뒤로 잡아당기는 excuse)
+
+excuse
+ : 변명, 핑계
+
+It gives you a sense of purpose, something to do with your life.
+(그것은 당신에게 목적감을 준다, 무언가 당신의 인생에서 해야 하는)
+
+If reminds you of what you’re really good at, and produces results that you can be proud of.
+(당신이 정말로 좋은 것을 재고한다면, 결과를 제공하라 / 당신이 자랑스러워할 수 있는 결과)
+
+It gives your life meaning and a sense of fulfillment.
+(그것은 당신 인생의 의미와 성취감을 준다.)
+
+fullfillment
+ : 실현, 성취, 수행
+
+A goal changes your life because it makes all of that happen, turns all of that longing you have within you into reality.
+(목표는 당신의 인생을 바꾼다 / 왜냐하면 그것이 모든 변화를 만들기 때문에, 당신안에 있는 모든 동경을 실재로 바꾸는 변화)
+
+longing
+ : 동경, 갈망
+   동경하는
+
+But a goal without a plan is nothing more than wishful thinking.
+(그러나 계획없는 목표는 아무것도 아니다 / 하고싶다는 생각보다 )
+
+That’s where SMART goals come in and take charge.
+(여기에서 SMART 목표가 들어와서 책임을 지는 것이다)
+
+take charge
+ : 책임을 지다
+
+Before you begin your goalsetting process, it is important to realize that not all objectives are created equal.
+(당신이 목표설정 과정을 시작하기 전에, ~하는 것은 중요하다 / 모든 목표가 동등하게 생성되지는 않는다고 인식하는 것)
+
+It is important not to compare your goals with someone else’s, because you’re not going to have the same objectives or vision.
+(~하는 것이 중요하다 / 당신의 목표화 다른 사람의 것을 비교하지 않는 것, 왜냐하면 같은 목표와 비전을 가지고 있지 않기 때문에)
+
+Your goal needs to be uniquely your own and based on realistic timelines that work for you and your schedule.
+(당신의 목표는 고유하게 자신의 것이어야 하고 현실적인 시간표에 기반할 필요가 있다 / 당신을 위한 일정 등)
+
+Here are the steps you need to ensure each goal that is set is a SMART one moving forward:
+(여기 그 단계들이 있다 / 각각의 목표를 보장하는데 필요한 /)
+
+**Be Definitive**
+(명확하게 하라)
+
+definitive
+ : 가장 확실한, 최종적인, 명확한
+
+This should be the main objective before you set out to create each goal.
+(이것이 주된 목적이어야 한다 / 당신이 각각의 목표를 설정하기 전에)
+
+Every goal needs to be clear and well-defined.
+(모든 목표는 명확하고 잘 정의될 필요가 있다.)
+
+If you don’t know what you want right from the start, you’re not going to have much luck down the road, trying to carry out your goals anyway.
+(당신이 ~을 모른다면 / 시작부터 당신이 원하는 것,  당신은 많은 부족을 느낄것이다, 당신의 목표를 달성하기 위해 시도하는 )
+
+You can only get to where you want to be by defining precisely how you are going to get there.
+(당신은 당신이 가야할 곳에 가는 방법을 정밀하게 정의되어 있어야 원하는 곳으로 갈 수 있다.)
+
+precisely
+ : 정확히, 정밀하게
+
+**Create an Action Plan**
+(행동 계획을 생성하라)
+
+This action plan should be aligned with your goals.
+(행동 계획은 당신의 목표와 일치되어야만 한다.)
+
+If your goal, for example, is to lose 10 bounds within the next 6 months, then an example of the corresponding action plan would include reviewing your current exercise and eating habits, preparing a new healthy routine for yourself, creating an exercise routine that works and a plan to cut down on unhealthy food to help you reach that goal.
+(예를 들어, 당신의 목표가 10bounds 를 잃는 것이라면 / 다음 6개월 안에 , 그렇다면 대응되는 행동계획의 한 가지 예는 당신의 현재 운동과 식습관을 리뷰하는것이 포함되어야 한다, 새로운 건강루틴을 준비하면서, 운동루틴을 만들면서 /)
+
+Your action plan does not have to be comprehensive, to begin with, it is just to get you started.
+( 당신의 행동 계획은 포괄적이지 않다, 시작하는데, 그것은 단지 당신이 시작하는 것이다.)
+
+comprehensive
+ : 포괄적인, 이해력이 있는
+
+As you go along, you can add more steps and more actions as ideas start flowing into your mind.
+(진행하면서, 당신은 좀 더 많은 단계와 행동을 추가할 수 있다 / 아이디어가 당신의 머릿속으로 흘러들어오면)
+
+The action plan is there to be revised when necessary.
+(행동 계획은 그곳에 있다 / 필요할 때 수정하기 위해서)
+
+**Avoid Setting Impossible Deadlines.**
+(불가능한 마감일을 설정하는 것을 피하라)
+
+Far too many people fall into the trap of setting impossible deadlines.
+(너무 많은 사람들이 불가능한 마감일을 설정하는 함정에 빠진다.)
+
+We’re guilty of wanting to see results fast, the sooner the better.
+(우리는 결과를 빨리 보고 싶어하는 죄를 지었다 / 빨리 볼수록 좋다.)
+
+But if the deadlines are not realistic, the only thing you’re going to create for yourself is a lot of frustration and disappointment.
+(그러나 마감일이 현실적이지 않으면, 당신이 만들어낼 유일한 것은 당신을 위한 많은 좌절과 실망이다.)
+
+frustration
+ : 좌절, 좌절감, 불만, 불평
+
+You may feel driven by the goal for a while, but as soon as you see the reality of the deadline coming to fruition slipping out of your hands, you’ll eventually give up when it seems impossible.
+(당신은 목표에 의해 몇시간동안 운전된다고 느낄 수 있다, 그러나 곧 당신이 마감일의 현실을 보게 되면, 당신의 손에서 빠져나가는 것을 보게 되면, 당신은 결국 포기할 것이다 / 불가능하다고 느낄 때)
+
+While there is nothing wrong with shooting for the stars, make sure the steps you take toward those stars gives you enough time to implement and carry out each step successfully.
+(별을 향해 쏘는 것에는 문제가 없지만, 당신이 별을 향해 가는 단계가 당신에게 충분한 시간을 준다는 것을 확실히 하라 / 각 단계를 성공적으로 실행하고 수행하는데)
+
+**Plotting Your Steps-Map.**
+(당신의 단계-지도를 그리는 것)
+
+Now that you’ve got your ideas and your goals in place, the next piece of the puzzle is where you begin mapping out the steps needed to take you closer to your goals.
+(이제 당신은 당신의 아이디어와 목표를 가지고 있으니, 퍼즐의 다음 조각은 당신이 당신의 목표에 더 가까이 가져가기 위해 필요한 단계를 지도화하는 곳이다.)
+
+How do you get from Point A to Point B?
+(어떻게 당신은 A 지점에서 B 지점으로 갈 수 있는가?)
+
+What needs to happen for you to move forward?
+(당신이 앞으로 나아가기 위해 무엇이 필요한가?)
+
+What active action plans do you need to take?
+(당신이 취해야 하는 적극적인 행동 계획은 무엇인가?)
+
+Using the SMART goal structure will allow you to see a much clearer picture of what needs to happen, bridging the gap between ideas and reality.
+(SMART 목표 구조를 사용하면, 당신은 무엇이 일어나야 하는지에 대한 훨씬 더 명확한 그림을 볼 수 있게 해줄 것이다, 아이디어와 현실 사이의 격차를 메꾸는 것)
+
+Your steps need to be as clear as your goals are, down to the very last detail.
+(당신의 단계는 당신의 목표만큼 명확해야 한다, 매우 마지막 세부사항까지)
+
+You need to be consistent, and you need to be persistent.
+(당신은 일관성 있어야 하고, 당신은 끈기 있어야 한다)
+
+consistent
+ : 일관성 있는, 일치하는, 꾸준한, 지속적인
+
+persistent
+ : 끈기 있는, 고집하는, 집요한, 지속적인
+
+When it feels like you’ve lost your way, go back to your goals and reassess the map of your steps.
+(당신이 길을 잃은 것 같은 느낌이 들 때, 당신의 목표로 돌아가서 당신의 단계 지도를 재평가하라)
+
+reassess
+ : 재평가하다, 재검토하다, 재판단하다
+
+Assess where you went wrong and what you need to do to fix it.
+(당신이 잘못된 곳을 평가하고, 당신이 그것을 고치기 위해 무엇을 해야 하는지 평가하라)
+
+That’s why you need to write each step down in detail.
+(그것이 당신이 각 단계를 자세히 적어야 하는 이유이다)
+
+**Avoid Setting Too Many Goals at Once.**
+(한 번에 너무 많은 목표를 설정하는 것을 피하라)
+
+Another common issue that prevents most people from accomplishing their goals is having too many goals at the same time.
+(대부분의 사람들이 목표를 달성하는 것을 방해하는 또 다른 일반적인 문제는 동시에 너무 많은 목표를 가지고 있다는 것이다)
+
+While it’s great that you want to accomplish a lot, there’s only so much time and energy we can expand on working on our goals.
+(당신이 많은 것을 달성하고 싶다는 것은 좋지만, 우리가 목표를 달성하는 데에 투자할 수 있는 시간과 에너지는 한계가 있다)
+
+Focus on one or two goals at the time, and only once those are done, move on to the newer goals.
+(한 번에 하나 또는 두 개의 목표에 집중하고, 그것들이 끝나면, 새로운 목표로 넘어가라)
+
+Work through each goal one step at the time and eventually, you’ll achieve everything that you set out to do.
+(한 번에 한 단계씩 각 목표를 통해 일하고, 결국 당신은 당신이 하려고 한 모든 것을 달성할 것이다)
+
+When you set goals, you need to ensure that they are relevant to your overall life plan too.
+(목표를 설정할 때, 당신은 그것들이 당신의 전반적인 인생 계획에 관련이 있는지도 보장해야 한다)
+
+If the goal you set is not going to benefit or better your life in any significant way, you might need to reevaluate if the goal is worth the time and effort you plan to invest in it.
+(당신이 설정한 목표가 당신의 삶을 어떤 중요한 방식으로도 이롭게 하지 않는다면, 당신은 그 목표가 당신이 그것에 투자할 시간과 노력을 가치가 있는지 재평가해야 할지도 모른다)
+
+**Making Deadlines.**
+(마감일을 만드는 것)
+
+For the timebound aspect of the SMART goals, it is important that every goal, no matter how small that goal may be, has a deadline.
+(SMART 목표의 시간적 측면에서, 어떤 목표가 얼마나 작은 목표일지라도, 마감일이 있는 것이 중요하다)
+
+A deadline creates a sense of urgency that, when combined with the rest of the SMART structure, makes you more likely to achieve that goal.
+(마감일은 긴급성을 만들어 낸다, 그것은 나머지 SMART 구조와 결합되어, 당신이 그 목표를 달성할 가능성을 높인다)
+
+Without a deadline, you’re giving yourself permission to have all the time in the world to achieve that goal, which is not a very productive move.
+(마감일이 없으면, 당신은 그 목표를 달성하는 데에 세상의 모든 시간을 가질 수 있는 권한을 주고 있는 것이다, 그것은 생산적인 움직임이 아니다)
+
+Sometimes we need that extra push to light a fire under us and get us moving in the right direction without slacking off.
+(가끔 우리는 그것을 위해 그 양분을 필요로 한다, 우리 아래에 불을 붙이고, 우리를 느슨하게 하지 않고 올바른 방향으로 움직이게 하는 것)
+
+slack
+ : 느슨한, 늘어진
+   느슨하게 하다, 게으르게 하다
+
+**Make A Commitment.**
+(약속을 하라)
+
+commitment
+ : 약속, 공약, 헌신, 전념
+
+Once you’ve set a goal, the final step of the process is to be committed to seeing it through.
+(한 번 목표를 설정하면, 그 과정의 마지막 단계는 그것을 끝까지 보는 것에 헌신하는 것이다)
+
+Don’t have a Plan A and a Plan B.
+(Plan A와 Plan B를 가지지 마라)
+
+Make this your goal your only Plan and nothing else.
+(이 목표를 당신의 유일한 계획으로 만들고, 그 외에는 아무것도 하지 마라)
+
+Having a Plan B is subconsciously giving yourself permission to fail.
+(Plan B를 가지는 것은 무의식적으로 당신이 실패할 권한을 주는 것이다)
+
+When you set a goal, make a commitment to yourself that you are going to see it through to the end, and giving up or failing is not going to be an option.
+(목표를 설정할 때, 당신이 그것을 끝까지 보는 것에 헌신할 것이라는 약속을 당신에게 하라, 포기하거나 실패하는 것은 선택이 아닐 것이다)
+
+Think of your goal as a contract.
+(당신의 목표를 계약으로 생각해라)
+
+Contracts are binding, and so should your commitment to your goal be.
+(계약은 구속력이 있고, 당신의 목표에 대한 헌신도 그렇게 되어야 한다)
+
+binding
+ : 의무적인, 구속력이 있는
+   묶기, 묶는 것
+
+Every action that you take, even if it is a small one, should bring you one step closer to your goal.
+(당신이 취하는 모든 행동은, 그것이 작은 것이라도, 당신을 당신의 목표에 한 걸음 더 가깝게 해야 한다)
+
+Every day brings you a little bit further, so never allow yourself to get discouraged by the setbacks you encounter.
+(매일 당신을 조금 더 멀리 데려다 주기 때문에, 당신이 마주치는 좌절에 의해 낙담하지 않도록 허락하지 마라)
+
+Taking smaller steps avoids burn out too.
+(작은 걸음을 걷는 것은 타오르는 것을 피하는 것이기도 하다)
+
+#### Chapter 4: Step 4 – Eliminate Your Procrastination Addiction
 
 ---
 
