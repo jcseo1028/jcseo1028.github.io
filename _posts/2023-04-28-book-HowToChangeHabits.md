@@ -1118,6 +1118,152 @@ Taking smaller steps avoids burn out too.
 
 #### Chapter 4: Step 4 – Eliminate Your Procrastination Addiction
 
+Leonardo Da Vinci took 16 years before he finished the infamous Mona Lisa painting.
+(레오나르도 다빈치는 16년을 보냈다 / 그가 ~을 끝내기 전까지 / 악명높은 모나리자 그림을)
+
+infamous
+ : 악명 높은
+
+Over the course of his life, Da Vinci only finished a handful of projects.
+(그 인생의 여정을 통해서, 다빈치는 단지 handful 한 프로젝트를 끝냈다.)
+
+handful
+ : 소수(적은 수)
+
+Author Margaret Atwood is open about the fact that she spends her mornings procrastinating.
+(작가 Margaret Atwood 는 그 사실에 관해 공개했다 / 그녀가 그녀의 아침을 미루는데 소비한 사실)
+
+Clearly, procrastination is a problem that plagues even the most successful people.
+(명확하게, 지연은 문제이다 / 대부분은 성공한 사람들조차 시달리는 문제)
+
+plague
+ : 시달리다, 골치를 앓다
+
+All of us are affected by the procrastination addiction to some degree.
+(우리 모두는 약간 정도의 지연 중독에 감염된다.)
+
+addiction
+ : 중독
+
+Despite the many justifications that procrastinators love to make to support their habit, like working well under pressure, procrastination is still a habit that needs to be changed if you want to create more productive routines and build the successful mindset you’ve always wanted.
+(많은 정당화에도 불구하고 / 미루는 사람들이 그들의 습관을 지지하는 것을 사랑하는 정당화, 낮은 압박에서도 일을 잘하는 것 처럼, 지연은 여전히 어떠한 습관이다 / 변화되기 필요하는 습관 / 만약에 당신이 좀 더 생상적인 루틴을 만들기 원하고 당신이 항상 원했던 성공적인 사고방식을 개발하기 원한다면)
+
+justification
+ : 정당화, 변명
+
+#### Why Do We Procrastinate?
+
+There is no justification good enough to ignore the fact that procrastination is one of the most damaging habits to live in.
+(그 사실을 무시하기에 충분한 변명의 여지가 없다 / 지연이 가장 영향을 많이 주는 습관 중에 하나라는 사실 / 살면서)
+
+So why exactly do we continue to do it?
+(왜 우리는 정확히 지연을 계속하려고 할까?)
+
+If we look at most forms of procrastination closely, we will realize that it is a choice for instant gratification over future rewards or suffering.
+(만약 우리가 지연의 대부분의 형태를 가까이 본다면, 우리는 ~을 자각할 것이다 / 그것은 선택이다 / 일시적 만족을 위한 / 미래의 보상이나 겪는것을 통해서)
+
+instant
+ : 즉석의, 순간의
+   즉각, 순간
+
+Therefore, you choose to linger by either postponing it or doing other tasks that are less demanding (or more rewarding) right now.
+(그러므로 당신은 유지하는 것을 선택한다 / 그것을 연기하거나 다른 임무를 함으로써 / 지금 당장 덜 요구되거나 좀더 보상이 많은 임무)
+
+linger
+ : 지속되다, 남아있다.
+
+In the 1960s, a scientist named Walter Mischel studied this phenomenon of instant gratification.
+(1960년대에, Walter Mischel이란 과학자는 이 일시작 만족의 현상을 연구했다.)
+
+phenomenon
+ : 현상, 장관
+
+He began a series of experiments that are now widely referred to as the Marshmallow Experiment.
+(그는 일련의 실험을 시작했다 / 현재 광범위하게 참조되고 있는 / 마시멜로 실험으로 )
+
+He was exploring the ability of children to delay gratification for future rewards.
+(그는 어린아이들의 능력을 탐구했다 / 미래의 보상을 위해 만족을 미루는 )
+
+In the Marshmallow Experiment, a group of preschoolers was given two plates with varying quantities of marshmallows or other snacks, a small snack, and a larger snack.
+(그 마시멜로 실험에서, 취학전 아동 그룹에 두 접시가 주어졌다 / 많은 과자들이 있는)
+
+varying
+ : 가지각색의, 다양한
+
+When the experimenter left the room, they could ring the bell immediately, thus ending the experiment, and eat the smaller snack, or they could wait 15 minutes and receive the larger reward.
+(실험자가 그 방을 떠났을 때, 그들은 즉시 벨을 울릴 수 있었다 , 그래서 실험이 끝나고, 더 작은 과자를 먹거나, 15분을 기다릴 수 있으면 더 큰 보상을 받았다.)
+
+It was an experiment to see how these children did when given a choice of instant gratification or larger future reward.
+(그것은 ~을 보기위한 실험이었다 / 어떻게 이 아이들이 수행하는지 / 일시적 만족감의 선택이나 더 큰 미래의 보상의 선택을 하는지)
+
+What is interesting about this experiment, is that a follow-up experiment was also done on some of the participants when they reached middle age.
+(이 실험에 관해 흥미로운 것은 ~ 이다 / 다음에 진행했던 실험들도 수행되었다. / 그들이 중년에 도달했을 때)
+
+Those children who were better at delaying gratification for a future reward had achieved higher test scores, reported greater self-esteem and were even in better general health than those who were tempted by instant gratification.
+(미래의 보상을 좀 더 만족을 연기를 더 잘했던 어린이들이 더 높은 점수를 받았다, 자존감이 더 높게 보고되었고, 일반적으로 건강상태가 좋았다 / 일시적 만족에 의해 유혹되었던 사람들보다)
+
+One theory that attempts to define why we procrastinate is called the Temporal Motivation Theory.
+(왜 우리가 미루는 지 정의하기 위해 시도된 한가지 이론은 Temporal Motivation Theory 이다.)
+
+temporal
+ : 시간의, 관자놀이의
+
+Created by Dr. Piers Steel and explained in his book The Procrastination Equation, this theory attempts to explain procrastination in terms of a formula that aims to solve our tasks utility, or the general motivation to get something done.
+(이 책에서 Dr. Piers에 의해 창조되고 설명된 지연 방정식, 이 공식은 지연하는 것을 공식의 형태로 설명하기 시도한다. / 우리의 임무 수행력을 해결하기 위한 목표로 / 또는 무언가 완료하는 일반적 동기부여를)
+
+The higher the utility or motivation, the less likely someone is going to procrastinate on the task.
+(더 높은 능력이나 동기부여, 더 낮은 누군가는 임무에 대해 미루려고 한다.)
+
+The elements of that equation are:
+(방정식의 요소는 다음과 같다.)
+
+- Expectancy or the belief that you can complete the task
+(그 임무를 완료할 수 있다는 기대나 믿음)
+
+- The Value of the reward that the task is going to give you
+(보상의 가치 / 그 임무가 주려고 하는 보상)
+
+- Impulsiveness, or the likelihood that you’re going to be distracted
+(충동적으로 하는 것이나, 가능성 / 당신이 방해받으려고 하는 가능성)
+
+impulsiveness
+ : 충동적으로 행하는 것
+
+likelihood
+ : 가능성, 기회
+
+- Delay, which is how long you will need to wait to get that reward
+(지연, 그것이 얼마나 오래 걸리는 지 / 당신이 그 보상을 얻기 위하여 기다려야 하는)
+
+Instant gratification or pleasure-seeking is at the root of procrastination.
+(일시적 보상이나 쾌락 추구는 미루기의 근원이다.)
+
+pleasure-seeking
+ : 쾌락 추구
+
+Procrastination is your own worst enemy.
+(미루기는 가장 나쁜 자신의 적이다.)
+
+Delaying and procrastinating is a hindrance that stops you from achieving your goals.
+(지연하는 것이나 미루는 것은 장애물이다 / 당신이 목표를 성취하는 것을 막는)
+
+The more you delay, the more excuses you come up with.
+(당신이 조금 더 지연하면 할 수록, 점점 더 변명만 오게될 것이다.)
+
+To overcome procrastination, the motivation factor needs to be high enough to be worthwhile.
+(미루기를 극복하기 위해서, 동기부여 요인은 가치있게끔 충분히 높게 필요하다)
+
+worthwhile
+ : 가치있는
+
+We tend to be more resistant to starting a task when we know that it’s difficult.
+(우리는 좀더 임무를 시작하는데 저항하려는 경향이 있다 / 그 임무가 어렵다은 것을 알았을 때
+
+tend to ~
+ : ~하는 경향이 있다.
+
+#### Overcoming Your Procrastination Habit
+
 ---
 
 [목차]
