@@ -1264,6 +1264,207 @@ tend to ~
 
 #### Overcoming Your Procrastination Habit
 
+As you work on more positive habit-building and productive routines, overcoming the procrastination habit is going to lead you one step closer to success.
+(당신이 좀더 긍정적인 습관쌓기 와 생산적 루틴에서 일한다면, 미루는 버릇을 극복하는 것은 당신을 이끌것이다 / 성공에 한 단계 더 가깝게)
+
+These steps are going to help you overcome the tendency to procrastinate in the moment, which is to say when you notice yourself procrastinating and putting things off, you’ll be able to stop the habit in its tracks there and then.
+(다음 단계들은 당신이 그 순간에 미루는 경향을 극복하는데 도움을 줄 것이다, 말하는 것은 / 당신이 자신이 미루고 연기하는 것을 인지할 때, 당신은 그 습관을 멈출 수 있다. / 그것의 트랙에서 )
+
+Let’s get right down to it:
+(바로 본론으로 들어갑시다)
+
+**Forgive Yourself**
+(자신을 용서하라)
+
+This may seem like an unusual first step, but like forgiving yourself for your past mistakes, forgive yourself for your past tendency to procrastinate.
+(이것은 일상적이지 않은 첫단계처럼 보인다, 그러나 당신의 과거 실수에 대해 포기하는 것같이, 용서하라 당신이 과거에 지연하는 경향을)
+
+When you forgive yourself for your past mistakes, you’re opening your mind to learning from those mistakes, making you less likely to repeat them in the future.
+(당신이 과거의 실수를 용서했을 때, 당신이 그 실수로부터 배워야할 마음을 연다, 당신이 그 실수들을 덜 반복하게 해서/ 미래에)
+
+The same thing happens with procrastination.
+(같은 것이 미루기와 함께 발생한다.)
+
+Researcher Timothy Pychyl examined the role of guilt and procrastination, and what he discovered in his research surveying 119 college students was that students who forgave themselves were less likely to procrastinate on future exams.
+(연구자 Timothy Pychyl은 범죄와 미루기의 역할에 대해 설명했다, 그리고 그거 119개 대학 학생들을 조사한 역구에서 발견된 것은 / 자신을 용서했던 그 학생들이 덜 미루려고 한다는 것을 / 미래 시험에 대해 )
+
+Before you move on to the rest of the steps, it’s important to forgive yourself for your procrastination habit.
+(당신이 그 단계의 나머지로 가기 전에, 자신을 용서하는 것이 중요하다 / 당신의 미루는 버릇에 대해)
+
+We all make mistakes, and the important thing is that we learn from them, helping us build that positive psychology we need to make better choices in the future.
+(우리는 모두 실수를 한다, 그리고 중요한 것은 그 실수로부터 배우는 것이다, 우리가 긍정적인 정신을 개발하는데 도움을 주는 / 우리가 미래에 더 좋은 선택을 하기위해 필요한 긍정적인 정신)
+
+**Removing Temptation**
+(유혹 제거하기)
+
+Quite literally.
+(글자 그대로입니다.)
+
+literally
+ : 그대로, 정말로
+
+Before you settle down on any task, look around you, and make a note of what the distractions are.
+(당신이 어떤 임무에 착수하기 전에, 당신 주위를 보라, 그리고 방해물이 무엇인지 기록하라.)
+
+Be honest about your assessment, because the only way to stay focused and not procrastinate is to remove all sources of temptation.
+(당신의 조사에 대해 정직하라, 왜냐하면 미루지 않고 집중을 유지하는 유일한 방법은 모든 유혹의 근원을 제거하는 것이다.)
+
+assessment
+ : 평가, 조사, 사정
+
+Yes, this includes your mobile device.
+(그렇다 당신의 모바일 장치들이 포함된다.)
+
+If the temptation isn’t there, you’re less likely to give into it.
+(만약 유혹이 거기에 없다면, 당신은 그 유혹 안으로 덜 들어가려고 한다.)
+
+If your environment is the cause of your distraction, find somewhere else to work.
+(만약 당신의 환경이 방해의 원인이라면, 어디에 있는 찾아라.)
+
+Whatever the source is, you must remove it to stay focused.
+(그 근원이 무엇이든지 간에 당신은 집중하기 위해 그것을 제거해야만 한다.)
+
+Hold yourself accountable and make it your responsibility to ensure there’s nothing around to tempt your focus away from your work.
+( 책임이 있게 유지하고 당신의 책임이 보장하게 하라 / 아무것도 없게 / 당신의 일로부터 집중하지 못하게 유혹하는 것이 아무것도 없게 하라.)
+
+accountable
+ : 책임이 있는, 설명할 수 있는
+
+responsibility
+ : 책임
+
+**Create Your Perfect Work Environment**
+(완벽한 업무 환경을 창조하라)
+
+You know yourself better than anyone, and you know exactly what can distract you easily from your work.
+(당신은 자신이 누구보다 더 좋은 줄 안다, 그리고 당신은 정확히 ~을 안다 / 당신을 쉽게 방해할 수 있는 것 / 직장에서)
+
+With that in mind, in an effort to keep procrastination at bay, it may be time to fashion yourself the perfect environment or the perfect workstation.
+(그것과 함께, 미루기를 유지하는 노력을 하면, 당신 자신을 완벽한 환경에 적응시키는 시간이 될것이다 / 또는 완벽한 작업공간)
+
+fashion
+ : 만들다, 적응시키다
+   패션
+
+Create a comfortable workspace for yourself that is free from distractions of any kind, so you will not be tempted while you concentrate.
+(자신을 위해 안락한 작업공간을 창조하라 / 어떤 종류의 방해로부터 자유로는 / 그러면 당신은 유혹받지 않을 것이다 / 당신이 집중하는 동안에)
+
+If you’re setting up a workstation at home, find an area where you feel the most comfortable and relaxed in a place where you couldn’t mind spending a couple of hours getting some work done.
+(만약 당신이 집에 작업공간을 정했다면, 영역을 찾아라 / 당신이 가장 안락하고 이완됨을 느끼는 영역 / 그 장소에서 / 당신이 시간을 쓰는데 거리낌이 없을 수 있는)
+
+At work, your options may be limited, but work with what you got to make your space as distraction-free as possible.
+(직장에서 당신의 선택은 제한적이다, 그렇지만, 당신이 만든 것과 함께 그 일은 당신의 공간을 가능한 방해받지 않은 공간으로 만들 것이다.)
+
+**Redefine Your Success**
+(당신의 성공을 재정의하라)
+
+Redefine your success to fit your present circumstance.
+(당신의 성공을 ~하는 것으로 재정의하라 / 당신의 현재 상황에 맞추는 것)
+
+circumstance
+ : 상황, 환경
+
+For example, if you’ve put things off to the last minute on a project to the point it has become unrealistic to finish by the original due date, you’re likely to fail even if you worked all night.
+(예를 들어, 만약 당신이 그것을 연기했다면 / 그 지점 / 그것이 비현실적으로 되었다 / 원래의 마감일까지 끝내는 것이, 당신은 실패할 것이다 / 비록 밤을 새서 일한다 해도)
+
+When you realize this, your motivation to get it done is only going to diminish even more.
+(당신이 이를 자각했을 때, 일을 완료하려는 당신의 동기부여는 점점 감소할 것이다.)
+
+diminish
+ : 줄어들다, 감소하다.
+
+What you can do instead is take a new approach and define what success looks like from this point forward.
+(당신이 대신 할 수 있는 것은 새로운 목적을 취하고 / 이 지점 앞으로부터 성공이 보이는 것을 정의해야 한다.)
+
+For example, if the original deadline is no longer a possibility, you might need to consider setting a new deadline.
+(예를 들어, 원래 마감이 더이상 가능성이 없다면, 새로운 마감을 정하는 것을 고려할 필요가 있다.)
+
+This will allow you a greater chance of success from where you are right now, and when you see success is possible, you’ll refire that internal motivation to get the job done so you can feel accomplished.
+(이것이 당신에게 더 좋은 성공의 기회를 허락할 것이다 / 현재 당신이 있는 곳으로부터, 그리고 당신이 성공이 보였을 때, 당신은 다시 내적 동기부여를 해고할 것이다 / )
+
+**Time-Limit Work Routine**
+(시간 제한 업무 루틴, 뽀모도로)
+
+It’s not easy for some people to sit down for hours in front of their laptop, typing away, and focusing on work.
+(사람들이 오랫동안 앉아있는 것은 쉽지 않다 / 노트북 앞에서, 타이핑하고, 일에 집중하면서)
+
+Procrastination happens because we become easily distracted from the tasks we’re supposed to be doing, and when that happens, we lost track of time.
+(미루기는 발생한다 / 우리가 쉽게 방해받기 때문에 / 우리가 완료되기를 기대하는 임무로부터 / 그리고 발생했을 때, 우리는 시간의 추적을 잃어버린다.)
+
+To overcome this, put yourself on a timer each time you need to get something done.
+(이것을 극복하기 위해, 타이머를 설정하라.)
+
+It can be for 30 minutes, an hour, an hour and a half; it is up to you.
+(그것은 30분, 한시간, 한시간 30분; 당신에 따라 달라질수 있다.)
+
+But for that portion of time, put away all distractions and tell yourself you are going to do nothing but concentrate on work.
+(그러나 그 시간 동안에는 / 모든 방해를 멀리하고 / 당신의 일에 몰두해야 한다.)
+
+When your time is up, then allow yourself a break, walk around, check your phone, anything you need to recharge for a moment before getting back to work.
+(그 시간이 끝났다면 휴식을 취하고, 산책하고, 폰을 확인하고, 재충전이 필요한 활동을 잠시동안 하라 / 다시 일하기 전까지)
+
+**Do the Hard Stuff First**
+(어려운 것 먼저 하라)
+
+stuff
+ : 물건, 물질
+
+Getting the most unpleasant bits of the tasks out of the way first will make the rest of your process a lot more bearable when you think about it.
+(가장 기쁘지 않은 임무를 먼저 해버리는 방법은 / 당신 프로세스의 휴식을 만들 것이다/ 좀 더 많이 견딜 수 있는 / 당신이 그것에 관해 생각했을 때)
+
+bearable
+ : 견딜만한, 견딜 수 있는
+
+The hardest tasks are the ones we always feel like procrastinating on the most.
+(가장 어려운 임무들은 우리가 항상 미루고 싶어하는 것들입니다. )
+
+At the start of the day is when we have the most energy and fuel, so start your day with the hardest jobs first.
+(일과가 시작할 때가 우리가 가낭 많은 에너지와 연료를 가지고 있다, 그래서 일과를 시작할 때 가장 어려운 일부터 해라.)
+
+If you’ve found yourself prone to procrastinating the harder tasks in the past and leaving them to the very last minute, try switching things around and start with the hard stuff first.
+( 만약 당신이 더 어려운 업무를 미루는 것이 쉬운 것을 알았다면 / 과거에/ 그리고 그것을 마지막 시간까지 남겨두었다면, 어려운 일을 먼저 하도록 바꿔보라.)
+
+prone
+ : 쉬운
+
+When you’re done with that hard task, move on to smaller, more doable tasks until the end of your workday.
+(당신이 어려운 일을 끝낵을 때, 더 작고, doa할수 있는 일로 옮겨라 / 당신의 일과가 끝날때까지.)
+
+doable
+ : 할 수 있는
+
+When you get the hard stuff out of the way, you find you feel much happier, lighter, and things seem more manageable somehow for the rest of the day.
+(당신이 그방법의 어려운 일을 얻었을 때, 당신은 더 행복함음 느끼는 것을 안다, 더 가볍고, 그것이 좀더 관리할 수 있게 보이는 / 그 날의 여유 때문에)
+
+**Cultivate Empowering Beliefs**
+(힘을 주는 믿음을 키워라.)
+
+empower
+ : 권리를 주다, 허락하다.
+
+Replace your old limiting beliefs with beliefs that are going to empower you moving forward.
+(당신의 오래된 제한된 믿음을 ~로 바꿔라 / 당신이 앞으로 나가는데 힘을 주려고 하는 믿음으로)
+
+Get rid of those old thought patterns that led you to procrastinate in the past and replace them with thoughts that will surge you forward on the path to success.
+(오래된 사고 패턴을 제거하라 / 당신을 미루게 하는 / 과거에 / 그리고, 그들을 ~한 생각들로 바꿔라 / 당신을 성공의 길로 나가게 하는 생각들)
+
+surge
+ : 증가하다, 급증하다
+
+If you believed you weren’t capable of becoming a successful person, you wouldn’t be here today, going through this and learning how to become an even better version of yourself.
+( 당신이 당신을 성공적인 사람이 될 수 없다고 믿는 다면, 당신은 오늘날 여기에 없었을 것이다, 이를 통해 / 배우는 것/ 좀 더 좋은 버전으로 되는 방법을 배워)
+
+You now need to do the same thing with all your limiting thoughts, turn them around, and believe that you’re capable of doing it.
+(당신은 이제 같은 일을 할 필요가 있따 / 당신의 제한하는 생각과 함께, 그들을 바꾸고, 당신이 그것을 할 수 있다고 믿어라.)
+
+#### Chapter 5: Step 5 – Apply Positive Psychology Techniques for Incredible Confidence
+
+incredible
+ : 엄청난, 놀라운, 믿을 수 없는
+
+psychology
+ : 심리학, 심리
+
 ---
 
 [목차]
