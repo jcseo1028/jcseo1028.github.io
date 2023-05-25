@@ -1465,6 +1465,101 @@ incredible
 psychology
  : 심리학, 심리
 
+Confidence.
+(자신감, 신뢰)
+
+Is it a quality that you are born with?
+(신뢰는 특성입니까? / 당신과 같이 태어난)
+
+quality
+ : 품질, 특질, 특성, 자질
+
+Some people are divided on the answer to that one.
+(그것에 대한 사랍들의 답변은 나뉩니다.)
+
+When you look at people who just walk into a room and own it, it’s easy to think they’re born with that quality because they seem so naturally effortless at it.
+(당신이 사람들을 볼때 / 단지 방으로 들어가 그것을 소유하난 / ~을 생각하는 것은 쉽다 / 그들이 그 특성과 함께 태었다 / 왜냐하면 그들은 그것에 노력없이 자연스럽게 보이기 때문에)
+
+They appear innately confident, and that makes you wonder if they were born this way.
+(그들은 선천적으로 신뢰적으로 보인다, 그리고 그것이 당신을 의아하게 만든다 / 만약 그들이 이 방식으로 태어났나면)
+
+innately
+ : 선천적으로
+
+Especially when it feels like you’re not at that level.
+(특별히 그것을 느꼈을 때 / 당신은 그 수준에 도달하지 못한다.)
+
+Confidence is, however, a skill that you can build.
+(그러나 신뢰는 기술이다 / 당신이 개발할 수 있는)
+
+It is a quality that you can cultivate through deliberate action and changes to your mindset.
+(~ 은 특성이다 / 당신이 개발할 수 있는 / 행동을 신중하게 하고 / 당신의 사고방식을 바꾸는 것을 통해서 )
+
+That’s the beauty of being human.
+(저것은 인간됨의 아름다움이다.)
+
+We’re capable of incredible change when we put our minds to it.
+(우리는 놀라운 변화를 할 수 있다 / 우리의 마음에 그것을 지녔을 때)
+
+The person you are today is not the same person you were yesterday, a week ago or a month ago.
+(오늘의  당신은 같은 사람이 아니다 / 어제의 당신과 , 1주일 전, 한달 전)
+
+The version of you today is not going to be the same version of you in the future.
+(오늘 당신의 버전은 미래의 당신과 같은 버전이 되지 않으려 한다.)
+
+That’s because you are changed and shaped by the experiences you go through.
+(이것은 ~ 때문이다 / 당신이 변화되고 변형된다 / 당신이 행하는 경험들에 의해서)
+
+Change is an inevitable part of life, but the way you change is entirely up to you.
+(변화는 인생의 불가피한 부분이다, 그러나 당신이 변하는 방향은 전적으로 당신에게 달렸다.)
+
+You can choose to change for the better, to learn from your experiences, and to use them to improve.
+(당신은 더 잘 변하도록 선택할 수 있고, 당신의 경험으로부터 배울 수 있고, 그들을 개선하기 위해 사용할 수 있다.)
+
+Or you can choose to let those experiences hold you back and affect your confidence.
+(또한 당신은 그러한 경험들을 내버려둘 수 있다 / 당신을 뒤로 잡아 당기고, 당신의 자신감에 영향을 주는 경험들)
+
+Confidence is about decreasing your internal insecurity by changing your mindset using positive psychology.
+(자신감은 내적인 불안감을 감소시킨다 / 당신의 사고방싱을 바꿈으로써 / 긍정적인 생각을 사용해 )
+
+insecurity
+ : 확신없음, 불안정
+
+You need to feel good about who you are before you can begin feeling good around others.
+(당신은 좋게 느낄 필요가 있다 / 당신이 누군가에 대해 / 당신이 다른사람 주위에서 느끼는 것을 시작할 수 있기 전에)
+
+French writer Alexander Dumas once said:
+(프랑스 작가 Alexander Dumas 가 말했다.)
+
+“A man who doubts himself is like a man who enlists himself with the enemy and bears arms against himself. He ensures his failure by first becoming convinced he is going to fail”.
+(자신을 의심하는 사람은 ~한 사람과 같다 / 그 자신을 enlist 하는 사람 / 적과 곰의 팔과 그자신에 대항하는. 그는 그의 실패를 확신한다 / 처음 실패했을 때)
+
+enlist
+ : 입대하다, 편입하다, 징집하다.
+
+convince
+ : 설득하다, 확신시키다.
+
+Dumas sums up how crucial confidence is in almost everything that you do in life.
+(Dumas 는 요약했다 / 어떻게 중요한 자신감이 거의 모든 것이 되는지 / 당신이 살아가는)
+
+crucial
+ : 중요한, 결정적인
+
+When you’re not confident, you shy away from interaction and struggle to form meaningful connections, which only contributes to isolation.
+(당신이 자신감이 없을 때, 당신은 부끄러워하며 관계를 피한다 / 투쟁한다 / 의미가득한 연결들의 형태로 / 오직 고립화에만 공헌하는 )
+
+interation
+ : 상호작용, 관계, 소통, 교류, 반응
+
+meaningful
+ : 의미심장한
+
+Positive psychology is meant to help you start shifting the way you think about yourself and the world around you,
+(긍정정인 심리-자신감-은 당신이 변화를 시작하게 돕는다 / 당신이 자신과 당신 주위의 세상에 대해 생각하는 방식 )
+
+#### Why Confidence Matters
+
 ---
 
 [목차]
