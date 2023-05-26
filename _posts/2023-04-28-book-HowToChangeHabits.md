@@ -1560,6 +1560,86 @@ Positive psychology is meant to help you start shifting the way you think about 
 
 #### Why Confidence Matters
 
+Confidence is an emotion that is based on love and trust.
+(자신감은 감정이다 / 사랑과 신뢰에 기반한)
+
+Love and trust in yourself and for yourself, to be precise.
+(사랑과 신뢰는 자신 안에 있고, 자신을 위해, 정확하게)
+
+precise
+ : 정밀한, 정확한
+
+You need to have this firm belief and trust in yourself because if you don’t, you’ll be easily influenced by others.
+(당신은 이 확고한 믿음과 신뢰를 가질 필요가 있다 / 자신 안에 / 왜냐하면 그렇게 하지 않으면 당신이 다른 것에 쉽게 감염될 수 있기 때문이다.)
+
+True confidence comes from the ability to trust that who you are matters.
+(진짜 자신감은 ~ 한 능력으로부터 온다 / 자신이 무슨일을 해도 믿는)
+
+Without confidence, you’ll find it increasingly hard to find lasting happiness.
+(자신감이 없이, 당신은 그것이 점점 더 어려워진다는 것을 알아차릴 것이다 / 지속되는 행복을 찾기가)
+
+lasting
+ : 지속되는, 영구적인
+
+There’s an inexplicable feeling of sadness and misery that tends to linger, even though you can’t think of a reason why you should be feeling unhappy.
+( 슬픔과 고통의 설명할 수 없는 느낌이 있다 / linger 하는 경향이 있는, 당신이 원인을 생각할 수 없다 / 당신이 불행하게 느끼기 때문에)
+
+inexplicable
+ : 설명할 수 없는
+
+misery
+ : 고통, 불행, 비참, 어려움
+
+linger
+ : 지속되나, 남아 있다.
+
+In some extreme cases, a lack of confidence and poor self-esteem can even lead to social anxiety, making it increasingly difficult for you to maintain healthy relationships with anyone.
+(어떤 흥미있는 경우에, 자신감의 부족과 부족한 자존감은 사회적 불안감을 초래할 수 있다. 그것을 점점더 어렵게 만듫으로써 / 당신이 건강한 관계를 유지하는 것이)
+
+Confidence is your greatest asset to success.
+(자신감은 가장 큰 자산입니다 / 성공을 휘한)
+
+When you’re confident, you become driven to go out and achieve whatever it is that you set out to do.
+(당신이 자신감이 있을 때, 당신은 밖으로 나가서 무엇이든 될 수 있다 / 당신이 하려고 했던 것)
+
+A lack of confidence cripples you and stops you from taking risks and making big moves.
+(자신감 부족은 당신을 마비시키고, 당신을 멈추게 한다 / 위험을 감수하고 큰 움직임을 만드는 것부터)
+
+cripple
+ : 마비시키다, 불구가 되게 하다
+   마비, 장애
+
+Your fear becomes bigger than anything else, and this fear can get to a point where it becomes so strong that it paralyzes you, consumes you, and makes you afraid of even functioning normally in a social situation (or any other aspect in your life).
+(당신의 두려움이 어떤 것보다 더 커지게 된다, 이 두려움은 어떤 지점을 얻을 수 있다 / 강해져서 그것이 당신은 마비시키는, 당신을 소비하는, 당신을 두렵게 하는 / 사회적 상황에서 또는 당신 인생의 다른 관점에서)
+
+paralyze
+ : 마비시키다, 저해하다
+
+Without confidence, you’re always going to feel shy, awkward, shy, reluctant and “not good enough,” which will make it difficult for you to leap at the change to seize an opportunity when you get the chance.
+(자신감이 없이, 당신은 항상 부끄러워하고, 주저하게 한다 , 그것이 ~을 어렵게 한다 / 당신이 기회를 잡기위한 기회로 도약하는 것을 / 당신이 기회를 잡았을 때)
+
+reluctant
+ : 주저하는 꺼리는
+
+leaf
+ : 도약하다, 건너뛰다.
+
+What’s worse is that these opportunities might have changed your life but you were too hesitant to grab it when you had the chance because you didn’t believe in yourself enough.
+( 악화되어 있는 것은 이 기회들이 당신의 삶을 변화시키는 것이지만 당시는 너무 주저해서 그것을 붙잡을 수 없다 / 당신이 기회를 얻었을 때 / 왜냐하면 당신 자신을 충분히 믿지 못하기 때문에)
+
+worse
+ : 더 나쁜, 악화되어 있는
+
+hesitant
+ : 망성이는, 주저하는, 우유부단한
+
+Without confidence, you never know what you could be missing out on, whether it is a potential chance to network for the betterment of your career, forge new friendships and even building important connections.
+(자신감 없이, 당신은 절대 ~을 할지 못한다 / 당신이 잃어버릴 수 있는 것, 그것이 잠재적인 기회인지 / 당신 경력의 더좋은 것으로 연결되는, 새로운 우정, 중요한 관계의 개발)
+
+forge
+ : 구축, 대장간
+   단조하다, 위조하다
+
 ---
 
 [목차]
