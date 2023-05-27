@@ -1640,6 +1640,226 @@ forge
  : 구축, 대장간
    단조하다, 위조하다
 
+#### Building Confidence with Positive Psychology
+
+Building unstoppable confidence is something everyone can do, no matter what your background or what you may have experienced in life thus far.
+(멈출 수 없는 자신감을 갖는 것은 모든 사람이 할 수 있다, 당신의 배경이 무엇이든지, 무서을 경험했든지 간에 상관 없이)
+
+The mind is a powerful thing, and if you can change your mindset, you can change your entire life.
+(이 마음은 강력한 것이다, 그리고 당신이 사고방식을 바꿀 수 있다면, 당신의 인생 전체를 바꿀 수 있다.)
+
+Dhammapada, the Buddhist text, says: “We are what we think and with our thoughts, we make our world.”
+(Dhammapada 가 말하길, 우리는 우리가 생각하는 것이고 우리의 생가과 같이 있다, 우리는 세상을 만든다")
+
+When you think you are confident, eventually you will be.
+(당신이 자신감이 있다고 생각할 때, 실재로 당신은 그럴 것이다.)
+
+You may not be quite as confident as you would like to be just yet, but that shouldn’t stop you from thinking like a confident person anyway.
+(당신이 아직 충분한 자신감이 없다, 그렇지만 그것을 멈춰야한 한다 / ~ 생각으로부터 / 어쨌는 자신감 있는 사람 같이)
+
+Socrates stated that “To find yourself, you must think for yourself.”
+(소크라테스는 언급했다 "너 자신을 찾아라, 너 자신에 대해 생각해야 한다.")
+
+Your thoughts can tremendously improve your quality of life, and there are several readings or teachings by some of history’s greatest and wisest that have cemented that notion.
+(당신의 생각들이 삶에서 거대하게 개선될 수 있다, 그리고 몇몇 책들이나 교육들 / 위대하고 현명한 역사 / 그 개념에 대해 굳어진)
+
+cement
+ : 굳히다, 시멘트
+
+In the Bible, for example, King Solomon said: “As a man thinks, so he shall be.”
+(성경에서 솔로몬 왕이 말하길 "사람은 생각함으로써 사람이 된다")
+
+Here are several positive psychology techniques you can begin implementing to start building your confidence:
+(여기에 몇가지 긍정적인 심리 기술들이 있다 / 당신이 구현을 시작할 수 있는 / 당신의 자심감 발달을 시작하는)
+
+**Be Proud of Your Strengths**
+(당신의 힘에 자부심을 가져라)
+
+A positive state of mind will always win out at the end of the day.
+(긍적적인 마음 상태는 항상 이길 것이다 / 그날의 끝에서 )
+
+It may require a lot more work since negativity has a stronger influence, but it always wins. Always.
+(그것은 많은 작업이 필요하다 / 부정성은 더 큰 영향력을 가졌기 때문에, 그래도 그것이 항상 이긴다. 항상)
+
+Our brains are naturally wired for negativity, and it takes the brain four times longer to store good things than bad.
+(우리의 뇌는 자연적으로 부정성에 대해 연결되어 있다, 그리고 그것은 취한다 / 뇌를 / 4번 / 좋은 것을 저장하기 위해 / 나쁜 것보다)
+
+We search for flaws before we focus on strengths, and we prefer to criticize before we complement them.
+(우리는 힘에 집중하기 전에 결점을 찾는다, 그리고 우리는 비평하기를 선호한다 / 그들을 보완하기 전에)
+
+flaw
+ : 결점, 결함
+
+complement
+ : 보완하다, 보충하다
+
+We’re instinctively drawn to negativity, and we don’t treat ourselves any differently.
+(우리는 본등적으로 부정성에 draw 된다, 그리고 우리 자신을 다르게 대우하지 않는다.)
+
+instinctively
+ : 본능적으로
+
+Your confidence lies in your ability to pay attention to your talents, your strengths, your achievements and the advantages you have to offer.
+(당신의 자존심은 당신의 능력에 달려 있다 / 당신의 재능에지불하는, 당신의 힘, 당신의 성취 그리고 조언 / 당신이 제공해야 하는)
+
+Commit time each day to remind yourself of your strengths to start boosting your confidence.
+(매일 시간을 약속하라 / 당신의 힘을 복기해줠 / 당신의 자존심을 끌어올리기 위해)
+
+**Separate from Your Weaknesses**
+(당신의 약점으로부터 분리시켜라.)
+
+This might be a little confusing, especially when we just talked about the importance of focusing on your strengths.
+(이것은 약간 혼란스럽울 수 있다, 특별히 / 우리가 단지 중요성에 대해 말했을 때 / 당신의 힘에 집중하는 중요성.)
+
+confusing
+ : 혼란수러운, 혼잡한
+
+While positive psychology demands that you focus on what’s good, the truth is negativity is not going to just magically disappear unless you do something about it.
+(긍정적 심리가 ~을 요구하는 동안에 / 당신이 무엇이 좋은지에 집중하는 것 / 부정적인 진실은 ~ 하지 않으려 한다 / 단지 마법같이 사라지다 / 당신이 그것에 대해 무언가를 하지 않는다면)
+
+Even the most confident people today have to battle to keep negativity at bay, and that includes developing the ability to separate themselves from their weaknesses.
+(대부분 오늘날 자신감 있는 사람들은 전쟁을 해야한다 / 부정성을 유지하기 위해 , 능력을 개발하는 것을 포함하는 / 그들의 약점으로부터 분리하는 능력)
+
+Once you have built that foundation of strengths to focus on, it’s time to identify what your weak spots are.
+(한번 당신이 그거에 집중하는 힘의 기초를 다졌다면, ~할 시간이다 / 당신의 약점이 무엇인 지 확인하는 )
+
+There will be some qualities you might never be able to change, and it’s okay to accept those flaws.
+(당신이 절대 바꿀 수 있는 몇가지 특질은 있을 것이다, 그런 약점들을 수용하는 것은 괜찮다.)
+
+Nobody out there is perfect, and you shouldn’t put that pressure on yourself to be flawless either.
+(완벽한 사람은 아무도 없다, 그리고 당신은 부담감을 가져서는 안된다 / 약점없이 되게하는)
+
+Greater strength comes from the ability to accept both your flaws and your weaknesses, and once you’ve identified the weak spots you can improve on, focus on ways to make them better.
+(더 위대한 힘은 ~로 부터 온다 /  당신의 결점과 약점을 모두 수용하는 능력, 그리고 한번 당신이 약점을 확인했다면 / 개선할 수 있는 약점, 그들을 더 좋게 만드는 것에 집중하라)
+
+**Visualize It**
+(그것을 보이게 하라)
+
+Visualize yourself as a confident person.
+(자신을 자신감있는 사람으로 보이게 하라)
+
+Imagine that you are now the one who can stride into a room with confidence and ease, unfazed by the strange faces because you’re confident in your ability to make connections.
+(~을 상상하라 / 당신이 지금 그 사람이라는 것을 / 성큼성큼 걸어갈 수 있는 / 자신감과 ease 와 함께 방으로 , 당황하지 않는 얼굴로 / 왜냐하면 당신은 자신감이 있기 때문에 / 관계를 만드는 당신의 능력에 대해)
+
+stride
+ : (자신감 있게) 성큼성큼 거다
+
+ease
+ : 편함, 안락함
+
+unfazed
+ : 냉정을 잃지 않는, 동요하지 않은, 당황하지 않은
+
+Since we are visual creatures by nature, feeding your subconscious with images makes it more vivid than words will.
+(우리는 자연적으로 시각적인 생물이기 때문에, 당신의 잠재의식에 이미지를 채우는 것은 말이 하는 것보다 점점 더 생생하게 된다.)
+
+vivid
+ : 생생한, 극명한, 발랄한
+
+Your mind can imagine anything you want it to.
+(당신의 마음은 어떤것이든 상상할 수 있다. / 당신이 원하는)
+
+There’s no limit to what the human imagination could be.
+(그것에는 제한이 없다 / 인간이 상상할 수 있는 것)
+
+If you can imagine all the worst scenarios in the world happening to you, then you’re more than capable of imagining the opposite too.
+(만약 당신이 당신에게 일어날 수 있는 가장 나쁜 시나리오를 상상한다면, 당신은 좀더 반대편으로 상상할 수 있다.)
+
+Imagination and visualization enhance your creative and cognitive function by encouraging you to envision new ideas and situations, which is a technique that can also be applicable in work and everyday life.
+(상상화 와 시각화는 당신의 창조적이고 cognitive 한 기능을 향상시킨다 / 용기를 북돋와줌으로써 / 새로운 아이디어와 상황을 envision 하는, 그것은 기술이다 / 응용할 수 있는 기술이다 / 직장과 매일의 삶에)
+
+cognitive
+ : 인지의, 인식의, 인식력 있는
+
+envision
+ : 상상하다, 마음에 그리다
+
+**Stop Comparing**
+(비교하는 것을 멈춰라)
+
+Comparison is a destructive habit, and it will do nothing to help the successful mindset you’re trying to build.
+(비교는 파괴적인 습관이다, 그리고 그것은 아무것도 못하게 할 것이다 / 당신이 만들고자 하는 성공적인 사고습관에 도움이 되는 )
+
+destructive
+ : 파괴적인, 해로운
+
+You’re unique and you have the potential to reach your own kind of success.
+(당신은 고유하고 잠재력을 가지고 있다 / 자신의 성공에 도달할 수 있는)
+
+There is no point in comparing yourself to someone else because the truth is, you’re never going to be that person.
+( 당신과 다른 누군가를 비교할 지점은 없다, 왜냐하면 그 진실은, 당신은 절대로 그 사람이 될 수 없기 때문이다.)
+
+You’re as unique as your thumbprint is.
+(당신은 고유하다 / 당신의 지문처럼)
+
+No two people are alike the same way no two sets of thumbprints will ever be alike.
+(같은 지문을 가진 두 사람은 없다.)
+
+It’s how we distinguish ourselves from the rest.
+(그것은 나머지들로부터 우리자신을 구분할 수 있는 방법이다.)
+
+rest
+ : 나머지, 휴식
+
+To become more confident, that little pernicious voice in your mind must be silenced.
+(좀 더 자신감을 가지기 위해서는, 당신 마음에 있는 사악한 목소리가 조용해져야만 한다.)
+
+pernicious
+ : 치명적인, 유해한, 사악한
+
+Your inner critic does nothing but complains, put your down and sow needs of negativity and doubt in your mind.
+(당신 내부의 비평은 붚평말고 아무것도 못한다,  당신 마음에 있는 부정성과 의심을 내려놔라.)
+
+sow
+ : (씨를) 뿌리다.
+
+You don’t need all of that in your life; it is not going to benefit you in any way.
+(당신 인생에서 모든것이 필요는 없다. 어떤 방식으로든 이익을 주지 않으려 한다.)
+
+Put a stop to the comparison and you’ll find that you’re much happier when you do.
+(비교하는 것을 멈춰라, 그리고 당신이 불평할때보다 더 행복한 것을 찾을 것이다.)
+
+**Look Confident**
+(자신있게 봐라)
+
+For the most part, we are unintentionally shallow.
+(대부분, 우리는 얄팍하다.)
+
+unintentionally
+ : 본의아니게
+
+shallow
+ : 얕은, 얄팍한
+
+The first judgments we make about others, and that very first impression we create are based on how they look and the way they carry themselves.
+(우리가 다른 사람들에 관해 만드는 선입견 과 첫 인상 / 우리가 생성한 / ~에 기반을 둔다 / 그들이 보는 방법과 그들 자신을 볼보는 방식)
+
+We all do it. We make our first assumptions based on looks before we even speak to each other.
+(우리는 모두 그것을 한다. 우리는 첫번째 가정을 한다 / 보이는 것에 기반하여 / 우리기 서로 말하기 전에)
+
+assumption
+ : 가정, 가설, 추측
+
+It’s just the way our brains are designed to work.
+(그것은 단지 우리의 뇌가 설계되어 있는 방식이다.)
+
+When you change your body language, start to act and look confident, it changes the way you’re perceived by others.
+(당신이 바디랭기지를 바꿀 때, 자신감이 있게 행동하라, 그것은 그 방식을 바꾼다 / 당신이 다른사람에게 인식되는 방식)
+
+More importantly, it changes the way you perceive yourself.
+(좀 더 중요하게, 그것은 당신 자신을 인식하는 방식을 바꾼다.)
+
+The simple act of standing up tall with your shoulders back immediately makes you behave with a lot more confidence.
+( 크게 일어서서 어께를 뒤로 젖히는 단순한 행동은 즉시 당신이 ~한 행동을 하게 한다 / 좀 더 자신감 있어 보이는 )
+
+By taking care of yourself, maintaining good hygiene so you always look and feel good, you’re sending a message to yourself and the rest of the world that you’re confident and comfortable in your own skin.
+(당신 자신을 돌봄으로써, 좋은 건강을 유지하는 / 그래서 당신은 항상 좋게 보인다, 당신은 자신에게 메시지를 보내고 있다 / 세상에 나머지 / 당신이 자신감있고 안락한 사람이라는 메시지 / 당신의 얼굴에서)
+
+hygiene
+ : 위생, 보건, 건강법, 청결
+
+#### Chapter 6: Step 6 – Create Your Perfect Routine with Habit Stacking
+
 ---
 
 [목차]
