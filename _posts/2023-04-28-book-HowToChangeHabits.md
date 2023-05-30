@@ -1860,6 +1860,53 @@ hygiene
 
 #### Chapter 6: Step 6 – Create Your Perfect Routine with Habit Stacking
 
+The forming and creation of new habits is the most challenging part of the process.
+(새로운 습관의 형성과 창조는 프로세스의 가장 도적적인 부분이다.)
+
+We all want to do things better, to be better, to do this more efficiently, be more productive.
+(우리는 모두 ~ 하기를 원한다 / 일을 더 잘하기를, 더 좋게 되기를, 더 효율적으로 하기를, 더 생산적이 되기를)
+
+Yet, as well-meaning as our intentions are, we often struggle to bring them to fruition because new habits are hard to stick to in the beginning.
+(그러나 우리의 의도가 선의에 ?, 우리는 종종 성과를 가져오는데 분투한다 / 왜냐하면 새로운 습관이 시작할때 들지 않기 때문에 )
+
+well-meaning
+ : 선의에 의한, 선의의, 악의없는
+
+intention
+ : 의도, 의사, 의향
+
+fruition
+ : 결실, 성과, 실현
+
+Building a new habit is hard, but building a consistent routine?
+(새 습관을 들이는 것은 어렵다, 그러나 루틴을 유지하는 것은?)
+
+Well, that’s even harder.
+(그렇다, 그것은 더 어렵다.)
+
+If you think about it, you have a lot of behavioral patterns right now where you go through the motions without really thinking about it.
+(만약 당신이 그것에 대해 생각한다면, 당신은 많은 행동적인 패턴을 가져야 한다/ 당장 / 당신이 어디로 가든지 / 움직임을 가져야 한다 / 그것에 대해 생각하지 말고)
+
+When you wake up, you brush your teeth and have a shower without thinking about it.
+(당신이 일어났을 때, 당신을 이를 닦고, 샤워를 한다 / 그것에 대한 의식 없이)
+
+You make your morning cup of coffee and breakfast without thinking about it.
+(당신은 아침 커피와 식사를 준비한다 / 그것에 대한 의식 없이)
+
+You get ready to head out the door and start your day without thinking about it.
+(당신은 밖으로 나가서 일과를 시작한다 / 그것에 대한 의식 없이)
+
+These routines and habits have become so common that we go through them on autopilot.
+(이 루틴들과 습관들은 너무 일상적이어서 우리는 자동으로 수행한다.)
+
+autopilot
+ : 자동조종장치(=automatic pilot)
+
+**There are probably thousands of other habits that you’re not paying attention to or aware of, but you can take advantage of these already formed habits to create new habits using a technique called habit-stacking.**
+(아마도 수천가지 다른 습관들이 있다 / 당신이 주의를 하지 않거나 알지 못는, 그러나 당신은 이러한 이미 만들어진 습관들을 이용할 수 있다. / 새로운 습관을 만들기 위해 / 습관쌓기라 불리는 기술을 사용하면서)
+
+#### What Is Habit-Stacking?
+
 ---
 
 [목차]
