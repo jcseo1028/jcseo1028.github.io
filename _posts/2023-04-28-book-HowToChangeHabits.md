@@ -1907,6 +1907,104 @@ autopilot
 
 #### What Is Habit-Stacking?
 
+It is a simple and easy concept that anyone can integrate into their lives.
+(그것은은 간단하고 쉬운 개념이다 / 아무나 그들의 삶 안으로 쌓을 수 있는)
+
+Habit stacking works by first identifying an existing habit, and adding a new habit on top of that existing habit.
+(습관 쌓기는 수행한다 / 존재하는 습관을 우선 인식함으로써, 그리고 추가함으로써 / 새로운 습관을 / 존재하는 습관 위에)
+
+Let’s take three habits you’re already doing as an example.
+(당신이 이미 하고 있는 3가지 습관이 있다고 하자 / 예를 들어)
+
+These three habits are turning off your laptop when you’re done for the day, making a cup of coffee, and taking a shower.
+(이 3가지 습관은 당신이 일을 마쳤을 때, 랩탑을 끄고, 커피를 만들고, 샤워를 하는 것이다.)
+
+These are habits you do on a daily basis without even being told twice or having to think about it, so these are your existing habits.
+(이것들은 습관들이다 / 당신이 매일 기본적으로 하는/ 두번 말하지 않거나 그것에 대해 생각하지 않으면서, 그래서 이것들은 당신이 가지고 있는 습관이다.)
+
+Now, three new habits that you’re thinking about implementing are exercising, more meditation, and reading more books.
+(이제 새로운 3가지 습관은 / 당신이 구현하려고 생각하는 / 운동, 명상, 독서 이다.)
+
+Habit-stacking requires that you link your new habit to the existing one.
+(습관 쌓기는 ~을 필요로 한다 / 당신의 새로운 습관을 기존의 것과 연결시기는 것을)
+
+Here’s what introducing those new habits into your existing habit routine might look like:
+(여기에 ~이 있다 / 새로운 습관을 존재하는 루틴에 넣는 방법)
+
+I will exercise for 30-minutes before I shower.
+(나는 30분동안 운동할 것이다 / 샤워하기 전에)
+
+Once I’m done with the shower, I will meditate for 5-minutes before I make my morning cup of coffee.
+(샤워를 마치고, 나는 5분동안 명상할 것이다 / 커피를 만들기 전에)
+
+Before I turn off my laptop at the end of the day, I will read one chapter of my chosen eBook before I turn it off.
+(랩탑을 끄기 전에 / 일과를 종료할 시점에, 나는 내가 선택한 e-book의 한 챕터를 읽을 것이다 / 랩탑을 끄기 전에)
+
+Essentially, what you’re trying to do is make an existing habit a trigger for your new habit.
+(기본적으로, 당신이 시도하려고 하는 것은 존재하는 습관을 새로운 습관을 위한 트리거로 만드는 것이다.)
+
+You can choose to execute this new habit either before or after your existing habit, as long as it works for you.
+(당신은 ~을 선택할 수 있다 / 이 새로운 습관을 실행하는 것 / 기존 습관의 앞이나 뒤에 / 당신에게 효과가 있는 한)
+
+The key thing is to link a new habit to an existing one, so there’s a correlation or a flow to the routine, and it doesn’t feel too unnatural.
+(중요한 것은 새로운 습관을 기존의 것과 연결하는 것이다, 그래서 그 루틴으로의 상호관계나 몰입이 있다면, 그렇게 부자연스럽게 느끼지는 않는다.)
+
+correlation
+ : 상호관계, 상관
+
+flow
+ : 유동, 흐름, 몰입
+
+These slight tweaks to your routine might not seem like a big deal initially, but the point of any habit is to make it a habit in the first place.
+(당신의 루틴에 대한 사소한 조정은 초기에 큰 거래처럼 보이지 않는다, 그렇지만 어떤 습관의 포인트는 처음에 습관으로 만드는 것이다.)
+
+slight
+ : 약간의, 사소한
+
+tweak
+ : 비틀기, 조정
+
+Successful people are likely to achieve more because they have the discipline and drive to keep moving forward and to never give in or up.
+(성공적인 사람들은 좀더 성취하기 쉽다 / 왜냐하면 그들은 규율을 가지고 있고 유지를 잘하고, 절대 포기하지 않기 때문에)
+
+be likely to
+ : ~ 하기 쉽다.
+
+They have created helpful habits and they stick to them.
+(그들은 유용한 습관들을 만들었고, 몸에 달라붙게 했다.)
+
+Building healthy, productive habits is a vital element to a changed and successful life.
+(건강을 유지하고, 생산적인 습관은 생명력있는 요소다 / 변화되고 성공적인 인생에)
+
+Why do your habits need to change or improve for greater success?
+(왜 당신의 습관을 바꾸거나 개선하려고 하는가 / 좀 더 위대한 성공을 위해?)
+
+Because every decision and action you take will affect you both mentally and physically.
+(왜냐하면 모든 결정과 행동은 / 당신이 취하는 당신에게 영향을 줄 것이기 때문이다 / 정신적, 육체적으로)
+
+We fail to realize how easily we can be weighed down by harmful and unproductive habits.
+(우리는 ~을 인식하는것을 실패한다. / 얼마나 쉽게 살이 빠질 수 있는지 / 해롭고 비생산적인 습관에 의해)
+
+With habit-stacking, you can add as many new habits to the existing ones as you want.
+(습관쌓기와 함께, 많은 새로운 습관을 추가할 수 있다 / 당신이 원하는 습관을)
+
+Once the new routines you’ve implemented, go ahead and add a new one.
+(일단 새로운 루틴이 구현되면, 계속 새로운 것을 추가하라)
+
+Keep adding as many as you want until you’ve successfully created a productive routine for yourself.
+(당신이 원하는 것만큼 많이 추가해라 / 당신이 성공적으로 생산적인 루틴을 만들때까지 / 당신을 위해)
+
+Why is habit-stacking so effective?
+(왜 습관쌓기가 그렇게 효율적인가?)
+
+Because it’s easy to implement.
+(왜냐하면 구현하기 쉽기 때문이다.)
+
+The number one rule of new habit formation is that it has to be easy; otherwise, you’re going to find very little motivation to stick to it.
+(새로운 습관형성의 1가지 규칙은 쉽다는 것이다; 달리말하면, 당신은 매우 작은 동기부여만 찾으면 된다/ 새로운 습관을 몸에 베게 하기 위해)
+
+#### How to Create a New Routine with the Habit-Stacking Technique
+
 ---
 
 [목차]
