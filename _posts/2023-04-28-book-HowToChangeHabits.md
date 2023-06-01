@@ -2005,6 +2005,111 @@ The number one rule of new habit formation is that it has to be easy; otherwise,
 
 #### How to Create a New Routine with the Habit-Stacking Technique
 
+A routine gives you a sense of purpose.
+(루틴은 당신에게 목적감을 준다.)
+
+It gives you a sense of control that reminds you that you’re in charge of everything that happens in your life from the minute you open your eyes in the morning.
+(그것은 당신에게 제어감각을 준다 / 당신이 모든일에 관여하고 있다는 것을 상기시켜 주는 / 당신의 삶에서 발생하는 / 아침에 눈을 떴을때부터)
+
+in charge of
+ : 책임이 있는, 담당하는, 관리하는
+
+You decide what you want to do, where you want to go, what you’re going to eat, who you speak to, how you get from one place to the next, how long you spend on each task.
+(당신은 원하는 것을 하기로 결정한다 / 어디에 가고 싶은지, 무엇을 먹을 것인지, 누구에게 말할 것인 지, 다음에 무엇을 어떻게 얻을 것인지, 얼마나 길게 각각의 임무를 소비할 것인지)
+
+Instead of mindlessly going about your day, you’re being deliberate about it.
+(당신에 일상에 관해 생각없이 지내는 대신에, 그것에 관해 심사숙고해야한다.)
+
+A productive routine is one of the best things you can do to improve yourself, and you don’t have to go very far to see evidence of its success.
+(생산적인 루틴은 최고의 것중에 하나이다 / 당신이 자신을 개선하기 위해 할 수 있는, 그리고 멀리 갈 필요가 없다 / 정공의 증거를 보기 위해)
+
+It’s in every single successful person out there who is making their mark in the world and leaving a legacy behind.
+(세상에 이름을 떨치고 유산을 남기는 것은 성공한 모든 사람들에게 있다.)
+
+legacy
+ : 유산, 업적, 유물
+
+**A Fixed Sleep and Wake Time**
+(고정된 취침과 기상 시간)
+
+Going to bed and waking up is an existing habit.
+(취침과 기상은 존재하는 습관이다.)
+
+What you’re trying to do now is implement a better, more effective routine by having a fixed sleep and wake time to maximize your productivity.
+(당신이 지금 시도하려고 하는 것은 더 좋게 구현하고, 좀 더 효율적인 루틴을 만드는 것이다 / 고정된 취침과 기상 기산을 가짐으로써 / 생산성을 극대화하기 위해.)
+
+Aim to get 7-8 hours of sleep every night, and you can do that by going to bed at a certain time every night and waking up at the same time each morning if you’re not already doing that.
+(매일 7~8시간 자는 것을 목표로, 당신은 ~을 할수 있다 / 저녁에 특정시간에 자러 가고, 매일 아침 같은 시간에 일어나는 것을 / 만약 당신이 그렇게 하고 있지 않다면)
+
+Ensure that your sleeping window is sufficient for what your body needs to function at its best.
+(취침시간을 보장하는 것은 중분하다 / 당신의 몸이 최고의 기능을 발휘하는 데 필요한 것을 위해)
+
+**Positive Morning Mantra**
+(긍정적인 아침 기도)
+
+mantra
+ : 주문, 만트라, 기도
+
+As Jim Rohn so aptly put it:
+(Jim Rohn이 다음과 같이 적절하게 표현했다.)
+
+aptly
+ : 적절하게
+
+“Either you choose to run the day, or the day will run you.”
+(당신이 하루를 달리게 선택하거나, 하루가 당신을 달리게 할 것이다.)
+
+Begin each day with a positive mantra that inspires you to get moving.
+(매일 긍정적인 기도로 시작하라 / 당신을 움직이는데 감명을 주는)
+
+This puts you in the right kind of mindset that you need to face the challenges of the day ahead with your best effort.
+(이것은 긍정적인 사고방식을 표현한다 / 당신이 도전에 직면하는데 필요한 / 매일 당신의 최선의 노력과 함께)
+
+**Regular Mealtimes**
+(규칙적인 식사시간)
+
+This may seem like an unnecessary measure, but this is why you should aim to have regular mealtimes when you can.
+(이것은 불필요해 보일지도 모른다, 그렇지만 이것은 ~ 때문이다 / 당신은 규칙적인 식사시간을 목표해야 한다 / 당신이 할 수 있을때)
+
+Without a fixed mealtime, you could run the risk of skipping, starving, gorging, or binging when your schedule becomes too hectic, and you’re caught up in the workflow of the day.
+(규칙적인 식사 시간 없이, 당신은 위험을 안을 수 있다 / 건너뛰고, 굶거나, binging / 당신의 일정이 너무 빡빡할 때, 그리고 당신이 일상의 흐름에 잡혀있을 때)
+
+starve
+ : 굶기다, 굶주리다
+
+gorge
+ : 폭식, 골짜기
+
+bing
+ : 빙종, 독방
+
+hectic
+ : 몹시 바쁜, 매우 흥분한
+
+If it happens more than once a week, it’s a problem.
+(이런 일이 일주일에 한번이상 발생하면 문제다.)
+
+These practices are not productive habits because they put your body through emotional and physical highs and lows that often result in you crashing and burning out prematurely.
+(이러한 연습들은 생산적이지 않은 습관들이다 / 그들은 당신의 몸을 정신적 육체적 고저점을 만나게 한다 / 종종 부서지거나 너무 이르게 번아웃되는 결과)
+
+prematurely
+ : 너무 이르게
+
+Stack on your existing habit of eating every day to now eating at a fixed time each day.
+(당신의 존재하는 습관에 쌓아라 / 고정된 시간에 식사를 하는 습관)
+
+Fuel your body the healthy way with regular mealtimes.
+(당신의 몸을 건강한 방식으로 충전하라 / 규칙적인 식사시간과 함께)
+
+Your diet should include options from the required and recommended nutritional food groups to help keep the body and mind performing in optimal condition.
+(당신의 다이어트에는 옵션이 포함되어야 한다 / 요구되고 추천되는 자연식 / ~을 유지하는데 도움을 주는 / 몸과 마음 / 최적의 조건에서 수행하는)
+
+Avoid fad or extreme diets as they almost always never work.
+( 유행하거나 급격한 다이어트는 피해라 / 그것들은 항상 절대로 거의 효과가 없다.)
+
+fad
+ : 일시적 유행, 붐
+
 ---
 
 [목차]
