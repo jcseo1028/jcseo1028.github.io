@@ -2110,6 +2110,83 @@ Avoid fad or extreme diets as they almost always never work.
 fad
  : 일시적 유행, 붐
 
+**Being More Mindful with Your Choices**
+(당신의 선택에 좀 더 신경을 쓰라)
+
+mindful
+ : 주의하는, 신경을 쓰는
+
+A lot of the choices in that fill our everyday routine are done automatically without much thought going into it because we do it so often, we don’t even notice it anymore.
+(우리의 일상을 채우는 많은 선택들은 자동으로 종료된다 / 생각 없이 / 왜냐하면 우리가 그것을 너무 자주해서 더이상 알아차리지도 못하기 때문이다.)
+
+Hitting the snooze button on the alarm is done without thinking, an almost automatic reaction when you hear that familiar buzz in the morning.
+(알람시계의 정지 버튼을 누르는 것은 생각 없이 행해진다, 거의 모든 자동 반응 / 당신이 ~을 들었을 때 / 아침에 친숙한 buzz 를 )
+
+snooze
+ : 졸다, 자명종, 낮잠
+
+buzz
+ : 신호음
+
+Brushing your teeth or taking a shower is not something you spend a lot of time thinking about.
+(이를 닦거나 샤워를 하는 것은 당신이 많은 시간 그것에 관해 생각하는 무언가는 아니다.)
+
+Instead of reacting to them automatically, force yourself to stop and think if this is the right way to react.
+(그것들에 자동적으로 반응하는 대신에, 멈춰서 생각하라 / 만약 이렇게 반응하는 것이 올바른 방향인지)
+
+Is there a better way to do this?
+(이것을 하는데 더 좋은 방법이 있을까?)
+
+Actively deciding on what you need to do, making each choice a conscious one rather than leaving it up to your subconscious to take the wheel, put you into the habit of learning how to keep an eye out for opportunities to improve.
+(활동적으로 ~을 정하는 것 / 당신이 하려는것, 의식적인 하나의 선택을 하는것 / 잠재 의식에 남겨놓는 것보다 / 휠을 취하다 / 배우는 습관을 얻어라 / ~한 방법 / 당신의 눈을 개선할 기회를 찾는데)
+
+**Grouping Similar Tasks**
+(유사한 임무를 그루핑하라)
+
+Another new, easy to implement habit-stacking step to introduce in your existing routine is to minimize the chaos in your daily routine by creating a structure to follow.
+(또다른 새롭고 쉬운 방법은 / 습관쌓기를 하기 위한 / 당신의 존재하는 루틴 안으로 / 혼돈을 최소화 하는 것이다 / 당신의 일상 루틴 안에서 / 구조적으로 창조함으로써)
+
+Group similar tasks or items together so you can get them done all at once.
+(유사한 임무나 항목은 함께 그룹화하라 / 그래서 당신이 그것을 모두 한번에 처리할 수 있도록.)
+
+For example, if you allocate 20-minutes in the morning to catch up on emails and you’ve got your work and your personal emails, do them both within this 20-minute time block, so you get the task over and done with for the rest of the day.
+(예를 들어, 만약 당신이 20분을 할당했다면 / 아침에 / 회사 메일과 개인메일을 확인하는데, 그들 모두를 20분 안에 처리하라, 그래서 남은 시간을 여가를 위해 사용하라.)
+
+Plan the essential routines that need to happen for the day to be considered productive.
+(근본적인 루틴을 계획하라 / 발생하는데 필요한 / 생산성이 고려된 하루를 위해)
+
+Everything else can wait.
+(모든것은 기다릴 수 있다.)
+
+Efficient, time-saving and essential to keeping your productivity levels up.
+(효율성, 시간절약, 생산성을 유지하는 특별한 것들은 레벨업한다.)
+
+The key to making the habit-stacking method work is to make sure you stack your new habits on top of your existing habits.
+(습관쌓기를 만드는 요점은 ~을 확실하게 하는 것이다 / 당신이 새로운 습관을 기존 습관에 딱 달라붙게 하는 것)
+
+The old habits are meant to act as triggers for your new behavior.
+(기존 습관은 동작하게 된다 / 새로운 습관을 위한 트리거로써)
+
+If it doesn’t, the attempt at implementing new habits might not work as well as you hoped it would.
+(만약 그렇지 않다면, 새로운 습관을 만들려는 시도는 당신이 원하는 만큼 잘 동작하지 않을 것이다.)
+
+It’s important that you stack the new habits on top of the existing habits you were already carrying out without any effort and without fail.
+(~은 중요하다 / 당신이 새로운 습관을 기존 습관의 위에 쌓는 것 / 당신이 이미 특별한 노력없이 하고 있는 습관)
+
+Introducing new habits may feel overwhelming and strange at first, but once you do it a few times and start getting used to it, it’s not as hard as you think.
+(새로운 습관을 들이는 것은 처음엔 당황되고 어색하다, 그렇지만 일단 그것을 몇번 하고 익숙해지기 시작하면, 당신이 생각하는 것 만큼 어렵지 않다.)
+
+overwhelm
+ : 압도하다, 사로잡히다, 흥분하다
+
+Start small and then slowly build on your routine from there after you get used to it.
+(작게 시작하라 그러면 천천이 당신의 루틴이 개발된다 / 당신에게 익숙해지도록)
+
+Another thing to keep in mind is to make the new habit you’re trying to introduce as small and as effortless as possible, so you have no excuse not to do it, even if you’re tired.
+(다른 유지하기 위한 것은 새로운 습관을 만드는 것이다 / 당신이 습관들이기 시도하려는 / 가능한 노력이 덜 들어가는 작은 습관 / 그래서 죄책감이 들지 않는다 / )
+
+#### Chapter 7: Step 7 – Track Your Progress
+
 ---
 
 [목차]
