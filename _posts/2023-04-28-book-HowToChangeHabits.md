@@ -2187,6 +2187,206 @@ Another thing to keep in mind is to make the new habit you’re trying to introd
 
 #### Chapter 7: Step 7 – Track Your Progress
 
+Not only are habits notoriously difficult to build, getting them to stick is just as difficult of a challenge.
+(습관은 생성하기에 악명 높게 어려울 뿐만 아니라, 그들을 유지하는 것도 도전하기 어렵다.)
+
+notoriously
+ : 악명 높게
+
+This is exactly why you need to give yourself time to adapt and take things nice and slow.
+(이것은 사실 당신이 자신에게 적응하고 멋지고 느리게 취하는데 필요한 이유이다.)
+
+Don’t spread yourself too thin, don’t bite off more than you can chew, and most importantly, track your habit-building progress.
+(너무 얋게 자신을 펼치지 마라, 당신이 씹을 수 있는 것보다 더 크게 물지 마라, 가장 중요하게, 당신의 습관 형성 진행 상태를 추적하라.)
+
+If there is one thing we all can’t deny, it is when evidence is staring us in the face.
+(만약 우리가 부인할 수 없는 한가지가 있다면, 그것은 언제 증거가 우리를 staring 하는 것이다/ 정면으로)
+
+stare
+ : 쳐다보다, 응시하다.
+
+This is why you have goals that you’re accountable for, and why you track your progress and your success.
+(이것은 당신이 목표를 가진 이유이다 / 당신이 accout 할 수 있는, 당신이 진행상태와 성공을 추적하는 이유이다.)
+
+accountable
+ : 책임이 있는, 설명할 수 있는
+
+For this very reason. To create concrete proof that you are capable of so much more than you know, and if you got rid of those limiting beliefs, the sky’s the limit when it comes to your accomplishments.
+(이런 이유로, 탄탄한 증명을 창조하기 위하여 / 당신이 아는 것보다 더 많은 것이 가능하다는 증명, 그리고 제한된 믿음을 제거한다면, 하늘이 제한이다 / 당신이 성취에 도달했을때)
+
+concrete
+ : 구체적인, 확실한, 탄탄한
+   콘크리트
+
+proof
+ : 증거, 증명
+
+Each time you begin to doubt yourself, fall back on your past track record of success and look just how much you’ve managed to accomplish.
+(매 시간 / 당신이 자신을 의심하기 시작하는, 뒤로 돌아가다 /과거 성공의 기록 / 단지 봐라 / 얼마나 많은 성취를 관리하고 있었는지)
+
+You now need to take that same approach with your attempts to change your habits.
+(당신은 이제 ~을 취할 필요가 있다 / 같은 접근을 / 시도화 함께 / 당신의 습관을 바꾸는)
+
+It is okay to work on just one habit at a time if that is the approach that works best for you.
+(한번에 단지 한 습관만 작동해도 괜찮다 / 그것이 당신을 위해 제대로 작동하는 접근이라면)
+
+Sometimes, all it takes is one habit to kickstart a whole chain of other positive habits that you build on top of each other until they create a productive routine.
+(때때로, 그것이 취하는 모든 것은 한 습관이다 / 전체 긍정적인 습관 연결고리를 촉진하는 / 당신이 다른 것들의 최상위헤 개발한 / 그들이 생산적인 루틴을 창조할 때까지)
+
+kickstart
+ : 시동기, 시동방법
+   촉진하다
+
+The trick is to get that one habit to stick first.
+(요령은 강력한 첫번째 습관을 얻는 것이다.)
+
+trick
+ : 요령, 속임수
+   속이다.
+
+#### How to Track Your Progress
+
+Everyone who has ever started a New Year’s Resolution, a new goal, or a new habit will set out with the intention of sticking to that habit long-term.
+(모든 사람들은 / 새해 결심을 시작해본, 새로운 목표, 새로운 습관 / ~한 의도로 목표를 정할 것이다. / 긴 기간의 습관)
+
+intention
+ : 의도, 의사, 의향
+
+When you get dressed and put on your new workout clothes, ready to head out the door on Day 1 of your new exercise habit, your mind is already jumping forward, imagining yourself at the end of 6-months when you’ve successfully lost the weight that you set out to do.
+(당신이 새로운 운동복을 입었을 때, 문밖으로 나갈 준비를 한다 / 새로운 운동계획의 첫날에, 당신의 마음은 이미 앞으로 날고있다, 자신의 6개월의 끝을 상상하며 / 당신이 성공적으로 몸무게를 감량했을 때 / 당신이 하기로 정한)
+
+The intention to do it is right there, but sticking to a new habit is harder than it looks.
+(그것을 하려는 의도는 바로 거기에 있다, 그렇지만 습관을 몸게 베게하는 것은 보기보다 어려운 일이다.)
+
+Some days you might be too tired to workout.
+(며칠 후 당신은 너무 피곤해서 운동하러 가지 않을지도 모른다.)
+
+Other days, you might not be in the mood because you’ve had a bad day.
+(다른 날들, 기분이 좋지 않을 수 있다 / 왜냐하면 나쁜날이기 때문에)
+
+Maybe you’re too busy, or something’s come up, and you can’t squeeze a workout in.
+(아마도 너무 바쁘거나 무언가 다른 일이 있으면, 당신은 운동하러 압박하지 않을 수 있다.)
+
+squeeze
+ : 압착하다, 짜낸다, 압박하다
+
+With all the distractions and the many possible things that could happen which distract you from your workout routine, many people eventually give up on their new exercise routine long before they reach the 6-month milestone.
+(모든 방해와 많은 방해받을 일들과 함께 / 발생할 수 있는 / 당신의 운동 루틴을 방해할 수 있는 것 / 많은 사름들은 결국 그들의 새로운 운동 계획을 포기한다. / 그들의 6개월의 이정표에 도달하기 전에)
+
+One way to ensure that your well-intended habits stick around until you’ve achieved the results you want?
+(한가지 방법이 있을까?/ ~을 보장하는 / 잘 의도된 습관 / 당신이 원하는 결과를 도달할때까지 )
+
+Tracking your habit-building progress.
+(당신의 새로운 습관 형성 진행을 추적하는 것이다.)
+
+Having goals alone is not going to produce you with the results that you want.
+(혼자 목표를 갖는 것은 생산하지 않을 것이다 / 당신이 원하는 결과를)
+
+Your goal may be to create a new habit that you’re going to stick to for the next several years, but are you accountable for that goal?
+(당신의 목표는 아마도 새로운 습관을 만드는 것이다 / 당신이 다음 몇 년을 위해 유지하고자 하는, 그러나 그 목표에 책임이 있나?)
+
+Having accountability here means that you, and you alone, are responsible for whether that goal becomes a reality or not.
+(책임감을 갖는다는 것은 ~을 의미한다 / 당신이 책임감이 있다는 것을 / 그 묙표가 실현되는 실패하는)
+
+Accountability means you are responsible for ensuring the success of that goal, you own that goal, and you take pride in know that this goal is only going to make you better, stronger and more successful when it’s done.
+(책임은 ~을 의미한다 / 당신이 그 목표의 성공을 보장하하는 것을 담당하는 것, 당신이 그 목표를 소유하고, 당신은 긍지를 가지고 / 이 목표가 오직 당신을 더 좋게 , 더 강하게, 더 성공적으로 만든다 / 그것을 해냈을 때)
+
+accountability
+ : 책임, 의무, 책무
+
+As Peter Drucker once said: “What gets measured, gets managed.”
+(Peter Drucker 가 말한다 "무엇이 측정되고 관리되는가?)
+
+By keeping a record of your progress, you motivate yourself to keep moving forward.
+(당신의 진행 기록을 유지함으로써, 당신은 앞으로 계속 유지하도록 동기부여가 된다.)
+
+Admittedly, habit-tracking methods can sometimes be intimidating.
+(확실히, 습관추적 방법은 때때로 두려워할 수 있다.)
+
+admittedly
+ : 틀림없이
+
+intimidate
+ : ~을 두려워하게 하다, 겁먹게 하다.
+
+Some habit-tracking apps, for example, are designed to track your habit indefinitely.
+(몇몇 습관 추적 앱은, 예를 들어 / ~하도록 설계되었다 / 당신의 습관을 indefinitelly 하게 추적하도록)
+
+indefinitely
+ : 무기한으로, 막연히, 막연하게
+
+Now, some people might be okay with this, while others might be uncomfortable and find it intimidating since they’re not sure how long they want to keep the new habit going for just yet.
+(이제 몇몇 사람들은 이게 괜찮을 수 있다 / 다른 사람들이 불안해하고 두려와하는 동안에, 그들이 ~을 확신아지 않아서 / 얼마나 오래 새로운 습관을 유지하기를 원하는지)
+
+Another disadvantage with habit-tracking apps is that sometimes, one missed target or goal throws off your entire streak, which can cause a lot of pressure and stress.
+(습관 추적 앱의 또 다른 불이익은 때때로 타겟이나 목표를 잃어버린다 / 당신의 모든 연속 / 많은 압력과 스트레스를 일으킬 수 있는)
+
+streak
+ : 연속, 계속
+
+While this is supposed to be motivating (and for some people it is), some might find it more stressful than anything else because missing one streak makes them feel like they’ve wasted all that time for nothing, and they have to start all over again from the beginning.
+(이것이 동부부여 하고 있는 동안에, 무언가 더 많은 스트레스인 걸 안다/ 하나의 계획을 잃어버리는 것은 그들이 시간을 낭비했다고 느끼게 만든다, 그리고 그들은 다시 시작해야만 한다 / 처음부터)
+
+Having to force themselves to keep up with the streak is another kind of pressure too, and it can lead to a lot of frustration when the habit feels “forced” instead of something that you voluntarily wanted to start to begin with.
+(그들은 압박하는 것은 / 그 계획을 유지하도록 / 또 다른 형태의 압박이 될 수 있다 , 그리고 그것은 많은 좌절을 이끌 수 있다 / 습관이 강제적이라고 느꼈을 때 / 당신이 자발적으로 시작하는것을 원하는 것 대신에)
+
+voluntarily
+ : 자발적으로
+
+Still, you need a measurable method of tracking your progress so you can see the changes that are taking place.
+(여전이 당신은 측정가능한 방법을 필요로 한다 / 당신의 진행 상태를 추적하기 위한/  그래서 당신의 변화를 볼 수 있다.)
+
+The key is to find a tracking system or app that works for you.
+(요점은 당신에게 맞는 시스템이나 앱을 찾는 것이다.)
+
+Luckily, we live in a world of options these days, and if one type of app or system does not work for you, there’s always something else you can try, and these are some of the options you can consider:
+(행복하게도, 우리는 이러한 옵션들이 많은 곳에 산다. 만약 어떤 타입의 앱이 당신에게 맞지 않는다면, 다른 것을 찾아 시도해보면 된다, 그리고 몇 가지 당신이 고려할 수 있는 것들이 아래에 있다.)
+
+**Habitica**
+For those who love taking things to the next level, you’ll love Habitica.
+This app lets you turn your life and your goals into a bonafide video game.
+Habitica is basically a role-playing game with habit tracking elements built into its features.
+Instead of just working on yourself, you’re doing that while working on building a character in the game.
+You get to go on quests, collect gear, meet with other characters, and a lot of other fascinating features.
+This app might not be for everyone, though, because there are a lot of elements going on here.
+If you’re not into the gaming scene, this might not be the best app for you.
+
+**Habitify**
+This well-designed app is a combination of simplicity and an attractive layout that makes it easy to use.
+Available across several platforms, both Android and iOS users can benefit from the features in this motivating and rewarding habit-tracking system.  
+
+**HabitHub**
+This Android exclusive app gives users the ability to have goals for their habit streaks, which is perfect for you if you don’t know how long you intend to maintain a certain habit just yet.
+For example, you could set up 2-week challenges or 30-day challenges instead of tracking a habit indefinitely.
+This app also gives you the ability to mark a habit as “skip” instead of “failed,” and you get to add notes about why you had to skip the habit on a certain day.
+
+**Today**
+An iOS exclusive app, Today is an app that is perfect for those who love aesthetics and find the aesthetic appeal something of a motivating factor for them.
+Add habits, check them off your list, do multiple check-ins a day, and for each habit that you set; you can add what is known as custom cards to the data portion of the habit.
+For example, you can pull in your Apple Health data and add the information from that to the habit you’ve set up for a better overall snapshot of what your progress is like.
+
+**Beeminder**
+This app allows you to essentially put money on the line to ensure that you actually stick to your habits.
+In a way, it is forcing you to be a lot more productive and consistent with your habits by adding that financial incentive to do so and if you think this is a system that you need to give yourself that extra push not to give up on a habit, Beeminder might the one for you.
+
+**TickTick**
+This one is a full-fledged task management and to-do app.
+The habit tracker feature is integrated into the app, making it easy to have all your to-do lists, habit tracking, and task management systems under one roof, so to speak.
+
+**Coach.me**
+The instant coaching app for any goal that you’ve set, in this case, the goal of sticking to a new habit.
+As the name would imply, there is indeed a coaching component to the app, for those who need a little extra push.
+At its core, this app is a very capable habit tracker, but there is also a community element to this app in the form of coaching and community discussion boards.
+For any habit that you add to your list and let’s say it is a common habit, there are going to be questions and discussion threads for those questions from other users too.
+You can use those to stay motivated, get tips, maybe even offer some suggestions of your own that have worked for you in the past if you see someone struggling with the same problem.
+Personalized check-ins with coaches are also available for a very affordable price if you need that feature to help you along.
+
+**Strides**
+Another iOS-exclusive app, Strides is fast, snappy, and easy to use.
+Strides is a little more flexible than Habitify when it comes to the types of goal options you can set up.
+You can create streak goals like 30-day challenges, or set up goals to be “yes” or “no” goals, and set up goals that you can track based on whether you did them or not based on a certain quantity of things.
+For example, if your goal was to make it a habit walk 10,000 steps a day, that could be one quantity habit goal that you set up, and you can check it off your list each day based on whether you accomplished this goal or not.
+
 ---
 
 [목차]
