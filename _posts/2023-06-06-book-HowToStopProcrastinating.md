@@ -102,6 +102,101 @@ That is why in order to fight procrastination, you have to find ways of getting 
 
 #### Stop Exaggerating
 
+It is very easy for apprehension to turn into anxiety, and if you notice that happening with you, then you have to realize that you are catastrophizing.
+(불안이 두려움으로 바뀌는 것은 매우 쉽다, 그리고 만약 당신이 일어나는 것을 안다면, 당신은 인식해야만 한다 / 당신이 침소봉대 하고 있다는 것을)
+
+apprehension
+ : 불안, 우려, 걱정
+
+So, what you should do is think back to the time when you had first started to catastrophize.
+(그래서 당신이 해야만 하는 것은 시간 뒤를 생각하는 것이다 / 당신이 처음 침소봉대하기 시작했을 때)
+
+You need to find out the pattern that your mind is forcing you to follow.
+(당신은 ~한 패턴을 찾을 필요가 있다 / 당신이 마음이 따르고 있는)
+
+People often find that they made a mountain of thoughts from a molehill and exaggerated everything in the process.
+(사람들은 종종 ~을 찾는다 / 그들이 생각의 산을 만든다는 것 / 사소한 것으로부터 / 그리고 과정에서 모든 것을 과장하는 것)
+
+molehill
+ : 두더지가 파놓은 흑두둑, 하찮은 일, 사소한 일
+
+So, you need to stop exaggerating and start thinking proactively.
+( 그래서 당신은 과장하는 것을 멈추고 사전에 생각을 시작할 필요가 있다.)
+
+proactively
+ : 적극적으로, 사전에
+
+If you indeed presume that you are in the middle of a catastrophic situation, the first thing that you should do is suspend your judgment.
+( 만약 당신이 실재로 추정한다면 / 당신이 침소봉대 상황의 중간에 있다고 / 당신이 해야만 하는 첫번째 것은 당신의 판단을 중단하는 것이다.)
+
+presume
+ : 추정하다, 가정하다, 추측하다
+
+suspend
+ : 중단하다, 정지하다
+
+You should not judge the situation or yourself.
+( 당신은 판단해서는 안된다 / 상황이나 당신 자신을)
+
+You also have to realize that you actually owe it to yourself to change the pattern and habit of toxic catastrophization.
+( 당신은 또한 인식해야만 한다 / 당신이 실재로 빚지고 있다는 것을 / 당신 자신에게 / 패턴을 바꾸는 것과 습관을 / 독성 침소봉대)
+
+owe
+ : 빚지다, 신세지다
+
+Any catastrophic thinking always results from cognitive errors, the most common of which is the habit of exaggerating thinking.
+( 모든 침소봉대하는 생각은 항상 결과를 가져온다 / 인지적인 오류로부터 / 그 중 가장 흔한 것은 습관이다 / 과장하는 생각)
+
+This exaggeration is usually always related to negative aspects of life.
+( 이 과장은 보통 항상 관련이 있다 / 부정적인 삶의 측면과)
+
+For example, if someone spoke to you rudely (maybe because they were having a bad day), you should not overthink and start exaggerating that the person is doing it because they have some personal issue with you.
+( 예를 들어, 만약 누군가 당신에게 무례하게 말했다면 / 아마도 그들이 나쁜 날을 보내고 있었기 때문에 / 당신은 과도하게 생각하고 시작해서 과장해서 그 사람이 그것을 하는 것을 / 그들이 당신과 어떤 개인적인 문제가 있다는 것 때문에)
+
+You should also not think that someone spoke rudely means that everyone automatically starts hating you.
+( 당신은 또한 생각해서는 안된다 / 누군가가 무례하게 말한다는 것은 / 모든 사람들이 자동적으로 당신을 싫어하기 시작한다는 것을)
+
+No! Similarly, if something bad has happened in one aspect of your life, you should not let that affect other aspects or think that your entire life is going through a bad phase.
+( 아니오! 비슷하게, 만약 무언가 나쁜 일이 일어났다면 / 당신 삶의 한 측면에서 / 당신은 생각해서는 안된다 / 그것이 다른 측면에 영향을 미치게 놔두거나 / 당신의 전체 삶이 나쁜 단계를 통과하고 있다고 생각하는 것을)
+
+This type of thinking is termed as black-and-white thinking or all-or-nothing thinking and it needs to be stopped if you want to fight procrastination.
+( 이런 유형의 생각은 두가지로 나뉜 생각이라고 불린다 / 모든 것이나 아무것도 아닌 생각 / 그리고 그것은 멈추어야만 한다 / 만약 당신이 미루기와 싸우고 싶다면)
+
+The more you exaggerate a situation, the more it will become impossible for you to become optimistic.
+( 당신이 상황을 과장할수록 / 더 불가능해질 것이다 / 당신이 낙관적이 되는 것을)
+
+optimistic
+ : 낙관적인
+
+This is because you have completely adapted a negative perspective of life and you always see the glass half-empty.
+( 이것은 당신이 완전히 적응했기 때문이다 / 부정적인 관점으로 삶을 / 당신은 항상 보기 때문이다 / 잔이 반만 차있다는 것을)
+
+So, your task is to change the way you think.
+( 그래서, 당신의 과제는 바꾸는 것이다 / 당신이 생각하는 방식을)
+
+You do not have to start with anything big – start making small but meaningful changes in your life.
+( 당신은 아무것도 크게 시작할 필요가 없다 / 시작하는 것을 / 작지만 의미있는 변화를 만들기 시작하라 / 당신의 삶에서)
+
+You need to think about those aspects of your life that bring you joy and happiness.
+( 당신은 생각해야만 한다 / 당신의 삶의 그 측면을 / 당신에게 기쁨과 행복을 가져다주는)
+
+Think about those things that make you feel relaxed and safe and when you remind yourself of these things, you will understand that your entire life has not been in vain.
+( 당신을 편안하고 안전하게 만드는 그것들을 생각해라 / 그리고 당신이 당신 자신을 상기시킬 때, 당신은 이해할 것이다 / 당신의 전체 삶이 헛된 것이 아니라는 것을)
+
+vain
+ : 보람없는, 헛된,
+
+You do not have to cloud your mind with overgeneralized terms because there is so much more to your life than simply negativity.
+( 당신은 당신의 마음을 흐리게 할 필요가 없다 / 지나치게 일반화된 용어로 / 왜냐하면 당신의 삶에는 훨씬 더 많은 것이 있기 때문이다 / 단순히 부정적인 것보다)
+
+overgeneralize
+ : 지나치게 일반화하다.
+
+term
+ : 용어
+
+#### Take Enough Rest
+
 [Step-2]
 
 [Step-3]
