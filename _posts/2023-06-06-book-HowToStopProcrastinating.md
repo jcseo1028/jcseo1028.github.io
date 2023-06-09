@@ -197,6 +197,75 @@ term
 
 #### Take Enough Rest
 
+If you truly want to expand your coping abilities, you have to stop being sleep deprived.
+(만약 당신이 진실로 대응능력을 확장하고 싶다면, 당신은 수면시간을 뺏기는 것을 멈춰야 한다.)
+
+cope
+ : 잘 대처하다, 대응하다
+
+deprive
+ : 빼앗다, 박탈하다
+
+People are so busy and habituated to sleeping late that they are constantly compromising their own sleep cycle for the sake of work.
+(사람들은 너부  바쁘고 늦게 자는 습관이 있어서 그들은 계속해서 그들의 수면 사이클을 손상시킨다 / 일을 위해)
+
+habituate
+ : 습관이 되다
+
+compromise
+ : 타협하다, 손상시키다, 절충하다
+
+sake
+ : 위함, 이익
+
+But this ultimately leads to confusion, irritation, and the inability to focus.
+(그러나 이것은 결국 혼란, 자극, 집중하지 못하는 무능력을 야기한다.)
+
+irritation
+ : 자극, 짜증
+
+inability
+ : 무능력
+
+All of this ultimately affects you in ways you would not have fathomed.
+( 이 모든 것은 결국 당신에게 영향을 미친다 / 당신이 알아채지 못하는 방식으로)
+
+fathom
+ : 깊이를 재다, 알아내다
+   길이의 단위(약 6피트)
+
+Your way of speaking to others change, and your interaction with others is no longer polite.
+(다른 사람들에게 말하는 방식이 바뀌고 당신의 상호작용은 더 이상 예의바르지 않게 된다.)
+
+polite
+ : 예의바른, 공손한
+
+But there is another effect of not getting enough sleep and this is what leads to procrastination.
+(그러나 거기에 또 다른 영향이 있다 / 충분한 잠을 못 자고 이것은 미루기를 이끄는 것이다.)
+
+You become too sensitive to threat and that is why you start interpreting everything in a negative light.
+(당신은 더 처리하는데 민감해지고, 그것은 당신이 모든 사람들을 빨간불에서 해석하는 이유이다)
+
+interpret
+ : 해석하다, 통역하다
+
+You become too focused even on the smallest of negative things that are happening and turn them into huge situations even when it’s just a petty matter.
+(당신은 너무작은 부정적인 것까지 신경쓰가 된다 / 발생하고 있고 / 그것이 커다란 상황으로 바뀌게 되는 / 그것이 단지 사소한 문제였을 때 조차)
+
+petty
+ : 사소한, 편협한, 옹졸한
+
+So, whenever you are sleep-deprived, your brains automatically go into the high-alert mode and try to overcompensate.
+(그래서 당신이 잠을 충분히 못잔다면 당신의 뇌는 자동적으로 높은 경고 모들 들어가서 지나치게 보상하려고 시도한다.)
+
+overcompensate
+ : 과잉 보상을 하다, 지나치게 보상하다.
+
+So, working longer hours by compromising your sleep is something that will do you more harm than good.
+(그래서 오래 일하는 것은 / 당신의 수면시간을 소비함으로써 / 좋은 것보다 더 해로운 것이 많은 것이다.)
+
+#### Your Thoughts Do Not Define You
+
 [Step-2]
 
 [Step-3]
