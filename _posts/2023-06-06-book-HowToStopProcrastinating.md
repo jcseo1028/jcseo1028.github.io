@@ -266,6 +266,165 @@ So, working longer hours by compromising your sleep is something that will do yo
 
 #### Your Thoughts Do Not Define You
 
+The downward spiral that almost everyone goes into while procrastinating is not only because they are into a negative pattern of thinking, but it is also because the person starts blaming themselves for the thoughts that he/she is having.
+(하향하는 나선형은 / 거의 모든 사람들이 미루는 동안에 들어가는 / 그들이 생각의 부정적인 패턴으로 갈 뿐만 아니라 , 사람들이 그들 자신을 비난하기 시작하기 때문이다 / 그들이 가진 생각 때문에)
+
+downward
+ : 내려가는, 하향의
+
+spiral
+ : 나선형, 악순환
+
+Thus, it acts as a double-edged sword.
+(그래서 그것은 양날의 검처럼 행동한다.)
+
+They start thinking about what is wrong with them that they are having such negative thoughts.
+(그들은 ~에 관해 생각하기 시작한다 / 무엇이 그들에게 잘못된 것인지 / 그들이 그렇게 부정적인 생각을 하는 것이)
+
+When conditions become worse, they start questioning themselves whether they are defined by their thoughts and eventually, they start believing that their thoughts define their personality.
+(조건들이 악화되었을 때, 그들은 그들 질문하기 시작한다 / 그들이 그들의 생각에 의해 정의되었는지 아닌지, 그리고 결국, 그들은 ~을 믿기 시작한다 / 그들의 생각이 그들의 개성을 정한다는 것을)
+
+This leads them to believe that there is something not right about them.
+(이것은 그들을 ~하도록 이끈다 / 거기에 뭔가 옳지 않은 것이 있다고 / 그들에 관해)
+
+So, even if you are going through tough times with negativity all around, you have to learn to acknowledge the situation and tell yourself that ‘this too shall pass.’
+(그래서, 만약 당신이 거친 시간속으로 간다면 / 부정성과 함께, 당신은 ~을 배워야만 한다 / 그 상황에을 인정하는 것을 / 자신에게 말하라 / '이건 무조건 패스해야만 해')
+
+acknowledge
+ : ~을 인정하다, 알다, 확인하다
+
+When you are observing your thoughts, you cannot let yourself get influenced by them.
+(당신이 자신의 생각을 관찰하고 있을 때, 당신은 자신을 그들에 의해 영향을 받도록 놔둘 수 없다.)
+
+You have to be a third-party here and observe your thoughts from the outside.
+(당신은 third-party 가 되어야만 하고, 당신의 생각을 밖으로부터 관찰해야 한다.)
+
+third-party
+ : 제 3자
+
+Any situation will eventually end and you will still be there.
+(어떤 상황이든 결국 끝날 것이고, 당신은 여전히 거기에 있을 것이다.)
+
+So, don’t let any situation force you into believing that your personality is framed by your thoughts.
+(그래서 어떤 상황이든 당신이 믿도록 강요하게 놔둬서는 안된다 / 당신의 개성이 당신의 생각에 의해 틀에 잡혀있다고)
+
+#### Learn to Get Over Hopelessness
+
+When people start giving in to the feeling of hopelessness, they forget that life is actually worth every effort you put in.
+(사람들이 절망감을 느끼고 있을 때, 그들은 ~을 잃어버린다 / 인생이 실재로 가치가 있다 / 당신이 들이는 모든 노력으로)
+
+A single bad incident cannot affect you and does not ever put an end to your life.
+(한가지 나쁜 사건이 당신에 영향을 미칠 수 없고, 결코 당신의 인생을 끝내지 않는다.)
+
+Life goes on, and no one can stop its flow.
+(인생은 계속 진행되고 아무도 그 흐름을 멈출 수 없다.)
+
+It is usually noticed that if the feelings of hopelessness can be traced back to their origin, then a common pattern is seen.
+(~은 일반적으로 알려졌다 / 만약 절망감이 원래대로 추적될 수 있다면, 일반적인 패턴이 보일 것이다.)
+
+People tend to apply their present incidents to their future and start predicting that their future is going to be like their present.
+(사람들은 그들의 현재의 사건을 미래로 적용하려는 경향이 있다, 그리고 ~을 예측하기 시작한다 / 그들의 미래가 현재같이 진행될 것이라는 것을)
+
+This happens mostly when the person is going through a bad phase.
+(이것은 대부분 사람들이 나쁜 단계를 통해가려고 할 때 나타난다.)
+
+So, when they think that their future is also going to be bad, they automatically start feeling hopeless.
+(그래서 그들이 미래가 또한 그렇게 나쁘게 올 것이라고 생각할 때, 그들은 자동적으로 절망감을 느끼기 시작한다.)
+
+But you have to understand that it is easy to think that way.
+(그러나 당신은 ~을 이해해야만 한다 / 그러한 방식으로 생각하는 것이 쉽다는 것을)
+
+People are not able to guess or imagine what if things were different.
+(사람들은 ~을 추측하거나 상상할 수 없다 / 그것들이 뭐가 다른지)
+
+That is a difficult task, and people do not do that.
+(그것은 어려운 일이고, 사람들은 그것을 못한다.)
+
+Instead, they take the easier route and start thinking that everything is going to stay as it is.
+(대신에, 그들은 더 쉬은 루트를 취하고 / ~을 생각하기 시작한다 / 모든 것이 그처럼 유지될 것이라는 것을)
+
+This is very similar to those who have been sick for very long.
+(이것은 그들에게 매우 친숙하다 / 오랫동안 아팠던 사람들에게)
+
+They start feeling that they are not going to get better soon.
+(그들은 ~을 느끼기 시작한다 / 그들이 더 좋아지지는 않을 것이라는 것을)
+
+Then there is another aspect that leads to catastrophization, and that is when people start developing learned helplessness.
+(그러면 또 다른 관점이 있다 / 과대 망상을 이끄는, 그리고 그것은 사람들이 학습된 절망감을 개발하기 시작할 때이다.)
+
+aspect
+ : 양상, 측면, 관점
+
+In this, they think that if they lost control over things in the past, it will happen in the same way in the future.
+(이 안에서, 그들은 ~을 생각한다 / 만약 그들이 제어를 잃어버렸다면 / 과거에 , 그것은 발생할 것이다 / 같은 방벙으로 / 미래에)
+
+When people think in this way, they do not even try to do something about it because they think there is no use in trying.
+(사람들이 이러한 방식으로 생각할 때, 그들인 ~을 시도하려고 하지 않는다 / 그들이 시도할 필요가 없다고 생각하기 때문에)
+
+So, instead of going over that negative outcome every time, think about something different.
+(그래서, 매번 부정적인 결과가 오는 것 대신에, 뭔가 다르게 생각해야 한다.)
+
+Consider an option that is more positive and less negative.
+(옵션을 고려하라 / 점더 긍적적이고 덜 부정적인 옵션)
+
+hopelessness
+ : 절망, 무기력
+
+#### Recognize Irrational Thoughts
+
+There is always a distinct pattern involved when people start catastrophizing.
+(항상 뚜렷한 패턴이 있다 / 사람들이 침소봉대하기 시작할 때 포함되는)
+
+distinct
+ : 뚜렷한, 다른
+
+They have negative thoughts that only escalate in their intensity.
+(그들은 부정적인 생각을 한다 / 오직 그들의 강도를 높이는 생각)
+
+intensity
+ : 강도, 집중, 중요성
+
+escalate
+ : 높이는
+
+For example, if something bad happened today, people who have this tendency might start to think that the situations are only going to get worse tomorrow.
+(예를 들어, 만약 무언가 나쁜 일이 오늘 발생했다면, 이런 경향을 가진 사람들은 ~을 생각하기 시작한다 / 그 상황이 내일 또 발생할 것을)
+
+But you never know that for sure, right? You are only assuming it.
+(그러나 당신은 결코 알지 못한다, 진짜 발생하나? 당신은 단지 추측만 할 것이다.)
+
+Then, there are people who think that if they are sick for about a week, then they are not going to get better at all.
+(그러면 ~한 사람들이 있다 / ~을 생각하는 / 그들이 1주일동안 아팠다면, 그들은 전혀 좋아질 것이라 예상하지 않는다.)
+
+This type of thinking is totally absurd and irrational.
+(이런 생각의 유형은 전적으로 말도 안되고 불합리하다.)
+
+absurd
+ : 말도 안되는, 터무니 없는
+
+irrational
+ : 비합리적인, 불합리한
+
+So, what you have to do is identify this form of thinking and then stop them.
+(그래서 당신이 해야 하는 것은 이러한 생각의 형성를 인식하고 그러면 그 생각을 멈춰야 한다.)
+
+The moment you learn to recognize your irrational thoughts is when you will start handling your negative pattern of thinking in a better manner.
+( 그 순간은 / 당신이 당신의 비합리적인 생각을 인식하는 것을 배우는 순간 / ~할 때이다 / 당신이 부정적인 생각 패턴을 다루기 시작할 때이다 / 더 좋은 방향으로)
+
+If you think that you have gotten yourself in a vicious cycle of negative thoughts, you have to say ‘stop’ to yourself loud and clear.
+(만약 당신이 ~을 생각한다면 / 당신이 부정적 생각의 악순환에 있다는 것을 / 당신은 자신에게 멈추라고 말해야만 한다 / 크고 명확하게)
+
+You need to take care of yourself and engage in self-love because it will help to relieve you of stress.
+(당신은 자신을 돌보고 자기애에 관여하는 것이 필요하다 / 왜냐하면 그것이 스트레스로부터 완화하는데 도움을 주기 때문이다.)
+
+relieve
+ : 완화시키다, 안도하다
+
+All of these steps together will help you in dealing with the habit of catastrophization.
+(이 모든 단계들은 당신에게 도움을 줄 것이다 / 침소봉대하는 습관을 다루는데 )
+
+#### Learn to Prioritize
+
 [Step-2]
 
 [Step-3]
