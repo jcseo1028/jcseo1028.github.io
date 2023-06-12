@@ -425,6 +425,47 @@ All of these steps together will help you in dealing with the habit of catastrop
 
 #### Learn to Prioritize
 
+Whether your procrastination is a major issue or a minor one, at the end of the day, you have to work on getting things done if you want to come out of this problem.
+(당신의 미루기가 중요한 문제든 사소한 것이든, 그 날의 끝에서, 당신은 그 일을 완료해야만 한다 / 만약 당신이 그 일을 해결하고 싶다면)
+
+And one of the most important lessons that you have to take is the art of prioritization.
+(그리고 가장 중요한 교훈중 하나는 / 당신이 취해야만 하는 / 우선순위정하기의 예술이다.)
+
+prioritization
+ : 우선순위 정하기
+
+Once you start prioritizing your tasks, overcoming laziness will also become easy.
+(일단 당신이 임무의 우선순위를 정하기 시작하면, 게으름을 극복하는 것이 또한 쉽게 될 것이다.)
+
+So, if you have been postponing your decisions and tasks in your to-do list unnecessarily, then this chapter is going to help you take another step towards overcoming the problem.
+(그래서, 만약 당신이 당신의 결정과 임무를 연기하고 있다면 / 해야할 일 목록에서 / 불필요하게, 이 챕터는 당신이 다른 단계를 취할 수 있도록 도움을 줄 것이다 / 문제를 극복하는 방향으로)
+
+unnecessarily
+ : 쓸데없이, 불필요하게
+
+When you prioritize the workload, you will know exactly what you need to do and when.
+(당신이 작업량에 우선순위를 정할 때, 당신은 ~을 정확히 알 것이다 / 당신이 무엇을 해야하고 언제 하는지를)
+
+workload
+ : 작업량
+
+This not only gives you a step-by-step process of completing your tasks but also prevents you from wasting your precious time on trivial tasks that are not that much important.
+(이것은 당신의 임무를 완수하는데 단계적 프로세스를 제공할 뿐만 아니라, 당신이 ~을 낭비하는 것을 막아줄 것이다 / 당신이 이전 시간 / 하찮을 일에 / 그렇게 중요하지 않은)
+
+trivial
+ : 하찮은
+
+You will also learn how not to feel overwhelmed by the huge pile of work that is lying in front of you.
+(당신은 또한 ~을 배울 것이다 / 압도되는 느낌을 받지 않는 방법을 / 큰 일더미에 의해 / 당신 앞에 쌓여있는)
+
+Most people start procrastinating when they cannot understand where to start, but prioritizing will give you that direction and set the path for you which you simply have to follow.
+(대부분의 사람들은 미루기 시작한다 / 그들이 ~을 이해할 수 없을 때 / 어디에서 시작하는지를, 그러나 우선순위 정하기는 당신에게 ~을 줄 것이다 / 그 경로의 방향을 정하는 것 / 당신을 위해 / 당신이 단순히 따라해야 하는)
+
+There are several methods and things you can follow to prioritize your life and we are going to discuss them here in this chapter.
+(몇 가지 방법과 사물이 있다 / 당신이 따라할 수 있는 / 인생의 우선순위를 정하기 위해 / 우리는 이 챕터에서 그것에 대해 논의할 예정이다.)
+
+#### Write Your Tasks Down
+
 [Step-2]
 
 [Step-3]
