@@ -423,6 +423,8 @@ relieve
 All of these steps together will help you in dealing with the habit of catastrophization.
 (이 모든 단계들은 당신에게 도움을 줄 것이다 / 침소봉대하는 습관을 다루는데 )
 
+[Step-2]
+
 #### Learn to Prioritize
 
 Whether your procrastination is a major issue or a minor one, at the end of the day, you have to work on getting things done if you want to come out of this problem.
@@ -466,7 +468,84 @@ There are several methods and things you can follow to prioritize your life and 
 
 #### Write Your Tasks Down
 
-[Step-2]
+The tasks that you have on a particular day are plenty, and so if you want to prioritize your routine, you have to start by making a list of all the tasks you have at hand that need to be completed.
+(당신이 특정한 일에 해야 하는 임무는 많다, 그리고 만약 당신의 루틴을 우선순위화하기 원한다면, 당신은 시작해야만 한다 / 모든 임무들에 대한 리스트를 작성함으써 / 완료가 필요한 당신이 해야하는 임무들)
+
+plenty
+ : 많은, 풍부한
+
+Make this list before you go to sleep so that when you wake up the following day, you have the list ready.
+(이 리스트는 잠자기 전에 만들어라 / 그래서 당신이 다음날 일어났을 때, 당신의 리스트는 준비되어 있어야 한다.)
+
+Your brain might not be able to remember all of it and it is quite natural so don’t burden your brain with everything.
+(당신의 뇌가 아마 모든 것을 기억하지 못할 수 있다, 그리고 이것은 꽤 자연적이어서 당신의 뇌에대해 모든 것을 고민할 필요가 없다.)
+
+Include even the smallest tasks on the list.
+(리스트에 아주 사소한 임무라도 포함시켜라.)
+
+Once the list has been made, take a nice and long look at it and determine which of the tasks on the list are of utmost importance and thus have to be completed the next day without any delay.
+(이 리스트가 일단 만들어지면, 그것을 멋지고 길게 봐라, 그리고 ~을 정해라 / 리스트에 있는 것중에서 가장 중요한 것, 그래서 완료되어야만 하는 / 다음 날에 / 어떤 지연 없이)
+
+utmost
+ : 최선, 최대한, 최우선
+
+This will make you better prepared to handle these important tasks right from the moment you wake up the next day.
+(이것은 당신이 더 잘 준비되게 할 것이다 / 이러한 중요한 임무를 처리하기 위하여 / 그 순간으로부터 / 당신이 다음 날 일어나는)
+
+Yes, there might be some things that come up on an urgent basis overnight, and in that case, you should consider reevaluating your list of most important tasks.
+(거기에 뭔가 있다 / 급한 일 / 날을 새야하는, 그리고 이 경우에, 당신은 리스트를 재평가하는 것을 고려해야만 한다 / 중요한 임무 리스트)
+
+But you do not have to worry yourself regarding that now.
+(그러나 당신은 걱정하지 않아도 된다. / 그것 관련해서는)
+
+regard
+ : 관련되다, 보다, 간주하다
+
+You can cross that bridge when the time comes but until then, deal with the things that are in front of you.
+(당신은 다리를 건널 수 있다 / 그 시간이 올 때까지, 그러나 그때까지 그것들을 처리하라 / 당신 앞에 있는 것들)
+
+When you have this list ready, you will sleep better at night because you know, your to-do list is sorted.
+(당신의 리스트가 준비되었을 때, 당신은 더 편하게 잘 것이다 / 밤에 / 왜냐하면 당신의 리스트가 정리되어 있는 것을 알기 때문이다.)
+
+#### Analyze the List
+
+Once your list is ready and you have figured out the most important tasks, it is time to analyze the list in detail.
+(일단 리스트가 준비되고 가장 중요한 임무거 뭔지 알았다면, 리스트를 자세히 분석해야할 시간이다.)
+
+figure out
+ : 알아내다, 알다
+
+Review each task that you have listed, and then you have to figure out what you want to do with each task.
+(당신이 리스트화한 각각의 임무를 검토하고, 그러면 당신은 ~을 알아야만 한다 / 당신이 하기 원하는 것 / 각각의 임무에 대해)
+
+This will help you narrow your list down.
+(이것은 당신의 리스트를 얇게 하는데 도움을 줄 것이다.)
+
+First, separate the tasks that will require only a couple of minutes so that you can do them at once the next day.
+(우선, 임무들을 분리하라 / 단지 몇십분 정도 필요한 / 그래서 다음날에 한번에 할 수 있는 임무들)
+
+Then, figure out whether there are some tasks that can be delegated so that you don’t have to do it.
+(그리고, ~인지 아닌지를 알아내라 / 어떤 임무가 있다 / 위임될 수 있는 / 그래서 당신이 하지 않아도 되는)
+
+Ultimately, you will be left with those tasks that are harder to complete and are yet of high priority.
+(궁극적으로 당신은 그 임무들과 함께 남겨질 것이다 / 완료하기 더 어렵고 높은 우선 순위인 임무들)
+
+**Delegation is really an amazing way of handling your to-do list, and it also helps in getting the tasks off the list.**
+(위임은 진짜 놀라운 방법이다 / 당신의 일을 처리하는데, 그것은 또한 항목을 줄이는데 도움을 준다.)
+
+delegation
+ : 위임
+
+But what you should do is even if you are delegating something to someone, create a reminder on your calendar so that you can follow up on its progress later.
+(그러나 당신이 해야만 하는 것은 비록 누군가에게 위임하고 있다고 하더라도, 리마인더를 달력에 생성하라 / 그래서 당신이 진행 상태를 파악할 수 있어야 한다.)
+
+This will help in maintaining the quality of work.
+(이것은 일의 질을 유지하는 데 도움을 줄 것이다.)
+
+Once a few such tasks are off the list and the list becomes short, some of the pressure will be lifted off from your shoulders.
+(일단 그러한 몇 가지 일이 끝나고 리스트가 짦아지면, 당신 어께에 있던 압박감에서 벗어날 것이다.)
+
+#### Use the Priority Matrix
 
 [Step-3]
 
