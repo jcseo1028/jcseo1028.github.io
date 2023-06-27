@@ -547,6 +547,80 @@ Once a few such tasks are off the list and the list becomes short, some of the p
 
 #### Use the Priority Matrix
 
+#### Practice Relative Prioritization
+
+Rate your tasks on a level of 1-10 based on how important they are and what their priority is.
+(당신의 임무에 1~10단계로 등급을 매겨라/ 얼마중요한지 그리고 우선순위가 무엇인지에 따라.)
+
+If you have more than ten tasks, then you have to rate them up to the number of total tasks.
+(10개보다 더 많은 임무가 있으면 임무에 개수만큼 등급을 매겨야 한다.)
+
+For example, if the total tasks you have are 15, then you have to rate them anything from 1-15.
+
+This is because you cannot afford two tasks being rated the same.
+(이것은 당신이 같은 등급으로 두가이 임무를 수행할 수 없기 때문이다.)
+
+#### Be Realistic About the Time
+
+When you are prioritizing and building your to-do list for the day, you also have to note down the approximate time that each of these tasks will require.
+(당신이 우선순위를 정하고 todo 리스트를 작성할 때, 당신은 또한 대략적인 시간을 추가해야 한다 / 그 임무에 필요한 대략적인 시간 )
+
+If your to-do list is too long, then no one is expecting you that you will have to complete all of it in a single day.
+(만약 todo 리스트가 너무 길면, 아무도 당신이 ~하는 것을 기대하지 않는다 / 당신이 하루에 그 모든 것을 완료해야만 하는 것을)
+
+That is why it is essential that you are realistic about the time that you are putting beside each of these tasks.
+(이것은 ~때문이다 / 그것이 기본이다 / 당신이 시간에 관해 현실적이라는 것 / 당신이 이 임무를 옆에 놔두는 시간)
+
+It can be tempting to fit in more tasks in a shorter period of time, I know, but that is something you should not do.
+(그것은 유혹할 수 있다 / 좀 더 많은 임무를 맞추는데 / 짧은 시간 주기로, 그러나 당신이 해서는 안될 것이다.)
+
+tempt
+ : 유혹하다
+
+Otherise, you will have to work for eighteen or twenty hours straight in order to complete all of them and that is not practical at all.
+(그렇지 않으면 당신은 18 ~ 20시간을 연속으로 일해야만 할 것이다 / 모든 일을 완수하기 위하여 / 그러나 practical 하지 않다. 전혀
+
+practical
+ : 실용적인, 현실적인
+
+You have to leave some time for you to eat, sleep, take breaks, and also spend time with your family and friends.
+
+Everything is equally important, and you should not skip anything.
+
+Also, when you are too ambitious and note down lesser time for the tasks than what you usually require, you won’t be able to finish them and as the day approaches towards the end, you will have the urge to procrastinate and put away everything for later.
+
+So, for efficient planning, being realistic about the time you have and the time you will require for completing the tasks is important.
+(그래서, 효율적인 계획을 위해 시간에 대해 현실적이어야 한다 / 그리고 당신이 임무를 완료하기위해 필요할 시간은 중요하다.)
+
+#### Be Flexible
+
+Your routine should be flexible, and you should have a flexible mentality because not everything will work out in your favor at all times.
+
+There can be numerous reasons behind it.
+
+It can be because of some last-moment work that cropped out of nowhere or it can be some delay in response from the client or a co-worker.
+
+Whatever it is, your routine must always have some buffer time for you to accommodate these tasks if need be.
+
+accomodate
+ : 수용하다, 맞추다
+
+This can be achieved by trying to establish a flow in your work schedule.
+
+This will also help you in being in your optimal state of productivity, which, in turn, will help you get out of the habit of procrastination.
+
+When you are flexible, you will not feel overwhelmed by any emergency and deal with it with equal efficiency.
+
+Now that you know how you can effectively prioritize the tasks at hand in order to avoid procrastination, you should stick to your to-do list.
+
+It is true that in the beginning, you will feel the urge to fall back on your previous procrastination habits, but you have to resist that urge.
+
+But don’t be too hard on yourself.
+
+Breaking free from procrastination is not easy and you have to achieve it taking it one step at a time.
+
+#### Work on Your Time Management Skills
+
 [Step-3]
 
 [Step-4]
