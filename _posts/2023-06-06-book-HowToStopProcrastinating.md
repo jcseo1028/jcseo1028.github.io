@@ -619,9 +619,118 @@ But don’t be too hard on yourself.
 
 Breaking free from procrastination is not easy and you have to achieve it taking it one step at a time.
 
+[Step-3]
+
 #### Work on Your Time Management Skills
 
-[Step-3]
+Time management is a skill that everyone should learn more about whether you are a procrastinator or not.
+
+For some people, procrastination is the main barrier between them and getting a promotion or taking their business to the next level.
+
+barrier
+ : 장벽, 장애물
+
+Poor time management skills are just one of the reasons why people procrastinate, and so in the third step, we are going to discuss how you are going to manage your time.
+
+#### Set Goals
+
+One of the most effective ways of managing your time more efficiently is by setting goals.
+
+But the goals should be something that attainable and realistic.
+
+When you set goals, you automatically become more focused on the task at hand.
+
+**But the goals should be set in such a way that you also specify the time in which you want to complete a particular task.**
+
+If the task at hand already has a deadline, then you should set the goal of completing that particular task a few days before the decided deadline.
+
+If a task does not have any decided deadline, then you should set a specific time period within which you are going to complete it.
+
+**Another way in which you can make the process easier is by breaking down a big goal into micro-goals, which will consist of actionable steps.**
+
+These steps will act like steppingstones to the ultimate goal you have.
+
+steppingstone
+ : 징검다리, 디딤돌
+
+When you break down goals, you have smaller and easier tasks in front of you and so you will not be getting overwhelmed by the task at hand.
+
+But if you are breaking a task into actionable steps, then you will also have to assign a specific deadline to each of those steps.
+
+Once this is done, make a promise to yourself that you are going to stick to your goals.
+
+#### Stop Multitasking
+
+I have met so many people in my life who think that the answer to time management is multitasking, but this is a very wrong idea.
+
+Everyone has multitasked at some point in their life but it can be detrimental to your work. Do you know why?
+
+Well, it is a matter of fact that your brain can only handle one task at a time but when you are forcing it to focus on multiple tasks at the same time, you are actually dividing your attention.
+
+So, you are never fully focused on anything and this split of attention results in a decline in your work.
+
+Moreover, your original speed of work takes a hit and you end up wasting a lot of time in the name of multitasking.
+
+People who multitask keep switching between tasks for a longer period of time than the time they actually put behind each of those tasks.
+
+So, you have to stop doing more than one work at a time.
+
+When you are working on something, you have to put all your energy and all your focus on that one thing at a point in time.
+
+Once that task is completed, you can move on to the next task.
+
+#### Work in a Distraction-Free Zone
+
+Everyone has something in their life that distracts them from work.
+
+distract
+ : 산만하게 하다, 주의를 빼앗다.
+
+Time management strategies will never work out if you are amidst distractions.
+
+amidst
+ : 가운데, 속에서
+
+But sometimes, you are not even aware that something is actually causing distraction.
+
+You tend to overlook it completely.
+
+That is why you need to first make a list of all those things that you think are going to distract you.
+
+In this way, you will be able to identify these distractions even easily.
+
+These can be things like items on your desk or the wall.
+
+If you are someone who works from home, then distraction is something that you will definitely have to deal with.
+
+Fix your working hours, and when you are working do not let any family member in the room.
+
+If you have a kid, then have someone look after your kid while you are working so that your mind is not diverted from the task at hand.
+
+divert
+ : 전용하다, 딴 데로 돌리다, 우회하다.
+
+You also have to cut off interruptions when you are working.
+
+If you think carefully, then you will notice that a major part of our work is comprised of communication, but sometimes, when you are doing something that requires full concentration, you cannot afford to be distracted by a phone call or an email.
+
+Also, sometimes it is very tempting to have a peek at your inbox or those social media notifications that you have been getting about your newly uploaded profile picture.
+
+But you have to control that urge and remain focused on your work.
+
+Checking your emails is an important task, and it should not be skipped but at the same time, checking your emails from time to time throughout the day will only hamper your concentration levels.
+
+hamper
+ : 방해, 저해
+
+So, what you can do is set a fixed time during the day when you will be handling all the emails.
+
+Now, when you are working, you can snooze then notifications and ask your co-workers not to disturb you during that time period.
+
+#### Don’t Emphasize on Hours but the Results
+
+emphasize
+ : 강조하다, 중시하다
 
 [Step-4]
 
