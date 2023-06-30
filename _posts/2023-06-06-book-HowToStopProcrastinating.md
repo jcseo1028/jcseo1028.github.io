@@ -732,6 +732,66 @@ Now, when you are working, you can snooze then notifications and ask your co-wor
 emphasize
  : 강조하다, 중시하다
 
+Some people have the habit of emphasizing more on the number of hours they have worked and not on the results they have achieved.
+(어떤 사람들은 그들이 성취한 결과가 아니라 그들이 일한 시간의 수에 더 많은 것을 강조하는 습관을 가지고 있다.)
+
+This is a very wrong concept.
+(이것은 매우 나쁜 습관이다.)
+
+When you focus more on your physical presence, it does not encourage you to be efficient and, in turn, leads to a factory-like culture.
+
+presense
+ : 존재, 영향력
+
+If you keep on working for longer hours, you are not going to get good results because, after a certain point of time, your brain will get tired.
+
+Also, when you are forced to work beyond a certain time period, you will not love your work because your work capacity is already over.
+
+All of these things will together lead to procrastination.
+
+**If you are really interested in getting things done, then you have to emphasize more on what you have achieved.**
+(만약 당신이 진실로 완료하는 것에 흥미가 있다면, 당신은 당신이 성취한 것에 대해 강조해야 한다. - 얼마나 오래 일했느냐가 아니다 -)
+
+You will also be able to stay productive and motivated throughout the day if you remind yourself that you have already finished a lot of your tasks irrespective of the number of hours you have worked.
+(당신은 또한 생산성과 동기부여를 유지할 수 있을 것이다 / 하루 종일 / 만약 당신이 자신에게 ~을 상기시킨다면 / 당신이 이미 많은 임무를 끝냈다는 것을 / 당신이 일한 시간의 양과 상관없이)
+
+irrespective
+ : 관련없는
+
+#### Learn the One-Minute Rule
+
+The one-minute rule is quite famous when it comes to overcoming procrastination and embracing time management.
+
+embrace
+ : 포용하다, 받아들이다, 이용하다
+
+Here one-minute is referred to as the time taken to perform a task should be one minute.
+(여기에서 1분은 ~로써 언급된다 / 임무를 수행하는 시간은 1분이 되어야만 한다.)
+
+**This means that if your to-do list has tasks that can be completed within a minute or two, you should do that task first.**
+(이것은 ~을 의미한다 / 만약 당신의 todo 리스트에 ~ 임무가 있다면 / 1분이나 2분 이내에 완료될 수 있는, 당신은 그 일부터 해버려야 한다.)
+
+This is because when tasks can be completed in such a short time, it gives you a sense of accomplishment.
+(이것은 ~이기 때문이다 / 임무들이 그렇게 짧은 시간에 완료되었을 때, 당신에게 성쥐감을 준다.)
+
+If you start your day with these tasks, you will be motivated to complete more tasks.
+(만약 당신이 이 임무들과 일정을 시작하면, 당신은 더 많은 일을 완수할 수 있는 동기부여를 받게된다.)
+
+Also, you will be less overwhelmed and feel in control since you have already completed a few tasks.
+(또한, 당신은 덜 압도될 것이고 통제 안에 있을을 느낀다 / 당신이 이미 몇 개의 일을 끝내버렸기 때문에)
+
+The idea behind this rule is really pleasant and helpful in dealing with procrastination.
+(이 규칙의 아이디어는 정말로 기쁘고 유용하다 / 미루기를 다룸에 있어서)
+
+When you struggle with some tasks for a longer period of time, especially at the beginning of the day, it will make you think about giving up on the task or scheduling it for the following day.
+(당신이 몇가지 일에 긴 시간동안 분투하고 있을 때, 특별히 하루의 시작에, 이것은 당신이 ~에 관에 생각하게 할 것이다 / 그 일을 포기하거나, 다음날로 미루거나)
+
+But with the one-minute rule, you can prevent such a thing from happening.
+(그러나 1분 규칙으로 당신은 그렇게 발생할 수 있는 일을 피할 수 있습니다.)
+
+prevent
+ : 막다, 방지하다, 예방하다.
+
 [Step-4]
 
 [Step-5]
