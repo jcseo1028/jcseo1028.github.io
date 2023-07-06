@@ -792,7 +792,100 @@ But with the one-minute rule, you can prevent such a thing from happening.
 prevent
  : 막다, 방지하다, 예방하다.
 
+#### Learn to Say No
+
+You have to know your limits in every aspect of life, and the same goes for time management.
+(당신은 당신의 한계를 알아야만 한다 / 삶의 모든 관점에서, 그리고 같은 것은 시간관리를 위한 것이다.)
+
+Most people fail in managing their time because they end up saying yes to everything that comes their way.
+(대부분의 사람들은 그들의 시간을 관리하기 실패한다 / 왜냐하면 그들의 길에 들어오는 모든 것들에 대해 yes 라 말하기 때문이다.)
+
+But if you truly want to keep the deadlines, then you have to finish what is on your plate before you take up anything new.
+(그러나 만약 당신이 진실로 마감일을 지키기 원하면, 당신은 ~을 끝내야만 한다 / 당신의 plage 에 있는 것을 / 당신이 새로운 것을 취하기 전에 )
+
+plate
+ : 접시, 판
+
+Moreover, if you take more work than you can handle, it will eventually cause you to face burnout.
+(더구나, 만약 당신이 당신이 처리할 수 있는 것보다 많은 일을 취하면, 결국 번아웃에 직면하게 될 것이다.)
+
+I know that in the beginning, it might feel intimidating to you to say no to your superiors, but you have to do it in an assertive yet polite manner.
+(나는 ~을 안다 / 시작할 때 / 당신의 상사에게 no 라고 말하는 것을 두려워한다는 것을, 그러나 당신은 그것을 해야만 한다. / 단호하면서도 정중하게)
+
+intimidate
+ : ~을 두려워하다
+
+superior
+ : 상사, 우수한, 더 나은
+
+For starters, you will have to give a reason as to why you are saying no to the task.
+(시작하는 사람들을 위해, 당신은 이유를 줘야할 것이다 / 왜 당신이 그 임무에 대해 no 라고 말하는 지 )
+
+The reason that you give should have proper reasoning.
+(당신이 주는 이유는 더 좋은 이유여야만 한다.)
+
+For example, you can state how many deadlines you have or how invested you are in the present project that taking any new task will automatically affect the quality of your present projects in a negative manner.
+(예를 들어, 당신은 말할 수 있다 / 얼마나 많은 당신이 해야 할 마감일이 있는 지 / 어떻게 당신이 현재 프로젝트에 투자되고 있는 지 / 새로운 업무를 만든 것이 자동적으로 현재의 프로젝트 품질에 영향을 출 것이다 / 부정적인 매너에서)
+
+state
+ : ~을 분명히 말하다
+
+You should also present your senior with your list of priorities so that they can understand that you truly have lots on your plate.
+(당신은 또한 당신의 선배를 만나야 하고 / 우선순위 리스트와 함께 / 그들이 ~을 이해할 수 있어야 한다 / 당신이 진실로 맡은 일이 많다는 것을)
+
+When your to-do list is already overflowing, your superior will obviously take it into reconsideration before assigning you anything.
+(당신의 to-do list 가 이미 넘쳤을 때, 당신의 상사는 명백하게 그것을 재고려할 것이다 / 당신에게 어떤 것을 배정하기 전에)
+
+Also, some people construct fake excuses to say no, but that is not the right thing to do.
+(또한, 어떤 사람들은 no 라고 말하는 속이는 미안함을 생성한다, 그러하 그것은 올바른 일이 아니다.)
+
+You have to be honest and open because saying things that are not true will only affect your relationship with your boss.
+(당신은 정직하고 개방적이어야 한다 / 왜냐하면 진실이 아닌 것을 말하는 것은 당신의 관계에 영향을 미칠 것이다 / 당신의 사장과 함께)
+
+If your boss is determined about giving the task to you, then you can ask him/her whether you can submit it at a later date.
+(만약 당신의 보스가 당신에 일을 주는 것에 대해 정해졌다면 , 당신은 ~인지 아닌지 요청할 수 있다 / 당신이 추후에 그것을 제출할 수 있는지)
+
+Show them that you are willing to do it but not now because you do not want the quality of work to be compromised.
+(그에게 ~을 보여줘라 / 당신이 기꺼이 그것을 하겠지만 지금은 아니다 / 왜냐하면 당신은 일의 질이 타협될수 있는지를 원하지 않기 때문이다.)
+
+You don’t have to be the one to refuse the work, but you can always negotiate for a better option.
+(당신이 일을 거절하는 한사람이 되지 않아도 되지만, 당신은 항상 더 좋은 옵션을 위해 협상할 수 있다.)
+
+After you have followed all of these things, you should check your to-do list again at the end of each day and perform an analysis.
+(당신이 이러한 것들을 모두 따랐을 때, 당신은 투두리스트를 다시 점검해야만 한다 / 매일 / 그리고 분석을 수행해야 한다.)
+
+See what you have done and what remains to be done on the next day.
+(~을 봐라/ 당신이 완료한 것과 다음날에 완료되어야 하는 것)
+
+When you see what you have accomplished, it will give you a sense of satisfaction and motivation for the next day.
+(당신이 당신이 수행한 것을 볼 때, 그것은 당신에게 만족감과 동기부여를 줄 것이다 / 다음 날을 위해)
+
+If there is something on your list which you were finding difficult to complete, take some time to break that task into small steps so that it becomes easier and doable.
+(만약 거기에 무언가 당신이 완료하기 어려운 것이 있다면, 잠시 ~한 시간을 내라 / 그 일을 작은 단계로 나누는 / 그래서 그것이 더 쉽고 수행가능하게 된다.)
+
 [Step-4]
+
+#### Be Realistic
+
+If you want to stop procrastinating about things in life, you also have to be realistic about the amount of work you can do in a day.
+(만약 당신이 삶에서 미루는 것을 멈추고 싶다면, 당신은 또한 현실적이 되어야 한다 / 당신이 하루에 할 수 있는 일의 양에 관해)
+
+When you have realistic goals, and you complete all of them, your confidence starts building so that you can start the next day with an even greater amount of confidence in you.
+(당신이 현실적인 목표를 가졌고, 당신이 그 목표를 완료했을 때, 당신의 자신감은 생기기 시작해서  / 당신이 다음날 시작할 수 있다 / 당신에 대한 더 위대한 자신감과 함께)
+
+The more realistic you are, the less overwhelmed you will feel.
+(더 현실적이고 덜 압도된다고 느낄 것이다.)
+
+**But being realistic sounds easier said than done.**
+(그러나 현실적으로 되는 것은 말하기는 쉽지만 행동하기는 어렵습니다.)
+
+That is why I have outlined some tips which will help you become realistic in life.
+(저것은 내가 몇 가지 팁을 outline 하려는 이유이다 / 당신이 삶에서 현실적으로 되는데 도움을 줄 팁)
+
+outline
+ : 윤곽, 개요
+
+#### Keep a Check on Your Imagination
 
 [Step-5]
 
