@@ -887,7 +887,161 @@ outline
 
 #### Keep a Check on Your Imagination
 
+It is true that in order to be creative, you have to let your imagination fly.
+
+And of course, there is nothing more beautiful and powerful than your imagination, but sometimes, the human mind ends up making imaginations that are impossible in real life.
+
+Using such imaginations too often will make you a dreamer and not a doer.
+
+Having big dreams and aspirations is a good thing but you also have to act on those dreams in order to make them come true.
+
+If you keep imagining things that are never acted upon, they are not going to happen in your life.
+
+People will keep calling you a dreamer.
+
+If you want to be successful, stop letting your imagination run your life.
+
+Imagine great things and then devise actionable steps to turn those imaginations into reality.
+
+devise
+ : 마련하다, 고안하다
+
+#### Control Extreme Thoughts
+
+When your thoughts become extreme, and you start evaluating and judging everything too much, your form opinionated visions about everything.
+
+And sometimes, you even go too far with your opinions and end up exaggerating them.
+
+You should be realistic.
+
+It is easy to see everything in a negative light but you have to be optimistic and find the good in each situation.
+
+Extreme thoughts that are unnecessary and unrealistic leads to stress, which in turn, makes you procrastinate about the task at hand and you keep avoiding it.
+
+That is why it is important that you make fair judgments and never jump to conclusions or too fast.
+
+Don’t assume the negative when you meet someone and don’t think that they dislike you even when they have not said anything like that.
+
+This is not reasonable.
+
+If you are realistic about these things, it will prevent you from making any type of rash decisions that can hamper the growth of your company.
+
+rash
+ : 경솔한, 성급한
+
+#### Be Realistic About the Expectations
+
+One of the delicate aspects of being successful in beating procrastination is that you should have realistic expectations of the results.
+
+delicate
+ : 섬세한, 미묘한
+
+Overcoming procrastination takes time, and you cannot expect to achieve it in a couple of days or weeks.
+
+It is a type of lifestyle that you have to adopt.
+
+When you set unrealistic expectations and then fail to meet them, you go into a zone of disappointment where you start selfloathing and you become too harsh.
+
+self-loathing
+: 자기 혐오
+
+But that is what drives you away from the process altogether.
+
+You need to motivate yourself and be your own best friend.
+
+So, you cannot afford to be so harsh and rude.
+
+harsh
+ : 가혹한, 거친
+
+Treat yourself with love and tell yourself that you need to give yourself time for the result to come.
+
+This could do wonders for your journey.
+
+But if you have realistic expectations right from the beginning, there will be no hassle at all.
+
+hassle
+ : 번거러움, 노력, 혼란
+
+In fact, once you complete the work within the timeline, there is no greater joy than that.
+
+Your goal is to show the outcome without suffering from any setbacks, and that can happen only when you know your limits.
+
+So, in order to be realistic, you have to know yourself really well.
+
+In this way, you can develop a positive relationship with yourself.
+
+For example, if you already have a lot of work for Thursday, you should not be taking any more work on that day.
+
+Instead, you can try to extend the work for the next week.
+
+If your workload is not balanced, it will hamper your productivity and you will end up overextending your energy.
+
+hamper
+ : 방해
+
+#### Don’t Overpromise
+
+Another thing that you have to keep in mind to beat procrastination and also to be realistic is that you should step away from overpromising.
+
+overpromise
+ : 지키지 못할 약속을 하다? (사전에 없음.), 과한 약속을 하다.
+
+When you know that you will not be able to keep the promise, don’t make the promise in the first place because it can easily cause problems with your client or your boss.
+
+This will bring you a bad reputation.
+
+reputation
+ : 명성, 평판
+
+If you already have a packed schedule, then taking on something else means that you are increasing your stress.
+
+It is very easy to get lured into taking a new client because it means more money, but before doing that, ask yourself what will happen if you miss the deadline?
+
+lure
+ : 유혹하다, 유치하다
+
+It will make the client angry and he/she will probably not give you any more contracts.
+
+So, do you want that? No, right?
+
+Then, stop those unrealistic expectations and don’t overpromise.
+
+#### Give Things Some Time
+
+It is true that a very large part of overcoming procrastination involves overcoming laziness and bringing about a sense of self-discipline.
+
+self-discipline
+ : 자기 수양, 자기 훈련
+
+But when people are actually able to do things, they cannot wait to get the results.
+
+As I have already explained, if you truly want to bid farewell to the toxic habit of procrastination, you also have to learn how to give things time so that they can unfold in their own way.
+
+If you keep rushing at things, success will remain a farfetched dream.
+
+far-fatched
+ : 억지로 갖다 붙인, 당치 않은, 억지의
+
+The more you spend your time on this earth, the more you will realize that thinking realistically means that understanding the fact that success is not going to come to you immediately.
+
+Similarly, if you have been giving an effort to overcome procrastination for a long time and have not got any positive results, it doesn’t mean you have to give up.
+
+If you want to form a habit and forget about the old ones, you cannot be so unreasonable about the results.
+
+Your habit of procrastination is there for ages, and it’s not going to vanish into thin air just like that.
+
+So, you need dedication and patience and you are definitely going to beat this problem.
+
+dedication
+ : 헌신, 노력
+
 [Step-5]
+
+#### Build Your Self-Belief
+
+self-belif
+ : 자기 신뢰
 
 [Step-6]
 
