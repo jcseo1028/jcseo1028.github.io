@@ -1,9 +1,9 @@
 ---
 layout: posts
 comments: true
-title : " 2024.07.16 OPCUA 노드 추가 방법 "
-categories: Diary
-tags: [ 자기 개발 ]
+title : " 2024-07-16 OPCUA 노드 추가 방법 "
+categories: ETC
+tags: [ GPT ]
 published: false
 ---
 
