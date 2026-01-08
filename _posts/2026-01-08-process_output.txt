@@ -1,0 +1,87 @@
+============================================================
+GPU/CUDA Information
+============================================================
+
+OpenCV Version: 4.10.0
+CUDA Enabled Device Count: 1
+
+CUDA Device 0:
+  - Compute Capability: 8.7
+  - Total Memory: 7.44 GB
+  - Free Memory: 4.60 GB
+
+✓ GPU acceleration is ENABLED
+============================================================
+
+============================================================
+Example: Processing Real Images from images/ folder
+============================================================
+
+Found 3 image set(s): ['InputImage1', 'Inputimage2', 'Inputimage5_crop']
+
+============================================================
+Processing: InputImage1
+============================================================
+
+Loading images from InputImage1/...
+   ✓ Loaded 1.png: (5120, 5120, 3)
+   ✓ Loaded 2.png: (5120, 5120, 3)
+   ✓ Loaded 3.png: (5120, 5120, 3)
+   ✓ Loaded 4.png: (5120, 5120, 3)
+   ✓ Loaded 5.png: (5120, 5120, 3)
+   ✓ Loading time: 0.980 seconds (980.1 ms)
+
+Processing InputImage1 with PhotometricStereo...
+
+   ✓ InputImage1 processing complete!
+   ├─ Loading time:    0.980 seconds (980.1 ms)
+   ├─ Processing time: 5.121 seconds (5121.2 ms)
+   ├─ Saving time:     14.943 seconds (14943.1 ms)
+   └─ Total time:      21.044 seconds (21044.3 ms)
+   ✓ Results saved to: ./output/InputImage1/
+
+============================================================
+Processing: Inputimage2
+============================================================
+
+Loading images from Inputimage2/...
+   ✓ Loaded 1.bmp: (3000, 4096, 3)
+   ✓ Loaded 2.bmp: (3000, 4096, 3)
+   ✓ Loaded 3.bmp: (3000, 4096, 3)
+   ✓ Loaded 4.bmp: (3000, 4096, 3)
+   ✓ Loaded 5.bmp: (3000, 4096, 3)
+   ✓ Loading time: 0.260 seconds (259.6 ms)
+
+Processing Inputimage2 with PhotometricStereo...
+
+   ✓ Inputimage2 processing complete!
+   ├─ Loading time:    0.260 seconds (259.6 ms)
+   ├─ Processing time: 2.294 seconds (2294.3 ms)
+   ├─ Saving time:     4.499 seconds (4499.2 ms)
+   └─ Total time:      7.053 seconds (7053.1 ms)
+   ✓ Results saved to: ./output/Inputimage2/
+
+============================================================
+Processing: Inputimage5_crop
+============================================================
+
+Loading images from Inputimage5_crop/...
+   ✓ Loaded 1.bmp: (1180, 5120, 3)
+   ✓ Loaded 2.bmp: (1180, 5120, 3)
+   ✓ Loaded 3.bmp: (1180, 5120, 3)
+   ✓ Loaded 4.bmp: (1180, 5120, 3)
+   ✓ Loaded 5.bmp: (1180, 5120, 3)
+   ✓ Loading time: 0.092 seconds (92.2 ms)
+
+Processing Inputimage5_crop with PhotometricStereo...
+
+   ✓ Inputimage5_crop processing complete!
+   ├─ Loading time:    0.092 seconds (92.2 ms)
+   ├─ Processing time: 1.225 seconds (1224.9 ms)
+   ├─ Saving time:     3.551 seconds (3551.1 ms)
+   └─ Total time:      4.868 seconds (4868.2 ms)
+   ✓ Results saved to: ./output/Inputimage5_crop/
+
+============================================================
+All image sets processed!
+============================================================
