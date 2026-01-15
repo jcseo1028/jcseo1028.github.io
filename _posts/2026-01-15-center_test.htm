@@ -1,0 +1,452 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>사각형 중심점 시뮬레이터 (정점 평균 vs a,b 교차점)</title>
+  <style>
+    :root { color-scheme: light; }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, "Noto Sans KR", sans-serif;
+      background: #0b1020;
+      color: #e7eaf2;
+      display: grid;
+      grid-template-columns: 1fr 360px;
+      gap: 0;
+      height: 100vh;
+      overflow: hidden;
+    }
+    #left {
+      position: relative;
+      height: 100vh;
+    }
+    canvas {
+      display: block;
+      width: 100%;
+      height: 100%;
+      background: radial-gradient(circle at 20% 10%, #18224a 0%, #0b1020 55%, #070a14 100%);
+      cursor: crosshair;
+    }
+    #panel {
+      height: 100vh;
+      padding: 16px;
+      box-sizing: border-box;
+      border-left: 1px solid rgba(255,255,255,0.12);
+      background: rgba(255,255,255,0.03);
+      overflow: auto;
+    }
+    h1 {
+      font-size: 16px;
+      margin: 0 0 10px 0;
+      font-weight: 700;
+      letter-spacing: 0.2px;
+    }
+    .hint {
+      font-size: 12px;
+      color: rgba(231,234,242,0.75);
+      line-height: 1.45;
+      margin-bottom: 12px;
+    }
+    .row {
+      display: flex;
+      gap: 10px;
+      margin: 10px 0;
+      flex-wrap: wrap;
+    }
+    button, select {
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.18);
+      color: #e7eaf2;
+      padding: 8px 10px;
+      border-radius: 10px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    button:hover { background: rgba(255,255,255,0.12); }
+    button:active { transform: translateY(1px); }
+    .kv {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 12px;
+      line-height: 1.45;
+      white-space: pre-wrap;
+      background: rgba(0,0,0,0.25);
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 12px;
+      padding: 10px;
+    }
+    .tag {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 999px;
+      font-size: 11px;
+      border: 1px solid rgba(255,255,255,0.18);
+      background: rgba(255,255,255,0.06);
+      margin-right: 6px;
+      margin-bottom: 6px;
+    }
+    .legend {
+      margin: 8px 0 12px;
+    }
+    .legend .tag { user-select: none; }
+  </style>
+</head>
+<body>
+  <div id="left">
+    <canvas id="c"></canvas>
+  </div>
+  <div id="panel">
+    <h1>사각형 중심점 시뮬레이터</h1>
+    <div class="hint">
+      - 점(P1~P4)을 드래그해서 이동하세요.<br>
+      - 폴리곤은 P1→P2→P3→P4 순으로 연결됩니다.<br>
+      - <b>정점 평균점(Cv)</b>과 <b>a,b 교차점(Cab)</b>이 동일함을 실시간으로 확인합니다.
+    </div>
+
+    <div class="legend">
+      <span class="tag">폴리곤(흰선)</span>
+      <span class="tag">a(상/하 중점 연결, 청록)</span>
+      <span class="tag">b(좌/우 중점 연결, 보라)</span>
+      <span class="tag">Cv 정점 평균(노랑)</span>
+      <span class="tag">Cab 교차점(주황)</span>
+    </div>
+
+    <div class="row">
+      <button id="btnReset">초기화</button>
+      <button id="btnRandom">랜덤 배치</button>
+      <button id="btnConvex">볼록 형태 예시</button>
+      <button id="btnConcave">오목 형태 예시</button>
+    </div>
+
+    <div class="row">
+      <label style="display:flex; align-items:center; gap:8px; font-size:12px; color:rgba(231,234,242,0.8);">
+        교차점 계산:
+        <select id="selIntersect">
+          <option value="lines" selected>직선(a,b) 교차</option>
+          <option value="segments">선분(a,b) 교차(구간 내)</option>
+        </select>
+      </label>
+    </div>
+
+    <div id="log" class="kv"></div>
+  </div>
+
+<script>
+(() => {
+  const canvas = document.getElementById('c');
+  const ctx = canvas.getContext('2d', { alpha: true });
+
+  // ---- Utilities ----
+  const DPR = () => Math.max(1, Math.floor(window.devicePixelRatio || 1));
+  function resize() {
+    const dpr = DPR();
+    const rect = canvas.getBoundingClientRect();
+    canvas.width  = Math.round(rect.width * dpr);
+    canvas.height = Math.round(rect.height * dpr);
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+  }
+
+  function v(x, y) { return { x, y }; }
+  function add(a, b) { return v(a.x + b.x, a.y + b.y); }
+  function sub(a, b) { return v(a.x - b.x, a.y - b.y); }
+  function mul(a, s) { return v(a.x * s, a.y * s); }
+  function dist(a, b) {
+    const dx = a.x - b.x, dy = a.y - b.y;
+    return Math.hypot(dx, dy);
+  }
+  function mid(a, b) { return mul(add(a, b), 0.5); }
+
+  // Line intersection: p + t r, q + u s
+  function lineIntersection(p, r, q, s) {
+    // returns {pt, t, u, parallel}
+    const rxs = r.x * s.y - r.y * s.x;
+    const q_p = sub(q, p);
+    const qpxr = q_p.x * r.y - q_p.y * r.x;
+
+    if (Math.abs(rxs) < 1e-12) {
+      return { pt: null, t: NaN, u: NaN, parallel: true, colinear: Math.abs(qpxr) < 1e-12 };
+    }
+    const t = (q_p.x * s.y - q_p.y * s.x) / rxs;
+    const u = (q_p.x * r.y - q_p.y * r.x) / rxs;
+    return { pt: add(p, mul(r, t)), t, u, parallel: false, colinear: false };
+  }
+
+  function fmt(n) { return Number.isFinite(n) ? n.toFixed(3) : String(n); }
+
+  // ---- Points (P1..P4) ----
+  let P = [v(180, 140), v(520, 170), v(500, 420), v(200, 460)];
+
+  function setPreset(name) {
+    const rect = canvas.getBoundingClientRect();
+    const w = rect.width, h = rect.height;
+    const cx = w * 0.45, cy = h * 0.52;
+
+    if (name === 'reset') {
+      P = [v(cx - 220, cy - 160), v(cx + 180, cy - 120), v(cx + 160, cy + 150), v(cx - 200, cy + 180)];
+    } else if (name === 'random') {
+      // Random within bounds but spread out
+      const pad = 60;
+      P = Array.from({length: 4}, () => v(
+        pad + Math.random() * (w - 2*pad),
+        pad + Math.random() * (h - 2*pad)
+      ));
+    } else if (name === 'convex') {
+      // A gentle rotated rectangle-ish shape
+      P = [v(cx - 240, cy - 120), v(cx + 160, cy - 180), v(cx + 240, cy + 120), v(cx - 140, cy + 180)];
+    } else if (name === 'concave') {
+      // Concave quad (self-indent)
+      P = [v(cx - 240, cy - 160), v(cx + 240, cy - 160), v(cx - 20, cy - 20), v(cx - 260, cy + 200)];
+    }
+  }
+
+  // ---- Interaction (drag points) ----
+  let dragging = { idx: -1, offset: v(0,0) };
+  const R = 10; // handle radius
+  function getMouse(e) {
+    const rect = canvas.getBoundingClientRect();
+    return v(e.clientX - rect.left, e.clientY - rect.top);
+  }
+  function hitTest(m) {
+    for (let i = 0; i < 4; i++) {
+      if (dist(m, P[i]) <= R + 4) return i;
+    }
+    return -1;
+  }
+
+  canvas.addEventListener('mousedown', (e) => {
+    const m = getMouse(e);
+    const idx = hitTest(m);
+    if (idx >= 0) {
+      dragging.idx = idx;
+      dragging.offset = sub(P[idx], m);
+      canvas.style.cursor = 'grabbing';
+    }
+  });
+  window.addEventListener('mousemove', (e) => {
+    const rect = canvas.getBoundingClientRect();
+    const inside = e.clientX >= rect.left && e.clientX <= rect.right && e.clientY >= rect.top && e.clientY <= rect.bottom;
+    if (!inside && dragging.idx < 0) return;
+
+    const m = getMouse(e);
+    if (dragging.idx >= 0) {
+      P[dragging.idx] = add(m, dragging.offset);
+    } else {
+      canvas.style.cursor = (hitTest(m) >= 0) ? 'grab' : 'crosshair';
+    }
+  });
+  window.addEventListener('mouseup', () => {
+    dragging.idx = -1;
+    canvas.style.cursor = 'crosshair';
+  });
+
+  // ---- Buttons ----
+  document.getElementById('btnReset').addEventListener('click', () => setPreset('reset'));
+  document.getElementById('btnRandom').addEventListener('click', () => setPreset('random'));
+  document.getElementById('btnConvex').addEventListener('click', () => setPreset('convex'));
+  document.getElementById('btnConcave').addEventListener('click', () => setPreset('concave'));
+
+  const selIntersect = document.getElementById('selIntersect');
+  const logEl = document.getElementById('log');
+
+  // ---- Draw helpers ----
+  function drawPoint(pt, label, fillStyle, strokeStyle) {
+    ctx.save();
+    ctx.beginPath();
+    ctx.arc(pt.x, pt.y, R, 0, Math.PI * 2);
+    ctx.fillStyle = fillStyle;
+    ctx.fill();
+    ctx.lineWidth = 2;
+    ctx.strokeStyle = strokeStyle;
+    ctx.stroke();
+
+    ctx.font = '12px ui-monospace, Menlo, Consolas, monospace';
+    ctx.fillStyle = 'rgba(231,234,242,0.95)';
+    ctx.fillText(label, pt.x + 12, pt.y - 12);
+    ctx.restore();
+  }
+
+  function drawCross(pt, size, color, lw=2) {
+    ctx.save();
+    ctx.strokeStyle = color;
+    ctx.lineWidth = lw;
+    ctx.beginPath();
+    ctx.moveTo(pt.x - size, pt.y);
+    ctx.lineTo(pt.x + size, pt.y);
+    ctx.moveTo(pt.x, pt.y - size);
+    ctx.lineTo(pt.x, pt.y + size);
+    ctx.stroke();
+    ctx.restore();
+  }
+
+  function drawLine(p1, p2, color, width=2, dashed=false) {
+    ctx.save();
+    ctx.strokeStyle = color;
+    ctx.lineWidth = width;
+    if (dashed) ctx.setLineDash([6, 6]);
+    ctx.beginPath();
+    ctx.moveTo(p1.x, p1.y);
+    ctx.lineTo(p2.x, p2.y);
+    ctx.stroke();
+    ctx.restore();
+  }
+
+  function drawPolygon(points, color, width=2) {
+    ctx.save();
+    ctx.strokeStyle = color;
+    ctx.lineWidth = width;
+    ctx.beginPath();
+    ctx.moveTo(points[0].x, points[0].y);
+    for (let i = 1; i < points.length; i++) ctx.lineTo(points[i].x, points[i].y);
+    ctx.closePath();
+    ctx.stroke();
+    ctx.restore();
+  }
+
+  function drawLabelBox(x, y, text) {
+    ctx.save();
+    ctx.font = '12px ui-monospace, Menlo, Consolas, monospace';
+    const pad = 6;
+    const w = ctx.measureText(text).width + pad*2;
+    const h = 18;
+    ctx.fillStyle = 'rgba(0,0,0,0.35)';
+    ctx.strokeStyle = 'rgba(255,255,255,0.15)';
+    ctx.lineWidth = 1;
+    ctx.beginPath();
+    ctx.roundRect(x, y, w, h, 8);
+    ctx.fill();
+    ctx.stroke();
+    ctx.fillStyle = 'rgba(231,234,242,0.95)';
+    ctx.fillText(text, x + pad, y + 13);
+    ctx.restore();
+  }
+
+  // Polyfill-ish for roundRect on older browsers
+  if (!CanvasRenderingContext2D.prototype.roundRect) {
+    CanvasRenderingContext2D.prototype.roundRect = function(x, y, w, h, r) {
+      const rr = Math.min(r, w/2, h/2);
+      this.moveTo(x + rr, y);
+      this.arcTo(x + w, y, x + w, y + h, rr);
+      this.arcTo(x + w, y + h, x, y + h, rr);
+      this.arcTo(x, y + h, x, y, rr);
+      this.arcTo(x, y, x + w, y, rr);
+      this.closePath();
+    };
+  }
+
+  // ---- Main loop ----
+  function tick() {
+    resize();
+    const rect = canvas.getBoundingClientRect();
+    ctx.clearRect(0, 0, rect.width, rect.height);
+
+    // Define edges based on P1..P4 order
+    const [P1, P2, P3, P4] = P;
+
+    // Midpoints
+    const M12 = mid(P1, P2);
+    const M34 = mid(P3, P4);
+    const M23 = mid(P2, P3);
+    const M41 = mid(P4, P1);
+
+    // Lines a and b as segment endpoints
+    const A1 = M12, A2 = M34;  // a: top-mid to bottom-mid
+    const B1 = M23, B2 = M41;  // b: right-mid to left-mid
+
+    // Vertex average point
+    const Cv = mul(add(add(P1, P2), add(P3, P4)), 0.25);
+
+    // Compute intersection of a and b
+    const r = sub(A2, A1);
+    const s = sub(B2, B1);
+    const inter = lineIntersection(A1, r, B1, s);
+
+    let Cab = inter.pt; // intersection point of lines
+    let interOk = !inter.parallel;
+
+    // If user wants segment intersection, require t,u in [0,1]
+    const mode = selIntersect.value;
+    let segOk = false;
+    if (interOk) {
+      segOk = (inter.t >= 0 && inter.t <= 1 && inter.u >= 0 && inter.u <= 1);
+      if (mode === 'segments' && !segOk) Cab = null;
+    }
+
+    // ---- Draw polygon and points ----
+    drawPolygon(P, 'rgba(255,255,255,0.75)', 2);
+
+    // Draw midpoints
+    drawCross(M12, 6, 'rgba(108, 255, 225, 0.85)', 2);
+    drawCross(M34, 6, 'rgba(108, 255, 225, 0.85)', 2);
+    drawCross(M23, 6, 'rgba(205, 146, 255, 0.85)', 2);
+    drawCross(M41, 6, 'rgba(205, 146, 255, 0.85)', 2);
+
+    // Draw a and b segments
+    drawLine(A1, A2, 'rgba(108, 255, 225, 0.85)', 3, false); // a
+    drawLine(B1, B2, 'rgba(205, 146, 255, 0.85)', 3, false); // b
+
+    // Draw Cv and Cab
+    drawCross(Cv, 9, 'rgba(255, 232, 102, 0.95)', 3);
+    drawLabelBox(Cv.x + 10, Cv.y + 10, `Cv (avg) = (${fmt(Cv.x)}, ${fmt(Cv.y)})`);
+
+    if (Cab) {
+      drawCross(Cab, 11, 'rgba(255, 156, 84, 0.95)', 3);
+      drawLabelBox(Cab.x + 10, Cab.y - 26, `Cab (a∩b) = (${fmt(Cab.x)}, ${fmt(Cab.y)})`);
+    } else {
+      // show note if no segment intersection
+      if (mode === 'segments' && interOk && !segOk) {
+        drawLabelBox(12, 12, `선분 교차 없음(직선 교차는 존재). "직선(a,b) 교차"로 바꾸면 표시됩니다.`);
+      } else if (!interOk) {
+        drawLabelBox(12, 12, `a와 b가 평행(또는 거의 평행)하여 교차점이 불안정합니다.`);
+      }
+    }
+
+    // Draw draggable points
+    drawPoint(P1, 'P1', 'rgba(255,255,255,0.10)', 'rgba(255,255,255,0.70)');
+    drawPoint(P2, 'P2', 'rgba(255,255,255,0.10)', 'rgba(255,255,255,0.70)');
+    drawPoint(P3, 'P3', 'rgba(255,255,255,0.10)', 'rgba(255,255,255,0.70)');
+    drawPoint(P4, 'P4', 'rgba(255,255,255,0.10)', 'rgba(255,255,255,0.70)');
+
+    // ---- Logs ----
+    const lines = [];
+    lines.push(`Points (P1..P4)`);
+    lines.push(`P1 = (${fmt(P1.x)}, ${fmt(P1.y)})`);
+    lines.push(`P2 = (${fmt(P2.x)}, ${fmt(P2.y)})`);
+    lines.push(`P3 = (${fmt(P3.x)}, ${fmt(P3.y)})`);
+    lines.push(`P4 = (${fmt(P4.x)}, ${fmt(P4.y)})`);
+    lines.push(``);
+    lines.push(`Midpoints`);
+    lines.push(`M12 (top mid)    = (${fmt(M12.x)}, ${fmt(M12.y)})`);
+    lines.push(`M34 (bottom mid) = (${fmt(M34.x)}, ${fmt(M34.y)})`);
+    lines.push(`M23 (right mid)  = (${fmt(M23.x)}, ${fmt(M23.y)})`);
+    lines.push(`M41 (left mid)   = (${fmt(M41.x)}, ${fmt(M41.y)})`);
+    lines.push(``);
+    lines.push(`Centers`);
+    lines.push(`Cv  = (P1+P2+P3+P4)/4 = (${fmt(Cv.x)}, ${fmt(Cv.y)})`);
+
+    if (interOk) {
+      lines.push(`Cab (line intersection) = (${fmt(inter.pt.x)}, ${fmt(inter.pt.y)})`);
+      lines.push(`Intersection params: t=${fmt(inter.t)} (on a), u=${fmt(inter.u)} (on b)`);
+      lines.push(`Segment intersection valid? ${segOk ? 'YES' : 'NO'}`);
+      const d = dist(Cv, inter.pt);
+      lines.push(``);
+      lines.push(`Delta`);
+      lines.push(`|Cv - Cab| = ${d.toExponential(6)} (pixels)`);
+      lines.push(`(부동소수점 오차 수준이면 사실상 동일)`);
+    } else {
+      lines.push(`Cab: parallel/unstable (no reliable intersection)`);
+    }
+
+    logEl.textContent = lines.join('\n');
+
+    requestAnimationFrame(tick);
+  }
+
+  // init
+  window.addEventListener('resize', () => resize());
+  setPreset('reset');
+  resize();
+  requestAnimationFrame(tick);
+})();
+</script>
+</body>
+</html>
